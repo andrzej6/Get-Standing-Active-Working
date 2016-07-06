@@ -34,7 +34,7 @@ class SendPopupConf extends Job implements ShouldQueue
         $data = $this->data;
         $email =$data['email'];
         Mail::send('emails.gbs.popup', $data, function ($message) use ($email) {
-            $message->from('info@activeworking.com', 'Andrzej');
+            $message->from('info@getbritainstanding.org', 'Andrzej');
             $message->to($email);
         });
     }
