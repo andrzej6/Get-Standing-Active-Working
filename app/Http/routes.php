@@ -22,23 +22,28 @@
     //   return view('welcome');
     //});
 
-    Route::auth();
-    Route::get('/home', 'HomeController@index');
 
-    Route::get('/popup_confirm','GbsPopupController@confirm');
+    Route::group(['domain' => 'getnzstanding.net'], function()
+    {
 
+        Route::auth();
+        Route::get('/home', 'HomeController@index');
 
-    Route::get('/{page?}', 'GbsController@index');
-
-
-    Route::post('popup_reg', 'GbsPopupController@store');
-    Route::post('gbs_reg', 'GbsController@store');
-    // Route::get('vue', 'GbsController@vue');
+    });
 
 
+    Route::group(['domain' => 'getbritainstanding.org'], function()
+    {
+        Route::auth();
+
+        Route::get('/popup_confirm','GbsPopupController@confirm');
+
+        Route::get('/{page?}', 'GbsController@index');
+
+        Route::post('popup_reg', 'GbsPopupController@store');
+        Route::post('gbs_reg', 'GbsController@store');
 
 
-
-
+    });
 
 
