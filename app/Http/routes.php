@@ -23,7 +23,7 @@
     //});
 
 
-    Route::group(['domain' => 'getnzstanding.net'], function()
+    Route::group(['domain' => 'getbritainstanding.org'], function()
     {
 
         Route::auth();
@@ -32,7 +32,7 @@
     });
 
 
-    Route::group(['domain' => 'getbritainstanding.org'], function()
+    Route::group(['domain' => 'getnzstanding.net'], function()
     {
         Route::auth();
 
