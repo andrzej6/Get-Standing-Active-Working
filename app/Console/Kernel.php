@@ -25,6 +25,6 @@ class Kernel extends ConsoleKernel
     protected function schedule(Schedule $schedule)
     {
         //$schedule->command('php artisan queue:listen database')->dailyAt('16:55');
-        $schedule->command('php artisan queue:work --daemon --tries=3');
+        $schedule->command('php artisan queue:work --daemon --tries=3')->everyFiveMinutes();
     }
 }
