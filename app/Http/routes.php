@@ -32,7 +32,7 @@
         Route::get('/jobs', function () {
 
 
-            $exitCode = Artisan::call('queue:listen', array('--force' => true));
+            $exitCode = Artisan::call('queue:listen');
 
 
             return $exitCode;
