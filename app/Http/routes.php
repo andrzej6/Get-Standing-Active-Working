@@ -10,7 +10,7 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-use Artisan;
+
 
 //below when accessing route home we go to HomeController but in
 //construct there we have $this->middleware('auth'); so we are redirected to login
@@ -29,16 +29,10 @@ use Artisan;
         Route::auth();
         Route::get('/home', 'HomeController@index');
 
-        Route::get('/jobs', function () {
+        Route::get('/jobs', 'HomeController@jobs');
 
 
-            $exitCode = Artisan::call('queue:listen');
 
-
-            return $exitCode;
-
-            //
-        });
 
 
     });

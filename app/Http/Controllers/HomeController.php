@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests;
 use Illuminate\Http\Request;
+use Artisan;
 
 class HomeController extends Controller
 {
@@ -33,4 +34,15 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+
+    public function jobs()
+    {
+        Artisan::call('queue:listen');
+        return 'passed';
+    }
+
+
+
+
 }
