@@ -10,7 +10,7 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
+use Artisan;
 
 //below when accessing route home we go to HomeController but in
 //construct there we have $this->middleware('auth'); so we are redirected to login
