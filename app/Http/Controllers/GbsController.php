@@ -32,7 +32,7 @@ class GbsController extends Controller
 
             if ($page == 'media') {
                 //$articles =DB::table('articles')->where('country','LIKE','1%')->orderby('date_posted','desc')->get();
-                $articles = Article::where('country', 'LIKE', '1%')->orderby('date_posted', 'desc')->paginate(2);
+                $articles = Article::where('country', 'LIKE', '1%')->orderby('date_posted', 'desc')->paginate(3);
 
                 return view('gbs.' . $page, compact('mainMenuOutput', 'trail1', 'trail2', 'articles'));
             } else {

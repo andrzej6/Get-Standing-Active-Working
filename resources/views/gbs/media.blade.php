@@ -42,11 +42,21 @@
                 </div>
 
 
-                <div  class="mediaright">
-                    <a href="{{$article->alink}}"
-                       target="_blank" class="shortcode_button btn_small btn_type6">
-                        Read more</a>
-                </div>
+                @if ($article->audio ==1 )
+                    <div  class="mediaright player">
+                        <audio controls >
+                            <source src="img/general/audio/{{$article->alink}}.mp3" type="audio/mpeg">
+                            <embed height="50" width="100" src="img/general/audio/{{$article->alink}}.mp3">
+                        </audio>
+                    </div>
+
+                @else
+                    <div  class="mediaright">
+                        <a href="{{$article->alink}}"
+                           target="_blank" class="shortcode_button btn_small btn_type6">
+                            Read more</a>
+                    </div>
+                @endif
 
                 <div class="clear"></div>
             </div>
