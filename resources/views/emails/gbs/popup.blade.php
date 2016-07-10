@@ -4,12 +4,12 @@
 <div style="color:black;">
 
         <a href="#" style="color:#009999;">
-            <img src="img/general/emails/gbs.png" width="100"/></a>
+            <img src="{{ url('/') }}/public/img/general/emails/gbs.png" width="100"/></a>
 
         &nbsp;&nbsp;&nbsp;
 
         <a href="#" style="color:#009999;">
-            <img src="img/general/emails/activeworking.jpg" width="100"/></a>
+            <img src="/img/general/emails/activeworking.jpg" width="100"/></a>
         <br/><br/>
         Thank you for signing up for our e-newsletter.<br/><br/>
 
