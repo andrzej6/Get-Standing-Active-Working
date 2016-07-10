@@ -25,11 +25,12 @@
 
     Route::group(['domain' => 'getbritainstanding.org'], function()
     {
+        Route::get('/jobs', 'HomeController@jobs');
 
         Route::auth();
         Route::get('/home', 'HomeController@index');
 
-        Route::get('/jobs', 'HomeController@jobs');
+
 
 
 
