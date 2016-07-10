@@ -38,7 +38,7 @@ class HomeController extends Controller
 
     public function jobs()
     {
-        Artisan::call('queue:work --daemon --tries=3',['--force' => true,]);
+        Artisan::call('queue:restart');
         return 'passed';
     }
 

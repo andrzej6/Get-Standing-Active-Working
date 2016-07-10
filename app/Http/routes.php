@@ -29,14 +29,23 @@
 
         Route::auth();
         Route::get('/home', 'HomeController@index');
-
-
-
-
-
-
-
     });
+
+
+Route::group(['domain' => '127.0.0.1'], function()
+    {
+        Route::get('/jobs', 'HomeController@jobs');
+
+        Route::auth();
+
+        Route::get('/popup_confirm','GbsPopupController@confirm');
+
+        Route::get('/{page?}', 'GbsController@index');
+
+        Route::post('popup_reg', 'GbsPopupController@store');
+        Route::post('gbs_reg', 'GbsController@store');
+    });
+
 
 
     Route::group(['domain' => 'getnzstanding.net'], function()
