@@ -25,8 +25,6 @@
 
     Route::group(['domain' => 'getbritainstanding.org'], function()
     {
-        Route::get('/jobs', 'HomeController@jobs');
-
         Route::auth();
         Route::get('/home', 'HomeController@index');
     });
@@ -51,6 +49,7 @@ Route::group(['domain' => '127.0.0.1'], function()
     Route::group(['domain' => 'getnzstanding.net'], function()
     {
         Route::auth();
+        Route::get('/jobs', 'HomeController@jobs');
 
         Route::get('/popup_confirm','GbsPopupController@confirm');
 
