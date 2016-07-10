@@ -4,7 +4,7 @@
 <div style="color:black;">
 
         <a href="#" style="color:#009999;">
-            <img src="{{ url('/') }}/public/img/general/emails/gbs.png" width="100"/></a>
+            <img src="{{ url('/') }}/img/general/emails/gbs.png" width="100"/></a>
 
         &nbsp;&nbsp;&nbsp;
 
