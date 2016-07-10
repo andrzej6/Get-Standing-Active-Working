@@ -3,39 +3,39 @@
     <strong>"Official Supporters"</strong>: <br/>
 
     <a href="http://sit-stand.com/" style="color:#009999;">
-        <img src="img/general/emails/supporters/sit-stand.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/sit-stand.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <a href="http://www.ergotron.com/" style="color:#009999;">
-        <img src="img/general/emails/supporters/ergotron.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/ergotron.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <a href="https://getbritainstanding.org/littlenudge.php" style="color:#009999;">
-        <img src="img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <a href="https://www.gymflex.co.uk/" style="color:#009999;">
-        <img src="img/general/emails/supporters/gymflex.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/gymflex.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <div style="clear:both"></div>
 
     <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-        <img src="img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
     <a href="https://bhwa.org.uk/" style="color:#009999;">
-        <img src="img/general/emails/supporters/bhwa1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/bhwa1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
     <a href="http://www.linak.co.uk/" style="color:#009999;">
-        <img src="img/general/emails/supporters/linak.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/linak.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
     <a href="http://imprintmats.com/" style="color:#009999;">
-        <img src="img/general/emails/supporters/imprint.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/imprint.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
     <div style="clear:both"></div>
 
     <a href="https://sit-stand.com/97-updown-deskpro" style="color:#009999;">
-        <img src="img/general/emails/supporters/updown.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+        <img src="{{ url('/') }}img/general/emails/supporters/updown.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
     <br/>
 
 
