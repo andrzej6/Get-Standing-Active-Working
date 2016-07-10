@@ -30,7 +30,7 @@
         Route::get('/home', 'HomeController@index');
 
         Route::get('/jobs', function () {
-            $exitCode = Artisan::call('queue:work --daemon --tries=3', [
+            $exitCode = Artisan::call('php artisan queue:work --daemon --tries=3', [
                 'user' => 1, '--queue' => 'default'
             ]);
             return $exitCode;
