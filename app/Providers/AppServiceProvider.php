@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider as ServiceProvider;
 use App\Article;
+use Illuminate\Http\Request;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -12,10 +13,18 @@ class AppServiceProvider extends ServiceProvider
      *
      * @return void
      */
-    public function boot()
+    public function boot(Request $request)
     {
+        switch ($request->server("HTTP_HOST")) {
+            case '127.0.0.1':
+                $featured_art = Article::where('country', 'LIKE', '%2%')->where('featured', 'LIKE', '%2%')->orderby('date_posted', 'desc')->take(2)->get();
+                break;
+            default:
+                $featured_art = Article::where('country', 'LIKE', '1%')->where('featured', 'LIKE', '1%')->orderby('date_posted', 'desc')->take(2)->get();
+                break;
+        }
+
         /* articles for prefooter */
-        $featured_art = Article::where('country', 'LIKE', '1%')->where('featured', 'LIKE','1%')->orderby('date_posted', 'desc')->take(2)->get();
         view()->share('featured_art', $featured_art);
     }
 

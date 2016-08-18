@@ -16,6 +16,7 @@ class CreateGbsPopupsTable extends Migration
         Schema::create('gbs_popups', function (Blueprint $table) {
             $table->increments('id');
             $table->string('email')->unique();
+            $table->string('country', 10)->default('gb');
             $table->string('cust_key', 100)->nullable();
             $table->boolean('active')->default(false);
             $table->timestamps();

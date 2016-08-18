@@ -21,7 +21,7 @@ class CreteMediaArticles extends Migration
             $table->boolean('audio')->default(false);
             $table->string('alink',500);
             $table->string('country',10);
-            $table->boolean('featured')->default(false);
+            $table->string('featured',10);
             $table->timestamps();
         });
     }

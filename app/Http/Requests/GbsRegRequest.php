@@ -24,7 +24,7 @@ class GbsRegRequest extends Request
     public function rules()
     {
         return [
-            'regtitle'=>'required|max:5',
+            'title'=>'required|max:5',
             'fname' => 'required|max:100',
             'lname' => 'required|max:100',
             'email' => 'email|required',
@@ -47,7 +47,7 @@ class GbsRegRequest extends Request
     public function messages()
     {
         return [
-            'regtitle.required' => 'Please select your Title',
+            'title.required' => 'Please select your Title',
 
             'fname.required' => 'First Name field is required',
             'fname.max:100' => 'First Name may not be greater than 100 characters.',

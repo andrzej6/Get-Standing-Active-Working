@@ -43,7 +43,7 @@ public function store (Request $request){
       {
         $data =['email'=>$email, 'token' => $token];
         Log::info("Request cycle with Queues started -popup");
-        $this->dispatch(new SendPopupConf($data));
+        $this->dispatch(new AuSendPopupConf($data));
         Log::info("Request cycle with Queues started -finished");
         print "";
       }

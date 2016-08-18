@@ -1,0 +1,392 @@
+:root {
+    /* below 2 green -australia */
+    --main-h4-color: #009800;
+    --main-h1-color: #009800;
+
+
+    /* below aus yellow */
+    --gbs-blue: #ebb034;
+    --aw-blue:#3f5ca0;
+    --nav-grey: #b2b2b2;
+    --gbs-darkblue:#302E58;
+
+    /* below green -aus */
+    --red-color: #009800;
+    --black-color:#3d3d3d;
+
+    --home-block-bg: #ececec;
+
+    /* below aus yellow - same color as lightgreen in calculator.js*/
+    --calc-slider-bg: #ebb034;
+    --calc-buttons-bg:#204aa0;
+    --media-lightgreen: #88c800;
+    --media-readmore:#ff8d00;
+}
+
+
+/* below correct social icons in footer */
+.footer_tools .ico_social-facebook {
+    background:url(../img/icons/au/ico_footer_facebook.png) no-repeat center;
+}
+
+.footer_tools .ico_social-twitter {
+    background:url(../img/icons/au/ico_footer_twitter.png) no-repeat center;
+}
+
+.footer_tools .ico_social-flickr {
+    background:url(../img/icons/au/ico_footer_linkedin.png) no-repeat center;
+}
+
+footer{
+    background-color: var(--gbs-blue);
+}
+
+/* border of health risks -yellow */
+.shortcode_toggles_item_title {
+    border-color: var(--gbs-blue)!important;
+}
+
+
+
+
+
+
+h1, h2, h3, h4, h5, h6 {
+    color:var(--main-h1-color);
+}
+
+a:hover {
+    color:var(--gbs-blue);
+}
+
+
+/* ACTIVE WORKING COLOURS
+ h1 header in AW section,
+ gbs-expert normally red, but in AW section
+ bluetitle -normally gbs blue, but in AW section*/
+.activeworking,
+h1.activeworking,
+.gbs-expert.activeworking,
+.gbs-expert.activeworking a,
+.bluetitle.activeworking,
+.link-line.activeworking a,
+.gb-blue.activeworking,
+.normalblue.activeworking,
+.keyinfolblue.activeworking
+{
+    color: var(--aw-blue);
+}
+
+
+/* GBS COLORS */
+.expert-blue,.blueident, .keyinfolblue,
+.blueident a, .expert-blue a,
+.blueident a:hover,
+.shortcode_toggles_item_body .bluetext,
+.preq, .propq,  .profq,
+.gb-partners-title a, .gb-partner-titlelink a,
+.customnav a:hover
+{
+    color: var(--gbs-blue);
+}
+
+/* LIST FIX*/
+.contentarea ul li::before {
+    content: '';
+}
+
+/*CUSTOM NAVIGATION*/
+.customnav, .customnav a {
+    color: var(--nav-grey);
+}
+
+.contentarea .customnav a {
+    text-decoration: none;
+}
+
+
+.link-line a,
+.gbs-expert a,
+.halfleft1 a,
+#email_hidden a
+{
+    text-decoration: underline;
+}
+
+
+/*HEADER*/
+#international {
+    position:absolute;
+    right:0px;
+    bottom:80px;
+    display:block;
+}
+
+#international img {
+    height:30px;
+    margin-left:5px;
+}
+
+.international-link:hover > img  {
+    transform:scale(1.2);
+}
+
+
+#oyf-shortcut {
+    left:265px;
+    top:-35px;
+    position:absolute;
+}
+
+#oyf-shortcut.scrolled-down {
+    display:none;
+}
+
+
+/* PREFOOTER */
+.pre_footer .span3 {text-align:center;}
+
+#textprefooter
+{
+    padding-top: 3px;
+    text-align: justify;
+}
+
+#textprefooter ul {
+    list-style: disc;
+    padding-left:30px ;
+}
+
+.recent_posts {
+    text-align: left;
+}
+
+.recent_posts_content {
+    line-height: 150%;
+}
+
+.recent-cont-top {
+    padding-top:5px;
+}
+
+
+/* FOOTER */
+.footer_wrapper .signature {
+    margin-top: 10px;
+}
+
+.footer_wrapper .signature a {
+    color: white;
+    font-size: 16px;
+}
+
+
+/* button defaults font color and hover */
+.shortcode_button.btn_type11 {
+    color:white;
+}
+
+.shortcode_button:hover {
+    background-color: var(--calc-slider-bg);
+}
+
+
+a.gbs-link, a.gbs-link:hover {
+    color: var(--gbs-blue);
+}
+
+
+/*SUBPAGES STYLES*/
+.smallwidth {
+    text-align:justify;
+    float: left;
+}
+
+/* slider related and arrows */
+.nonavarrows {
+    margin-bottom:35px;
+}
+
+/* correct subpage margins and no arrows for slider-small*/
+.slider-small {
+    margin-bottom:20px;
+}
+
+.slider-small .slider_type1 {
+    height:234px;
+}
+
+.slider-small .arrowButton .prevArrow, .slider-small .arrowButton .nextArrow {
+    display:none;
+}
+
+
+/*smallwidth picture styles*/
+a.darken {
+    display: inline-block;
+    background: black;
+    padding: 0;
+}
+
+a.darken img {
+    display: block;
+    -webkit-transition: all 0.5s linear;
+    -moz-transition: all 0.5s linear;
+    -ms-transition: all 0.5s linear;
+    -o-transition: all 0.5s linear;
+    transition: all 0.5s linear;
+}
+
+a.darken:hover img {
+    opacity: 0.7;
+}
+
+
+/*IN FEW FILES*/
+.gbs-expert {
+    color: var(--red-color);
+}
+
+.gbs-expert a {
+    color:var(--red-color);
+}
+
+/* bluetitle - titles on subpage;  */
+.bluetitle {
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 24px;
+    margin: 0 0 23px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* referen -list on research page*/
+.bluetitle,
+.referen ol li
+{
+    color: var(--gbs-blue);
+}
+
+
+/* FEW PAGES: health risks, key-info, regulations pages */
+.unorderedl ul {
+    list-style: disc;
+    padding-left:30px ;
+}
+
+
+/* PARTNERS, SUPPORTERS page  */
+.gb-partners-title {
+    font-size:140%;
+}
+
+.gb-partner-titlelink, .gb-partners-title {
+    display:inline;
+}
+
+.gb-partners-title a:hover, .gb-partner-titlelink a:hover {
+    color:grey;
+}
+
+/*  TERMS file */
+.longcond ol li {
+    padding-left: 25px;
+}
+
+
+/* PRIVACY page */
+.termsandcons ul {
+    list-style: disc;
+    margin-left:30px;
+}
+
+.termsandcons ul li {
+    padding-left: 0px;
+}
+
+.termsandcons ol li {
+    color:#3d3d3d;
+}
+
+.insidelist ul li::before {
+    counter-increment:none;
+}
+
+.insidelist ol>li {
+    margin-top:10px;
+}
+
+
+
+/* FOR BIG WIDTHS ONLY */
+@media only screen and (min-width: 760px) {
+
+    /* halfleft1, halfright1 in INDEX,
+       halfleft, halfright in SITTING PROBLEM */
+    .halfleft, .halfright {
+        width: 48%;
+    }
+
+    .halfleft1, .halfright1 {
+        width: 49%;
+    }
+
+    .halfleft1, .halfleft {
+        float: left;
+    }
+
+    .halfright1, .halfright {
+        float:right;
+    }
+}
+
+
+/* FOR SMALL/MOBILE WIDTHS ONLY */
+@media only screen and (max-width: 759px) {
+
+    /* mobile full width containers */
+    .halfleft1, .halfright1, .halfleft, .halfright {
+        width: 100%;
+    }
+
+    .halfleft, .halfright {
+        margin-bottom: 35px;
+    }
+
+    .restofsmall {
+        width:100%;
+        margin-left:0;
+    }
+
+    .restofsmall a {
+        display:none;
+    }
+
+    img.restofsmall-pic {
+        clear:none;
+        margin-bottom:20px;
+        margin-right:20px;
+        max-width:180px;
+    }
+}
+
+
+@media only screen and (min-width: 760px) {
+
+    .smallwidth {
+        width:70%;
+    }
+
+    .restofsmall {
+        width: 20%;
+        float: left;
+        margin-left: 10%;
+    }
+
+    .restofsmall-pic, .restofsmall a {
+        clear:both;
+        margin-bottom:40px;
+        display: inline-block;
+    }
+}
