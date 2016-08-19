@@ -15,7 +15,7 @@
 
 
         <strong>Please confirm your email</strong> by
-        <a href="http://127.0.0.1/laravel/public/popup_confirm?email=<?php echo $email ?>&key=<?php echo $token ?>">clicking here</a>.
+        <a href="{{ url('/') }}/popup_confirm?email=<?php echo $email ?>&key=<?php echo $token ?>">clicking here</a>.
         <br/><br/>
 
         @include('shared.gaus.email_supporters')
