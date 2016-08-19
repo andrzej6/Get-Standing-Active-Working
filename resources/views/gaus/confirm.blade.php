@@ -1,4 +1,4 @@
-@extends('layouts.gbs.basic')
+@extends('layouts.gaus.basic')
 
 @section('description')
     Email activation page.
