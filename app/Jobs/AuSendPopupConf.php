@@ -34,7 +34,7 @@ class AuSendPopupConf extends Job implements ShouldQueue
         $data = $this->data;
         $email =$data['email'];
         Mail::send('emails.gaus.popup', $data, function ($message) use ($email) {
-            $message->from('info@activeworking.com', 'Andrzej');
+            $message->from('info@activeworking.com', 'Active Working');
             $message->to($email);
             $message->subject('Thank you for signing up for GET AUSTRALIA STANDING newsletter');
         });

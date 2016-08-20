@@ -35,7 +35,7 @@ class AuSend2Emails extends Job implements ShouldQueue
         $gaus = $this->gaus;
 
         Mail::send('emails.gaus.gaus_reg', array(),function ($message) use ($gaus) {
-            $message->from('info@activeworking.com', 'Andrzej');
+            $message->from('info@activeworking.com', 'Active Working');
             $message->to($gaus->email);
             $message->subject('Thank you for your GET AUSTRALIA STANDING enquiry');
         });
@@ -44,7 +44,7 @@ class AuSend2Emails extends Job implements ShouldQueue
         $array = $gaus->toArray();
 
         Mail::send('emails.gaus.gaus_reg_notify', $array, function ($message) use ($gaus){
-            $message->from('info@activeworking.com', 'Andrzej');
+            $message->from('info@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
             $message->subject('GetAustraliaStanding.Com. Details from enquiry form');
         });
