@@ -1,0 +1,61 @@
+.gbs-supp-name {
+    display:inline-block;
+    min-width:250px;
+}
+
+.supporters-horizont {
+    display:inline-block;
+    padding:10px 10px 10px 10px;
+    background-color:#000000;
+    margin-bottom:3px;
+}
+
+.supporters-horizont a {
+    color:white;
+    padding:10px;
+}
+
+.supporters-horizont:hover {
+    background-color:white;
+}
+
+.supporters-horizont:hover a{
+    color:#000000;
+}
+
+.supporters-horizont.active {
+    background-color:#0066CB;
+}
+
+
+
+/* 3 rows logo-description-images */
+.aw-partners-text-s {
+    float:left;
+    max-width:55.5%;
+    margin-right:5px;
+}
+
+.aw-partners-pics-s img {
+    width:75px;
+    margin-left:5px;
+}
+
+.aw-partners-pics-s img:hover {
+    transform: scale(1.1);
+}
+
+.aw-partners-logo-s {
+    width:110px;
+    float:left;
+    margin-right: 20px;
+}
+
+.aw-partners-pics-s
+{
+    float:right;
+}
+
+.aw-maincontent hr {
+    height:10px;
+}

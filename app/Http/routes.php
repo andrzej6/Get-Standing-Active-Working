@@ -51,6 +51,16 @@ Route::group(['domain' => '127.0.0.1'], function()
     });
 
 
+    Route::group(['domain' => '127.0.0.1'], function()
+{
+    Route::auth();
+    Route::get('/popup_confirm','GcanPopupController@confirm');
+    Route::get('/{page?}', 'GcanController@index');
+    Route::post('popup_reg', 'GcanPopupController@store');
+    Route::post('gcan_reg', 'GcanController@store');
+});
+
+
     Route::group(['domain' => 'getnzstanding.net'], function()
     {
         Route::auth();
@@ -66,13 +76,18 @@ Route::group(['domain' => '127.0.0.1'], function()
 */
 
 
-    Route::group(['domain' => 'getnzstanding.net'], function()
-    {
-        Route::auth();
-        Route::get('/jobs', 'HomeController@jobs');
 
-        Route::get('/popup_confirm','GausPopupController@confirm');
-        Route::get('/{page?}', 'GausController@index');
-        Route::post('popup_reg', 'GausPopupController@store');
-        Route::post('gaus_reg', 'GausController@store');
-    });
+
+
+Route::group(['domain' => 'getnzstanding.net'], function()
+{
+    Route::auth();
+    Route::get('/jobs', 'HomeController@jobs');
+
+    Route::get('/popup_confirm','GausPopupController@confirm');
+    Route::get('/{page?}', 'GausController@index');
+    Route::post('popup_reg', 'GausPopupController@store');
+    Route::post('gaus_reg', 'GausController@store');
+});
+
+

@@ -6,17 +6,17 @@ use Illuminate\Http\Request;
 use App\Http\Requests;
 
 use App\Http\Requests\GbsRegRequest;
-use App\HelpClasses\gaus\Menu as Menu;
+use App\HelpClasses\gcan\Menu as Menu;
 use App\Gbs_reg;
 use App\Article;
 use Session;
 use DB;
 use Mail;
 use Log;
-use App\Jobs\AuSend2Emails;
+use App\Jobs\CanSend2Emails;
 
 
-class GausController extends Controller
+class GcanController extends Controller
 {
     public function index($page='index'){
 
@@ -32,11 +32,11 @@ class GausController extends Controller
 
             if ($page == 'media') {
                 //1-gb, 2-aus, 3-can, 4-usa
-                $articles = Article::where('country', 'LIKE', '%2%')->orderby('date_posted', 'desc')->paginate(10);
+                $articles = Article::where('country', 'LIKE', '%3%')->orderby('date_posted', 'desc')->paginate(10);
 
-                return view('gaus.' . $page, compact('mainMenuOutput', 'trail1', 'trail2', 'articles'));
+                return view('gcan.' . $page, compact('mainMenuOutput', 'trail1', 'trail2', 'articles'));
             } else {
-                return view('gaus.' . $page, compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
+                return view('gcan.' . $page, compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
             }
         }
     }
@@ -45,22 +45,24 @@ class GausController extends Controller
     public function store(GbsRegRequest $request){
 
         $reg = new Gbs_reg($request->except('offer'));
-        $reg->country = 'au';
+        $reg->country = 'can';
 
         /**
+        $reg->extras = $request->offer;
+         * */
+
         $extras='';
         if (!empty($request->offer))
             foreach($request->offer as $add)
                 $extras .= $add.', ';
-        $gausreg->extras = $extras;
-         * */
-        $reg->extras = $request->offer;
+        $reg->extras = $extras;
+
 
         if ($reg->save())
         {
             $to_send = Gbs_reg::findOrFail($reg->id);
             Log::info("Request cycle with Queues started -gaus reg");
-            $this->dispatch(new AuSend2Emails($to_send));
+            $this->dispatch(new CanSend2Emails($to_send));
             Log::info("Request cycle with Queues finished -gaus reg");
 
 

@@ -1,25 +1,25 @@
-@extends('layouts.gaus.basic')
+@extends('layouts.gcan.basic')
 
 @section('header-styles')
     @parent
-    <link rel="stylesheet" type="text/css" href="css/gaus/index.css">
+    <link rel="stylesheet" type="text/css" href="css/gcan/index.css">
 @endsection
 
 
 @section('description')
-    Get Australia Standing is a campaign to educate on Active Working. Regular minor movement whilst at work is
+    Get Canada Standing is a campaign to educate on Active Working. Regular minor movement whilst at work is
     essential for us to keep our bodies healthy, prevent illness and relieve stress. Sit-Stand workstations
     enabling us to mix it up between periods of sitting with standing.
 @endsection
 
 @section('keywords')
-    get-australia-standing, active-working, productive-working, office-productivity, sit-stand, sit-stand-desk,
+    get-canada-standing, active-working, productive-working, office-productivity, sit-stand, sit-stand-desk,
     standing-desk, height-adjustable-desk,variable-height-desk, healthy-office, treadmill-desk, desk-riser,
     desk-mount, home-office, health-and-safety, wellness
 @endsection
 
 @section('title')
-    Get Australia Standing. Active and Productive working. Sit-stand solutions.
+    Get Canada Standing. Active and Productive working. Sit-stand solutions.
 @endsection
 
 
@@ -39,39 +39,43 @@
                     <div id="banner1" class="OneByOne_container">
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider1.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider1.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider2.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider2.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider3.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider3.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider4.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider4.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider5.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider5.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider6.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider6.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider7.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider7.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider8.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider8.jpg" alt="" class="go-to">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider9.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider9.jpg" alt="" class="go-to">
+                        </div>
+
+                        <div class="oneByOne_item ls_bg1">
+                            <img src="img/getstanding/can/slider/big/slider10.jpg" alt="" class="go-to">
                         </div>
 
                     </div>
@@ -87,7 +91,7 @@
             <div class="halfleft1">
 
                 <div id="leftsitcalc">
-                    <h4 class="custom-h4">Australians sit almost 10 hours each day (on average)</h4>
+                    <h4 class="custom-h4">Canadians sit almost 10 hours each day (on average)</h4>
                     In recent years a variety of major international <a href="research">research</a> has produced
                     compelling evidence that sitting for more than 4 hours each day leads to:<br/>
                     <ul>
@@ -148,7 +152,7 @@
 
                     <div class="calc-container">
 
-                        <div class="calc-powered">Powered by &nbsp;<img src="img/getstanding/aus/logos/calc-powered.png" /></div>
+                        <div class="calc-powered">Powered by &nbsp;<img src="img/getstanding/can/logos/calc-powered.png" /></div>
 
                         <div class="calc-icon">
                             <img src="img/general/calculator.png">
@@ -276,15 +280,25 @@
 
 
 
-        <div>
+
+
+        <div id="gbs-slideshow">
 
             <div>
-                <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing" target="_blank">
-                    <img src="img/getstanding/aus/slider/thin/slider1.jpg">
+                <a href="pdfs/can/fitness-canada.pdf" target="_blank">
+                    <img src="img/getstanding/can/slider/thin/slider1.jpg">
+                </a>
+            </div>
+
+            <div>
+                <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Canada%20Standing" target="_top">
+                    <img src="img/getstanding/can/slider/thin/slider2.jpg">
                 </a>
             </div>
 
         </div>
+
+
 
         <br/>
 
@@ -308,7 +322,7 @@
                                     <div class="item" style="height: 266px;">
 
                                         <div class="img_block">
-                                            <img src="img/getstanding/aus/carousel/slider1.jpg" alt="summit 2017"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
+                                            <img src="img/getstanding/can/carousel/slider1.jpg" alt="summit 2017"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
 
                                         <div class="carousel_title">
                                             <h4 class="featured_ico_slider">Summit 2016</h4>
@@ -366,6 +380,31 @@
 
                                 </a>
                             </li>
+
+
+
+                            <li style="height: 266px; width:266px;">
+                                <a href="onyourfeet">
+
+                                    <div class="item" style="height: 266px;">
+
+                                        <div class="img_block">
+                                            <img src="img/getstanding/can/carousel/slider4.jpg" alt="media and sit-stand"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
+
+                                        <div class="carousel_title">
+                                            <h4 class="featured_ico_slider">On Your Feet Canada</h4>
+                                        </div>
+
+                                        <div class="carousel_desc">
+                                            <div class="exc">Wear your sneakers to work and help raise money for charity</div>
+                                        </div>
+
+                                    </div>
+
+                                </a>
+                            </li>
+
+
 
 
                             <li style="height: 266px; width:266px;">
@@ -432,7 +471,7 @@
 
 @section('footer-scripts')
     @parent
-    <script type="text/javascript" src="js/gaus/calculator.js"></script>
+    <script type="text/javascript" src="js/gcan/calculator.js"></script>
     <!-- BELOW AS IT IS SCRIPT TO ENABLE TOP SLIDER CAN LEAVE IN GBS PATH -->
     <script type="text/javascript" src="js/shared/sliderscript-main.js"></script>
 @endsection

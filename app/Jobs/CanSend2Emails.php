@@ -10,7 +10,7 @@ use Illuminate\Contracts\Queue\ShouldQueue;
 use App\Gbs_reg;
 use Mail;
 
-class AuSend2Emails extends Job implements ShouldQueue
+class CanSend2Emails extends Job implements ShouldQueue
 {
     use InteractsWithQueue, SerializesModels;
     protected $tosend;
@@ -34,19 +34,19 @@ class AuSend2Emails extends Job implements ShouldQueue
     {
         $tosend = $this->tosend;
 
-        Mail::send('emails.gaus.gaus_reg', array(),function ($message) use ($tosend) {
+        Mail::send('emails.gcan.gcan_reg', array(),function ($message) use ($tosend) {
             $message->from('info@activeworking.com', 'Active Working');
             $message->to($tosend->email);
-            $message->subject('Thank you for your GET AUSTRALIA STANDING enquiry');
+            $message->subject('Thank you for your GET CANADA STANDING enquiry');
         });
 
 
         $array = $tosend->toArray();
 
-        Mail::send('emails.gaus.gaus_reg_notify', $array, function ($message) use ($tosend){
+        Mail::send('emails.gcan.gcan_reg_notify', $array, function ($message) use ($tosend){
             $message->from('info@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
-            $message->subject('GetAustraliaStanding.Com. Details from enquiry form');
+            $message->subject('GetCanadaStanding.Com. Details from enquiry form');
         });
     }
 }

@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Jobs\AuSendPopupConf;
+use App\Jobs\CanSendPopupConf;
 use Illuminate\Http\Request;
 
 use App\Http\Requests;
@@ -11,11 +11,11 @@ use DB;
 use Session;
 use Log;
 use App\Gbs_popup;
-use App\HelpClasses\gaus\Menu as Menu;
+use App\HelpClasses\gcan\Menu as Menu;
 use Illuminate\Support\Facades\Validator;
 
 
-class GausPopupController extends Controller
+class GcanPopupController extends Controller
 {
 
 // storing registration for e-newsletter in database
@@ -38,13 +38,13 @@ public function store (Request $request){
       $popup = new Gbs_popup;
       $popup->email=$email;
       $popup->cust_key=$token;
-      $popup->country='aus';
+      $popup->country='can';
 
       if ($popup->save())
       {
         $data =['email'=>$email, 'token' => $token];
         Log::info("Request cycle with Queues started -popup");
-        $this->dispatch(new AuSendPopupConf($data));
+        $this->dispatch(new CanSendPopupConf($data));
         Log::info("Request cycle with Queues started -finished");
         print "";
       }
@@ -79,7 +79,7 @@ public function store (Request $request){
 
     $mainMenuOutput = Menu::getMenu('confirm');
     list ($trail1, $trail2) = Menu::TrailLink('Confirmation');
-    return view('gaus.confirm',compact('mainMenuOutput','trail1','trail2'));
+    return view('gcan.confirm',compact('mainMenuOutput','trail1','trail2'));
   }
 
 
