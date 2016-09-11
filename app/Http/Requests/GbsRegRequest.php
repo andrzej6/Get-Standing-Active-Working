@@ -76,7 +76,7 @@ class GbsRegRequest extends Request
             'city.required' => 'City field is required',
             'city.max:100' => 'City may not be greater than 100 characters.',
 
-            'county.max:100' => 'First Name may not be greater than 100 characters.',
+            'county.max:100' => 'County may not be greater than 100 characters.',
             'jpos.max:100' => 'Job Position may not be greater than 100 characters.',
             'dep.max:100' => 'Department may not be greater than 100 characters.',
             'behalf.required' => 'Please select behalf option',

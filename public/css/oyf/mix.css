@@ -1,0 +1,70 @@
+/* index page */
+.oyf-tabbed-media {
+    display:inline-block;
+    width:150px;
+}
+
+/* challenge page */
+ul.oyf-ultabbed li {
+    margin-left: 20px;
+}
+
+/* partners page */
+.aw-partners-text-l, .aw-partners-text-m  {
+    float:left;
+    margin-top:10px;
+    max-width:75%;
+}
+
+.aw-partners-text-l {
+    margin-top:5px;
+}
+
+.aw-partners-text-s {
+    float:left;
+    #max-width:400px;
+    max-width:56.5%;
+    margin-right:5px;
+}
+
+.aw-partners-pics-l, .aw-partners-pics-m {
+    float:right;
+    max-width:23.5%;
+}
+
+.aw-partners-pics-m img, .aw-partners-pics-l img
+{
+    width:75px;
+    margin-left:5px;
+    margin-top:10px;
+}
+
+.aw-partners-pics-s img {
+    width:75px;
+    margin-left:5px;
+}
+
+.aw-partners-pics-l img:hover, .aw-partners-pics-m img:hover,
+.aw-partners-pics-s img:hover {
+    transform: scale(1.1);
+}
+
+.aw-partners-logo-m {
+    width:130px;
+}
+
+.aw-partners-logo-s {
+    width:110px;
+    float:left;
+    margin-right: 20px;
+}
+
+.aw-partners-pics-s
+{
+    float:right;
+    max-width:23.5%;
+}
+
+.aw-maincontent hr {
+    height:10px;
+}

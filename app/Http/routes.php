@@ -79,6 +79,7 @@ Route::group(['domain' => '127.0.0.1'], function()
 
 
 
+
 Route::group(['domain' => 'getnzstanding.net'], function()
 {
     Route::auth();
@@ -89,5 +90,18 @@ Route::group(['domain' => 'getnzstanding.net'], function()
     Route::post('popup_reg', 'GausPopupController@store');
     Route::post('gaus_reg', 'GausController@store');
 });
+
+
+
+Route::group(['domain' => '127.0.0.1'], function()
+{
+    Route::auth();
+
+    Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
+    Route::post('oyf_reg', 'OyfController@store');
+
+});
+
+
 
 

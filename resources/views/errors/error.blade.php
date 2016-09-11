@@ -1,4 +1,4 @@
-@extends('layouts.gaus.basic')
+@extends('layouts.getstanding')
 
 @section('description')
     Error page.

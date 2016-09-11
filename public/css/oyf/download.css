@@ -1,0 +1,48 @@
+.oyf-downloads-row {
+    width:100%;
+}
+
+
+.oyf-downloads-pic, .oyf-downloads-descrip
+{
+    float:left;
+}
+
+
+.oyf-downloads-pic
+{
+    width:10%;
+}
+
+
+.oyf-downloads-descrip
+{
+    width:80%;
+    padding:0px 0 0 5px;
+}
+
+
+.oyf-downloads-tabbed {
+    min-width: 110px;
+    display:inline-block;
+}
+
+
+.oyf-downloads-helper {
+    float:left;
+    width:200px;
+    text-align:right;
+}
+
+
+
+.oyf-downloads-container a {
+    color:#57b8d9;
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+.oyf-downloads-container a:hover {
+    color:#ff3f72;
+}
+
