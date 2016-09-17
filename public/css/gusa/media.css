@@ -1,0 +1,127 @@
+/*MEDIA PAGINATION STYLING*/
+
+#media-pagination {
+    text-align:center;
+}
+
+#media-pagination ul li {
+    display:inline-block;
+}
+
+#media-pagination ul li a, #media-pagination ul li span {
+    padding:0 10px;
+}
+
+
+#media-pagination li.disabled {
+    opacity:0.5;
+}
+
+#media-pagination li.disabled:hover {
+    background-color:white;
+    color:#3d3d3d;
+}
+
+#media-pagination li.active, #media-pagination li.active:hover {
+    background-color:var(--media-readmore);
+    color:white;
+}
+
+#media-pagination li a:hover, #media-pagination li:hover {
+    background-color:var(--media-lightgreen);
+    color:white;
+}
+
+#media-pagination li:hover > a {
+    background-color:var(--media-lightgreen);
+    color:white;
+}
+
+.medialeft img {
+    border:4px solid var(--home-block-bg);
+}
+
+.medialeft img:hover {
+    border:4px solid var(--gbs-blue);
+}
+
+.shortcode_button.btn_type6 {
+    color:white;
+}
+
+
+
+@media only screen and (min-width: 960px) {
+
+    .mediatitle {
+        width: 42%;
+        text-align: left;
+        padding: 10px;
+        font-size: 1.1em;
+    }
+}
+
+
+
+@media only screen and (min-width: 760px) {
+
+    .mediarow {
+        width: 100%;
+        padding: 2px;
+    }
+
+    .medialeft, .mediatitle, .mediaright {
+        float:left;
+    }
+
+    .medialeft {
+        width:90px;
+        height:90px;
+    }
+
+    .mediaright {
+        padding: 25px;
+        width:10%;
+    }
+
+    .mediarow .shortcode_button:hover {
+        background-color: #88c800;
+    }
+
+    .player {
+        margin-left: 30px;
+        width: 300px;
+        height: 30px;
+        background-color: #ff8d00;
+    }
+
+    .mediaright .btn_small.btn_type6 {
+        width: 60%;
+        text-align: center;
+    }
+}
+
+@media only screen and (min-width: 761px) and (max-width: 959px) {
+
+    .mediatitle {
+        width: 28%;
+        text-align: left;
+        padding: 10px;
+        font-size: 1.1em;
+    }
+}
+
+
+@media only screen and (max-width: 759px) {
+
+    .mediatitle {
+        padding: 5px;
+    }
+
+    .mediarow {
+        max-height:180px;
+    }
+
+}
+
+

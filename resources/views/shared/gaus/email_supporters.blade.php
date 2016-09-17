@@ -12,7 +12,7 @@
     Thank you from all the team <br/><br/>
 
     <strong> Active Working C.I.C  <br/>
-        Get Britain Standing campaign </strong>
+        Get Australia Standing campaign </strong>
 
     <br/><br/>
 

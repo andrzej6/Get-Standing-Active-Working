@@ -8,7 +8,7 @@ use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Mail;
 
-class CanSendPopupConf extends Job implements ShouldQueue
+class UsaSendPopupConf extends Job implements ShouldQueue
 {
     use InteractsWithQueue, SerializesModels;
     protected $data;
@@ -32,10 +32,10 @@ class CanSendPopupConf extends Job implements ShouldQueue
     {
         $data = $this->data;
         $email =$data['email'];
-        Mail::send('emails.gcan.popup', $data, function ($message) use ($email) {
+        Mail::send('emails.gusa.popup', $data, function ($message) use ($email) {
             $message->from('info@activeworking.com', 'Active Working');
             $message->to($email);
-            $message->subject('Thank you for signing up for GET CANADA STANDING newsletter');
+            $message->subject('Thank you for signing up for GET AMERICA STANDING newsletter');
         });
     }
 }
