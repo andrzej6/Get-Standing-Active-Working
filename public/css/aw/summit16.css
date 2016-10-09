@@ -1,0 +1,140 @@
+/* summit 16 sidemenu */
+.left-sidemenu ul li {
+    background-color:#336699;
+}
+
+.left-sidemenu ul li.active {
+    background-color:#bb295b;
+}
+
+.left-sidemenu ul  li:hover{
+    background-color:#880028;
+}
+.aw-logo {
+    width:50%;
+    text-align:center;
+}
+
+
+.center-bottom {
+    text-align: center;
+    width:50%;
+    font-size:15px;
+    color:#bb295b;
+    font-weight:bold;
+    margin: 10px 0px;
+}
+
+/* partners block speakers custom */
+.aw-speakers-cont img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.aw-speakers-home {
+    display:block;
+    text-align:center;
+    font-size:11px;
+    color:#009999;
+    font-weight:bold;
+    margin:5px;
+}
+
+.aw-speakers-home2 {
+    font-size:12px;
+    text-align:center;
+    margin-top: 0px;
+}
+
+/* agenda page */
+.aw-redtext {
+    color:#009999;
+}
+
+.bigger {
+    font-size:16px;
+    margin:5px 0;
+}
+
+.summit-section {
+    margin-top:10px;
+    margin-bottom:30px;
+}
+
+.summit-section ul li {
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left:20px;
+
+}
+
+.contentarea .summit-section ul.section-hyphens {
+    list-style-type:none;
+}
+
+.contentarea .summit-section ul.section-hyphens li {
+    #margin-left:10px;
+}
+
+.contentarea .summit-section ul.section-hyphens li:before {
+    content:'-';
+    margin-left:-15px;
+}
+
+.section-bold{
+    color:#3f5ca0;
+    font-size:16px;
+    margin-bottom:20px;
+}
+
+.section-bold, .section-tabbed {
+    font-weight:bold;
+}
+
+
+.section-tabbed {
+    float:left;
+    width:150px;
+}
+
+.section-tabbed-bigger {
+    float:left;
+    width:250px;
+}
+
+.contentarea .summit-section ul {
+    list-style-type:disc;
+    margin-left:15px;
+    margin-top:10px;
+    padding:0;
+}
+
+
+/* attendance page */
+.aw-attend-blue {
+    color:#3f5ca0;
+    font-weight:bold;
+    font-size:15px;
+}
+
+.aw-attendance-col1, .aw-attendance-col2, .aw-attendance-col3 {
+    float:left;
+    width:32%;
+    margin-top:10px;
+}
+
+.aw-attendance-columns ul {
+    list-style-type:none;
+    margin-left:0;
+}
+
+
+/* video page */
+.awvideo-frame {
+    display:inline;
+    float:left;
+    margin-right:5px;
+    margin-bottom:10px;
+}
+

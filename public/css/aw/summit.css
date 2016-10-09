@@ -1,0 +1,399 @@
+
+
+.aw-smallwidth{
+    width:83.5%;
+    text-align:justify;
+    float:left;
+}
+
+.aw-restofsmall {
+    float: right;
+    width:180px;
+    border:1px solid #cdcdcd;
+    padding:0 5px;
+    margin-top:37px;
+}
+
+/* button instead of menu */
+.aw-button-cont {
+    display:none;
+}
+
+/* left sidemenu */
+.left-sidemenu {
+    float:left;
+    width:190px;
+}
+
+.left-sidemenu ul  a{
+    color:white;
+    text-decoration:none;
+}
+
+.left-sidemenu ul li {
+    padding:4px;
+    background-color:#979596;
+    border:1px solid white;
+}
+
+.slider-sidemenu {
+    margin-left:20px;
+    padding:0 20px;
+    float:left;
+    width:72%;
+}
+
+
+/* partnersleft */
+.aw-partnersleft {
+    border:1px solid #cdcdcd;
+    padding-left:1%;
+}
+
+.aw-partners-title {
+    color:#336699;
+    margin-top:35px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.aw-partners-platinum img, .aw-partners-gold img, .aw-partners-silver img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.module_layer_slider .module_content {
+    height:260px;
+}
+
+.aw-partners-silver img {margin-top:5px;height:52px;}
+
+
+/* main-content changes */
+
+.fbigger {
+    font-size:1.4em;
+}
+.fbiggerhalf {
+    font-size:1.2em;
+}
+.fbold {
+    font-weight:bold;
+}
+
+.fmargb {
+    margin-bottom:15px;
+}
+
+.aw-maincontent ul {
+    list-style-type:disc;
+    margin-left:20px;
+}
+
+
+
+/* partners page */
+.aw-partners-text-l, .aw-partners-text-m  {
+    float:left;
+    margin-top:10px;
+    max-width:75%;
+}
+
+.aw-partners-text-l {
+    margin-top:5px;
+}
+
+.aw-partners-text-s {
+    float:left;
+    #max-width:400px;
+    max-width:56.5%;
+    margin-right:5px;
+}
+
+.aw-partners-pics-l, .aw-partners-pics-m {
+    float:right;
+    max-width:23.5%;
+}
+
+.aw-partners-pics-m img, .aw-partners-pics-l img
+{
+    width:75px;
+    margin-left:5px;
+    margin-top:10px;
+}
+
+.aw-partners-pics-s img {
+    width:75px;
+    margin-left:5px;
+}
+
+.aw-partners-pics-l img:hover, .aw-partners-pics-m img:hover,
+.aw-partners-pics-s img:hover {
+    transform: scale(1.1);
+}
+
+.aw-partners-logo-m {
+    width:130px;
+}
+
+.aw-partners-logo-s {
+    width:110px;
+    float:left;
+    margin-right: 20px;
+}
+
+.aw-partners-pics-s
+{
+    float:right;
+    max-width:23.5%;
+}
+
+.aw-maincontent hr {
+    height:10px;
+}
+
+.aw-partners-text-l, .aw-partners-text-m  {
+    float:left;
+    margin-top:10px;
+    max-width:75%;
+}
+
+.aw-partners-text-l {
+    margin-top:5px;
+}
+
+
+
+.aw-partners-text-s {
+    float:left;
+    #max-width:400px;
+    max-width:56.5%;
+    margin-right:5px;
+}
+
+.aw-partners-pics-l, .aw-partners-pics-m {
+    float:right;
+    max-width:23.5%;
+}
+
+
+
+
+
+
+
+.aw-partners-pics-m img, .aw-partners-pics-l img
+{
+    width:75px;
+    margin-left:5px;
+    margin-top:10px;
+}
+
+
+.aw-partners-pics-s img {
+    width:75px;
+    margin-left:5px;
+}
+
+
+
+.aw-partners-pics-l img:hover, .aw-partners-pics-m img:hover,
+.aw-partners-pics-s img:hover {
+    transform: scale(1.1);
+}
+
+.aw-partners-logo-m {
+    width:130px;
+}
+
+.aw-partners-logo-s {
+    width:110px;
+    float:left;
+    margin-right: 20px;
+}
+
+.aw-partners-pics-s
+{
+    float:right;
+    max-width:23.5%;
+}
+
+.aw-maincontent hr {
+    height:10px;
+}
+
+
+
+/* speakers page */
+.speakers-row, .collab-row{
+    margin-top:10px;
+}
+
+.studies-row {
+    margin-top:20px;
+}
+
+.speakers-left, .speakers-title,.speakers-right,
+.collab-left, .collab-title, .collab-right,
+.studies-left, .studies-title, .studies-right {
+    float:left;
+}
+
+
+.speakers-right, .collab-right{
+    padding-top:25px;
+    width:25%;
+}
+
+
+.speakers-title {
+    width:58%;
+    padding:20px 15px;
+    text-align:left;
+}
+
+.studies-title {
+    width:58%;
+    padding:30px 25px;
+    text-align:left;
+}
+
+
+.collab-title {
+    width:48%;
+    padding:35px 15px;
+    text-align:left;
+}
+
+
+.speakers-left, .collab-left {
+    width:12%;
+}
+
+
+.speakers-right .shortcode_button.btn_type6, .collab-right .shortcode_button.btn_type6
+{
+    background-color:#336699;
+    color:white;
+    text-decoration:none;
+}
+
+.speakers-right .shortcode_button.btn_type6:hover, .collab-right .shortcode_button.btn_type6:hover {
+    background-color:#006666;
+}
+
+
+#bio1-more, #bio2-more, #bio3-more, #bio4-more,
+#bio5-more, #bio6-more, #bio7-more, #bio8-more,
+#bio9-more, #bio10-more, #bio11-more, #bio12-more,
+#bio13-more, #bio14-more, #bio15-more, #bio16-more,
+#bio17-more, #bio18-more, #bio19-more, #bio20-more,
+#bio21-more, #bio22-more, #bio23-more, #bio24-more, #bio25-more,
+#over1-more, #over2-more, #over3-more, #over4-more
+{
+    display:none;
+    width:100%;
+    padding:5px 0;
+}
+
+
+.aw-bluetext-big {
+    color:#336699;
+    font-weight:bold;
+    font-size:18px;
+}
+
+
+.aw-bluetext-big1 {
+    background-color:#336699;
+    color:white;
+    padding:10px;
+    font-weight:bold;
+    font-size:18px;
+    text-align:center;
+}
+
+
+
+@media only screen and (min-width: 761px) and (max-width: 1189px) {
+
+    /* speakers */
+    .speakers-left, .collab-left {
+        width: 20%;
+    }
+
+    .speakers-title, .collab-title {
+        width: 53%;
+    }
+
+    .speakers-right, .collab-right {
+        width: 20%;
+    }
+
+}
+
+
+
+
+
+
+@media only screen and (max-width: 759px) {
+    .aw-restofsmall, .aw-partnersleft{
+        display:none;
+    }
+
+    .aw-smallwidth {
+        width:100%;
+    }
+
+
+    /* button instead of sidemenu */
+    .aw-button-cont {
+        display:block;
+    }
+
+    .aw-button-cont a {
+        text-decoration:none;
+        color:#336699;
+    }
+
+
+
+    /* speakers page */
+    .speakers-left, .collab-left {
+        width:50%;
+    }
+
+    .speakers-title {
+        width:40%;
+        padding:0px;
+    }
+
+    .speakers-right, .collab-right{
+        width:100%;
+        padding:0px;
+    }
+
+
+    .speakers-right .shortcode_button.btn_type6, .collab-right .shortcode_button.btn_type6 {
+        width:87%;
+        text-align:center;
+        margin:5px 0px;
+    }
+
+    #bio1-more, #bio2-more, #bio3-more, #bio4-more,
+    #bio5-more, #bio6-more, #bio7-more, #bio8-more,
+    #bio9-more, #bio10-more, #bio11-more, #bio12-more,
+    #bio13-more, #bio14-more, #bio15-more, #bio16-more,
+    #bio17-more, #bio18-more, #bio19-more, #bio20-more, #bio23-more, #bio24-more, #bio25-more,
+    #over1-more {
+        width:100%;
+    }
+
+
+
+
+
+
+}

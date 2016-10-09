@@ -1,0 +1,172 @@
+:-moz-placeholder {
+    color: #ADD8E6;
+}
+
+::-webkit-input-placeholder {
+    color: #ADD8E6;
+}
+
+.form_hint, .required_notification {font-size: 11px;}
+
+.required_notification {
+    color:var(--red-color);
+    margin:5px 0 0 0;
+}
+
+/* label style to change for mobile */
+.register_form label {
+    margin-top: 3px;
+    display:inline-block;
+    float:left;
+    padding:3px;
+}
+
+.register_form input[type="text"], .register_form input[type="tel"],
+.register_form input[type="email"], .register_form textarea {
+    border:1px solid #aaa;
+    box-shadow: 0px 0px 3px #ccc, 0 10px 15px #eee inset;
+    border-radius:2px;
+}
+
+.register_form input[type="checkbox"]
+{
+    margin-top:0px;
+}
+
+
+/* Button Style */
+button.submit {
+    background-color: var(--main-h1-color);
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+}
+
+
+button.submit:hover {
+    cursor: pointer;
+}
+
+.register_form input:focus, .register_form textarea:focus { /* add this to the already existing style */
+    padding-right:70px;
+}
+
+
+.register_form input, .register_form textarea { /* add this to the already existing style */
+    -moz-transition: padding .25s;
+    -webkit-transition: padding .25s;
+    -o-transition: padding .25s;
+    transition: padding .25s;
+}
+
+
+.register_form input, .register_form textarea {
+    padding-right:30px;
+}
+
+
+::-webkit-validation-bubble-message {
+    padding: 1em;
+}
+
+.register_form input:focus:invalid, .register_form textarea:focus:invalid { /* when a field is considered invalid by the browser */
+    background: #fff;
+    box-shadow: 0 0 5px var(--red-color);
+    border-color: var(--red-color);
+}
+
+.register_form input:required:valid, .register_form textarea:required:valid { /* when a field is considered valid by the browser */
+    background: #fff;
+    box-shadow: 0 0 5px var(--calc-slider-bg);
+    border-color: var(--calc-slider-bg);
+}
+
+
+input:focus:invalid, textarea:focus:invalid, select:focus:invalid {
+    color: var(--red-color);
+}
+
+.form_hint {
+    background: var(--red-color);
+    border-radius: 3px 3px 3px 3px;
+    color: white;
+    margin-left:8px;
+    padding: 1px 6px;
+    z-index: 999; /* hints stay above all other elements */
+    position: absolute; /* allows proper formatting if hint is two lines */
+    display: none;
+}
+
+.form_hint::before {
+    content: "\25C0"; /* left point triangle in escaped unicode */
+    color:#d45252;
+    position: absolute;
+    top:1px;
+    left:-6px;
+}
+
+.register_form input:focus + .form_hint {display: inline;}
+.register_formm input:required:valid + .form_hint {background: var(--calc-slider-bg)} /* change form hint color when valid */
+.register_form input:required:valid + .form_hint::before {color:var(--calc-slider-bg)} /* change form hint arrow color when valid */
+
+
+/* regform voucher checkboxes */
+.active-working-blue, .aw-reg-radio, .active-working-blue a, .checkbox-block{
+    color:#3f5ca0;
+    font-size:14px;
+}
+
+.checkbox-block {
+    margin-top:5px;
+    margin-left:15px;
+}
+
+
+@media only screen and (min-width: 760px) {
+
+    .register_form select
+    {
+        width:22%;
+    }
+
+    .register_form label {
+        width: 25%;
+    }
+
+    /* below input widths to change for mobile */
+    .register_form input[type="text"], .register_form input[type="tel"],
+    .register_form input[type="email"]{
+        width:20%;
+        padding:5px 8px;
+    }
+
+    .register_form textarea {padding:8px; width:235px;}
+    .register_form button {
+        margin-top:2%;
+        margin-left:39.5%;
+    }
+}
+
+
+@media only screen and (max-width: 759px) {
+
+    .register_form label {
+        width:45%
+    }
+
+    .register_form select
+    {
+        width: 47%;
+    }
+
+    /* below input widths to change for mobile */
+    .register_form input[type="text"], .register_form input[type="tel"],
+    .register_form input[type="email"]{
+        width:45%;
+        padding:5px 8px;
+    }
+
+}
+

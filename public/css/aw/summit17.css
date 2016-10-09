@@ -1,0 +1,207 @@
+/* summit 17 sidemenu */
+.left-sidemenu ul li {
+    background-color:#97ab3b;
+}
+
+.left-sidemenu ul li.active {
+    background-color:#5ab7da;
+}
+
+.left-sidemenu ul  li:hover{
+    background-color:#798930;
+}
+.aw-logo {
+    text-align:center;
+}
+
+.center-bottom {
+    text-align: center;
+    padding:10px;
+    font-size:15px;
+    color:#97ab3b;
+    font-weight:bold;
+}
+
+.aw-logo img {
+    width:265px;
+}
+
+
+.center-sidemenu, .right-sidemenu {
+    float:left;
+}
+
+.right-sidemenu {
+    padding:0 20px;
+}
+
+.aw-share div {
+    display:inline-block;
+}
+
+.aw-share img {
+    width:30px;
+    margin:10px 10px 0 0;
+}
+
+
+/* contact page */
+form.summit-contact label {
+    width:45%;
+}
+
+form.summit-contact ul {
+    list-style-type:none;
+    margin:0;
+}
+
+form.summit-contact input [type="text"],
+form.summit-contact input [type="email"] {
+    width:27%;
+}
+
+
+form.summit-contact label, form.summit-contact input {
+    display:inline-block;
+}
+
+form.summit-contact label {
+    vertical-align: top;
+}
+
+#yellsub {
+    background-color:#3f5ca0;
+    padding:7px;
+    color:white;
+    width: 90px;
+    border: 1px solid #3f5ca0;
+    float:right;
+}
+
+#yellsub:hover {
+    background-color:#97ab3b;;
+}
+
+
+/* pricing page */
+.aw-pricing-table {
+    width:100%;
+}
+
+.aw-pricing-table {
+    text-align:center;
+}
+
+.aw-pricing-table td, .aw-pricing-table th {
+    padding:10px;
+    border:3px solid white;
+    font-weight:bold;
+}
+
+.aw-pricing-table th{
+    background-color:#798930;
+    color:white;
+}
+
+.aw-pricing-table .row1 {
+    background-color:#97ab3b;
+}
+
+.aw-pricing-table .row2 {
+    background-color:#D3EF52;
+}
+
+.summit-smaller {
+    font-size:12px;
+}
+
+/* book page */
+.checkboxtext {
+    display:inline-block;
+    clear:both;
+    vertical-align:middle;
+}
+
+.required_notification {
+    font-size:11px;
+}
+
+.supplier, .label-redt, .required_notification {
+    color:red;
+}
+
+#supplier1, #supplier2 {
+    margin-left:40px;
+}
+
+.checkbox-quarter {
+    width:21%;
+    float:left;
+    margin-bottom:20px;
+    font-size:11px;
+}
+
+.label-smalltext {
+    font-size:12px;
+}
+
+#allergy {
+    margin-top:28px;
+}
+
+#assistance {
+    margin-top:21px;
+}
+
+#correspondence {
+    margin-top:59px;
+}
+
+.label-redt {
+    margin-top:7px;
+}
+
+.contentarea ul li {
+    position:static!important;
+}
+
+
+/* payment process - button  */
+.aw-payment-message {
+    width:95%;
+    color:#5ab7da;
+    font-size:120%;
+}
+
+.aw-payment-message ol li{
+    color:#5ab7da;
+    margin-top:10px;
+    margin-left:10px;
+    text-align:left;
+}
+
+.aw-payment-message ol li a {
+    color:#5ab7da;
+}
+
+.aw-underline {
+    text-decoration:underline;
+    font-weight:bold;
+}
+
+.aw-payment-button select {
+    margin-top:5px;
+    width:100%;
+}
+
+.summit-message {
+    text-align:center;
+    font-weight:bold;
+    font-size:18px;
+    color:#5ab7da;
+    background-color:lightgrey;
+    padding:10px
+}
+
+
+

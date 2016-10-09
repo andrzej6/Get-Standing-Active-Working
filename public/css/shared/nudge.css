@@ -1,0 +1,305 @@
+/* little nudge introduction */
+
+.goto {
+  cursor: pointer;
+}
+
+.orange {
+    color:#FF6600;
+}
+
+.nudge-brochure {
+    float:right;
+}
+
+.nudge-notopmarg {
+    margin-top:-10px;
+}
+
+.nudge-register a{
+    color:#FF6600;
+    font-weight:bold;
+    font-size:1.2em;
+    #text-decoration:none!important;
+}
+
+.nudge-register a:hover {
+    color:grey;
+}
+
+ul.nudge-ul li {
+    list-style-type:disc;
+}
+
+ul.nudge-ul {
+    margin-left:20px;
+}
+
+
+/* nudge-table */
+table.nudge-table2 {
+    border:2px solid #FF6600;
+}
+
+table.nudge-table2 tr {
+    border:1px solid #FF6600;
+}
+
+table.nudge-table2 .col1, table.nudge-table2 .col3 {
+    width:30%;
+}
+
+table.nudge-table2 th {
+    font-weight:bold;
+}
+
+table.nudge-table2 th.col2, table.nudge-table2 th.col3 {
+    font-size:100%;
+}
+
+table.nudge-table2 .col2, .col3 {
+    text-align:center;
+    font-weight:bold;
+}
+
+table.nudge-table2 .col2 {
+    width:30%;
+
+}
+
+table.nudge-table2 .col3{
+    color:#FF6600;
+    font-size:120%;
+}
+
+
+table.nudge-table2 td, table.nudge-table th{
+    padding:5px;
+    background-color:#e7e7e7;
+}
+
+/* pound sign table custom */
+table.nudge-table2 .col2b, .col2c {
+    width:1px;
+    text-align:right
+}
+
+table.nudge-table2 .col2a, .col2d {
+    width:10%;
+}
+
+
+/* nudge calc section */
+.nudge-calc-text, .nudge-calc-field, .nudge-annual, .nudge-top {
+    display:inline-block;
+}
+
+.nudge-calc-text {
+    min-width:320px;
+}
+
+#nudge-calc input[name="numboflic"] {
+    width:130px;
+    background-color:white;
+    border:2px solid #FF6600;
+    box-shadow:none;
+}
+
+#nudge-calc input[type="number"], #nudge-calc .nudge-annual input[type="text"] {
+    font-size:1.2em;
+    font-weight:bold;
+}
+
+#nudge-calc input[type="number"] {
+    color:black;
+}
+
+#nudge-calc .nudge-annual input[type="text"] {
+    color:#FF6600;
+}
+
+.nudge-annual, .nudge-top {
+    color:#FF6600;
+}
+
+.nudge-annual input[type="text"] {
+    width:135px;
+    margin-top:7px;
+}
+
+/* button */
+#nudge-calc-button {
+    background:grey;
+    padding:10px;
+    width:140px;
+    border:0;
+    color:white;
+    margin-top:-10px;
+    margin-left:50px;
+}
+
+#nudge-calc-button:hover {
+    background:#ff6600;
+}
+
+
+
+/* Little Nudge FAQ page */
+.contentarea #nudge-list .shortcode_toggles_shortcode {margin-left:0;}
+
+#nudge-list .shortcode_toggles_item_title {
+    border-color:#57b8d9!important;
+}
+
+#nudge-list .shortcode_toggles_item_title:hover {
+    background-color:#FF6600;
+}
+
+#nudge-list .bluetitle {
+    color:#57b8d9;
+    font-weight:bold;
+    margin-top:15px;
+}
+
+#nudge-list ol {
+    padding:0;
+}
+
+
+/* free trial nudge page */
+.required_notification.orange {
+    color:#FF6600;
+}
+
+#mce-success-response {
+    display:inline-block;
+    max-width:220px;
+    margin:5px;
+    color:#FF6600!important;
+}
+
+#mce-error-response {
+    display:inline-block;
+    max-width:220px;
+    margin:5px;
+    color:red!important;
+}
+
+#mc_embed_signup div.mce_inline_error {
+    margin-top:-10px!important;
+}
+
+#mc_embed_signup input.mce_inline_error {
+    border: 1px solid #cccccc!important;
+}
+
+#mc-embedded-subscribe {
+    color:white;
+    background-color:#FF6600;
+    padding:7px;
+    border: 1px solid #FF6600;
+}
+
+#mc_embed_signup div.mce_inline_error {
+    color:#FF6600!important;
+    background-color:white!important;
+    padding:10px;
+}
+
+#nudge_center {
+    float:left;
+    margin-left:25%;
+    text-align:center;
+    min-width:40%;
+    padding:20px;
+}
+
+#nudge-left, #nudge-right {
+    width:25%;
+}
+
+a.nudge-button1 {
+    padding:10px;
+    color:#FFFFFF;
+    background-color:grey;
+    font-size:14px;
+}
+
+a.nudge-button1:hover {
+    background-color:#ff6600;
+}
+
+
+.nudge-licence {
+    margin-top:15px;
+    font-weight:bold;
+    margin-bottom:5px;
+}
+
+.nudge-follow {
+    top:100px;
+}
+
+#nudge-left {
+    float:left;
+}
+
+#nudge-right {
+    float:left;
+}
+
+#nudge-calc ul {
+    text-align:center;
+}
+
+#nudge-cost {
+    font-size:22px;
+    color:#FF6600;
+    margin-bottom:15px;
+}
+
+/* nudge-order page */
+.nudge-calc-text.bigger, .nudge-price {
+    font-size:22px;
+}
+
+button.submit {
+    background-color: #3f5ca0;
+    color: white;
+    font-weight: bold;
+    padding: 6px 20px;
+    text-align: center;
+    text-shadow: 0 -1px 0 #396715;
+    border:1px solid #3f5ca0;
+}
+
+button.submit#yellsub:hover {
+    cursor: pointer;
+    background-color:#FF6600;
+    border:1px solid #FF6600;
+}
+
+.alert-success {
+    font-size:20px;
+}
+
+
+
+
+@media only screen and (min-width: 860px) {
+    #nudge-left, #nudge-right {
+        width:25%;
+        display:inline-block;
+        position:fixed;
+        top:200px;
+    }
+
+}
+
+
+
+
+
+
+
+
