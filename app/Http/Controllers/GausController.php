@@ -24,7 +24,7 @@ class GausController extends Controller
             $page ='error_page';
             $mainMenuOutput = Menu::getMenu($page);
             list ($trail1, $trail2) = Menu::TrailLink($page);
-            return view('errors.error', compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
+            return view('errors.getstanding.aus', compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
         }
         else {
             $mainMenuOutput = Menu::getMenu($page);
