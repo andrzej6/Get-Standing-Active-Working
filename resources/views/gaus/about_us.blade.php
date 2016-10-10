@@ -16,7 +16,7 @@
 @endsection
 
 @section('title')
-    About Get Australia Standing. How We Starteds
+    About Get Australia Standing. How We Started
 @endsection
 
 

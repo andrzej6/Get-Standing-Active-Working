@@ -4,12 +4,12 @@
 <div style="color:black;">
 
     <a href="http://getaustraliastanding.org/" style="color:#009999;">
-        <img src="img/general/emails/gaus.png" width="100"/></a>
+        <img src="{{ url('/') }}/img/general/emails/gaus.png" width="100"/></a>
 
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://activeworking.com" style="color:#009999;">
-        <img src="img/general/emails/activeworking.jpg" width="100"/></a> <br/>
+        <img src="{{ url('/') }}/img/general/emails/activeworking.jpg" width="100"/></a> <br/>
 
     Thank you for your recent enquiry.
     <br/><br/>
