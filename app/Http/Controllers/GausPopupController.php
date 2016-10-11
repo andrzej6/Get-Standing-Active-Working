@@ -31,7 +31,7 @@ public function store (Request $request){
 
   if ($validator->fails()) {
     $messages = $validator->errors();
-    print str_replace("email1", "email", $messages->first('email1'));;
+    print str_replace("email1", "email", $messages->first('email1'));
   }
   else
     {
