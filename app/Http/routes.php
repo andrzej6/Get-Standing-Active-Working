@@ -101,7 +101,7 @@ Route::group(['domain' => '127.0.0.1'], function()
 
 Route::group(['domain' => 'getaustraliastanding.org'], function()
 {
-    Route::auth();
+    //Route::auth();
     Route::get('/jobs', 'HomeController@jobs');
 
     Route::get('/popup_confirm','GausPopupController@confirm');
