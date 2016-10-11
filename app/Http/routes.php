@@ -119,3 +119,16 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
 });
 
 
+
+Route::group(['domain' => 'getbritainstanding.org'], function()
+{
+    Route::auth();
+    Route::get('/jobs', 'HomeController@jobs');
+
+    Route::get('/popup_confirm','GausPopupController@confirm');
+    Route::get('/{page?}', 'GausController@index');
+    Route::post('popup_reg', 'GausPopupController@store');
+    Route::post('gaus_reg', 'GausController@store');
+});
+
+
