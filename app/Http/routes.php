@@ -16,9 +16,9 @@
 //construct there we have $this->middleware('auth'); so we are redirected to login
 //we can do it here or in controller level
 
-    //Route::get('/', function () {
-    //   return view('welcome');
-    //});
+    Route::get('/', function () {
+      return view('welcome');
+    });
 
 
 /*
