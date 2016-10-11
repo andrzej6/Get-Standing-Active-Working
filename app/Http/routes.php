@@ -97,7 +97,7 @@ Route::group(['domain' => '127.0.0.1'], function()
 
 
 
-
+*/
 
 Route::group(['domain' => 'getaustraliastanding.org'], function()
 {
@@ -109,7 +109,7 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
     Route::post('popup_reg', 'GausPopupController@store');
     Route::post('gaus_reg', 'GausController@store');
 });
-*/
+
 
 
 Route::group(['domain' => 'getnzstanding.net'], function()
