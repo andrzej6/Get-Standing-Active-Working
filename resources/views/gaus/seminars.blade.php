@@ -66,7 +66,7 @@
 @section('content-restofsmall')
     <img src="img/aw/ads/message/feel_alternating1.png" class="restofsmall-pic" alt="feel after"/>
 
-    <a href="crowd-funding" class="darken">
+    <a href="crowd_funding" class="darken">
         <img src="img/getstanding/aus/ads/crowd-fund.png" alt="summit 2016"/>
     </a>
 
