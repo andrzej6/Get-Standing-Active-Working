@@ -110,6 +110,13 @@ Route::group(['domain' => 'getnzstanding.net'], function()
 Route::group(['domain' => 'getaustraliastanding.org'], function()
 {
     Route::auth();
+
+
+    Route::get('introduction.php', function () {
+        return redirect('introduction');
+    });
+
+
     Route::get('/jobs', 'HomeController@jobs');
 
     Route::get('/popup_confirm','GausPopupController@confirm');
