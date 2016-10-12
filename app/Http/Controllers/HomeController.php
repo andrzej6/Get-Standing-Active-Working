@@ -39,7 +39,7 @@ class HomeController extends Controller
     public function jobs()
     {
         Artisan::call('queue:work', ['--deamon', '--tries' =>3]);
-        return true;
+        return '';
 
     }
 
