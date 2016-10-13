@@ -44,6 +44,17 @@ Route::group(['domain' => '127.0.0.1'], function()
     });
 
 
+Route::group(['domain' => '127.0.0.1'], function()
+    {
+        Route::auth();
+
+        Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
+        Route::post('oyf_reg', 'OyfController@store');
+
+    });
+
+
+
     Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
@@ -61,18 +72,6 @@ Route::group(['domain' => '127.0.0.1'], function()
         Route::get('/{page?}', 'GusaController@index');
         Route::post('popup_reg', 'GusaPopupController@store');
         Route::post('gusa_reg', 'GusaController@store');
-    });
-
-
-
-
-    Route::group(['domain' => '127.0.0.1'], function()
-    {
-        Route::auth();
-
-        Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
-        Route::post('oyf_reg', 'OyfController@store');
-
     });
 
 
@@ -120,6 +119,16 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
     Route::get('/{page?}', 'GausController@index');
     Route::post('popup_reg', 'GausPopupController@store');
     Route::post('gaus_reg', 'GausController@store');
+});
+
+
+Route::group(['domain' => 'onyourfeetday.com'], function()
+{
+    Route::auth();
+
+    Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
+    Route::post('oyf_reg', 'OyfController@store');
+
 });
 
 
