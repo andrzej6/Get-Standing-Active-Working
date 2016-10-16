@@ -73,7 +73,7 @@
 @section('footer-scripts')
     @parent
     <script type="text/javascript">
-        var s="=b!isfg>#jogpAbdujwfxpsljoh/dpn#?jogpAbdujwfxpsljoh/dpn=0b?";
+        var s="=b!isfg>#nbjmup;jogpAbdujwfxpsljoh/dpn#?jogpAbdujwfxpsljoh/dpn=0b?";
         m=""; for (i=0; i<s.length; i++) m+=String.fromCharCode(s.charCodeAt(i)-1);
         document.getElementById('email_hidden').innerHTML=m;
     </script>
