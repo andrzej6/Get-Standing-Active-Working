@@ -39,9 +39,9 @@
 
 <body id="app-layout">
 <!-- H E A D E R -->
-<header>
+<header style="min-height: 50px">
 
-    <div class="header_wrapper container">
+    <div class="header_wrapper container" style="min-height: 50px">
         @include('shared.oyf.oyf_international_block')
     </div><!-- .header_wrapper -->
 

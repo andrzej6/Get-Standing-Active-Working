@@ -132,5 +132,13 @@ Route::group(['domain' => 'onyourfeetday.com'], function()
 });
 
 
+Route::group(['domain' => '127.0.0.1'], function()
+{
+    Route::auth();
+
+    Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
+    Route::post('oyf_reg', 'OyfController@store');
+
+});
 
 
