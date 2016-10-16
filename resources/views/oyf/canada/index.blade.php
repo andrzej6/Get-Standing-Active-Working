@@ -60,7 +60,7 @@
     <br/><br/>
 
     <div class="link-line">
-        <a class="link-underlined activeworking" href="{{ url('/') }}/signup">
+        <a class="link-underlined activeworking" href="mailto:info@activeworking.com">
             Contact us for more details
         </a>
     </div>

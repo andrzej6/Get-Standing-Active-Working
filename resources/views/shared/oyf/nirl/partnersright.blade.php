@@ -4,7 +4,7 @@
     <br/>
     <div class="aw-partners-platinum">
         <p>
-            <a href="http://getbritainstanding.org/">
+            <a href="http://getnistanding.com/">
                 <img src="{{ url('/') }}/img/general/emails/gnirl.png" width="150px" height="70px">
             </a>
         </p>

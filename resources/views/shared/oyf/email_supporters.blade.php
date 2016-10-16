@@ -14,7 +14,7 @@
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://workriteergo.com/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/oyf/workrite.jppg" width="150"/>
+        <img src="{{ url('/') }}/img/general/emails/supporters/oyf/workrite.jpg" width="150"/>
     </a>
     &nbsp;&nbsp;&nbsp;
 
@@ -41,13 +41,13 @@
 
 
     <a href="http://activeworking.com/littlenudge.php" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/little-nudge.jpg" width="150"/>
+        <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/>
     </a>
 
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://bhwa.org.uk/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/bhwa.jpg" width="150"/>
+        <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="150"/>
     </a>
 
 
