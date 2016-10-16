@@ -42,6 +42,11 @@ header.fixed_type .header_wrapper {
     min-height:50px;
 }
 
+header .header_wrapper {
+    min-height:50px;
+}
+
+
 .footer_wrapper .signature {
     margin-top: 10px;
 }
