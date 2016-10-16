@@ -32,7 +32,7 @@
 
             <div class="mediarow">
                 <div class="medialeft">
-                    <a href="{{$article->mlink}}" target="_blank">
+                    <a href="{{$article->alink}}" target="_blank">
                         <img src="img/general/media/{{$article->logo}}" width="88" height="88" class="alignleft" alt=""/>
                     </a>
                 </div>
