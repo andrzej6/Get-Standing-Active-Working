@@ -38,7 +38,7 @@
 }
 
 /* footer and header custom */
-header .header_wrapper {
+header.fixed_type .header_wrapper {
     min-height:50px;
 }
 
