@@ -4,7 +4,7 @@
 <div style="color:black;">
 
     <a href="http://getamericastanding.org/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/gusa.png" width="100"/></a>
+        <img src="{{ url('/') }}/img/general/emails/gusa.jpg" width="100"/></a>
 
     &nbsp;&nbsp;&nbsp;
 
