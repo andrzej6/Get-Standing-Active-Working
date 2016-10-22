@@ -39,43 +39,43 @@
                     <div id="banner1" class="OneByOne_container">
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider1.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider1.jpg" alt="" class="go-to go-to-oyf">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider2.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider2.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider3.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider3.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider4.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider4.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider5.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider5.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider6.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider6.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider7.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider7.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider8.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider8.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider9.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider9.jpg" alt="" class="">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/slider10.jpg" alt="" class="go-to">
+                            <img src="img/getstanding/can/slider/big/slider10.jpg" alt="" class="">
                         </div>
 
                     </div>
@@ -255,7 +255,7 @@
 
 
             <div class="span3 module_cont module_iconboxes">
-                <a href="sitting_cost">
+                <a href="introduction">
                     <div class="shortcode_iconbox">
                         <div class="ico">7</div>
                         <h4>Employers</h4>
@@ -384,7 +384,7 @@
 
 
                             <li style="height: 266px; width:266px;">
-                                <a href="onyourfeet">
+                                <a href="http://onyourfeetday.com/canada" target="_blank">
 
                                     <div class="item" style="height: 266px;">
 

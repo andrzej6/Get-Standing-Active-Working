@@ -3,23 +3,19 @@
     <strong>"Official Supporters"</strong>: <br/>
 
     <a href="http://corefitnessbyjana.com/wordpress/corporate/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/gam.png" width="100"/>
-    </a>
+        <img src="{{ url('/') }}/img/general/emails/supporters/gam.png" width="100"/></a>
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://workriteergo.com/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/workrite.jpg" width="150"/>
-    </a>
+        <img src="{{ url('/') }}/img/general/emails/supporters/workrite.jpg" width="150"/></a>
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://imprintmats.com/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/imprint.jpg" width="150"/>
-    </a>
+        <img src="{{ url('/') }}/img/general/emails/supporters/imprint.jpg" width="150"/></a>
     &nbsp;&nbsp;&nbsp;
 
     <a href="http://www.ergotron.com/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/ergotron.jpg" width="150"/>
-    </a>
+        <img src="{{ url('/') }}/img/general/emails/supporters/ergotron.jpg" width="150"/></a>
 
     <br/><br/>
     Thank you from all the team <br/><br/>
@@ -38,7 +34,7 @@
 
         <strong>Active Working CIC </strong>is leading the global insight and evidence based research on
         sedentary behaviour. We commissioned the first
-        <a href="{{ url('/') }}/expert_statement">global expert recommendations </a>
+        <a href="https://getbritainstanding.org/expert_statement">global expert recommendations </a>
         on standing time for office workers (with the support of <strong>Public Health England</strong>),
         published by the <strong>British Journal for Sports Medicine</strong> in June 2015. We spearhead
         international  <strong>Get Standing &trade;</strong> campaigns in UK, Australia, <span style="color:#EA1E30">USA</span>, Canada, Ireland and Europe.

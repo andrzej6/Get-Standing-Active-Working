@@ -10,7 +10,7 @@
 
 
         <strong>Please confirm your email</strong> by
-        <a href="{{ url('/') }}/popup_confirm?email=<?php echo $email ?>&key=<?php echo $token ?>">clicking here</a>.
+        <a href="http://activeworking.com/popup_confirm?email=<?php echo $email ?>&key=<?php echo $token ?>">clicking here</a>.
         <br/><br/>
 
         @include('shared.aw.email_supporters')

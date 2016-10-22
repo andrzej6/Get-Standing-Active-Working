@@ -94,7 +94,7 @@ $( document ).ready(function() {
 
         switch (true) {
             case (sithours <4):
-                color= lightgreen;
+                color= '#92AD49';
                 text=' LOW';
                 break;
 

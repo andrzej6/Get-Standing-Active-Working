@@ -18,7 +18,7 @@
 
 @section('oyfshortcut')
     <div id="oyf-shortcut">
-        <a href="onyourfeet-canada" ><img src="img/getstanding/can/oyf-shortcut.png"></a>
+        <a href="http://onyourfeetday.com/canada" target="_blank"><img src="img/getstanding/can/oyf-shortcut.png"></a>
     </div>
 @endsection
 

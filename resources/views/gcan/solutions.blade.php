@@ -176,7 +176,7 @@
 
         <div class="sitstandsol2">
 
-            <a href="http://onyourfeetday.com" target="_blank" class="sup-nobg">
+            <a href="http://onyourfeetday.com/canada" target="_blank" class="sup-nobg">
                 <img src="img/getstanding/can/ads/oyf.jpg" alt="advert" /> <br/>
             </a>
             <br/>
