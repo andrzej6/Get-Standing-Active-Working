@@ -439,6 +439,7 @@
                     <div style="clear: both;"></div>
                 </li>
 
+                <hr/>
 
                 <li>
                     {!!   Form::label('event_loc', '(*)Where is your event happening?') !!}
