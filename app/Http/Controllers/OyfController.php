@@ -51,7 +51,6 @@ class OyfController extends Controller
             $to_send = Oyf_reg::findOrFail($reg->id);
             $this->dispatch(new OyfSend2Emails($to_send));
 
-            Log::info("Oyf reg saved");
             flash('Thank you for your enquiry, we will be in touch shortly.', 'success');
         }
         else {flash('Cannot register at the moment. Please try again later', 'danger');}

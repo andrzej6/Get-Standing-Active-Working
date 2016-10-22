@@ -135,10 +135,9 @@ Route::group(['domain' => 'onyourfeetday.com'], function()
 Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
-
-    Route::get('{country?}/{action?}/{param?}', 'OyfController@index');
-    Route::post('oyf_reg', 'OyfController@store');
-
+    Route::get('/popup_confirm','GcanPopupController@confirm');
+    Route::get('/{page?}', 'GcanController@index');
+    Route::post('popup_reg', 'GcanPopupController@store');
+    Route::post('gcan_reg', 'GcanController@store');
 });
-
 
