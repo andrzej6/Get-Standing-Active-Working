@@ -3,7 +3,7 @@
 <body>
 <div style="color:black;">
 
-    <a href="http://onyourfeet.com/" style="color:#009999;">
+    <a href="http://onyourfeetday.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/oyf.jpg" width="100"/></a>
 
     &nbsp;&nbsp;&nbsp;
