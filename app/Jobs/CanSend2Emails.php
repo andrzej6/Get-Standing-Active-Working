@@ -45,7 +45,8 @@ class CanSend2Emails extends Job implements ShouldQueue
 
         Mail::send('emails.gcan.gcan_reg_notify', $array, function ($message) use ($tosend){
             $message->from('registrations@activeworking.com', 'Active Working');
-            $message->to('web@activeworking.com');
+            $message->to('info@activeworking.com');
+            $message->cc('web@activeworking.com');
             $message->subject('GetCanadaStanding.Com. Details from enquiry form');
         });
     }
