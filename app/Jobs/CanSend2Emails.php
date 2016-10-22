@@ -35,7 +35,7 @@ class CanSend2Emails extends Job implements ShouldQueue
         $tosend = $this->tosend;
 
         Mail::send('emails.gcan.gcan_reg', array(),function ($message) use ($tosend) {
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to($tosend->email);
             $message->subject('Thank you for your GET CANADA STANDING enquiry');
         });
@@ -44,7 +44,7 @@ class CanSend2Emails extends Job implements ShouldQueue
         $array = $tosend->toArray();
 
         Mail::send('emails.gcan.gcan_reg_notify', $array, function ($message) use ($tosend){
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
             $message->subject('GetCanadaStanding.Com. Details from enquiry form');
         });
