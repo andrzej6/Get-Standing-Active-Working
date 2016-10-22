@@ -45,7 +45,8 @@ class OyfSend2Emails extends Job implements ShouldQueue
 
         Mail::send('emails.oyf.oyf_reg_notify', $array, function ($message) use ($tosend){
             $message->from('registrations@activeworking.com', 'On Your Feet Day');
-            $message->to('web@activeworking.com');
+            $message->to('info@activeworking.com');
+            $message->cc('web@activeworking.com');
             $message->subject('On Your Feet Registration');
         });
     }
