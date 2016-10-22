@@ -11,7 +11,7 @@ class Menu {
                 'Research' => ['link' => 'research', 'class' => '']
             ], 'class' => ''
         ],
-        'On Your Feet' => ['link' => 'onyourfeet', 'sub' => '', 'class' => ''],
+        'On Your Feet' => ['link' => 'http://onyourfeetday.com/america', 'sub' => '', 'class' => ''],
         'Employers' => ['link' => '#', 'sub' =>
             ['Introduction' => ['link' => 'introduction', 'class' => ''],
                 'Cost Of Sitting' => ['link' => 'sitting_cost', 'class' => ''],

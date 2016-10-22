@@ -33,7 +33,7 @@ class CanSendPopupConf extends Job implements ShouldQueue
         $data = $this->data;
         $email =$data['email'];
         Mail::send('emails.gcan.popup', $data, function ($message) use ($email) {
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to($email);
             $message->subject('Thank you for signing up for GET CANADA STANDING newsletter');
         });

@@ -147,9 +147,9 @@ Route::group(['domain' => 'onyourfeetday.com'], function()
 Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
-    Route::get('/popup_confirm','GcanPopupController@confirm');
-    Route::get('/{page?}', 'GcanController@index');
-    Route::post('popup_reg', 'GcanPopupController@store');
-    Route::post('gcan_reg', 'GcanController@store');
+    Route::get('/popup_confirm','GusaPopupController@confirm');
+    Route::get('/{page?}', 'GusaController@index');
+    Route::post('popup_reg', 'GusaPopupController@store');
+    Route::post('gusa_reg', 'GusaController@store');
 });
 

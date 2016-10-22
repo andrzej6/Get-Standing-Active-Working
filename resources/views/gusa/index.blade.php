@@ -45,7 +45,7 @@
                     <div id="banner1" class="OneByOne_container">
 
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/usa/slider/big/slider1.jpg" alt="" class="go-to go-to-onyourfeet">
+                            <img src="img/getstanding/usa/slider/big/slider1.jpg" alt="" class="go-to go-to-oyf">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">
@@ -261,7 +261,7 @@
 
 
             <div class="span3 module_cont module_iconboxes">
-                <a href="sitting_cost">
+                <a href="introduction">
                     <div class="shortcode_iconbox">
                         <div class="ico">7</div>
                         <h4>Employers</h4>
@@ -411,7 +411,7 @@
 
 
                             <li style="height: 266px; width:266px;">
-                                <a href="onyourfeet">
+                                <a href="http://onyourfeetday.com/america" target="_blank">
 
                                     <div class="item" style="height: 266px;">
 
@@ -502,10 +502,5 @@
     <!-- BELOW AS IT IS SCRIPT TO ENABLE TOP SLIDER CAN LEAVE IN GBS PATH -->
     <script type="text/javascript" src="js/shared/sliderscript-main.js"></script>
 
-    <script type="text/javascript">
-        $(".go-to-onyourfeet").click(function(event){
-            window.open('http://onyourfeetday.com/','_blank');
-        });
-    </script>
 @endsection
 
