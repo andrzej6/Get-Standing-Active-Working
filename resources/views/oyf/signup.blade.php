@@ -137,7 +137,7 @@
                 </li>
 
                 <li>
-                    {!!   Form::label('country', 'Country:') !!}
+                    {!!   Form::label('country', '(*)Country:') !!}
                     {!!   Form::select('country',
                                        array('' => 'Select Option',
                                         'AF' => 'Afghanistan',
@@ -575,6 +575,7 @@
             $("#address1").attr("required", "true");
             $("#postcode").attr("required", "true");
             $("#city").attr("required", "true");
+            $("#country").attr("required", "true");
             $("#behalf").attr("required", "true");
 
             $("#workplace_size").attr("required", "true");
