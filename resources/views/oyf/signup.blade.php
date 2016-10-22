@@ -503,13 +503,16 @@
                     <div style="clear: both;"></div>
                 </li>
 
+                <!--
+                BELOW NEED TO ATTACH CORRECT FILE
                 <li>
+                {{--
                     {!!   Form::label('terms', ' I have read & agree to the Terms & Conditions') !!}
                     {!!  Form::checkbox('terms', 'terms', false,  array('id' => 'terms')) !!}
                     <a href="{{ url('/') }}/pdfs/oyf/can/terms.pdf" class="terms-link" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png"/></a>
-
+                --}}
                 </li>
-
+                -->
 
 
                 <li>
@@ -574,7 +577,7 @@
 
             $("#workplace_size").attr("required", "true");
             $("#event_loc").attr("required", "true");
-            $("#terms").attr("required", "true");
+            //$("#terms").attr("required", "true");
         });
     </script>
 @endsection
