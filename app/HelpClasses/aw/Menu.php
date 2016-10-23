@@ -33,8 +33,8 @@ class Menu {
 
         'Summit' => ['link' => '#', 'sub' =>
             ['2017' => ['link' => 'summit/2017/book', 'class' => ''],
-                '2016' => ['link' => 'summit/2016', 'class' => ''],
-                '2015' => ['link' => 'summit/2015', 'class' => '']
+                '2016' => ['link' => 'summit/2016/index', 'class' => ''],
+                '2015' => ['link' => 'summit/2015/index', 'class' => '']
             ], 'class' => ''
         ],
 

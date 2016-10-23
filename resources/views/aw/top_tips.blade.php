@@ -76,13 +76,13 @@
             <br/><br/>
             <div id="anchorhad"></div>
             <ol>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchorhad">Sit-Stand Desks</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchordsd">DIY Standing Desks</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchortd">Treadmill Desk</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchordmdr">Desk Mounts and Desk Risers</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchorbb">Sit-Stand Chair or Stool</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchorafm">Comfort Mat</a></u></li>
-                <li><u><a href="http://getbritainstanding.org/solutions#anchorsssc">Balance Boards</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchorhad" target="_blank">Sit-Stand Desks</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchordsd" target="_blank">DIY Standing Desks</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchortd" target="_blank">Treadmill Desk</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchordmdr" target="_blank">Desk Mounts and Desk Risers</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchorbb" target="_blank">Sit-Stand Chair or Stool</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchorafm" target="_blank">Comfort Mat</a></u></li>
+                <li><u><a href="http://getbritainstanding.org/solutions.php#anchorsssc" target="_blank">Balance Boards</a></u></li>
             </ol>
         </div>
 

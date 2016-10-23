@@ -154,7 +154,7 @@
 
                 <div class="halfright1">
 
-                    <a href="https://getbritainstanding.org/onyourfeet-britain/" target="_blank">
+                    <a href="http://onyourfeetday.com/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/oyf-calc.jpg">
                     </a>
 
@@ -208,7 +208,7 @@
 
 
                                 <li style="height: 266px; width:266px;">
-                                    <a href="{{ url('/') }}/summit/pricing">
+                                    <a href="{{ url('/') }}/summit/2017/book">
                                         <div class="item" style="height: 266px;">
                                             <div class="img_block">
                                                 <img src="{{ url('/') }}/img/aw/carousel/slider1.jpg" alt="summit 2016"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
@@ -226,7 +226,7 @@
 
 
                                 <li style="height: 266px; width:266px;">
-                                    <a href="contact">
+                                    <a href="nudge_trial">
                                         <div class="item" style="height: 266px;">
                                             <div class="img_block">
                                                 <img src="{{ url('/') }}/img/aw/carousel/slider2.jpg" alt="summit 2016"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
@@ -347,23 +347,23 @@
     <script type="text/javascript">
 
         $(".go-to-nudge").click(function(event){
-            window.open('http://activeworking.com/trial-nudge.php','_blank');
+            window.open('http://activeworking.com/nudge_trial','_blank');
         });
 
         $(".go-to-careers").click(function(event){
-            window.open('http://activeworking.com/careers.php','_blank');
+            window.open('http://activeworking.com/careers','_blank');
         });
 
         $(".go-to-statement").click(function(event){
-            window.open('http://activeworking.com/expert_statement.php','_blank');
+            window.open('http://activeworking.com/expert_statement','_blank');
         });
 
         $(".go-to-videos").click(function(event){
-            window.open('http://activeworking.com/summit/videos.php','_blank');
+            window.open('http://activeworking.com/summit/2016/videos','_blank');
         });
 
         $(".go-to-summit").click(function(event){
-            window.open('http://activeworking.com/summit/register.php','_blank');
+            window.open('http://activeworking.com/summit/2017/book','_blank');
         });
 
         $(".go-to-who").click(function(event){

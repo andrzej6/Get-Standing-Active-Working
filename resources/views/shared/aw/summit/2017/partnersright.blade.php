@@ -35,7 +35,7 @@
 
     <div class="aw-partners-platinum link-line">
         <br/>
-        <p><center><a href="partners" class="aw-partners-linkr">Partnership Enquiries</a></center></p>
+        <p><center><a href="contact" class="aw-partners-linkr">Partnership Enquiries</a></center></p>
         <br/>
     </div>
 
