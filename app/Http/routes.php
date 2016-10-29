@@ -152,6 +152,25 @@ Route::group(['domain' => 'onyourfeetday.com'], function()
 });
 
 
+Route::group(['domain' => 'activeworking.com'], function()
+{
+    Route::auth();
+
+    Route::get('summit/{year?}/{page?}', 'AwController@summit');
+    Route::get('/popup_confirm','AwPopupController@confirm');
+
+    Route::get('{page?}', 'AwController@index');
+
+    Route::post('aw_reg', 'AwController@store');
+    Route::post('summit_message', 'AwController@message');
+    Route::post('summit_reg', 'AwController@summitreg');
+    Route::post('popup_reg', 'AwPopupController@store');
+    Route::post('nudge_reg', 'NudgeController@store');
+
+});
+
+
+
 Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
