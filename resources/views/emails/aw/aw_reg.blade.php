@@ -3,7 +3,7 @@
 <body>
 <div style="color:black;">
     <a href="http://activeworking.com" style="color:#009999;">
-        <img src="img/general/emails/activeworking.jpg" width="100"/></a> <br/>
+        <img src="{{ url('/') }}/img/general/emails/activeworking.jpg" width="100"/></a> <br/>
 
     Thank you for your recent enquiry.
     <br/><br/>

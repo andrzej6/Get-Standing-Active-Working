@@ -5,7 +5,7 @@
     <a href="http://activeworking.com">
         <img src="{{ url('/') }}/img/general/emails/activeworking.jpg" width="100"/></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="http://activeworking.com/littlenudge.php">
+    <a href="http://activeworking.com/littlenudge">
         <img src="{{ url('/') }}/img/general/emails/little_nudge1.jpg" width="100"/></a>
 
     <br/><br/>

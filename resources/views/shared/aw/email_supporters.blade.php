@@ -51,7 +51,7 @@
 
         <strong>Active Working CIC </strong>is leading the global insight and evidence based research on
         sedentary behaviour. We commissioned the first
-        <a href="http://activeworking.com/expert_statement.php">global expert recommendations </a>
+        <a href="http://activeworking.com/expert_statement">global expert recommendations </a>
         on standing time for office workers (with the support of <strong>Public Health England</strong>),
         published by the <strong>British Journal for Sports Medicine</strong> in June 2015. We spearhead
         international  <strong>Get Standing &trade;</strong> campaigns in UK, Australia, USA, Canada, Ireland and Europe.

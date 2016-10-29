@@ -1,3 +1,8 @@
+{{-- */
+$sandbox=1;
+/* --}}
+
+
 @extends('layouts.aw.summit-2017')
 
 @section('header-styles')
@@ -43,9 +48,17 @@
 
         <div class="aw-payment-button">
 
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            @if ($sandbox == 1)
+                <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="hosted_button_id" value="HTMQRUKD4MPKW">
+            @else
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                    <input type="hidden" name="hosted_button_id" value="4VX6ZCV8L9L8S">
+            @endif
+
+
+
                 <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="4VX6ZCV8L9L8S">
                 <table>
                     <tr><td><input type="hidden" name="on0" value="Choose correct option">Your Option</td></tr><tr><td>
 
