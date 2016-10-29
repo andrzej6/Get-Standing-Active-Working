@@ -36,7 +36,7 @@ class AwSend2Emails extends Job implements ShouldQueue
         $tosend = $this->tosend;
 
         Mail::send('emails.aw.aw_reg', array(),function ($message) use ($tosend) {
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to($tosend->email);
             $message->subject('Thank you for your ACTIVE WORKING enquiry');
         });
@@ -45,7 +45,7 @@ class AwSend2Emails extends Job implements ShouldQueue
         $array = $tosend->toArray();
 
         Mail::send('emails.aw.aw_reg_notify', $array, function ($message) use ($tosend){
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
             $message->subject('ACTIVEWORKING.COM. Details from enquiry form');
         });

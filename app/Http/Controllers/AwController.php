@@ -49,8 +49,8 @@ class AwController extends Controller
             list ($trail1, $trail2) = Menu::TrailLink($page);
             return view('errors.aw-error', compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
         } else {
-            $mainMenuOutput = Menu::getMenu('summit/'.$year.'/book');
-            list ($trail1, $trail2) = Menu::TrailLink('summit/'.$year.'/book');
+            $mainMenuOutput = Menu::getMenu('summit/'.$year.'/'.$page);
+            list ($trail1, $trail2) = Menu::TrailLink('summit >> '.$year);
             return view('aw.summit.'.$year.'.'.$page, compact('mainMenuOutput', 'trail1', 'trail2', 'page'));
         }
 
