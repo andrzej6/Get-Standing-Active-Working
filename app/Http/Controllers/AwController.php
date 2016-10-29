@@ -100,6 +100,7 @@ class AwController extends Controller
         Mail::send('emails.aw.message', $data,function ($message) {
             $message->from('info@activeworking.com', 'Active Working Summit 2017');
             $message->to('web@activeworking.com');
+            $message->cc('info@activeworking.com');
             $message->subject('Message from Summit Contact Form');
         });
 
