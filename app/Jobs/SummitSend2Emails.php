@@ -35,7 +35,7 @@ class SummitSend2Emails extends Job implements ShouldQueue
         $tosend = $this->tosend;
 
         Mail::send('emails.aw.summit_reg', array(),function ($message) use ($tosend) {
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to($tosend->email);
             $message->subject('Thank you for your ACTIVE WORKING SUMMIT registration');
         });
@@ -44,8 +44,10 @@ class SummitSend2Emails extends Job implements ShouldQueue
         $array = $tosend->toArray();
 
         Mail::send('emails.aw.summit_reg_notify', $array, function ($message) use ($tosend){
-            $message->from('info@activeworking.com', 'Active Working');
+            $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
+            //$message->cc('info@activeworking.com');
+            //$message->bcc('nandan@activeworking.com');
             $message->subject('ACTIVEWORKING SUMMIT REGITRATION. Details');
         });
     }
