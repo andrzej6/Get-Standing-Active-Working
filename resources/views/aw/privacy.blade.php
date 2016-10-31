@@ -1,11 +1,11 @@
-@extends('layouts.gcan.basic')
+@extends('layouts.aw.basic')
 
 @section('description')
-    Get Canada Standing is a campaign to educate on Active Working. Privacy
+    Active Working. Privacy.
 @endsection
 
 @section('keywords')
-    get-canada-standing, active-working, productive-working, office-productivity, sit-stand-partners, sit-stand-desk,
+    active-working, productive-working, office-productivity, sit-stand-partners, sit-stand-desk,
     standing-desk, healthy-office, home-office, health-and-safety, wellness
 @endsection
 
@@ -26,7 +26,7 @@
             <div class="termsandcons">
 
                 <i>What this privacy and cookie policy covers</i><br/><br/>
-                This policy explains how the Get Canada Standing and all entities in the ACTIVE WORKING (AW) Group:<br>
+                This policy explains how all entities in the ACTIVE WORKING (AW) Group:<br>
 
                 <ul>
                     <li>
@@ -153,7 +153,7 @@
                         <li> Cookies which help us get value for money from advertising.<br/>
                             We occasionally use other types of cookies that can track how our advertisements perform.
                             These cookies will help us identify which advertisements resulted in a 'click through' to Get
-                            Canada Standing
+                            Active Working
                             website or someone downloading one of our advice sheets. <br/><br/>
 
                             <u>A note about YouTube cookies</u><br/><br/>
