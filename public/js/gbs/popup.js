@@ -6,13 +6,13 @@ $( document ).ready(function() {
 
     var windowwidth = 300;
     var margintop = 0;
-    var titletext = '<img src="img/getstanding/gb/logos/minilogo.png" /><span class="gbs-popup-title"> &nbsp;Keep connected.</span>';
+    var titletext = '<img src="http://getbritainstanding.org/lara_base/public/img/getstanding/gb/logos/minilogo.png" /><span class="gbs-popup-title"> &nbsp;Keep connected.</span>';
 
     if ($(window).width()>550)
     {
         windowwidth = 550;
         margintop = '-113px';
-        titletext ='<img src="img/getstanding/gb/logos/minilogo.png" /><span class="gbs-popup-title"> &nbsp;Keep connected to our campaign. JOIN US</span>';
+        titletext ='<img src="http://getbritainstanding.org/lara_base/public/img/getstanding/gb/logos/minilogo.png" /><span class="gbs-popup-title"> &nbsp;Keep connected to our campaign. JOIN US</span>';
     }
 
 
@@ -160,7 +160,7 @@ $( document ).ready(function() {
         if ( valid )
           {
             //insert new email to database
-            $.post( "popup_reg", $( "#qreg-form" ).serialize()).done(function( data )
+            $.post( "/store.php", $( "#qreg-form" ).serialize()).done(function( data )
             {
                 if (data=="")
                   {

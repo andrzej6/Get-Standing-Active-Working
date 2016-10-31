@@ -1,4 +1,4 @@
-@extends('layouts.gcan.basic')
+@extends('layouts.aw.basic')
 
 @section('description')
     Get Canada Standing is a campaign to educate on Active Working. Terms and conditions
