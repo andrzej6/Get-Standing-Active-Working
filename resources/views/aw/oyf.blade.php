@@ -27,7 +27,7 @@
     <br/>
 
     <div class="gbs-innovate">
-        <a href="https://getbritainstanding.org/onyourfeet-britain/"><u>On Your Feet Britain</u></a>™
+        <a href="http://onyourfeetday.com/britain"><u>On Your Feet Britain</u></a>™
         is an annual workplace awareness day run on the final Friday in April for employees.
         This event is owned by <strong>Get Britain Standing</strong>™ campaign and run in partnership with the
         <strong>British Heart Foundation</strong> Over 500 companies and 100,000 employees participated in the inaugural 2015 OYFB day
@@ -35,24 +35,27 @@
 
         <br/><br>
 
-        For more information <a href="https://getbritainstanding.org/onyourfeet-britain/">
+        For more information <a href="http://onyourfeetday.com/britain">
             <u>visit our website</u></a>.
 
         <br/><br/>
 
-        <a href="http://getamericastanding.org/onyourfeet-america" target="_blank">
+        <a href="http://onyourfeetday.com/america" target="_blank">
             <img src="{{ url('/') }}/img/aw/logos/small/oyf-america.jpg" />
         </a> &nbsp;
 
-        <a href="https://getbritainstanding.org/onyourfeet-britain/" target="_blank">
+        <a href="http://onyourfeetday.com" target="_blank">
             <img src="{{ url('/') }}/img/aw/logos/small/oyf-britain.jpg" />
         </a> &nbsp;
 
-        <a href="http://getcanadastanding.org/onyourfeet-canada" target="_blank">
+        <a href="http://onyourfeetday.com/canada" target="_blank">
             <img src="{{ url('/') }}/img/aw/logos/small/oyf-canada.jpg" />
         </a> &nbsp;
 
-        <img src="{{ url('/') }}/img/aw/logos/small/oyf-ireland.jpg" /> &nbsp;
+        <a href="http://onyourfeetday.com/ireland" target="_blank">
+        <img src="{{ url('/') }}/img/aw/logos/small/oyf-ireland.jpg" /></a> &nbsp;
+
+       
 
     </div>
 
