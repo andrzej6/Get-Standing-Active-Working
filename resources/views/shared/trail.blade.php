@@ -2,6 +2,8 @@
     >>
     @if ((!empty($trail1['link'])) && $trail1['link']!='#')
         <a href="{{ $trail1['link']}}">{{$trail1['name']}}</a>
+    @elseif (empty($trail1['link']))
+       &nbsp;
     @else
         {{$trail1['name']}}
     @endif
