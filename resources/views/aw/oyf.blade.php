@@ -55,7 +55,7 @@
         <a href="http://onyourfeetday.com/ireland" target="_blank">
         <img src="{{ url('/') }}/img/aw/logos/small/oyf-ireland.jpg" /></a> &nbsp;
 
-       
+
 
     </div>
 

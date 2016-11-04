@@ -41,7 +41,7 @@
 
                     <ul class="recent_posts">
 
-                        <li> <a href="solutions">
+                        <li> <a href="https://sit-stand.com/">
                                 <div class="img_wrapper">
                                     <img src="{{ url('/') }}/img/general/media/updown.jpg"  width="88" height="88" class="alignleft" alt="featured product"/>
                                 </div>
@@ -55,7 +55,7 @@
                         </li>
 
 
-                        <li> <a href="solutions">
+                        <li> <a href="https://sit-stand.com/">
                                 <div class="img_wrapper">
                                     <img src="{{ url('/') }}/img/general/media/imprint.jpg" width="88" height="88" class="alignleft" alt="featured product"/>
                                 </div>

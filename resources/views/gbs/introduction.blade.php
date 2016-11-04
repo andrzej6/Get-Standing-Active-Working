@@ -30,12 +30,12 @@
                 <div id="banner1" class="OneByOne_container">
 
                     <div class="oneByOne_item ls_bg2">
-                        <img src="img/aw/slider/subpage/aw_feelafter.png" alt="microsoft">
+                        <img src="img/aw/slider/subpage/benefits.jpg" alt="microsoft">
                     </div>
 
 
                     <div class="oneByOne_item ls_bg3">
-                        <img src="img/aw/slider/subpage/aw_calorie.png" alt="microsoft">
+                        <img src="img/aw/slider/subpage/accreditation1.jpg" alt="microsoft">
                     </div>
 
                 </div>
