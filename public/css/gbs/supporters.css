@@ -59,3 +59,16 @@
 .aw-maincontent hr {
     height:10px;
 }
+
+
+
+.smallwidth-ext {
+    width:75%;
+    float:left;
+}
+
+.restofsmall-ext {
+    width: 20%;
+    float: left;
+    margin-left: 2%;
+}
