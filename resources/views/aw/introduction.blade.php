@@ -84,9 +84,16 @@
 @section('content-restofsmall')
     <img src="{{ url('/') }}/img/aw/ads/message/standing_great.jpg" class="restofsmall-pic" alt="feel after"/>
 
+    <!--
     <a href="http://onyourfeetday.com" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>
     </a>
+    -->
+
+    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit2017.jpg" alt="oyf"/>
+    </a>
+
 @endsection
 
 

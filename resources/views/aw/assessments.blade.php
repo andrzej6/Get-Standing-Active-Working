@@ -101,7 +101,13 @@
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>
     </a>
 
+    <!--
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating1.png" class="restofsmall-pic"  alt=""/>
+    -->
+
+    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit2017.jpg" alt="oyf"/>
+    </a>
 
 
         <img src="{{ url('/') }}/img/aw/ads/message/who.png" class="restofsmall-pic"  alt=""/>

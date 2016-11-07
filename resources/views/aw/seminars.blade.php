@@ -70,7 +70,13 @@
 
     <img src="{{ url('/') }}/img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>
 
+    <!--
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating2.png" class="restofsmall-pic" alt="who"/>
+    -->
+
+    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit2017.jpg" alt="oyf"/>
+    </a>
 
 
 

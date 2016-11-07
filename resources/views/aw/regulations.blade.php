@@ -96,6 +96,12 @@
 
     <img src="img/aw/ads/message/feel_alternating1.png" alt="standing great" class="restofsmall-pic"/>
 
+    <!--
     <img src="img/aw/ads/message/feel_alternating2.png" alt="standing great" class="restofsmall-pic"/>
+    -->
+
+    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit2017.jpg" alt="oyf"/>
+    </a>
 
 @endsection
