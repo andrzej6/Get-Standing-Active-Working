@@ -36,6 +36,12 @@
             </a>
         </p>
 
+        <p>
+            <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg">
+            </a>
+        </p>
+
     </div>
 
 
