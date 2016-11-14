@@ -5,7 +5,7 @@
 
     RewriteEngine On
 
-    RewriteCond %{HTTP_HOST} ^www.activeworking.com.com$ [NC]
+    RewriteCond %{HTTP_HOST} ^www.activeworking.com$ [NC]
     RewriteRule ^(.*)$ http://activeworking.com/$1 [R=301,L]
 
     # Redirect Trailing Slashes If Not A Folder...
