@@ -152,6 +152,20 @@ Route::group(['domain' => 'onyourfeetday.com'], function()
 });
 
 
+
+Route::group(['domain' => 'onyourfeet.eu'], function()
+{
+    Route::auth();
+
+    Route::get('/{country?}/{action?}/{param?}', 'OyfController@index');
+    Route::post('oyf_reg', 'OyfController@store');
+
+});
+
+
+
+
+
 Route::group(['domain' => 'activeworking.com'], function()
 {
     Route::auth();
