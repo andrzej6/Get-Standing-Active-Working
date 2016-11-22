@@ -175,6 +175,13 @@ Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
 
+    Route::get('data_gbsreg', 'RegistrationsController@gbs');
+    Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
+
+    Route::get('data_ausreg', 'RegistrationsController@gaus');
+    Route::get('data_auspopup', 'RegistrationsController@gauspopup');
+
+
     Route::get('summit/{year?}/{page?}', 'AwController@summit');
     Route::get('/popup_confirm','AwPopupController@confirm');
 
