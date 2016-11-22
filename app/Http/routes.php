@@ -171,7 +171,7 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::auth();
 
     Route::get('/onyourfeet/europe', function () {
-        $url = 'htp://onyourfeetday.com';
+        $url = 'http://onyourfeetday.com';
         return Redirect::to($url);
     });
 
