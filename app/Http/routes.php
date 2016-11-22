@@ -170,6 +170,11 @@ Route::group(['domain' => 'activeworking.com'], function()
 {
     Route::auth();
 
+    Route::get('/onyourfeet/europe', function () {
+        $url = 'htp://onyourfeetday.com';
+        return Redirect::to($url);
+    });
+
     Route::get('summit/{year?}/{page?}', 'AwController@summit');
     Route::get('/popup_confirm','AwPopupController@confirm');
 
