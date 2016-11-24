@@ -27,6 +27,7 @@ class NudgeController extends Controller
             Log::info("Request cycle with Queues started little nudge");
             $this->dispatch(new NudgeSend2Emails($to_send));
 
+            /* below all for freshbooks integration
             $url = "https://activeworking.freshbooks.com/api/2.1/xml-in";
             $token = "ef8732537d28a2472b24847fd9a3bc1d";
 
@@ -59,6 +60,11 @@ class NudgeController extends Controller
             else{
                 //print_r($client);
             }
+
+            */
+
+
+
 
             flash('Thank you for your order, we will be in touch shortly.', 'success');
         }
