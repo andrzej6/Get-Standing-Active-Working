@@ -186,6 +186,27 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::post('popup_reg', 'AwPopupController@store');
     Route::post('nudge_reg', 'NudgeController@store');
 
+
+    /* below displaying registrations routes */
+    Route::get('data_gbsreg', 'RegistrationsController@gbs');
+    Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
+
+    Route::get('data_ausreg', 'RegistrationsController@gaus');
+    Route::get('data_auspopup', 'RegistrationsController@gauspopup');
+
+    Route::get('data_canreg', 'RegistrationsController@gcan');
+    Route::get('data_canpopup', 'RegistrationsController@gcanpopup');
+
+    Route::get('data_usareg', 'RegistrationsController@gusa');
+    Route::get('data_usapopup', 'RegistrationsController@gusapopup');
+
+    Route::get('data_awreg', 'RegistrationsController@aw');
+    Route::get('data_awpopup', 'RegistrationsController@awpopup');
+    Route::get('data_awsummit', 'RegistrationsController@awsummit');
+
+    Route::get('data_oyfreg', 'RegistrationsController@oyf');
+
+
 });
 
 
@@ -199,6 +220,19 @@ Route::group(['domain' => '127.0.0.1'], function()
 
     Route::get('data_ausreg', 'RegistrationsController@gaus');
     Route::get('data_auspopup', 'RegistrationsController@gauspopup');
+
+    Route::get('data_canreg', 'RegistrationsController@gcan');
+    Route::get('data_canpopup', 'RegistrationsController@gcanpopup');
+
+    Route::get('data_usareg', 'RegistrationsController@gusa');
+    Route::get('data_usapopup', 'RegistrationsController@gusapopup');
+
+    Route::get('data_awreg', 'RegistrationsController@aw');
+    Route::get('data_awpopup', 'RegistrationsController@awpopup');
+    Route::get('data_awsummit', 'RegistrationsController@awsummit');
+
+    Route::get('data_oyfreg', 'RegistrationsController@oyf');
+
 
 
     Route::get('summit/{year?}/{page?}', 'AwController@summit');

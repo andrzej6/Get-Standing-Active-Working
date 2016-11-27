@@ -9,11 +9,11 @@
 @endsection
 
 @section('title')
-    GAUS Registrations
+     {{$country}} Registrations
 @endsection
 
 @section('pagetitle')
-    Get Australia Standing Registrations
+    {{$country}} Registrations
 @endsection
 
 

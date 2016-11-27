@@ -13,11 +13,11 @@ $i = 0;
 @endsection
 
 @section('title')
-    GAUS Popup Registrations
+    {{$country}} Popup Registrations
 @endsection
 
 @section('pagetitle')
-    Get Australia Standing Popup Registrations
+    {{$country}} Popup Registrations
 @endsection
 
 
