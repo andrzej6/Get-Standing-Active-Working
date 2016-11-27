@@ -170,22 +170,6 @@ Route::group(['domain' => 'activeworking.com'], function()
 {
     Route::auth();
 
-    Route::get('/onyourfeet/europe', function () {
-        $url = 'http://onyourfeetday.com';
-        return Redirect::to($url);
-    });
-
-    Route::get('summit/{year?}/{page?}', 'AwController@summit');
-    Route::get('/popup_confirm','AwPopupController@confirm');
-
-    Route::get('{page?}', 'AwController@index');
-
-    Route::post('aw_reg', 'AwController@store');
-    Route::post('summit_message', 'AwController@message');
-    Route::post('summit_reg', 'AwController@summitreg');
-    Route::post('popup_reg', 'AwPopupController@store');
-    Route::post('nudge_reg', 'NudgeController@store');
-
 
     /* below displaying registrations routes */
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
@@ -205,6 +189,29 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::get('data_awsummit', 'RegistrationsController@awsummit');
 
     Route::get('data_oyfreg', 'RegistrationsController@oyf');
+
+
+
+
+
+    Route::get('/onyourfeet/europe', function () {
+        $url = 'http://onyourfeetday.com';
+        return Redirect::to($url);
+    });
+
+    Route::get('summit/{year?}/{page?}', 'AwController@summit');
+    Route::get('/popup_confirm','AwPopupController@confirm');
+
+    Route::get('{page?}', 'AwController@index');
+
+    Route::post('aw_reg', 'AwController@store');
+    Route::post('summit_message', 'AwController@message');
+    Route::post('summit_reg', 'AwController@summitreg');
+    Route::post('popup_reg', 'AwPopupController@store');
+    Route::post('nudge_reg', 'NudgeController@store');
+
+
+
 
 
 });
