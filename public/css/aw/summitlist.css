@@ -29,6 +29,10 @@ td {
 
 }
 
+table.smallcells td {
+    height:30px;
+}
+
 
 
 div {

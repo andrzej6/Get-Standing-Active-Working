@@ -240,6 +240,8 @@ Route::group(['domain' => '127.0.0.1'], function()
 
     Route::get('data_oyfreg', 'RegistrationsController@oyf');
 
+    Route::get('data_overview', 'RegistrationsController@overview');
+
 
 
     Route::get('summit/{year?}/{page?}', 'AwController@summit');

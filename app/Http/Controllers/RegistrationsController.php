@@ -70,6 +70,68 @@ class RegistrationsController extends Controller
     }
 
 
+    public function overview()
+    {
+        $gbs_regs = collect(DB::connection('mysql2')->table('customers')->select('*')->get());
+        $gbs_popups = collect(DB::connection('mysql2')->table('email_market')->select('*')->get());
+        $summit = collect(DB::connection('mysql2')->table('customers1s')->select('*')->get());
+
+        $int_regs = collect(DB::connection('mysql')->table('gbs_regs')->select('*')->get());
+        $int_popups = collect(DB::connection('mysql')->table('gbs_popups')->select('*')->get());
+        $oyf_regs = collect(DB::connection('mysql')->table('oyf_regs')->select('*')->get());
+
+        $dates = array('2016-01','2016-02','2016-03','2016-04','2016-05','2016-06','2016-07',
+                       '2016-08','2016-09','2016-10','2016-11','2016-12');
+
+
+        for ($i = 0; $i < count($dates)-1; $i++) {
+            $filtered_gbs[$i] = count($gbs_regs->filter(function ($item) use ($dates,$i)
+                {return ($item->date_created >= $dates[$i] && $item->date_created < $dates[$i+1]);})->all());
+
+            $filtered_aus[$i] = count($int_regs->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country =='au');})->all());
+
+            $filtered_can[$i] = count($int_regs->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country =='can');})->all());
+
+            $filtered_us[$i] = count($int_regs->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country =='us');})->all());
+
+            $filtered_aw[$i] = count($int_regs->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country =='AW REG');})->all());
+
+            $filtered_summit[$i] = count($summit->filter(function ($item) use ($dates,$i)
+            {return ($item->date_created >= $dates[$i] && $item->date_created < $dates[$i+1]);})->all());
+
+            $filtered_oyf[$i] = count($oyf_regs->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1]);})->all());
+
+
+
+            $filtered_gbspopup[$i] = count($gbs_popups->filter(function ($item) use ($dates,$i)
+            {return ($item->time >= $dates[$i] && $item->time < $dates[$i+1]);})->all());
+
+
+            $filtered_auspopup[$i] = count($int_popups->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country == 'aus');})->all());
+
+            $filtered_canpopup[$i] = count($int_popups->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country == 'can');})->all());
+
+            $filtered_uspopup[$i] = count($int_popups->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country == 'us');})->all());
+
+            $filtered_awpopup[$i] = count($int_popups->filter(function ($item) use ($dates,$i)
+            {return ($item->created_at >= $dates[$i] && $item->created_at < $dates[$i+1] && $item->country == 'AW REG');})->all());
+
+        }
+
+        return view('registrations.overview',
+            compact('filtered_gbs','filtered_aus','filtered_can','filtered_us','filtered_aw','filtered_summit','filtered_oyf',
+                    'filtered_gbspopup','filtered_auspopup','filtered_canpopup','filtered_uspopup','filtered_awpopup','dates'));
+    }
+
+
 
 
 
