@@ -189,6 +189,7 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::get('data_awsummit', 'RegistrationsController@awsummit');
 
     Route::get('data_oyfreg', 'RegistrationsController@oyf');
+    Route::get('data_overview', 'RegistrationsController@overview');
 
 
 
