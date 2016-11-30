@@ -40,7 +40,7 @@
 
 
     <div style="font-weight: bold;color:red;">
-        Book <span style="text-decoration: underline;font-weight: bold;">before 20th November 2016</span> and receive a
+        Book <span style="text-decoration: underline;font-weight: bold;">before 30th November 2016</span> and receive a
         <span style="text-decoration: underline;font-weight: bold;">20% discount </span> to Active Working Summit 2017.<br/><br/>
     </div>
 
@@ -48,7 +48,7 @@
         The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
     </div>
     <br/>
-    <span>The programme for 2017 will be published in October 2016. </span>
+    <span>The programme for 2017 will be published in December 2016. </span>
 
     <br/><br/>
 

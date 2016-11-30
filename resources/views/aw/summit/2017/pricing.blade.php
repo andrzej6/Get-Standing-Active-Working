@@ -28,7 +28,7 @@
     <div class="">
 
         <div style="font-weight: bold;color:red;">
-            Book <span style="text-decoration: underline;font-weight: bold;">before 20th November 2016</span> and receive a
+            Book <span style="text-decoration: underline;font-weight: bold;">before 30th November 2016</span> and receive a
             <span style="text-decoration: underline;font-weight: bold;">20% discount </span> to Active Working Summit 2017.<br/><br/>
         </div>
 
@@ -36,7 +36,7 @@
             The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
         </div>
         <br/>
-        <span style="font-size: 16px;font-weight:bold">The programme for 2017 will be published in October 2016. </span>
+        <span style="font-size: 16px;font-weight:bold">The programme for 2017 will be published in December 2016. </span>
 
         <br/><br/>
         This Summit is targeted at Senior Professionals / Opinion Leaders /  Decision Makers:  responsible for wellbeing,
@@ -68,7 +68,7 @@
 
     <div style="font-size: 16px;font-weight: bold">
         <br/>
-        EARLY BIRD Price (20% discount) VALID UNTIL 20/11/2016
+        EARLY BIRD Price (20% discount) VALID UNTIL 30/11/2016
     </div> <br/>
 
     <sup>1</sup> <span class="summit-smaller">Suppliers and marketing representatives of ergonomic solutions, office equipment, workplace
