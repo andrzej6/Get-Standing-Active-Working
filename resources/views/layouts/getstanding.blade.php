@@ -7,7 +7,7 @@
 
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
-    <meta name="google-site-verification" content="xUqNJhso-5SkHAU3tKD_fPwC89id1mOGGwFivnffoRE" />
+    <meta name="google-site-verification" content="DCxP-6QmryrCV0KKowgJzyVm4Fsx6Dg3V8YvRMpRjgo" />
 
     <title>
         @yield('title')
