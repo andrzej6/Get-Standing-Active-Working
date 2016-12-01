@@ -81,7 +81,7 @@ class RegistrationsController extends Controller
         $oyf_regs = collect(DB::connection('mysql')->table('oyf_regs')->select('*')->get());
 
         $dates = array('2016-01','2016-02','2016-03','2016-04','2016-05','2016-06','2016-07',
-                       '2016-08','2016-09','2016-10','2016-11','2016-12');
+                       '2016-08','2016-09','2016-10','2016-11','2016-12','2017-01');
 
 
         for ($i = 0; $i < count($dates)-1; $i++) {

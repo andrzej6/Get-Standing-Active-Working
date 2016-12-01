@@ -30,7 +30,7 @@
             --}}
 
             @foreach ($dates as $date)
-                @if ($date !='2016-12')
+                @if ($date !='2017-01')
                   <th>{{$date}}</th>
                 @endif
             @endforeach
