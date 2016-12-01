@@ -10,8 +10,6 @@
 
     <meta name="base_url" content="{{ url('/') }}">
 
-    <meta name="google-site-verification" content="fRnAQK6B7oGPvQZEUicqjIjXvRFng3_vch2OicxlYtg" />
-
     <title>
         @yield('title')
     </title>
