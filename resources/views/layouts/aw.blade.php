@@ -9,7 +9,8 @@
     <meta name="keywords" content="@yield('keywords')">
 
     <meta name="base_url" content="{{ url('/') }}">
-    <meta name="google-site-verification" content="1I_WfKLBO2HS2etetgblmQ4f4D9Y1DmpUGrWYXmGV5E" />
+    
+    <meta name="google-site-verification" content="fRnAQK6B7oGPvQZEUicqjIjXvRFng3_vch2OicxlYtg" />
 
     <title>
         @yield('title')

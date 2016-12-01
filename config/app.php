@@ -157,6 +157,8 @@ return [
         App\Providers\RouteServiceProvider::class,
         Illuminate\Html\HtmlServiceProvider::class,
 
+        Roumen\Sitemap\SitemapServiceProvider::class
+
 
     ],
 

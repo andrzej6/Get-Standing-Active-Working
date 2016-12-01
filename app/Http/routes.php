@@ -171,6 +171,12 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::auth();
 
 
+
+
+
+
+
+
     /* below displaying registrations routes */
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
     Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
@@ -222,6 +228,43 @@ Route::group(['domain' => 'activeworking.com'], function()
 Route::group(['domain' => '127.0.0.1'], function()
 {
     Route::auth();
+
+
+    Route::get('sitemap', function(){
+
+// create new sitemap object
+        $sitemap = App::make("sitemap");
+
+// set cache (key (string), duration in minutes
+// (Carbon|Datetime|int), turn on/off (boolean))
+// by default cache is disabled
+        $sitemap->setCache('laravel.sitemap', 3600);
+
+// elements must be in nested array with 'url' and 'language' keys
+        $translations= array(
+            array(
+                'url'=>'http://domain.com/en/topic',
+                'language'=>'en'
+            ),
+            array(
+                'url'=>'http://domain.com/topic',
+                'language'=>'hr'
+            )
+        );
+
+// we are assuming that your default site content is on croatian
+        $sitemap->add(
+            'http://domain.com/topic', // loc
+            '2012-08-25T20:10:00+02:00', // datetime modified
+            1.0, // priority from 0.0 to 1.0
+            'daily', // frequency
+            null, // title
+            null, // images array() (url|caption)
+            $translations // translations array() (url|language)
+        );
+
+        return $sitemap->render('xml');
+    });
 
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
     Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
