@@ -3,7 +3,7 @@
     <div class="aw-partners-title">HOST</div>
 
     <div class="aw-partners-platinum">
-   <br/>
+
         <p>
             <a href="http://www.klgates.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/klgates.jpg" width="150px" height="100px">
@@ -15,7 +15,7 @@
     <div class="aw-partners-title">COLLABORATORS</div>
 
     <div class="aw-partners-platinum">
-
+        <br/>
 
         <p>
             <a href="http://www.macmillan.org.uk/" target="_blank">
