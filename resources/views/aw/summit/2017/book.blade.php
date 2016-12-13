@@ -71,8 +71,6 @@
 
         <li>
             Please also send me details on the following:<br/>
-            {!!  Form::checkbox('details[0]', 'speaking') !!}
-               <div class="checkboxtext">Speaking within the 2017 summit programme</div><br/>
             {!!  Form::checkbox('details[1]', 'exhibiting/sponsoring') !!}
                <div class="checkboxtext">Exhibiting at or sponsoring of this event</div><br/>
             {!!  Form::checkbox('details[2]', 'media partner') !!}
