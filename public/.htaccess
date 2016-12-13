@@ -8,6 +8,22 @@
     RewriteCond %{HTTP_HOST} ^www.activeworking.com$ [NC]
     RewriteRule ^(.*)$ http://activeworking.com/$1 [R=301,L]
 
+
+    RewriteCond %{HTTP_HOST} ^www.getamericastanding.org$ [NC]
+    RewriteRule ^(.*)$ http://getamericastanding.org/$1 [R=301,L]
+
+
+    RewriteCond %{HTTP_HOST} ^www.getaustraliastanding.org$ [NC]
+    RewriteRule ^(.*)$ http://getaustraliastanding.org/$1 [R=301,L]
+
+
+    RewriteCond %{HTTP_HOST} ^www.getcanadastanding.org$ [NC]
+    RewriteRule ^(.*)$ http://getcanadastanding.org/$1 [R=301,L]
+
+
+
+
+
     # Redirect Trailing Slashes If Not A Folder...
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)/$ /$1 [L,R=301]
