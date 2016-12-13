@@ -47,6 +47,12 @@
             </a>
         </p>
 
+        <p>
+            <a href="https://bhwa.org.uk/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/bhwa1.jpg" width="150px" height="100px">
+            </a>
+        </p>
+
 
     </div>
 
