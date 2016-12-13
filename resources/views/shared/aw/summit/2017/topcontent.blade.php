@@ -45,7 +45,7 @@ $linked_sum = urlencode ("Active Working Summit 2017");
             K&L Gates LLP <br/>
             One New Change
             <br/> London, EC4M 9AF<br/>
-            United Kingdom,<br/><br/>
+            United Kingdom<br/><br/>
             <strong>Thurs 30th March 2017</strong><br/>
             08:30am – 18:00pm<br/><br/>
         </div>
