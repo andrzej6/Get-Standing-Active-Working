@@ -7,7 +7,7 @@
 
         <p>
             <a href="http://www.klgates.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/klgates.png" width="150px" height="100px">
+                <img src="{{ url('/') }}/img/aw/summit/partners/klgates.jpg" width="150px" height="100px">
             </a>
         </p>
 
