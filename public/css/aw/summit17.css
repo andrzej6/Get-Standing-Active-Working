@@ -1,6 +1,6 @@
 /* summit 17 sidemenu */
 .left-sidemenu ul li {
-    background-color:#97ab3b;
+    background-color:#3563ae;
 }
 
 .left-sidemenu ul li.active {
@@ -8,7 +8,7 @@
 }
 
 .left-sidemenu ul  li:hover{
-    background-color:#798930;
+    background-color:#1f3b68;
 }
 .aw-logo {
     text-align:center;
