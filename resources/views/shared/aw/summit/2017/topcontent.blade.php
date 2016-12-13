@@ -42,9 +42,10 @@ $linked_sum = urlencode ("Active Working Summit 2017");
 
         <div class="aw-details-top">
             <strong>Venue:</strong><br/>
-            1 More London Place, <br/> London SE1 2AF<br/><br/>
-            <strong>Thurs 2nd Feb 2017</strong><br/>
-            08:30am – 18:30pm<br/><br/>
+            One New Change
+            <br/> London EC4M 9AF<br/><br/>
+            <strong>Thurs 30th March 2017</strong><br/>
+            08:30am – 18:00pm<br/><br/>
         </div>
 
 

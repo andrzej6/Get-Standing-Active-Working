@@ -40,7 +40,7 @@
 
 
     <div style="font-weight: bold;color:red;">
-        Book <span style="text-decoration: underline;font-weight: bold;">before 30th November 2016</span> and receive a
+        Book <span style="text-decoration: underline;font-weight: bold;">before 31st January 2017</span> and receive a
         <span style="text-decoration: underline;font-weight: bold;">20% discount </span> to Active Working Summit 2017.<br/><br/>
     </div>
 
@@ -48,7 +48,7 @@
         The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
     </div>
     <br/>
-    <span>The programme for 2017 will be published in December 2016. </span>
+    <span>The programme for 2017 will be published by December 31st 2016. </span>
 
     <br/><br/>
 
@@ -73,8 +73,8 @@
             Please also send me details on the following:<br/>
             {!!  Form::checkbox('details[0]', 'speaking') !!}
                <div class="checkboxtext">Speaking within the 2017 summit programme</div><br/>
-            {!!  Form::checkbox('details[1]', 'supporting/sponsoring') !!}
-               <div class="checkboxtext">Supporting or sponsoring this event</div><br/>
+            {!!  Form::checkbox('details[1]', 'exhibiting/sponsoring') !!}
+               <div class="checkboxtext">Exhibiting at or sponsoring of this event</div><br/>
             {!!  Form::checkbox('details[2]', 'media partner') !!}
                <div class="checkboxtext">Becoming a media partner</div>
         </li>

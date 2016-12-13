@@ -6,8 +6,8 @@
         <br/>
 
         <p>
-            <a href="http://www.ey.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/ey.jpg" width="150px" height="100px">
+            <a href="http://www.klgates.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/klgates.png" width="150px" height="100px">
             </a>
         </p>
 
