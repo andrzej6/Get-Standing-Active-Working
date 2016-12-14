@@ -51,10 +51,10 @@ $linked_sum = urlencode ("Active Working Summit 2017");
         </div>
 
 
-        <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" download>
+        <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" target="_blank">
             <img src="{{ url('/') }}/img/general/icons/pdficon.png"/>
         </a>
-        <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" style="text-decoration: underline" download>Brochure</a>
+        <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" style="text-decoration: underline" target="_blank">Brochure</a>
         <br/><br/>
 
         Share this page:
