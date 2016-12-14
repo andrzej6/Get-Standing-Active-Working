@@ -68,7 +68,7 @@
 
     <div style="font-size: 16px;font-weight: bold">
         <br/>
-        EARLY BIRD Price (20% discount) VALID UNTIL 31/01/2017
+        EARLY BIRD Price (20% discount) VALID UNTIL 31/12/2016
     </div> <br/>
 
     <sup>1</sup> <span class="summit-smaller">Suppliers and marketing representatives of ergonomic solutions, office equipment, workplace
