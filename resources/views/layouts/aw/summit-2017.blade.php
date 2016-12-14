@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('contact'=>'Contact','pricing'=>'Pricing','book'=>'Book Now');
+$sidemenu=array('contact'=>'Contact','pricing'=>'Pricing','book'=>'Book Now','veenue'=>'Venue');
 /* --}}
 
 @extends('layouts.aw.summit')
