@@ -54,9 +54,8 @@ $linked_sum = urlencode ("Active Working Summit 2017");
         <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" download>
             <img src="{{ url('/') }}/img/general/icons/pdficon.png"/>
         </a>
-        &nbsp;
         <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" class="aw-green-hov" style="text-decoration: underline" download>Brochure</a>
-        <br/>
+        <br/><br/>
 
         Share this page:
         <div class="aw-share">
