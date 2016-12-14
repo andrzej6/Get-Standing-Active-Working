@@ -45,6 +45,19 @@
                         <div id="banner1" class="OneByOne_container">
 
                             <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/1-aw.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/2-aw-gbs.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/3-aw-gbs.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider1.jpg" alt="" class="go-to go-to-nudge">
                             </div>
 
@@ -56,13 +69,13 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
                             </div>
 
+                            <!--
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider4.jpg" alt="" class="go-to go-to-videos">
                             </div>
+                            -->
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider5.jpg" alt="" class="go-to go-to-summit">
-                            </div>
+
 
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider6.jpg" alt="" class="go-to go-to-who">
@@ -154,8 +167,14 @@
 
                 <div class="halfright1">
 
+                    <!--
                     <a href="http://onyourfeetday.com/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/oyf-calc.jpg">
+                    </a>
+                    -->
+
+                    <a href="http://activeworking.com/summit/2017/book" target="_blank">
+                        <img src="{{ url('/') }}/img/aw/aw-big.jpg">
                     </a>
 
                 </div>
