@@ -40,7 +40,7 @@
 
 
     <div style="font-weight: bold;color:red;">
-        Book <span style="text-decoration: underline;font-weight: bold;">before 31st January 2017</span> and receive a
+        Book <span style="text-decoration: underline;font-weight: bold;">before 31st December 2016</span> and receive a
         <span style="text-decoration: underline;font-weight: bold;">20% discount </span> to Active Working Summit 2017.<br/><br/>
     </div>
 
