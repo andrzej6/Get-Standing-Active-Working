@@ -21,7 +21,7 @@ $sidemenu=array('contact'=>'Contact','pricing'=>'Pricing','book'=>'Book Now','ve
 
 @section('top-content')
     <div class="center-sidemenu">
-         <img src="{{ url('/') }}/img/aw/summit/gb/2017/brochurepic.jpg" >
+         <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic.jpg" >
     </div>
 @endsection
 
