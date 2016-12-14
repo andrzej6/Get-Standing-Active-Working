@@ -36,7 +36,7 @@
 
     <div class="aw-tabbed-div">
         <span class="aw-tabbed"><strong>Location:</strong></span>
-        <span>Google Maps <a href="{{ url('/') }}/img/aw/summit/location.JPG" download>
+        <span>Google Maps <a href="{{ url('/') }}/img/aw/summit/location-17.JPG" download>
                 <img src="{{ url('/') }}/img/general/icons/download.png"></a></span>
     </div>
 
