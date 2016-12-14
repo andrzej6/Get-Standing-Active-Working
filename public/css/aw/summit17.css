@@ -207,5 +207,8 @@ form.summit-contact label {
     padding:10px
 }
 
-
+#map_canvas {
+    width: 92%;
+    height: 400px;
+}
 
