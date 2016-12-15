@@ -49,7 +49,7 @@
 
     </div>
 
-    @include('shared.aw.email_supporters')
+    @include('shared.aw.summit_supporters')
 
 </div>
 </body>
