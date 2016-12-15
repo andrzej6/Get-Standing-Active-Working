@@ -118,7 +118,7 @@
     </a>
     -->
     <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit2017.jpg" alt="oyf"/>
+        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
 
