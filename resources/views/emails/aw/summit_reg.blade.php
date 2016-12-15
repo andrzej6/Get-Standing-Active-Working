@@ -49,7 +49,7 @@
 
     </div>
 
-    @include('shared.aw.summit_supporters')
+    @include('shared.aw.summit.summit_supporters')
 
 </div>
 </body>

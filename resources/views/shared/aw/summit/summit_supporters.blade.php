@@ -30,7 +30,7 @@
         <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
-    
+
 
 
 
