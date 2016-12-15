@@ -3,7 +3,7 @@
 <body>
 <div style="color:black;">
     <a href="http://activeworking.com" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/activeworking.jpg" width="100"/></a> <br/>
+        <img src="{{ url('/') }}/img/aw/summit/2017/toplogo.jpg" width="150"/></a> <br/>
 
     Thank you for your registration enquiry for the <strong>Active Working Summit 2017.</strong>.
     <br/><br/>
@@ -49,6 +49,7 @@
 
     </div>
 
+    <br/>
     @include('shared.aw.summit.summit_supporters')
 
 </div>
