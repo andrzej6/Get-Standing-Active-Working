@@ -5,10 +5,10 @@
     <a href="http://activeworking.com" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/2017/toplogo.jpg" width="150"/></a> <br/>
 
-    Thank you for your registration enquiry for the <strong>Active Working Summit 2017.</strong>.
+    Thank you for your registration for the <strong>Active Working Summit 2017.</strong>
     <br/><br/>
 
-    <span style="color:#b72b5a;"><strong>BOOKINGS</strong> can only be confirmed after we have received payment.</span>
+    <span style="color:red;"><strong>BOOKINGS</strong> can only be confirmed after we have received payment.</span>
     <br/><br/>
 
     You may pay online or request an invoice (by contacting:
