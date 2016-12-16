@@ -175,7 +175,7 @@
 
 
         <li>
-            {!!   Form::label('furniture_supplier', '(*) Delegate is a SUPPLIER (or Marketing Representative) of a company which supplies office furniture or office wellness solutions?', array('class' => 'supplier')) !!}
+            {!!   Form::label('furniture_supplier', '(*) I am a SUPPLIER DELEGATE (ie I work / represent a company which supplies office furniture or office wellness solutions)', array('class' => 'supplier')) !!}
             {!!  Form::radio('furniture_supplier', 'YES', true,  array('id' => 'supplier1')) !!}<div class="checkboxtext"> YES</div>
             {!!  Form::radio('furniture_supplier', 'NO',  false, array('id' => 'supplier2')) !!}<div class="checkboxtext"> NO </div>
         </li>
