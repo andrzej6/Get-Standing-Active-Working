@@ -26,7 +26,7 @@
     <br/>
 
     <div style="font-size: 14px;font-weight: bold">
-        The programme for 2017 will be published by December 31st 2016.
+        The programme for 2017 will be published by January 31st 2017.
     </div>
 
 
