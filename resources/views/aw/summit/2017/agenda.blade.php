@@ -30,7 +30,7 @@
         Expert Advisor on Health at Work to Dept. of Health and Public Health England
     </div>
 
-    <br/><br/>
+    <br/>
 
     <div style="font-style: italic">
         "Consistent evidence has shown the health benefits of physical activity.  We also know about the harms resulting
