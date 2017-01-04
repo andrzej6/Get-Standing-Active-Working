@@ -30,7 +30,9 @@
         Expert Advisor on Health at Work to Dept. of Health and Public Health England
     </div>
 
-    <div>
+    <br/><br/>
+
+    <div style="font-style: italic">
         "Consistent evidence has shown the health benefits of physical activity.  We also know about the harms resulting
         from the lack of activity, from living a sedentary life.  Being active is good for us, not just
         physically – that is obvious – but also for our state of mind, our mental health, and our overall sense of wellbeing.<br/><br/>
