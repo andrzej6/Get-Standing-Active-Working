@@ -25,9 +25,25 @@
 @section('aw-maincontent')
     <br/>
 
-    <div style="font-size: 14px;font-weight: bold">
-        The programme for 2017 will be published by January 31st 2017.
+    <div style="color:#3563ae">
+        <strong>Dame Carol Black (event ambassador)</strong><br/>
+        Expert Advisor on Health at Work to Dept. of Health and Public Health England
     </div>
 
+    <div>
+        "Consistent evidence has shown the health benefits of physical activity.  We also know about the harms resulting
+        from the lack of activity, from living a sedentary life.  Being active is good for us, not just
+        physically – that is obvious – but also for our state of mind, our mental health, and our overall sense of wellbeing.<br/><br/>
+
+        Being inactive increases the risk of dying early.  It is worse than smoking.  Fortunately it seems that
+        moderate physical activity of about an hour a day can remove the increased risk of death associated with
+        prolonged sitting time at work.  So there are grounds for adding physical activity to the sedentary life
+        in the workplace, where many people are occupied much of the day sitting at a desk.<br/><br/>
+
+        I am pleased that the Active Working Summit will bring this evidence to wider notice, encouraging changes
+        in working practice that will help promote and safeguard the health and wellbeing of many people."
+
+
+    </div>
 
 @endsection
