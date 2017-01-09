@@ -101,6 +101,7 @@ class AwController extends Controller
             $message->from('info@activeworking.com', 'Active Working Summit 2017');
             $message->to('web@activeworking.com');
             $message->cc('info@activeworking.com');
+            $message->bcc('sarah.brain@activeworking.com');
             $message->subject('Message from Summit Contact Form');
         });
 
