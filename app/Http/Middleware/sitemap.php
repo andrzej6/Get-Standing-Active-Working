@@ -51,7 +51,7 @@ class sitemap {
             }
             $aSiteMap[$request->fullUrl()] = [
                 'added' => time(),
-                'lastmod' => Carbon::now()->toIso8601String(),
+                'lastmod' => Carbon::now(),
                 'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
                 'changefreq' => $changefreq
             ];
