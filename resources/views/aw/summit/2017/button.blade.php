@@ -43,8 +43,8 @@ $sandbox=0;
                 <li>PayPal: see below.</li>
             </ol>
             <br/>
-            <span style="color:red">NB Online payment <u>must</u> be made at the time of registration,
-                otherwise it will be necessary to re-register.</span>
+            <span style="color:red">NB Online payment <u>must</u> be made immediately after registration.
+                Otherwise it will be necessary to re-register.</span>
             <br/><br/>
         </div>
 
