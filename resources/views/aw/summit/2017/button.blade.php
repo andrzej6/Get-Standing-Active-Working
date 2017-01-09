@@ -45,7 +45,7 @@ $sandbox=0;
             <br/>
             <span style="color:red">NB Online payment <u>must</u> be made at the time of registration,
                 otherwise it will be necessary to re-register.</span>
-            <br/>
+            <br/><br/>
         </div>
 
 
