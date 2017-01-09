@@ -20,7 +20,7 @@ class GausController extends Controller
 {
     public function __construct(Guard $auth)
     {
-        $this->middleware('sitemap');
+        //$this->middleware('sitemap');
     }
 
     public function index($page='index'){
