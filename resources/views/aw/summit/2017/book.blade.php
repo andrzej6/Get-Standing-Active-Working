@@ -62,7 +62,7 @@
 
     {!!  Form::open(array('url' => 'summit_reg','class' => 'summit-contact')) !!}
 
-    {!!  Form::token() !!}
+    
 
     <ul>
 
