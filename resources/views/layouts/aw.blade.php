@@ -9,6 +9,7 @@
     <meta name="keywords" content="@yield('keywords')">
 
     <meta name="base_url" content="{{ url('/') }}">
+    @yield('meta')
 
     <title>
         @yield('title')
