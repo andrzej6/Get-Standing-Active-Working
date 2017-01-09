@@ -8,8 +8,7 @@
     Thank you for your registration for the <strong>Active Working Summit 2017.</strong>
     <br/><br/>
 
-    <span style="color:red;"><strong>BOOKINGS</strong> can only be confirmed after we have received payment
-        (Payment needs to be made at the time of registration, or you will be required to register again).</span>
+    <span style="color:red;"><strong>BOOKINGS</strong> can only be confirmed after we have received payment.</span>
     <br/><br/>
 
     You may pay online or request an invoice (by contacting:
