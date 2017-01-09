@@ -114,6 +114,11 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
     Route::get('introduction.php', function () {return redirect('introduction');});
 
     Route::get('/jobs', 'HomeController@jobs');
+    Route::get('/sitemap', function()
+       { return Response::view('sitemap')->header('Content-Type', 'application/xml'); });
+
+
+
 
     Route::get('/popup_confirm','GausPopupController@confirm');
     Route::get('/{page?}', 'GausController@index');
