@@ -38,11 +38,14 @@ $sandbox=0;
 
             <ol>
                 <li>Invoice: please send a purchase order including name(s) of attendee(s) to
-                    <a href="mailto:info@activeworking.com?Subject=Invoice">info@activeworking.com</a>.
+                    <a href="mailto:events@activeworking.com?Subject=Invoice">events@activeworking.com</a>.
                 </li>
                 <li>PayPal: see below.</li>
             </ol>
-
+            <br/>
+            <span style="color:red">NB Online payment <u>must</u> be made at the time of registration,
+                otherwise it will be necessary to re-register.</span>
+            <br/>
         </div>
 
 
