@@ -1,5 +1,10 @@
 @extends('layouts.getstanding')
 
+
+@section('meta')
+    <meta name="google-site-verification" content="DCxP-6QmryrCV0KKowgJzyVm4Fsx6Dg3V8YvRMpRjgo" />
+@endsection
+
 @section('favicon')
     <link rel="shortcut icon" type="image/x-icon" href="img/getstanding/can/favicon.ico">
 @endsection
