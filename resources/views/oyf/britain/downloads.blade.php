@@ -63,7 +63,7 @@ $downloads = array(
 @endsection
 
 @section('title')
-    On Your Feet Canada
+    On Your Feet Britain
 @endsection
 
 
