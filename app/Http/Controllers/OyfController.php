@@ -14,7 +14,7 @@ use App\Jobs\OyfSend2Emails;
 
 class OyfController extends Controller
 {
-    
+
 
     public function index($country='britain', $page='index')
     {
