@@ -15,10 +15,8 @@ use App\Jobs\CanSend2Emails;
 
 class GcanController extends Controller
 {
-    public function __construct()
-    {
-        $this->middleware('sitemap');
-    }
+
+    //was constructor with middleware for sitemap here below
 
     public function index($page='index'){
 

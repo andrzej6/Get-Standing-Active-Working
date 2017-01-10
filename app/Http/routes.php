@@ -114,9 +114,7 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
     Route::get('introduction.php', function () {return redirect('introduction');});
 
     Route::get('/jobs', 'HomeController@jobs');
-
-
-
+    //was sitemap routes here below
 
 
     Route::get('/popup_confirm','GausPopupController@confirm');
@@ -129,10 +127,7 @@ Route::group(['domain' => 'getaustraliastanding.org'], function()
 Route::group(['domain' => 'getcanadastanding.org'], function()
 {
     Route::auth();
-
-    Route::get('/sitemap', function()
-    { return Response::view('sitemap')->header('Content-Type', 'application/xml'); });
-
+    //was sitemap routes here below
 
     Route::get('/popup_confirm','GcanPopupController@confirm');
     Route::get('/{page?}', 'GcanController@index');
