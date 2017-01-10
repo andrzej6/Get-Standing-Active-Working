@@ -27,8 +27,6 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partmers'
 
 @section('partnersleft')
     @include('shared.oyf.gb.partnersleft')
-    <hr class="light">
-    @include('shared.oyf.gb.partnersleft')
 @endsection
 
 
@@ -46,4 +44,8 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partmers'
                 </div>
         </div>
     </div>
+@endsection
+
+@section('aw-restofsmall')
+    @include('shared.oyf.gb.partnersright')
 @endsection

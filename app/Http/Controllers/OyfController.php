@@ -25,7 +25,8 @@ class OyfController extends Controller
         {
             if (!view()->exists('oyf.' . $country . '.' . $page)) {
                 $page ='error_page';
-                return view('errors.oyf-error', compact('page'));
+                $trail1['name']='Error Page';
+                return view('errors.oyf-error', compact('page','trail1'));
             } else {
                 return view('oyf.' . $country. '.'. $page, compact('page'));
             }
