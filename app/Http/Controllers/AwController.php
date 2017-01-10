@@ -22,6 +22,11 @@ use App\Jobs\SummitSend2Emails;
 class AwController extends Controller
 {
 
+    public function __construct()
+    {
+        $this->middleware('sitemap');
+    }
+
     public function index($page='index')
     {
 

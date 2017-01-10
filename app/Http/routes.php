@@ -176,6 +176,9 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::auth();
 
 
+    Route::get('/sitemap', function()
+    { return Response::view('sitemap')->header('Content-Type', 'application/xml'); });
+
     /* below displaying registrations routes */
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
     Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
