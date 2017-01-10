@@ -8,6 +8,9 @@
     <meta name="description" content="@yield('description')">
     <meta name="keywords" content="@yield('keywords')">
 
+    <meta name="google-site-verification" content="ngVJhr0N-DOfuKoyY_D9uexFyJyUE25hVfS0IdkZ34E" />
+
+
     <title>
         @yield('title')
     </title>
