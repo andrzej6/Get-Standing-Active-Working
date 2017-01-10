@@ -16,10 +16,7 @@ use Illuminate\Support\Facades\Validator;
 
 class GusaPopupController extends Controller
 {
-    public function __construct()
-    {
-        $this->middleware('sitemap');
-    }
+
 
     // storing registration for e-newsletter in database
     public function store (Request $request){
