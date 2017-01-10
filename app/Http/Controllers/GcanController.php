@@ -15,6 +15,11 @@ use App\Jobs\CanSend2Emails;
 
 class GcanController extends Controller
 {
+    public function __construct()
+    {
+        $this->middleware('sitemap');
+    }
+
     public function index($page='index'){
 
         if (!view()->exists('gcan.'.$page)) {
