@@ -139,6 +139,9 @@ Route::group(['domain' => 'getcanadastanding.org'], function()
 Route::group(['domain' => 'getamericastanding.org'], function()
 {
     Route::auth();
+    Route::get('/sitemap', function()
+    { return Response::view('sitemap')->header('Content-Type', 'application/xml'); });
+
     Route::get('/popup_confirm','GusaPopupController@confirm');
     Route::get('/{page?}', 'GusaController@index');
     Route::post('popup_reg', 'GusaPopupController@store');
