@@ -45,6 +45,8 @@
         I am pleased that the Active Working Summit will bring this evidence to wider notice, encouraging changes
         in working practice that will help promote and safeguard the health and wellbeing of many people."
 
+        <br/>
+        <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic2.jpg" >
 
     </div>
 
