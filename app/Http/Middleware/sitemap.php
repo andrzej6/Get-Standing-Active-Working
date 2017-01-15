@@ -41,17 +41,21 @@ class sitemap {
 
             switch ($parsed['host']) {
                 case "getaustraliastanding.org":
-                    $aSiteMap = \Cache::get('sitemap_aus', []);
-                    $aSiteMap[$request->fullUrl()] = [
-                        'added' => time(),
-                        'lastmod' => Carbon::now()->toDateString(),
-                        'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
-                        'changefreq' => $changefreq
-                    ];
-                    \Cache::put('sitemap_aus', $aSiteMap, 2880);
+                    $country = 'aus';
             break;
-
             }
+
+
+
+            $aSiteMap = \Cache::get('sitemap_'.$country, []);
+            $aSiteMap[$request->fullUrl()] = [
+                'added' => time(),
+                'lastmod' => Carbon::now()->toDateString(),
+                'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
+                'changefreq' => $changefreq
+            ];
+            \Cache::put('sitemap_'.$country, $aSiteMap, 2880);
+
 
 
             /*
