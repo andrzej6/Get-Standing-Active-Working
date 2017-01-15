@@ -35,7 +35,7 @@ class sitemap {
             $web_url = $request->url();
             $parsed = parse_url($web_url);
 
-            switch ($parsed) {
+            switch ($parsed['host']) {
                 case "getaustraliastanding.org":
                     $aSiteMap = \Cache::get('sitemap_aus', []);
             break;
@@ -69,7 +69,7 @@ class sitemap {
             ];
 
 
-            switch ($parsed) {
+            switch ($parsed['host']) {
                 case "getaustraliastanding.org":
                     \Cache::put('sitemap_aus', $aSiteMap, 2880);
                     break;
