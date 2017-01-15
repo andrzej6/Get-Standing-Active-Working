@@ -42,7 +42,10 @@ class sitemap {
             switch ($parsed['host']) {
                 case "getaustraliastanding.org":
                     $country = 'aus';
-            break;
+                    break;
+                case "getcanadastanding.org":
+                    $country = 'can';
+                    break;
             }
 
 
