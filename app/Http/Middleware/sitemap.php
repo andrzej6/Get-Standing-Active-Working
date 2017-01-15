@@ -34,20 +34,7 @@ class sitemap {
             $aSiteMap = \Cache::get('sitemap', []);
             $changefreq = 'always';
             if ( !empty( $aSiteMap[$request->fullUrl()]['added'] ) ) {
-                $aDateDiff = Carbon::createFromTimestamp( $aSiteMap[$request->fullUrl()]['added'] )->diff( Carbon::now() );
-                if ( $aDateDiff->y > 0 ) {
-                    $changefreq = 'yearly';
-                } else if ( $aDateDiff->m > 0) {
-                    $changefreq = 'monthly';
-                } else if ( $aDateDiff->d > 6 ) {
-                    $changefreq = 'weekly';
-                } else if ( $aDateDiff->d > 0 && $aDateDiff->d < 7 ) {
-                    $changefreq = 'daily';
-                } else if ( $aDateDiff->h > 0 ) {
-                    $changefreq = 'hourly';
-                } else {
-                    $changefreq = 'always';
-                }
+                $changefreq = 'monthly';
             }
             $aSiteMap[$request->fullUrl()] = [
                 'added' => time(),
