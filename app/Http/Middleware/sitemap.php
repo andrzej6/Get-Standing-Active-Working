@@ -36,17 +36,18 @@ class sitemap {
             $parsed = parse_url($web_url);
             $changefreq = 'always';
 
-            $aSiteMap[$request->fullUrl()] = [
-                'added' => time(),
-                'lastmod' => Carbon::now()->toDateString(),
-                'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
-                'changefreq' => $changefreq
-            ];
+
 
 
             switch ($parsed['host']) {
                 case "getaustraliastanding.org":
                     $aSiteMap = \Cache::get('sitemap_aus', []);
+                    $aSiteMap[$request->fullUrl()] = [
+                        'added' => time(),
+                        'lastmod' => Carbon::now()->toDateString(),
+                        'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
+                        'changefreq' => $changefreq
+                    ];
                     \Cache::put('sitemap_aus', $aSiteMap, 2880);
             break;
 
