@@ -34,7 +34,7 @@ class sitemap {
 
             $web_url = $request->url();
             $parsed = parse_url($web_url);
-            $changefreq = 'always';
+            $changefreq = 'weekly';
 
 
 
