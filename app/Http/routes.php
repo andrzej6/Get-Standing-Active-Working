@@ -143,6 +143,9 @@ Route::group(['domain' => 'getamericastanding.org'], function()
 {
     Route::auth();
 
+    Route::get('/sitemap', function()
+    { return Response::view('sitemap.usa')->header('Content-Type', 'application/xml'); });
+
     Route::get('/popup_confirm','GusaPopupController@confirm');
     Route::get('/{page?}', 'GusaController@index');
     Route::post('popup_reg', 'GusaPopupController@store');
