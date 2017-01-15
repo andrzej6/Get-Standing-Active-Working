@@ -34,17 +34,26 @@ class sitemap {
 
             $web_url = $request->url();
             $parsed = parse_url($web_url);
+            $changefreq = 'weekly';
+
+            $aSiteMap[$request->fullUrl()] = [
+                'added' => time(),
+                'lastmod' => Carbon::now()->toDateString(),
+                'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
+                'changefreq' => $changefreq
+            ];
+
 
             switch ($parsed['host']) {
                 case "getaustraliastanding.org":
                     $aSiteMap = \Cache::get('sitemap_aus', []);
+                    \Cache::put('sitemap_aus', $aSiteMap, 2880);
             break;
 
             }
 
-
-
-            $changefreq = 'always';
+            
+            /*
             if ( !empty( $aSiteMap[$request->fullUrl()]['added'] ) ) {
                 $aDateDiff = Carbon::createFromTimestamp( $aSiteMap[$request->fullUrl()]['added'] )->diff( Carbon::now() );
                 if ( $aDateDiff->y > 0 ) {
@@ -61,20 +70,7 @@ class sitemap {
                     $changefreq = 'always';
                 }
             }
-            $aSiteMap[$request->fullUrl()] = [
-                'added' => time(),
-                'lastmod' => Carbon::now()->toDateString(),
-                'priority' => 1 - substr_count($request->getPathInfo(), '/') / 10,
-                'changefreq' => $changefreq
-            ];
-
-
-            switch ($parsed['host']) {
-                case "getaustraliastanding.org":
-                    \Cache::put('sitemap_aus', $aSiteMap, 2880);
-                    break;
-
-            }
+            */
 
 
         }
