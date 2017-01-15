@@ -34,7 +34,7 @@ class sitemap {
 
             $web_url = $request->url();
             $parsed = parse_url($web_url);
-            $changefreq = 'weekly';
+            $changefreq = 'always';
 
             $aSiteMap[$request->fullUrl()] = [
                 'added' => time(),
@@ -52,7 +52,7 @@ class sitemap {
 
             }
 
-            
+
             /*
             if ( !empty( $aSiteMap[$request->fullUrl()]['added'] ) ) {
                 $aDateDiff = Carbon::createFromTimestamp( $aSiteMap[$request->fullUrl()]['added'] )->diff( Carbon::now() );
