@@ -185,6 +185,8 @@ Route::group(['domain' => 'activeworking.com'], function()
 
 
 
+    Route::get('/sitemap', function()
+    { return Response::view('sitemap.aw')->header('Content-Type', 'application/xml'); });
 
     /* below displaying registrations routes */
     Route::get('data_gbsreg', 'RegistrationsController@gbs');

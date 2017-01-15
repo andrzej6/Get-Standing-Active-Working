@@ -49,6 +49,9 @@ class sitemap {
                 case "getamericastanding.org":
                     $country = 'usa';
                     break;
+                case "activeworking.com":
+                    $country = 'aw';
+                    break;
             }
 
 
