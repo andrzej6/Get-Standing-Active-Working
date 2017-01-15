@@ -52,6 +52,9 @@ class sitemap {
                 case "activeworking.com":
                     $country = 'aw';
                     break;
+                case "onyourfeetday.com":
+                    $country = 'oyf';
+                    break;
             }
 
 
