@@ -26,9 +26,9 @@
     <br/>
     <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
 
-    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
+    <img src="{{ url('/') }}/img/general/icons/giftest1.gif" width="230">
 
-    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
+    <img src="{{ url('/') }}/img/general/icons/giftest2.gif" width="230">
 
 
 
