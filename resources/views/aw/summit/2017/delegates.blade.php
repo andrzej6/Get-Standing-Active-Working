@@ -24,9 +24,9 @@
 
 @section('aw-maincontent')
     <br/>
-    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">&nbsp;
+    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
 
-    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">&nbsp;
+    <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
 
     <img src="{{ url('/') }}/img/general/icons/giftest.gif" width="230">
 
