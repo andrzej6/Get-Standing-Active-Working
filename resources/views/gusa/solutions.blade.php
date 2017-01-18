@@ -40,6 +40,10 @@
 
 
                     <div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/usa/slider/big/fellowes-1a.jpg" alt="oyf" class="go-to go-to-fellowes">
+                    </div>
+
+                    <div class="oneByOne_item ls_bg1">
                         <img src="img/getstanding/usa/slider/big/oyf-jana-us.jpg" alt="oyf" class="go-to go-to-jana">
                     </div>
 
