@@ -285,6 +285,12 @@
         <div id="gbs-slideshow">
 
             <div>
+                <a href="http://www.fellowes.com/" target="_blank">
+                    <img src="img/getstanding/can/slider/thin/slider-1a.jpg">
+                </a>
+            </div>
+
+            <div>
                 <a href="pdfs/can/fitness-canada.pdf" target="_blank">
                     <img src="img/getstanding/can/slider/thin/slider1.jpg">
                 </a>
