@@ -291,7 +291,7 @@
         <div id="gbs-slideshow">
 
             <div>
-                <a href="www.fellowes.com/sitstands" target="_blank">
+                <a href="http://www.fellowes.com/sitstands" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider-1a.jpg">
                 </a>
             </div>
