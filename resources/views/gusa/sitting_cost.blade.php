@@ -152,6 +152,10 @@
         <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
     </a>
 
+    <a href="http://www.fellowes.com" target="_blank">
+        <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
+    </a>
+
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"
        class="darken">

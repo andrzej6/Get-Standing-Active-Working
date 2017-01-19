@@ -769,6 +769,11 @@
 @section('content-restofsmall')
     <img src="img/getstanding/usa/ads/message/whenyousit.png" class="restofsmall-pic" alt="advert"/>
 
+
+    <a href="http://www.fellowes.com" target="_blank">
+        <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
+    </a
+
     <a href="http://workriteergo.com/" target="_blank" class="sup-nobg">
         <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
     </a>
