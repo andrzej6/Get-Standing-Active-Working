@@ -101,9 +101,11 @@
         <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
     </a>
 
+    <!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/usa/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+    -->
 
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"

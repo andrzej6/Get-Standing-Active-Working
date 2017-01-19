@@ -818,9 +818,11 @@
         <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
     </a>
 
+    <!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/usa/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+    -->
 
     <img src="img/getstanding/usa/ads/message/feelaftergreen.png" class="restofsmall-pic" alt="feel after"/>
 

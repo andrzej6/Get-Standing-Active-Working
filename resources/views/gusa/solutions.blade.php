@@ -338,9 +338,11 @@
             </a>
             <br/>
 
+            <!--
             <a href="aw_summit" class="darken">
                 <img src="img/getstanding/usa/ads/summit2016-aw.jpg" alt="summit 2016"/>
             </a>
+            -->
 
 
         </div>
