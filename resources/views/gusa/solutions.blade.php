@@ -421,7 +421,10 @@
 
         <div class="sitstandsol2">
 
-            <br/><br/>
+            <a href="http://www.fellowes.com/sitstands" target="_blank">
+                <img src="<?php print $publicroot; ?>/img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
+            </a>
+
             <img src="img/getstanding/usa/ads/message/calorie.png" class="restofsmall-pic" alt=""/>
 
         </div>
