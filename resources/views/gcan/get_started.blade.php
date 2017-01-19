@@ -102,9 +102,11 @@
 
 @section('content-restofsmall')
 
+    <!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/can/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+    -->
 
 
     <a href="http://onyourfeetday.com/canada" target="_blank" class="sup-nobg">
