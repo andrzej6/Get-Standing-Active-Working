@@ -140,10 +140,16 @@
         <img src="img/getstanding/can/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
     </a>
 
+    <a href="http://www.fellowes.com/" target="_blank">
+        <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
+    </a>
 
+
+    <!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/can/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+    -->
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Canada%20Standing"
        class="darken">
