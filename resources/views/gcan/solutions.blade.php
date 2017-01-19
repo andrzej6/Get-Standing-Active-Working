@@ -403,7 +403,10 @@
 
         <div class="sitstandsol2">
 
-            <br/><br/>
+            <a href="http://www.fellowes.com/" target="_blank">
+                <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
+            </a>
+
             <img src="img/getstanding/can/ads/message/calorie.png" class="restofsmall-pic" alt=""/>
 
         </div>
