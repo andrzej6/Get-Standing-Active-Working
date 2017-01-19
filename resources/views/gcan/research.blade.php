@@ -814,9 +814,15 @@
 
     <img src="img/getstanding/can/ads/message/standing.png" class="restofsmall-pic" alt="standing at work"/>
 
+    <a href="http://www.fellowes.com/" target="_blank">
+        <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
+    </a>
+
+    <!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/can/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+    -->
 
     <img src="img/getstanding/can/ads/message/feelaftergreen.png" class="restofsmall-pic" alt="feel after"/>
 
