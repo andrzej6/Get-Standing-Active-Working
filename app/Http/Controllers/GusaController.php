@@ -16,10 +16,7 @@ use App\Jobs\UsaSend2Emails;
 class GusaController extends Controller
 {
 
-    public function __construct()
-    {
-        $this->middleware('sitemap');
-    }
+
 
 
 
