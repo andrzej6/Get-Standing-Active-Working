@@ -14,6 +14,23 @@
 
 
 
+    <div class="aw-partners-title">GOLD PARTNERS</div>
+
+    <br/>
+
+    <div class="aw-partners-gold">
+        <p>
+            <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg">
+            </a>
+        </p>
+
+    </div>
+
+
+
+
+
     <div class="aw-partners-title">SILVER PARTNERS</div>
 
     <div class="aw-partners-silver">
@@ -30,11 +47,7 @@
             </a>
         </p>
 
-        <p>
-            <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg">
-            </a>
-        </p>
+
 
         <p>
             <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" target="_blank">
