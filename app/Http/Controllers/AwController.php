@@ -100,7 +100,7 @@ class AwController extends Controller
     {
         $data = $request->all();
         $baseurl =URL::to('/');
-        Log::info($data);
+        //Log::info($data);
         Mail::send('emails.aw.message', $data,function ($message) {
             $message->from('info@activeworking.com', 'Active Working Summit 2017');
             $message->to('web@activeworking.com');

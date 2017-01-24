@@ -27,7 +27,7 @@
         </p>
 
         <p>
-            <a href="http://imprintmats.com/products/professional" target="_blank">
+            <a href="http://imprintmats.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/imprint.png" width="150px" height="70px">
             </a>
         </p>
