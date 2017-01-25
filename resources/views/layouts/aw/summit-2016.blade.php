@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('index'=>'Agenda 2016','speakers'=>'Bibliographies','partners'=>'Partners','attendance'=>'Attendance',
+$sidemenu=array('index'=>'Agenda 2016','speakers'=>'Biographies','partners'=>'Partners','attendance'=>'Attendance',
 'videos'=>'Videos');
 /* --}}
 

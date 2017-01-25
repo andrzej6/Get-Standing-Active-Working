@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('index'=>'Feedback 2015','agenda'=>'Agenda','videos'=>'Videos','speakers'=>'Bibliographies',
+$sidemenu=array('index'=>'Feedback 2015','agenda'=>'Agenda','videos'=>'Videos','speakers'=>'Biographies',
 'partners'=>'Partners','case_studies'=>'Case Studies','collaborators'=>'Collaborators','venue'=>'Venue');
 /* --}}
 
