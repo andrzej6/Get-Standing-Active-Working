@@ -16,7 +16,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot(Request $request)
     {
 
-        /* below general way of sharing data everywhere
+
         switch ($request->server("HTTP_HOST")) {
             case '127.0.0.1':
                 $featured_art = Article::where('country', 'LIKE', '%3%')->where('featured', 'LIKE', '%3%')->orderby('date_posted', 'desc')->take(2)->get();
@@ -28,7 +28,7 @@ class AppServiceProvider extends ServiceProvider
 
         // articles for prefooter
         view()->share('featured_art', $featured_art);
-        */
+        
     }
 
     /**
