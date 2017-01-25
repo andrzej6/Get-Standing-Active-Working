@@ -37,7 +37,7 @@
         </div>
         <br/>
         <span style="font-size: 16px;font-weight:bold">The programme is now available for
-            <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="font-weight:bold" target="_blank">DOWNLOAD HERE.</a></span>
+            <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="font-weight:bold;text-decoration: underline" target="_blank">DOWNLOAD HERE.</a></span>
 
         <br/><br/>
         This Summit is targeted at Senior Professionals / Opinion Leaders /  Decision Makers:  responsible for wellbeing,
