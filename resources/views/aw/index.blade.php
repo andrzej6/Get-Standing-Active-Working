@@ -49,7 +49,7 @@
                             </div>
 
                             <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/2-aw-gbs.jpg" alt="" class="go-to go-to-summit">
+                                <img src="{{ url('/') }}/img/aw/slider/big/2-awgbs.jpg" alt="" class="go-to go-to-summit">
                             </div>
 
                             <div class="oneByOne_item ls_bg1">
