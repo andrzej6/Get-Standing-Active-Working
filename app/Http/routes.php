@@ -180,7 +180,9 @@ Route::group(['domain' => 'onyourfeet.eu'], function()
 
 Route::group(['domain' => 'getbritainstanding.org'], function()
 {
-    return 'Error Page';
+    Route::get('*', function () {
+        return 'custom error';
+    });
 
 });
 
