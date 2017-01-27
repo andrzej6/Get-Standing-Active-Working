@@ -178,15 +178,6 @@ Route::group(['domain' => 'onyourfeet.eu'], function()
 
 
 
-Route::group(['domain' => 'getbritainstanding.org'], function()
-{
-    Route::auth();
-    Route::get('*', function () {
-        return 'custom error';
-    });
-
-});
-
 
 
 
