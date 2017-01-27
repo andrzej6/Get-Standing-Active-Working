@@ -230,9 +230,6 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::post('nudge_reg', 'NudgeController@store');
 
 
-
-
-
 });
 
 
