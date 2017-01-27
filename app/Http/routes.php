@@ -155,13 +155,7 @@ Route::group(['domain' => 'getamericastanding.org'], function()
 
 Route::group(['domain' => 'onyourfeetday.com'], function()
 {
-    Route::auth();
-
-    Route::get('/sitemap', function()
-    { return Response::view('sitemap.oyf')->header('Content-Type', 'application/xml'); });
-
-    Route::get('/{country?}/{action?}/{param?}', 'OyfController@index');
-    Route::post('oyf_reg', 'OyfController@store');
+    return 'Error Page';
 
 });
 
