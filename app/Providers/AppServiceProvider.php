@@ -28,7 +28,7 @@ class AppServiceProvider extends ServiceProvider
 
         // articles for prefooter
         view()->share('featured_art', $featured_art);
-        
+
     }
 
     /**
