@@ -178,6 +178,13 @@ Route::group(['domain' => 'onyourfeet.eu'], function()
 
 
 
+Route::group(['domain' => 'getbritainstanding.org'], function()
+{
+    return Redirect::to('activeworking.com');
+
+});
+
+
 
 
 Route::group(['domain' => 'activeworking.com'], function()
