@@ -1,6 +1,6 @@
 <div class="aw-partners-strategic">
 
-    <div class="aw-partners-title">HOST</div>
+    <div class="aw-partners-title">HOST SPONSOR</div>
 
     <div class="aw-partners-platinum">
 
