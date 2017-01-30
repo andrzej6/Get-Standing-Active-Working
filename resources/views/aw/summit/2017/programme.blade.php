@@ -27,7 +27,10 @@
 
     <div style="color:#3563ae">
         <strong>Dame Carol Black (event ambassador)</strong><br/>
-        Expert Advisor on Health at Work to Dept. of Health and Public Health England
+        <span style="font-style: italic">
+            Adviser on Health and Work to <strong>Public Health England</strong> and <strong>NHS England</strong> &
+            Principal of <strong>Newnham College Cambridge</strong>
+        </span>
     </div>
 
     <br/>
