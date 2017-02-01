@@ -24,7 +24,7 @@
 @section('center-pics')
     <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic.jpg" >
 
-    <br/>
+    <br/><br/>
     <div style="text-align: center">
         <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="text-decoration: underline" target="_blank">Download</a>
 
