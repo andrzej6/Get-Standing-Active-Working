@@ -16,11 +16,13 @@
 
     <div class="aw-partners-gold">
 
+        <!--
         <p>
             <a href="https://www.gymflex.co.uk/" target="_blank">
                 <img src="{{ url('/') }}/img/oyf/partners/gymflex.jpg" width="130px">
             </a>
         </p>
+        -->
 
     </div>
 

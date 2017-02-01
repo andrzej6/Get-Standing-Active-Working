@@ -77,7 +77,7 @@
     <div class="aw-partners-title">GOLD PARTNERS</div>
     <hr class="light">
 
-
+<!--
     <div class="aw-partners-row-m">
 
         <div class="aw-partners-logo-m">
@@ -101,7 +101,7 @@
 
     <br/><br/>
 
-
+-->
 
     <div class="aw-partners-row-m">
 
