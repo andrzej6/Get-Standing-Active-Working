@@ -51,6 +51,16 @@
         <br/><br/>
         <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic3.jpg" >
 
+        <div style="text-align: center">
+            <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="text-decoration: underline" target="_blank">Download</a>
+
+            <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" target="_blank">
+                <img src="{{ url('/') }}/img/general/icons/pdficon.png"/>
+            </a>
+
+        </div>
+        
+
     </div>
 
 @endsection
