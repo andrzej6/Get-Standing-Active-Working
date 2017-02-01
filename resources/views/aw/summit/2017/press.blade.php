@@ -27,9 +27,9 @@
 
 
     <div style="text-align: center">
-        <a href="{{ url('/') }}/pdfs/Press-Release.pdf" class="aw-green-hov" style="text-decoration: underline" target="_blank">Download</a>
+        <a href="{{ url('/') }}/pdfs/Press-Release.pdf" style="text-decoration: underline" target="_blank">Download</a>
 
-        <a href="{{ url('/') }}/pdfs/Press-Release.pdf" class="aw-green-hov" target="_blank">
+        <a href="{{ url('/') }}/pdfs/Press-Release.pdf" target="_blank">
             <img src="{{ url('/') }}/img/general/icons/pdficon.png"/>
         </a>
 
