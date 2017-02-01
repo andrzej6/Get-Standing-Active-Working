@@ -21,7 +21,7 @@ $sidemenu=array('introduction'=>'Introduction','programme'=>'Event Programme','v
 
 @section('top-content')
     <div class="center-sidemenu">
-         <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic.jpg" >
+        @yield('center-pics')
     </div>
 @endsection
 

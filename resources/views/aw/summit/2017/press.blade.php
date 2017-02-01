@@ -22,7 +22,6 @@
 @endsection
 
 @section('center-pics')
-    <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic.jpg" >
+    <img src="{{ url('/') }}/img/summit/gb/2017/press1.jpg" >
+    <img src="{{ url('/') }}/img/summit/gb/2017/press2.jpg" >
 @endsection
-
-
