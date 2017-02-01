@@ -11,13 +11,12 @@
     <a href="https://getbritainstanding.org/littlenudge.php" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
-    <a href="https://www.gymflex.co.uk/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/gymflex.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+    <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <div style="clear:both"></div>
 
-    <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
 
 
     <a href="https://bhwa.org.uk/" style="color:#009999;">
@@ -32,13 +31,14 @@
         <img src="{{ url('/') }}/img/general/emails/supporters/imprint.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
-    <div style="clear:both"></div>
-
     <a href="https://sit-stand.com/97-updown-deskpro" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/updown.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
-    <a href="http://incorpore.co.uk/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/incorpore.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+    <div style="clear:both"></div>
+
+
+
+
     <br/>
 
     Thank you from all the team <br/><br/>

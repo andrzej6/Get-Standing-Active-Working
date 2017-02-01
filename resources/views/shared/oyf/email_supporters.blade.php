@@ -29,9 +29,6 @@
         <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="150"/></a>
     &nbsp;&nbsp;&nbsp;
 
-    <a href="https://www.gymflex.co.uk/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/gymflex.jpg" width="150"/></a>
-
 
     <a href="http://activeworking.com/littlenudge.php" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/></a>
