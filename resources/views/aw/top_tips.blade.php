@@ -117,14 +117,16 @@
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>
     </a>
     -->
-    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+    <a href="http://activeworking.com/summit/2017/introduction" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
 
+    <!--
     <a href="http://incorpore.co.uk/" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/aw/supporters/incorpore.jpg"  alt="feel after"/>
     </a>
+    -->
 
 
     <a href="careers" class="darken">

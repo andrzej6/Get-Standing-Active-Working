@@ -176,7 +176,7 @@
                     </a>
                     -->
 
-                    <a href="http://activeworking.com/summit/2017/book" target="_blank">
+                    <a href="http://activeworking.com/summit/2017/introduction" target="_blank">
                         <img src="{{ url('/') }}/img/aw/aw-big.jpg">
                     </a>
 
@@ -190,6 +190,7 @@
 
             <div id="gbs-slideshow">
 
+                <!--
                 <div>
                     <a href="https://www.gymflex.co.uk/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/slider/thin/slider1.jpg">
@@ -202,6 +203,8 @@
                         <img src="{{ url('/') }}/img/aw/slider/thin/slider2.jpg">
                     </a>
                 </div>
+
+                -->
 
                 <div>
                     <a href="http://imprintmats.com/" target="_blank">
@@ -230,7 +233,7 @@
 
 
                                 <li style="height: 266px; width:266px;">
-                                    <a href="{{ url('/') }}/summit/2017/book">
+                                    <a href="{{ url('/') }}/summit/2017/introduction">
                                         <div class="item" style="height: 266px;">
                                             <div class="img_block">
                                                 <img src="{{ url('/') }}/img/aw/carousel/slider1.jpg" alt="summit 2016"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>

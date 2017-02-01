@@ -78,9 +78,11 @@
 
 
 @section('content-restofsmall')
+    <!--
     <a href="http://incorpore.co.uk/" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/aw/supporters/incorpore.jpg"  alt="feel after"/>
     </a>
+    -->
 
     <a href="http://onyourfeetday.com" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>

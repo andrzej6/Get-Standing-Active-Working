@@ -100,7 +100,7 @@
     <img src="img/aw/ads/message/feel_alternating2.png" alt="standing great" class="restofsmall-pic"/>
     -->
 
-    <a href="http://activeworking.com/summit/2017/book" class="darken" target="_blank">
+    <a href="http://activeworking.com/summit/2017/introduction" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
