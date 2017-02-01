@@ -44,7 +44,7 @@ class AwController extends Controller
 
 
 
-    public function summit($year='2017', $page='book')
+    public function summit($year='2017', $page='introduction')
     {
 
         if (!view()->exists('aw.summit.'.$year.'.'.$page)) {
