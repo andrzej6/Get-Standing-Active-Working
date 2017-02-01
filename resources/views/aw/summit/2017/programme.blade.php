@@ -26,7 +26,7 @@
     <br/>
 
     <div style="color:#3563ae">
-        <strong>Dame Carol Black (event ambassador)</strong><br/>
+        <span style="font-size:18px"><strong>Dame Carol Black</strong> (event ambassador)</span><br/>
         <span style="font-style: italic">
             Adviser on Health and Work to <strong>Public Health England</strong> and <strong>NHS England</strong> &
             Principal of <strong>Newnham College Cambridge</strong>
