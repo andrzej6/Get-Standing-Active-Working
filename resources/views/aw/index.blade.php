@@ -385,7 +385,7 @@
         });
 
         $(".go-to-summit").click(function(event){
-            window.open('http://activeworking.com/summit/2017/book','_blank');
+            window.open('http://activeworking.com/summit/2017/introduction','_blank');
         });
 
         $(".go-to-who").click(function(event){

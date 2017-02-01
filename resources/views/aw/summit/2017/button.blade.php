@@ -68,13 +68,18 @@ $sandbox=0;
                             <select name="os0">
 
                                 @if ($supplier =='NO')
-                                   <option value="Standard-15% Discount">Early Bird 15% Discount - FULL DAY - £284.75 GBP</option>
+                                   <option value="Standard-10% Discount">Early Bird 10% Discount - FULL DAY - £301.5 GBP</option>
                                 <!--
+                                    <option value="Standard-15% Discount">Early Bird 15% Discount - FULL DAY - £284.75 GBP</option>
                                     <option value="Standard-20% Discount">Early Bird 20% Discount - FULL DAY - £268.00 GBP</option>
                                  -->
 
                                 @elseif ($supplier =='YES')
-                                   <option value="Suppliers-15% Discount">Early Bird 15% Discount - FULL DAY - £675.75 GBP</option>
+                                   <option value="Suppliers-10% Discount">Early Bird 10% Discount - FULL DAY - £715.5 GBP</option>
+
+                                    <!--
+                                     <option value="Suppliers-15% Discount">Early Bird 15% Discount - FULL DAY - £675.75 GBP</option>
+                                    -->
                                 @endif
 
                             </select> </td></tr>
