@@ -87,6 +87,55 @@
 
 
 
+    <div class="aw-partners-title">GOLD PARTNERS</div>
+    <hr class="light">
+
+    <div class="aw-partners-row-m">
+
+        <div class="aw-partners-logo-m">
+            <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg"/>
+            </a>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="aw-partners-text-m">
+            <strong>Yo-Yo Desk™</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
+            Transition simply between sitting / standing at your existing desk with:
+            <ul>
+                <li>
+                    <strong>Yo-Yo Desk™</strong> simply smooth height adjustment.
+                    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">Available in 3 sizes</a>
+                </li>
+
+                <li><strong>Yo-Yo Desk GO™</strong>  affix a <a href="https://sit-stand.com/desk-risers/155-yo-yo-desk-go1.html" target="_blank">Single</a> or
+                    <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">Double Monitor Screen</a> for unrivalled
+                    ergonomic positioning and comfort.
+
+                </li>
+            </ul>
+
+
+        </div>
+
+        <div class="aw-partners-pics-m">
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo1.jpg"/>
+            </a>
+
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo2.jpg"/>
+            </a>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+    <br/>
+
+
+
+
 
     <div class="aw-partners-title">SILVER PARTNERS</div>
     <hr class="light">
