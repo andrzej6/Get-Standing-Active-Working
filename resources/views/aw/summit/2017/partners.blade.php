@@ -94,7 +94,7 @@
 
         <div class="aw-partners-logo">
             <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yoyo-long.jpg"/>
+                <img src="{{ url('/') }}/img/aw/summit/partners/yoyo-long.jpg" width="200px"/>
             </a>
         </div>
 
