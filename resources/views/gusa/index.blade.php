@@ -292,7 +292,7 @@
 
             <div>
                 <a href="http://www.fellowes.com/sitstands" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/slider-1a.jpg">
+                    <img src="img/getstanding/usa/slider/thin/slider-1b.jpg">
                 </a>
             </div>
 
