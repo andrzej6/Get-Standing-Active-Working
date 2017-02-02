@@ -106,11 +106,11 @@
             <ul>
                 <li>
                     <strong>Yo-Yo Desk™</strong> simply smooth height adjustment.
-                    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">Available in 3 sizes</a>
+                    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
                 </li>
 
-                <li><strong>Yo-Yo Desk GO™</strong>  affix a <a href="https://sit-stand.com/desk-risers/155-yo-yo-desk-go1.html" target="_blank">Single</a> or
-                    <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">Double Monitor Screen</a> for unrivalled
+                <li><strong>Yo-Yo Desk GO™</strong>  affix a <a href="https://sit-stand.com/desk-risers/155-yo-yo-desk-go1.html" style="text-decoration: underline" target="_blank">Single</a> or
+                    <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for unrivalled
                     ergonomic positioning and comfort.
 
                 </li>
