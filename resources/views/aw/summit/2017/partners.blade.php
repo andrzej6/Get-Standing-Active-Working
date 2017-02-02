@@ -98,7 +98,7 @@
             </a>
         </div>
 
-        <div class="clear"></div>
+        
 
         <div class="aw-partners-text-m">
             <strong>Yo-Yo Desk™</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
