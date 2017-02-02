@@ -94,11 +94,11 @@
 
         <div class="aw-partners-logo-m">
             <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg"/>
+                <img src="{{ url('/') }}/img/aw/summit/partners/yoyo-long.jpg"/>
             </a>
         </div>
 
-        
+
 
         <div class="aw-partners-text-m">
             <strong>Yo-Yo Desk™</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
