@@ -138,17 +138,7 @@
 
     <br/>
 
-    <div class="aw-partners-row-s">
 
-        <div class="aw-partners-logo-s">
-            <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg"/>
-            </a>
-        </div>
-        <div class="clear"></div>
-    </div>
-
-    <br/>
 
 
 
@@ -168,11 +158,24 @@
         </div>
 
         <div class="aw-partners-pics-s">
-            <a class="fancybox" rel="group15" href="{{ url('/') }}/img/aw/summit/partners/fancybox/steppi1.jpg">
+            <a class="fancybox" rel="group18" href="{{ url('/') }}/img/aw/summit/partners/fancybox/steppi1.jpg">
                 <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/steppi2.jpg"/>
             </a>
         </div>
 
+        <div class="clear"></div>
+    </div>
+
+    <br/>
+
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg"/>
+            </a>
+        </div>
         <div class="clear"></div>
     </div>
 
