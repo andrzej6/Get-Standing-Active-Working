@@ -49,13 +49,13 @@
     <div class="aw-partners-row-l">
 
         <div class="aw-partners-logo-l">
-            <a href="https://www.sit-stand.com/" target="_blank"><img src="{{ url('/') }}/img/aw/summit/partners/sitstand.png"/></a>
+            <a href="https://www.sit-stand.com/" target="_blank"><img src="{{ url('/') }}/img/aw/summit/partners/sitstand-1.jpg"/></a>
         </div>
 
         <div class="clear"></div>
 
         <div class="aw-partners-text-l">
-            Sit.Stand.Com <sup>®</sup> - the Standing Desk Megastore. We offer free trial, exclusive offers, free posters &
+            Sit-Stand.Com <sup>®</sup> - the Standing Desk Megastore. We offer free trial, exclusive offers, free posters &
             corporate discounts. More Choices. Best prices and quality solutions guaranteed. We are exclusive suppliers of
             the Up/Down DeskPro electric desk series (from only £349 ex VAT), hushdesk and the award winning IMPRINT
             comfort mat. We include educational and training support for new users. Work smart. Work healthy.
