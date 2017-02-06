@@ -200,9 +200,8 @@
         </div>
 
         <div class="aw-partners-text-s">
-            Steppie is ”The Missing Link” to get the full benefit to any sit/stand solutions.
-            Because, with a Steppie you’re able to stand longer, as you are standing dynamic with slight movements
-            instead of static. Steppie is a “Class 1 Medical Device” approved by the Danish Health and Medicines Authority, Copenhagen.
+            Steppie is ”The Missing Link” for having the full benefit to any sit/stand solutions.
+            With a Steppie you stand longer, while <i>dynamic</i> posture suits the body best.
 
         </div>
 
