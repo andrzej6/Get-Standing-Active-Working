@@ -42,6 +42,41 @@
     </div>
 
 
+
+
+    <div class="aw-partners-title">HOST SPONSOR</div>
+    <hr class="light">
+
+    <div class="aw-partners-row-m">
+
+        <div class="aw-partners-logo">
+            <a href="http://www.klgates.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/klgates1.jpg" width="250px"/>
+            </a>
+        </div>
+
+
+
+        <div class="aw-partners-text-m">
+            K&L Gates LLP comprises approximately 2,000 lawyers who practice in fully integrated offices located
+            on five continents. We represent leading global corporations, growth and middle-market companies,
+            capital markets participants and entrepreneurs in every major industry group as well as public sector
+            entities, educational institutions, philanthropic organizations and individuals. Our practice is a
+            robust full market practice — cutting edge, complex and dynamic, at once regional, national and
+            international in scope.
+
+
+        </div>
+
+
+        <div class="clear"></div>
+    </div>
+
+    <br/>
+
+
+
+
     <div class="aw-partners-title">PLATINUM PARTNERS</div>
     <hr class="light">
 
@@ -132,45 +167,6 @@
     </div>
 
     <br/>
-
-
-
-
-
-    <div class="aw-partners-title">HOST SPONSOR</div>
-    <hr class="light">
-
-    <div class="aw-partners-row-m">
-
-        <div class="aw-partners-logo">
-            <a href="http://www.klgates.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/klgates1.jpg" width="250px"/>
-            </a>
-        </div>
-
-
-
-        <div class="aw-partners-text-m">
-            K&L Gates LLP comprises approximately 2,000 lawyers who practice in fully integrated offices located
-            on five continents. We represent leading global corporations, growth and middle-market companies,
-            capital markets participants and entrepreneurs in every major industry group as well as public sector
-            entities, educational institutions, philanthropic organizations and individuals. Our practice is a
-            robust full market practice — cutting edge, complex and dynamic, at once regional, national and
-            international in scope.
-
-
-        </div>
-
-        
-        <div class="clear"></div>
-    </div>
-
-    <br/>
-
-
-
-
-
 
 
     <div class="aw-partners-title">SILVER PARTNERS</div>
