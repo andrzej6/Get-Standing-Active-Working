@@ -49,6 +49,10 @@
                             </div>
 
                             <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/wellbeeing.jpg" alt="" class="go-to go-to-wellbeeing">
+                            </div>
+
+                            <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/1-aw.jpg" alt="" class="go-to go-to-summit">
                             </div>
 
@@ -396,6 +400,12 @@
         $(".go-to-who").click(function(event){
             window.open('http://getbritainstanding.org/pdfs/tiny/WHO_Physical_Activity_Strategy_2015.pdf','_blank');
         });
+
+        $(".go-to-wellbeeing").click(function(event){
+            window.open('http://www.businessandindustry.co.uk/hot-topics/employee-wellbeing','_blank');
+        });
+
+
     </script>
 @endsection
 
