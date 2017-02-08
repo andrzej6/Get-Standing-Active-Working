@@ -256,6 +256,25 @@
                 <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg"/>
             </a>
         </div>
+
+
+
+        <div class="aw-partners-text-s">
+            Fellowes Brands™ offers an extensive range of products to equip the home and workspace,
+            including business machines and office accessories. Their new Lotus™ Sit-Stand Workstation
+            offers an innovative approach to working at a desk, making it effortless to add movement to
+            your workday for improved wellness. Learn more at: <a href="www.fellowes.com" target="_blank">www.fellowes.com</a>.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group22" href="{{ url('/') }}/img/aw/summit/partners/fancybox/fellowes1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/fellowes2.jpg"/>
+            </a>
+        </div>
+
+
+
         <div class="clear"></div>
     </div>
 
