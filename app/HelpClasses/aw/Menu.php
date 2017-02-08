@@ -31,7 +31,7 @@ class Menu {
             ], 'class' => ''
         ],
 
-        'Summit' => ['link' => '#', 'sub' =>
+        'Summit' => ['link' => 'summit/2017/introduction', 'sub' =>
             ['2017' => ['link' => 'summit/2017/introduction', 'class' => ''],
                 '2016' => ['link' => 'summit/2016/index', 'class' => ''],
                 '2015' => ['link' => 'summit/2015/index', 'class' => '']
