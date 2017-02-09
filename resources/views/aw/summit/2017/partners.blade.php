@@ -260,10 +260,9 @@
 
 
         <div class="aw-partners-text-s">
-            Fellowes Brands™ offers an extensive range of products to equip the home and workspace,
-            including business machines and office accessories. Their new Lotus™ Sit-Stand Workstation
-            offers an innovative approach to working at a desk, making it effortless to add movement to
-            your workday for improved wellness. Learn more at: <a href="http://www.fellowes.com" target="_blank" style="text-decoration: underline;">www.fellowes.com</a>.
+            Fellowes Brands™ offers an extensive range of products to equip the workspace.
+            Their new Lotus™ Sit-Stand Workstation’s innovative approach to working makes it effortless to add
+            movement to your workday for improved wellness.
 
         </div>
 
