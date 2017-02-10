@@ -11,7 +11,10 @@
     <a href="http://activeworking.com" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/activeworking.jpg" width="100"/></a> <br/>
 
-    Thank you for your On Your Feet Registration.
+    Thank you for registering for <strong>On Your Feet Day</strong> taking place on April 28th 2017.
+    <br/><br/>
+
+    We will contact you again in March 2017 when all our posters and communication materials will be available for download.
     <br/><br/>
 
     @include('shared.oyf.email_supporters')

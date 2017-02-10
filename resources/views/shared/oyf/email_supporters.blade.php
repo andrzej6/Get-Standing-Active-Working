@@ -1,6 +1,6 @@
 <div>
-    On Your Feet World is proud to be associated with the following
-    <strong>"Official Supporters"</strong>: <br/>
+    <span style="font-size:0.8em">On Your Feet World is proud to be associated with the following
+    <strong>"Official Supporters"</strong></span>: <br/>
 
 
     <a href="https://sit-stand.com" style="color:#009999;">
@@ -44,12 +44,13 @@
     Thank you from all the team <br/><br/>
 
     <strong> Active Working C.I.C  <br/>
-        On Your Feet World campaign </strong>
+        On Your Feet World</strong>
 
     <br/><br/>
 
     <div style="font-size:0.8em;text-align:justify">
-        <strong>Active Working CIC </strong>is leading the global insight and evidence based research on
+        <strong>On Your Feet World</strong> is an event owned by <strong>Active Working CIC</strong>.
+        We are leading the global insight and evidence based research on
         sedentary behaviour. We commissioned the first
         <a href="https://getbritainstanding.org/expert_statement.php">global expert recommendations </a>
         on standing time for office workers (with the support of <strong>Public Health England</strong>),
