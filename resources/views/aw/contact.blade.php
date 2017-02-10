@@ -201,8 +201,8 @@
                     </div>
 
                     <div class="checkbox-block">
-                        {!!  Form::checkbox('offer[3]', 'discount gym for corporates') !!}
-                        DISCOUNT gym membership for corporate employees
+                        {!!  Form::checkbox('offer[3]', 'active working seminar') !!}
+                        Book Active Working Seminar
                     </div>
                 </div>
 
