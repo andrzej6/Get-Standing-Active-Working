@@ -202,7 +202,7 @@
 
                     <div class="checkbox-block">
                         {!!  Form::checkbox('offer[3]', 'active working seminar') !!}
-                        Book Active Working Seminar
+                        Book Active Working SEMINAR
                     </div>
                 </div>
 
