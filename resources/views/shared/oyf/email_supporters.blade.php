@@ -11,11 +11,13 @@
             <a href="https://sit-stand.com" style="color:#009999;">
                 <img src="{{ url('/') }}/img/general/emails/supporters/oyf/sitstand-new.jpg" width="200"/></a>
             &nbsp;&nbsp;&nbsp;
+            <div style="clear:both"></div>
       @endif
 
       <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
           <img src="{{ url('/') }}/img/general/emails/supporters/oyf/yo-yo.jpg" width="150"/></a>
           &nbsp;&nbsp;&nbsp;
+          <div style="clear:both"></div>
 
 
 
