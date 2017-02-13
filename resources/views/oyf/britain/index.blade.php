@@ -91,9 +91,9 @@
 
 
     <div class="oyf-newblue fbigger fbold">The Challenge</div><br/>
-    Check out our <a href="{{ url('/') }}/challenge" class="link-line oyf-newblue">challenge page</a> for fun and easy ideas to take part. Why not take on a team challenge?
+    Check out our <a href="{{ url('/') }}/britain/challenge" class="link-line oyf-newblue">challenge page</a> for fun and easy ideas to take part. Why not take on a team challenge?
     Join-up with your co-workers and work together and compete with other teams within your organisation
-    <a href="{{ url('/') }}/challenge" class="link-line oyf-newblue">[More info]</a>.
+    <a href="{{ url('/') }}/britain/challenge" class="link-line oyf-newblue">[More info]</a>.
 
     <br/><br/><br/><br/>
 
