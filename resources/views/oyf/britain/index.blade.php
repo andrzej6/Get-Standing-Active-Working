@@ -64,7 +64,7 @@
      -->
 
 
-    <br/><br/><br/><br/>
+    <br/>
 
     <div class="oyf-newblue fbigger fbold">"Get up offa that thing"</div><br/>
     The <strong>On Your Feet Britain</strong> Challenge dares you to take James Brown at his word and convert 'sitting time' to
