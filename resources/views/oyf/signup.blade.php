@@ -311,6 +311,7 @@
                                         'NF' => 'Norfolk Island',
                                         'KP' => 'North Korea',
                                         'VD' => 'North Vietnam',
+                                        'NIRL' => 'Northern Ireland',
                                         'MP' => 'Northern Mariana Islands',
                                         'NO' => 'Norway',
                                         'OM' => 'Oman',

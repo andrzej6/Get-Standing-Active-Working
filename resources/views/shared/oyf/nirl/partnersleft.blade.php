@@ -14,6 +14,7 @@
 
     <div class="aw-partners-title">GOLD PARTNERS</div>
 
+    <!--
     <div class="aw-partners-gold">
 
         <p>
@@ -23,6 +24,7 @@
         </p>
 
     </div>
+    -->
 
     <div class="aw-partners-gold">
 
