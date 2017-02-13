@@ -30,6 +30,7 @@
     <h1 class="oyf-newpink" style="float:left">On Your Feet Britain </h1>
 
 
+    <!--
     <div style="text-align:right;">
         <a href="http://getbritainstanding.org/pdfs/oyf2016-flyer.pdf" target="_blank">
             <img src="{{ url('/') }}/img/general/icons/pdficon.png"></a>
@@ -38,23 +39,28 @@
         </a>
     </div>
 
+
     <div style="clear: both"></div>
     <br/>
+     -->
 
 
     Take part in our national day when workers across Britain unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
     <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work.<br/><br/>
 
+    <!--
     Already we have over <span class="oyf-newblue fbiggerhalf fbold">2,000 companies</span> signed up and expect
     over <span class="oyf-newblue fbiggerhalf fbold">1 Million office workers</span> to wiggle
     and waggle it on <span class="oyf-newblue fbiggerhalf fbold">Friday 28th April</span>.<br/><br/>
+     -->
 
     It’s FREE to sign up, simply
     <a href="{{ url('/') }}/signup" class="oyf-newblue link-line" target="_blank">register here</a><br/><br/>
 
+    <!--
     Why not share our Event Flyer <a href="{{ url('/') }}/pdfs/oyf/gb/oyf2016-flyer.pdf" target="_blank" class="link-line oyf-newblue">download PDF</a>
-
+     -->
 
 
     <br/><br/><br/><br/>
@@ -84,9 +90,9 @@
 
 
     <div class="oyf-newblue fbigger fbold">The Challenge</div><br/>
-    Check out our <a href="challenge" class="link-line oyf-newblue">challenge page</a> for fun and easy ideas to take part. Why not take on a team challenge?
+    Check out our <a href="{{ url('/') }}/challenge" class="link-line oyf-newblue">challenge page</a> for fun and easy ideas to take part. Why not take on a team challenge?
     Join-up with your co-workers and work together and compete with other teams within your organisation
-    <a href="challenge" class="link-line oyf-newblue">[More info]</a>.
+    <a href="{{ url('/') }}/challenge" class="link-line oyf-newblue">[More info]</a>.
 
     <br/><br/><br/><br/>
 
