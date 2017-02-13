@@ -3,7 +3,7 @@
     <strong>"Official Supporters"</strong></span>: <br/>
 
 
-    
+
     @if( ! empty($country))
 
       @if (($country !='US') && ($country !='CAN') )

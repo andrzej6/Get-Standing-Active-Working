@@ -52,7 +52,7 @@ class OyfController extends Controller
         if ($reg->save())
         {
             $to_send = Oyf_reg::findOrFail($reg->id);
-            $this->dispatch(new OyfSend2Emails(id));
+            $this->dispatch(new OyfSend2Emails($to_send));
 
             flash('Thank you for your enquiry, we will be in touch shortly.', 'success');
         }
