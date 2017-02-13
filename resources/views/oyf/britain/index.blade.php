@@ -48,7 +48,7 @@
 
     Already we have over <span class="oyf-newblue fbiggerhalf fbold">2,000 companies</span> signed up and expect
     over <span class="oyf-newblue fbiggerhalf fbold">1 Million office workers</span> to wiggle
-    and waggle it on <span class="oyf-newblue fbiggerhalf fbold">Friday 29th April</span>.<br/><br/>
+    and waggle it on <span class="oyf-newblue fbiggerhalf fbold">Friday 28th April</span>.<br/><br/>
 
     It’s FREE to sign up, simply
     <a href="{{ url('/') }}/signup" class="oyf-newblue link-line" target="_blank">register here</a><br/><br/>
@@ -74,7 +74,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 29th April 2016</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 28th April 2017</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 
@@ -110,10 +110,10 @@
     <div class="oyf-newblue fbigger fbold">What can I do now?</div><br/>
     <ul>
         <li><a href="{{ url('/') }}/signup" class="link-line oyf-newblue">[Register now]</a> and enter your details</li>
-        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2016.</li>
+        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2017.</li>
 
 
-        <li>If you any other questions about getting involved in 2016 please contact:
+        <li>If you any other questions about getting involved in 2017 please contact:
             <span id="email_hidden"><b>@</b></span></li>
 
     </ul>
