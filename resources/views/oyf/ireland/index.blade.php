@@ -54,7 +54,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 29th April 2016</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 28th April 2017</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 
