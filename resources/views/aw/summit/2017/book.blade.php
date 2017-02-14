@@ -197,6 +197,14 @@
 
 
 
+        <li id="member-li">
+            {!!   Form::label('member-field', '(*) Your membership number:') !!}
+            {!!   Form::text('member-field', old('member-field'), array('id' => 'member-field')) !!}
+            <div style="clear: both;"></div>
+        </li>
+
+
+
         <li>
             <label>Dietary Requirements:</label>
             <div style="clear:both"></div>
