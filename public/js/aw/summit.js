@@ -214,4 +214,32 @@ $( document ).ready(function() {
     });
 
 
+
+
+
+    $( "#member" ).change(function() {
+        if ($("#member").val() !='')
+        {
+            if ($("#member-field").prop('required')==false)
+            {
+                $("#member-field").prop('required',true);
+                $( "#member-li" ).toggle( "slow", function() { });
+            }
+        }
+        else if ($("#member").val() =='')
+        {
+            if ($("#member-field").prop('required')==true)
+            {
+                $("#member-field").prop('required',false);
+                $( "#member-li" ).toggle( "slow", function() { });
+            }
+        }
+
+    });
+
+
+
+
+
+
 });
