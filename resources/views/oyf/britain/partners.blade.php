@@ -185,6 +185,7 @@
 
 
 
+    <!--
     <div class="aw-partners-row-s">
 
         <div class="aw-partners-logo-s">
@@ -198,6 +199,28 @@
 
         <div class="aw-partners-pics-s">
             <a class="fancybox" rel="group5" href="{{ url('/') }}/img/oyf/partners/page/fancybox/ergotron.jpg"><img src="{{ url('/') }}/img/oyf/partners/page/ergotron.jpg"/></a>
+        </div>
+        <div class="clear"></div>
+    </div>
+    -->
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://imprintmats.com/products/professional" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/imprint.png"/>
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            Imprint® Comfort Mats is passionate about providing consumers with environmentally friendly anti-fatigue mats
+            that are proven to make everyday life more comfortable and enjoyable.
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group15" href="{{ url('/') }}/img/aw/summit/partners/fancybox/imprint1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/imprint1.jpg"/>
+            </a>
         </div>
         <div class="clear"></div>
     </div>
