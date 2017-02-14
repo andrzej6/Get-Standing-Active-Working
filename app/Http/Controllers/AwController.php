@@ -182,7 +182,7 @@ class AwController extends Controller
             //Log::info($to_send);
             $this->dispatch(new SummitSend2Emails($to_send));
 
-            return view('aw.summit.2017.button',compact('page','id','supplier','replyto','mainMenuOutput','trail1','trail2','page'));
+            return view('aw.summit.2017.button',compact('page','id','supplier','member','replyto','mainMenuOutput','trail1','trail2','page'));
 
             //return redirect($baseurl.'/summit/2017/book');
         }
