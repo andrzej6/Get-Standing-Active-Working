@@ -16,7 +16,7 @@
     <a href="{{ url('/') }}/australia" title="On Your Feet Australia" class="international-link1">
         <img src="{{ url('/') }}/img/oyf/mini/oyf-aus.png">
     </a>
-    
+
 
 
 
