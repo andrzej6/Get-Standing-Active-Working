@@ -224,7 +224,7 @@ $( document ).ready(function() {
             {
                 $("#memberfield").prop('required',true);
                 $( "#member-li" ).toggle( "slow", function() { });
-                $("#supplier2").prop('selected',true);
+                $("#supplier2").prop('checked',true);
             }
         }
         else if ($("#member").val() =='')
