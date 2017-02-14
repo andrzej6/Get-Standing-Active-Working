@@ -129,6 +129,15 @@ class AwController extends Controller
                 $dietary .= $add.', ';
         $request->dietary = $dietary;
 
+        $member='';
+        if (!empty($request->member))
+        {
+            $member = $request->member.'- '.$request->member-field;
+        }
+
+
+
+
 
         $baseurl =URL::to('/');
 
@@ -152,6 +161,7 @@ class AwController extends Controller
              'assistance' => $request->assistance,
              'date_created' => date("Y-m-d H:i:s",time()),
              'correspondence' => $request->correspondence,
+             'member'=>$member,
              'details' => $request->details
             ]
         );
