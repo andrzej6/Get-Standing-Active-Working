@@ -28,7 +28,7 @@
 
     <h1 class="oyf-newpink">The Challenge</h1>
 
-    On 29th April, Get Britain Standing in association with Active Working are asking the nation to unite
+    On 28th April, Get Britain Standing in association with Active Working are asking the nation to unite
     against prolonged office sitting by taking on the challenge to get on their feet. <br/><br/>
 
     We want workplaces and individuals across Britain to sit less and move more during their working day.
