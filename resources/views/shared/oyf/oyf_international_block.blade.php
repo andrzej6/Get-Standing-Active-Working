@@ -11,12 +11,12 @@
     <a href="{{ url('/') }}/canada" title="On Your Feet Canada" class="international-link1">
         <img src="{{ url('/') }}/img/oyf/mini/oyf-can.png">
     </a>
-    <!--
+
 
     <a href="{{ url('/') }}/australia" title="On Your Feet Australia" class="international-link1">
         <img src="{{ url('/') }}/img/oyf/mini/oyf-aus.png">
     </a>
-    -->
+    
 
 
 
