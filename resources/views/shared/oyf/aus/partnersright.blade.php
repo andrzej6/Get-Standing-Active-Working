@@ -21,6 +21,14 @@
         </p>
     </div>
 
-    <br/><br/>
+    <br/>
+
+    <div class="aw-partners-platinum">
+        <p>
+            <a href="https://www.baker.edu.au/" target="_blank">
+                <img src="{{ url('/') }}/img/general/emails/bakeridi.png" width="150px" >
+            </a>
+        </p>
+    </div>
 
 </div>
