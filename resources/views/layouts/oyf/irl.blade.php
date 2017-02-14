@@ -23,8 +23,18 @@ $sidemenu=array('index'=>'Event','downloads'=>'Downloads');
             <div id="banner1" class="OneByOne_container">
 
                 <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/irl/slider/oyf-irl.jpg" alt="" class="go-to-onyourfeet1">
+                    <img src="{{ url('/') }}/img/oyf/irl/slider/oyf-irl1.jpg" alt="" class="go-to-onyourfeet-r">
                 </div>
+
+                <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/irl/slider/oyf-irl2.jpg" alt="" class="go-to-onyourfeet-r">
+                </div>
+
+
+                <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/irl/slider/oyf-irl3.jpg" alt="" class="go-to-onyourfeet-r">
+                </div>
+
 
             </div>
         </div>
