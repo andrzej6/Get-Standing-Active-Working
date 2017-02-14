@@ -26,3 +26,7 @@ $(window).load(function(){
     if (w<1170)  $('#oyf-follow').css( "display","none");
 
 });
+
+$(".go-to-onyourfeet-r").click(function(event){
+    window.open('http://onyourfeetday.com/signup','_blank');
+});

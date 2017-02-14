@@ -4,6 +4,12 @@
 }
 
 
+
+.go-to-onyourfeet-r {
+    cursor: pointer;
+}
+
+
 .link-line a, a.link-line, #email_hidden a
 {
     text-decoration: underline;
