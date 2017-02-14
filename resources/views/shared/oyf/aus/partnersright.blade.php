@@ -21,7 +21,7 @@
         </p>
     </div>
 
-    <br/>
+
 
     <div class="aw-partners-platinum">
         <p>
@@ -30,5 +30,8 @@
             </a>
         </p>
     </div>
+
+    <br/>
+    <br/>
 
 </div>
