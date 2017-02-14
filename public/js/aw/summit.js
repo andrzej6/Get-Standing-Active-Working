@@ -220,17 +220,17 @@ $( document ).ready(function() {
     $( "#member" ).change(function() {
         if ($("#member").val() !='')
         {
-            if ($("#member-field").prop('required')==false)
+            if ($("#memberfield").prop('required')==false)
             {
-                $("#member-field").prop('required',true);
+                $("#memberfield").prop('required',true);
                 $( "#member-li" ).toggle( "slow", function() { });
             }
         }
         else if ($("#member").val() =='')
         {
-            if ($("#member-field").prop('required')==true)
+            if ($("#memberfield").prop('required')==true)
             {
-                $("#member-field").prop('required',false);
+                $("#memberfield").prop('required',false);
                 $( "#member-li" ).toggle( "slow", function() { });
             }
         }

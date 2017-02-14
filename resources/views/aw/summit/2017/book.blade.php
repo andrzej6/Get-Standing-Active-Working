@@ -198,8 +198,8 @@
 
 
         <li id="member-li" style="display:none">
-            {!!   Form::label('member-field', '(*) Your membership number:') !!}
-            {!!   Form::text('member-field', old('member-field'), array('id' => 'member-field')) !!}
+            {!!   Form::label('memberfield', '(*) Your membership number:') !!}
+            {!!   Form::text('memberfield', old('memberfield'), array('id' => 'memberfield')) !!}
             <div style="clear: both;"></div>
         </li>
 

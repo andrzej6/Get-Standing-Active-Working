@@ -132,7 +132,7 @@ class AwController extends Controller
         $member='';
         if (!empty($request->member))
         {
-            $member = $request->member.'- '.$request->member-field;
+            $member = $request->member.'- '.$request->memberfield;
         }
 
 
