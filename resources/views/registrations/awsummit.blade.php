@@ -50,6 +50,7 @@
             <th class="tadd">allergy</th>
             <th class="tadd">assistance</th>
             <th class="tadd">correspondence</th>
+            <th class="tadd">member</th>
             <th>date_created</th>
 
             <th class="tpay">payment_status</th>
@@ -84,6 +85,7 @@
                 <td class="tadd">{{$customer->allergy}}</td>
                 <td class="tadd">{{$customer->assistance}}</td>
                 <td class="tadd">{{$customer->correspondence}}</td>
+                <td class="tadd">{{$customer->member}}</td>
                 <td><?php  print date("Y-m-d", strtotime($customer->date_created)); ?></td>
 
                 <td class="tpay">{{$customer->payment_status}}</td>
