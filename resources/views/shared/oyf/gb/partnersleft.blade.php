@@ -56,8 +56,8 @@
 
 
         <p>
-            <a href="http://www.ergotron.com/" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/ergotron.jpg">
+            <a href="http://imprintmats.com/" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/imprint.png" width="120">
             </a>
         </p>
 
