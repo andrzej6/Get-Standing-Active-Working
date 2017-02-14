@@ -36,6 +36,8 @@
 
     <tr><td><strong>Assistance:</strong> </td><td>{{$assistance}}</td></tr>
 
+    <tr><td><strong>Member:</strong> </td><td>{{$member}}</td></tr>
+
     <tr><td><strong>Correspondence:</strong> </td><td>{{$correspondence}}</td></tr>
 
     <tr><td><strong>Details:</strong> </td><td>{{$details}}</td></tr>
