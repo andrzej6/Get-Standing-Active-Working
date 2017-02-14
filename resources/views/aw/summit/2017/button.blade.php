@@ -68,10 +68,10 @@ $sandbox=0;
                             <select name="os0">
 
                                 @if ($supplier =='NO')
-                                   <option value="Standard-10% Discount">Early Bird 10% Discount - FULL DAY - £301.5 GBP</option>
-
                                    @if ($member !='')
                                         <option value="Standard-20% Discount">Early Bird 20% Discount - FULL DAY - £268.00 GBP</option>
+                                    @else
+                                        <option value="Standard-10% Discount">Early Bird 10% Discount - FULL DAY - £301.5 GBP</option>
                                    @endif
 
                                 <!--
