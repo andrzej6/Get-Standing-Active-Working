@@ -183,7 +183,8 @@
 
 
 
-        <li>
+
+        <li style="margin:10px 0;">
             {!!   Form::label('member', 'Delegate qualifies for 20% discount as member of listed affiliate organisation:') !!}
             {!!   Form::select('member',
                                 array('' => '- Select Organization -',
