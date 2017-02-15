@@ -17,22 +17,21 @@
       <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
           <img src="{{ url('/') }}/img/general/emails/supporters/oyf/yo-yo.jpg" width="150"/></a>
           &nbsp;&nbsp;&nbsp;
-          <div style="clear:both"></div>
 
 
 
       @if (($country =='GB') || ($country =='NIRL') )
 
               <a href="http://activeworking.com/littlenudge.php" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
               <a href="http://bhwa.org.uk/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
               <a href="http://www.ergotron.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
       @endif
@@ -41,7 +40,7 @@
       @if (($country =='CAN') || ($country =='US'))
 
               <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/got1minute.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/got1minute.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
       @endif
@@ -51,17 +50,17 @@
       @if ($country =='US')
 
               <a href="http://workriteergo.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/workrite.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/workrite.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
 
               <a href="http://imprintmats.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
 
               <a href="http://www.ergotron.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="130"/></a>
+                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
           @endif
