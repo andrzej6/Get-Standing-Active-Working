@@ -23,6 +23,10 @@
     --media-readmore:#ff8d00;
 }
 
+.go-to {
+    cursor: pointer;
+}
+
 
 /* below correct social icons in footer */
 .footer_tools .ico_social-facebook {
