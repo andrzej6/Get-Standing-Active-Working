@@ -74,7 +74,7 @@
 
     <br/><br/>
 
-    If you any other questions about getting involved in 2016 please contact:
+    If you any other questions about getting involved in 2017 please contact:
     <span id="email_hidden"><b>@</b></span>
 
     <br/><br/><br/>
