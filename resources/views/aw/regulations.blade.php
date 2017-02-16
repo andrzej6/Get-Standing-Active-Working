@@ -94,7 +94,10 @@
 
 @section('content-restofsmall')
 
-    <img src="img/aw/ads/message/feel_alternating1.png" alt="standing great" class="restofsmall-pic"/>
+
+    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf4.jpg" alt="oyf"/>
+    </a>
 
     <!--
     <img src="img/aw/ads/message/feel_alternating2.png" alt="standing great" class="restofsmall-pic"/>

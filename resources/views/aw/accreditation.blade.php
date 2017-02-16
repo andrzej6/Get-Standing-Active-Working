@@ -84,9 +84,11 @@
     </a>
     -->
 
-    <a href="http://onyourfeetday.com" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>
+    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf3.jpg" alt="oyf"/>
     </a>
+
+    <img src="img/aw/ads/message/feel_alternating1.png" alt="standing great" class="restofsmall-pic"/>
 
 @endsection
 
