@@ -121,6 +121,10 @@
         <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
+    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf1.jpg" alt="oyf"/>
+    </a>
+
 
     <!--
     <a href="http://incorpore.co.uk/" class="darken" target="_blank">
