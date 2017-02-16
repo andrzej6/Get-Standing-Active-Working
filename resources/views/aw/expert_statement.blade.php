@@ -148,8 +148,8 @@
 @section('content-restofsmall')
     <img src="{{ url('/') }}/img/aw/ads/message/productivity.png" alt="productivity" class="restofsmall-pic"/>
 
-    <a href="onyourfeet" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf2017.jpg" alt="oyf"/>
+    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf1.jpg" alt="oyf"/>
     </a>
 
     <img src="{{ url('/') }}/img/aw/ads/message/who.png" alt="who" class="restofsmall-pic"/>
