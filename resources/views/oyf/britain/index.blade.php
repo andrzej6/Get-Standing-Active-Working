@@ -30,19 +30,19 @@
     <h1 class="oyf-newpink" style="float:left">On Your Feet Britain </h1>
 
 
-    <!--
+
     <div style="text-align:right;">
         <a href="http://getbritainstanding.org/pdfs/oyf2016-flyer.pdf" target="_blank">
             <img src="{{ url('/') }}/img/general/icons/pdficon.png"></a>
-        <a href="{{ url('/') }}/pdfs/oyf/gb/oyf2016-flyer.pdf" target="_blank" class="oyf-newblue fbiggerhalf">
+        <a href="{{ url('/') }}/pdfs/oyf/gb/oyf2017-flyer.pdf" target="_blank" class="oyf-newblue fbiggerhalf">
             Event Details
         </a>
     </div>
 
 
     <div style="clear: both"></div>
-    <br/>
-     -->
+   
+
 
     <br/><br/><br/>
 
