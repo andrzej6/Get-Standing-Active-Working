@@ -20,7 +20,7 @@ protected static $menu = [
             'Innovation Center' => ['link' => 'innovation_center', 'class' => ''],
             'Register Project' => ['link' => 'project_support', 'class' => ''],
             'Official Supporters' => ['link' => 'supporters', 'class' => ''],
-            'Summit 2016' => ['link' => 'aw_summit', 'class' => ''],
+            'Summit 2017' => ['link' => 'aw_summit', 'class' => ''],
 
         ], 'class' => ''],
     'Employers' => ['link' => '#', 'sub' =>

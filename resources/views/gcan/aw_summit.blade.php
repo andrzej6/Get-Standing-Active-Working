@@ -22,13 +22,13 @@
 
 @section('content-smallwidth')
 
-    <img src="img/getstanding/can/logos/summit2016.png" alt="summit2016">
+    <img src="img/getstanding/can/logos/summit2017.jpg" alt="summit 2017">
     <br/><br/>
 
     @include('shared.trail')
     <br/>
 
-    <h1 class="activeworking">Active Working Summit 2016</h1>
+    <h1 class="activeworking">Active Working Summit 2017</h1>
 
 
     <div class="gbs-expert">
@@ -37,7 +37,7 @@
 
     <br/>
     We invite HR managers, leaders & decision makers from the Health & Wellness sector to
-    <strong>Active Working Summit - 2016</strong>
+    <strong>Active Working Summit - 2017</strong>
 
     <br/><br/>
     <i>Keynote Speakers:</i>

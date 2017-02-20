@@ -773,8 +773,8 @@
         <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
     </a>
 
-    <a href="http://onyourfeetday.com/canada" target="_blank" class="sup-nobg">
-        <img src="img/getstanding/can/ads/oyf.jpg" alt="advert" /> <br/>
+    <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
+        <img src="img/getstanding/can/ads/oyf/oyf1.jpg" alt="oyf"/>
     </a>
 
 
