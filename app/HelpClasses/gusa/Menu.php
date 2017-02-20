@@ -16,7 +16,7 @@ class Menu {
             ['Introduction' => ['link' => 'introduction', 'class' => ''],
                 'Cost Of Sitting' => ['link' => 'sitting_cost', 'class' => ''],
                 'New To Sit-Stand' => ['link' => 'get_started', 'class' => ''],
-                'Summit 2016' => ['link' => 'aw_summit', 'class' => ''],
+                'Summit 2017' => ['link' => 'aw_summit', 'class' => ''],
                 'Official Supporters' => ['link' => 'supporters', 'class' => ''],
                 'Regulations' => ['link' => 'regulations', 'class' => ''],
             ], 'class' => ''
