@@ -120,6 +120,10 @@
 @section('content-restofsmall')
     <img src="img/getstanding/usa/ads/message/avoid.png" class="restofsmall-pic" alt="avoid"/>
 
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf1.jpg" alt="oyf"/>
+    </a>
+
     <a href="http://www.fellowes.com/sitstands" target="_blank">
         <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
     </a>
@@ -127,12 +131,6 @@
     <a href="http://imprintmats.com/" target="_blank" class="sup-nobg">
         <img src="img/getstanding/usa/ads/supporters/imprint.jpg" alt="advert" /> <br/>
     </a>
-
-
-    <a href="http://onyourfeetday.com/america" target="_blank" class="darken">
-        <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
-    </a>
-
 
     <!--
     <a href="aw_summit" class="darken">
