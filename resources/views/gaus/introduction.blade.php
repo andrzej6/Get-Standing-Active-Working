@@ -94,12 +94,13 @@
 @section('content-restofsmall')
     <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/>
 
-    <img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>
-
-
-    <a href="aw_summit" class="darken">
-        <img src="img/getstanding/aus/ads/summit2016-aw.jpg" alt="summit 2016"/>
+    <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
+        <img src="img/getstanding/aus/ads/oyf/oyf4.jpg" alt="oyf"/>
     </a>
+
+
+
+    <img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>
 
 @endsection
 

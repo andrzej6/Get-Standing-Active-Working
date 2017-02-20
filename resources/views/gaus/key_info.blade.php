@@ -101,8 +101,8 @@
         <img src="img/getstanding/aus/ads/crowd-fund.png" alt="summit 2016"/>
     </a>
 
-    <a href="aw_summit" class="darken">
-        <img src="img/getstanding/aus/ads/summit2016-aw.jpg" alt="summit 2016"/>
+    <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
+        <img src="img/getstanding/aus/ads/oyf/oyf6.jpg" alt="oyf"/>
     </a>
 
 
