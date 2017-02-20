@@ -315,7 +315,7 @@
                                             <img src="img/getstanding/aus/carousel/slider1.jpg" alt="summit 2017"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
 
                                         <div class="carousel_title">
-                                            <h4 class="featured_ico_slider">Summit 2016</h4>
+                                            <h4 class="featured_ico_slider">Summit 2017</h4>
                                         </div>
 
                                         <div class="carousel_desc">

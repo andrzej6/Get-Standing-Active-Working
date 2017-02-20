@@ -145,8 +145,8 @@
     </a>
 
 
-    <a href="aw_summit" class="darken">
-        <img src="img/getstanding/aus/ads/summit2016-aw.jpg" alt="summit 2016"/>
+    <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
+        <img src="img/getstanding/aus/ads/oyf/oyf1.jpg" alt="oyf"/>
     </a>
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing"
