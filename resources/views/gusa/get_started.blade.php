@@ -119,6 +119,10 @@
         <img src="img/getstanding/usa/ads/supporters/join-us.png" />
     </a>
 
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf3.jpg" alt="oyf"/>
+    </a>
+
 
 @endsection
 
