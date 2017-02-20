@@ -110,8 +110,8 @@
         <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
     </a>
 
-    <a href="http://onyourfeetday.com/america" target="_blank" class="darken">
-        <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf1.jpg" alt="oyf"/>
     </a>
 
 

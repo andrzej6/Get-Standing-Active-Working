@@ -109,8 +109,8 @@
     -->
 
 
-    <a href="http://onyourfeetday.com/america" target="_blank" class="darken">
-        <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf5.jpg" alt="oyf"/>
     </a>
 
 

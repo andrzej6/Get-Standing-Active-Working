@@ -814,6 +814,10 @@
 
     <img src="img/getstanding/usa/ads/message/standing.png" class="restofsmall-pic" alt="standing at work"/>
 
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf3.jpg" alt="oyf"/>
+    </a>
+
     <a href="http://www.fellowes.com/sitstands" target="_blank">
         <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
     </a>

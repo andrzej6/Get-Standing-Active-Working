@@ -769,6 +769,9 @@
 @section('content-restofsmall')
     <img src="img/getstanding/usa/ads/message/whenyousit.png" class="restofsmall-pic" alt="advert"/>
 
+    <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf2.jpg" alt="oyf"/>
+    </a>
 
     <a href="http://www.fellowes.com/sitstands" target="_blank">
         <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
@@ -776,10 +779,6 @@
 
     <a href="http://workriteergo.com/" target="_blank" class="sup-nobg">
         <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
-    </a>
-
-    <a href="http://onyourfeetday.com/america" target="_blank" class="darken">
-        <img src="img/getstanding/usa/ads/oyf.jpg" alt="advert" />
     </a>
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"
