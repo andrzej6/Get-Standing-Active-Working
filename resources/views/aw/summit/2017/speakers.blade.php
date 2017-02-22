@@ -46,7 +46,7 @@
         <div class="aw-bio" id="bio1-more">
             An Award-winning journalist and broadcaster with over thirty years’ on-air experience, both in radio
             and television. Worricker currently presents ‘Weekend’ on the BBC World Service and appears regularly on
-            the BBC News Channel and Radio 4. <a href="http://www.julianworricker.com/" style="text-decoration: underline">www.JulianWorricker.com</a>
+            the BBC News Channel and Radio 4. <a href="http://www.julianworricker.com/" style="text-decoration: underline" target="_blank">www.JulianWorricker.com</a>
         </div>
     </div>
 
