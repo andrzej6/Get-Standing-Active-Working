@@ -63,7 +63,7 @@
 
         <p>
             <a href="http://www.littlenudge.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg" width="150px" height="70px">
+                <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg">
             </a>
         </p>
 
