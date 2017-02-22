@@ -330,7 +330,7 @@
 
         <div class="speakers-title">
             <strong>Dr Charlotte Edwardson</strong><br/>
-            <i>Associate Professor in Physical Activity, Sedentary Behaviour & Health</i><br/>
+            <i>Associate Professor in Physical Activity, Sedentary Behaviour & Health,</i><br/>
             University of Leicester
         </div>
 
@@ -427,7 +427,7 @@
 
         <div class="speakers-title">
             <strong>Rohit Talwar</strong><br/>
-            <i>CEO</i><br/>
+            <i>CEO,</i><br/>
             Fast Future
         </div>
 
@@ -459,7 +459,7 @@
 
         <div class="speakers-title">
             <strong>Rik Mistry</strong><br/>
-            <i>Head of Business Development</i><br/>
+            <i>Head of Business Development,</i><br/>
             Sit-Stand.Com
         </div>
 
