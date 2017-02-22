@@ -257,13 +257,10 @@
             </a>
         </div>
 
-
-
         <div class="aw-partners-text-s">
             Fellowes Brands™ offers an extensive range of products to equip the workspace.
             Their new Lotus™ Sit-Stand Workstation’s innovative approach to working makes it effortless to add
             movement to your workday for improved wellness.
-
         </div>
 
         <div class="aw-partners-pics-s">
@@ -271,9 +268,6 @@
                 <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/fellowes2.jpg"/>
             </a>
         </div>
-
-
-
         <div class="clear"></div>
     </div>
 
@@ -286,7 +280,6 @@
                 <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg"/>
             </a>
         </div>
-        <div class="clear"></div>
 
         <div class="aw-partners-text-s">
             Little Nudge corporate Health Tools are designed by experts to support companies identify,
