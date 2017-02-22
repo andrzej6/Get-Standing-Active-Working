@@ -361,7 +361,7 @@
         <div class="speakers-title">
             <strong>Nicola Eccles</strong><br/>
             <i> Co-Founder of <strong>CPActive</strong>,<br/>
-                Director of Research and Lecturer in Health, Wellbeing and Physical Activity</i>
+                Lecturer in Health, Wellbeing and Physical Activity</i>
         </div>
 
         <div  class="speakers-right">
