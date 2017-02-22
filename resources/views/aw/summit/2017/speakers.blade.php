@@ -455,7 +455,8 @@
 
         <div class="speakers-title">
             <strong>Rik Mistry</strong><br/>
-            <i></i><br/>
+            <i>Head of Business Development</i><br/>
+            Sit-Stand.Com
         </div>
 
         <div  class="speakers-right">
