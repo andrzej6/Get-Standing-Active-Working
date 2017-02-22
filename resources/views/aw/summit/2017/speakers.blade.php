@@ -292,7 +292,7 @@
 
     <div class="speakers-row">
         <div class="speakers-left">
-            <img src="{{ url('/') }}/img/aw/summit/2016/speakers/walker-bone.jpg" width="88" height="88" class="alignleft"/>
+            <img src="{{ url('/') }}/img/aw/summit/2017/speakers/walker-bone.jpg" width="88" height="88" class="alignleft"/>
         </div>
 
         <div class="speakers-title">
