@@ -279,6 +279,29 @@
 
     <br/>
 
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://www.littlenudge.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg"/>
+            </a>
+        </div>
+        <div class="clear"></div>
+
+        <div class="aw-partners-text-s">
+            Little Nudge corporate Health Tools are designed by experts to support companies identify,
+            diagnose and remediate health risks in your office workplace. Tailored to fit your people,
+            processes, technology and locations.
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group8" href=""></a>
+            <a class="fancybox" rel="group8" href=""></a>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
 
 
 @endsection
