@@ -100,7 +100,8 @@
 
         <div class="speakers-title">
             <strong>Professor Alan Hedge</strong><br/>
-            <i> </i>
+            <i> Director, Human Factors and Ergonomics Laboratory,</i><br/>
+            Cornell University
         </div>
 
         <div  class="speakers-right">
@@ -130,7 +131,7 @@
 
         <div class="speakers-title">
             <strong>Gavin Bradley</strong><br/>
-            <i> Founder and managing director, </i><br/>
+            <i> Founder and Managing Director, </i><br/>
             Active Working
         </div>
 
@@ -159,8 +160,8 @@
 
         <div class="speakers-title">
             <strong>Joanna Frank</strong><br/>
-            <i>Executive Director at Centre for Active Design, </i><br/>
-            New York
+            <i>Executive Director, </i><br/>
+            Centre for Active Design
         </div>
 
 
@@ -264,7 +265,8 @@
 
         <div class="speakers-title">
             <strong>Dr Ben Gardner</strong><br/>
-            <i></i><br/>
+            <i> Senior Lecturer, Dept. of Psychology, </i><br/>
+            King's College London
         </div>
 
         <div  class="speakers-right">
@@ -358,7 +360,8 @@
 
         <div class="speakers-title">
             <strong>Nicola Eccles</strong><br/>
-            <i>Director of Research CP Active</i><br/>
+            <i> Co-Founder of <strong>CPActive</strong>,<br/>
+                Director of Research and Lecturer in Health, Wellbeing and Physical Activity</i>
         </div>
 
         <div  class="speakers-right">
@@ -386,7 +389,8 @@
 
         <div class="speakers-title">
             <strong>Lee Mason</strong><br/>
-            <i></i><br/>
+            <i>Chief Executive, </i><br/>
+            CSP Network
         </div>
 
         <div  class="speakers-right">
