@@ -47,7 +47,45 @@
     <div class="aw-partners-title">PLATINUM PARTNERS</div>
     <hr class="light">
 
+    <div class="aw-partners-row-l">
 
+        <div class="aw-partners-logo-l">
+            <a href="https://www.sit-stand.com/" target="_blank"><img src="{{ url('/') }}/img/aw/summit/partners/sitstand-1.jpg"/></a>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="aw-partners-text-l">
+            Sit-Stand.Com<sup>®</sup> - the Standing Desk Megastore. We offer free trial, exclusive offers, free posters &
+            corporate discounts. More Choices. Best prices and quality solutions guaranteed. We are exclusive suppliers of
+            the Up/Down DeskPro electric desk series (from only £349 ex VAT), hushdesk and the award winning IMPRINT
+            comfort mat. We include educational and training support for new users. Work smart. Work healthy.
+        </div>
+
+        <div class="aw-partners-pics-l">
+            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/sit-stand1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand1.jpg"/>
+            </a>
+
+            <a class="fancybox" rel="group10" href="https://sit-stand.com/freetrial" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand2.jpg"/>
+            </a>
+
+            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/imprint2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/imprint2.jpg"/>
+            </a>
+
+            <a class="fancybox" rel="group11" href="https://sit-stand.com/electric-desks/95-desk-pro2x.html" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand3.jpg"/>
+            </a>
+        </div>
+
+
+        <div class="clear"></div>
+
+    </div>
+
+    <!--
     <div class="aw-partners-row-m">
 
         <div class="aw-partners-logo-m">
@@ -69,6 +107,7 @@
 
     </div>
 
+-->
 
     <br/><br/>
 
@@ -102,6 +141,31 @@
     <br/><br/>
 
 -->
+
+    <div class="aw-partners-row-m">
+
+        <div class="aw-partners-logo-m">
+            <a href="http://activeworking.com/littlenudge.php" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/little_nudge.jpg"/></a>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="aw-partners-text-m">
+            Little Nudge corporate Health Tools are designed by experts to support companies identify,
+            diagnose and remediate health risks in your office workplace. Tailored to fit your people,
+            processes, technology and locations.
+        </div>
+
+        <div class="aw-partners-pics-m">
+
+        </div>
+
+        <div class="clear"></div>
+
+    </div>
+
+
 
     <div class="aw-partners-row-m">
 
@@ -146,28 +210,7 @@
 
 
 
-    <div class="aw-partners-row-m">
 
-        <div class="aw-partners-logo-m">
-            <a href="http://activeworking.com/littlenudge.php" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/little_nudge.jpg"/></a>
-        </div>
-
-        <div class="clear"></div>
-
-        <div class="aw-partners-text-m">
-            Little Nudge corporate Health Tools are designed by experts to support companies identify,
-            diagnose and remediate health risks in your office workplace. Tailored to fit your people,
-            processes, technology and locations.
-        </div>
-
-        <div class="aw-partners-pics-m">
-
-        </div>
-
-        <div class="clear"></div>
-
-    </div>
 
     <br/><br/>
 
