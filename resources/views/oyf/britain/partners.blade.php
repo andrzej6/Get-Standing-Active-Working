@@ -105,6 +105,49 @@
 
     <div class="aw-partners-row-m">
 
+        <div class="aw-partners-logo">
+            <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yoyo-long.jpg" width="250px"/>
+            </a>
+        </div>
+
+
+
+        <div class="aw-partners-text-m">
+            <strong>Yo-Yo Desk™</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
+            Transition simply between sitting / standing at your existing desk with:
+            <ul>
+                <li>
+                    <strong>Yo-Yo Desk™</strong> simply smooth height adjustment.
+                    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
+                </li>
+
+                <li><strong>Yo-Yo Desk GO™</strong>  affix a <a href="https://sit-stand.com/desk-risers/155-yo-yo-desk-go1.html" style="text-decoration: underline" target="_blank">Single</a> or
+                    <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for unrivalled
+                    ergonomic positioning and comfort.
+
+                </li>
+            </ul>
+
+
+        </div>
+
+        <div class="aw-partners-pics-m">
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo1.jpg"/>
+            </a>
+
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo2.jpg"/>
+            </a>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+    <div class="aw-partners-row-m">
+
         <div class="aw-partners-logo-m">
             <a href="http://activeworking.com/littlenudge.php" target="_blank">
                 <img src="{{ url('/') }}/img/oyf/partners/little_nudge.jpg"/></a>
@@ -162,6 +205,8 @@
 
 
 
+
+    <!--
     <div class="aw-partners-row-s">
 
         <div class="aw-partners-logo-s">
@@ -180,6 +225,7 @@
         <div class="clear"></div>
 
     </div>
+    -->
 
     <br/><br/>
 
