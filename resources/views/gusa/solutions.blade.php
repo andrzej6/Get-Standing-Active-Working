@@ -370,8 +370,8 @@
                         </div>
 
                         <div class="gallery_item">
-                            <a  href="http://sit-stand.com/desk-risers/50-workfit-t.html" target="_blank">
-                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/mount2.jpg" alt="mounts and risers">
+                            <a  href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" target="_blank">
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-bp.jpg" alt="mounts and risers">
                                 <div class="gallery-wrapper"></div>
                                 <span class="post_type post_type_image"></span>
                                 <hr>
@@ -380,8 +380,8 @@
 
 
                         <div class="gallery_item">
-                            <a  href="http://sit-stand.com/desk-risers/50-workfit-t.html" target="_blank">
-                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/mount6.jpg" alt="mounts and risers">
+                            <a  href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" target="_blank">
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-wp.jpg" alt="mounts and risers">
                                 <div class="gallery-wrapper"></div>
                                 <span class="post_type post_type_image"></span>
                                 <hr>
@@ -446,13 +446,86 @@
                     <div class="list-of-images">
 
                         <div class="gallery_item">
-                            <a  href="img/getstanding/gb/solution-page/stool1.jpg" class="gallery-stand-link prettyPhoto">
+
+                            <a  href="https://sit-stand.com/motion-stools/112-swopper-classic.html" target="_blank">
+
                                 <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/stool1.jpg" alt="stool or chair">
+
+                                <div class="gallery-wrapper"></div>
+
+                                <span class="post_type post_type_image"></span>
+
+                                <hr>
+
+                            </a>
+
+                        </div>
+
+                        <div class="gallery_item">
+
+                            <a  href="https://sit-stand.com/motion-stools/24-muvman-stool.html" target="_blank">
+
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/stool2.jpg" alt="stool or chair">
+
+                                <div class="gallery-wrapper"></div>
+
+                                <span class="post_type post_type_image"></span>
+
+                                <hr>
+
+                            </a>
+
+                        </div>
+
+                        <div class="gallery_item">
+
+                            <a  href="img/getstanding/gb/solution-page/stool3.jpg" class="gallery-stand-link prettyPhoto">
+
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/stool3.jpg" alt="stool or chair">
+
+                                <div class="gallery-wrapper"></div>
+
+                                <span class="post_type post_type_image"></span>
+
+                                <hr>
+
+                            </a>
+
+                        </div>
+
+
+
+
+                        <div class="gallery_item">
+
+                            <a  href="https://sit-stand.com/stools/145-up-stool.html" target="_blank">
+
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/up-stool.jpg" alt="stool or chair">
+
+                                <div class="gallery-wrapper"></div>
+
+                                <span class="post_type post_type_image"></span>
+
+                                <hr>
+
+                            </a>
+
+                        </div>
+
+
+
+                        <div class="gallery_item">
+                            <a  href="https://sit-stand.com/motion-seats/157-3dee.html" target="_blank">
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/3dee.jpg" alt="stool or chair">
                                 <div class="gallery-wrapper"></div>
                                 <span class="post_type post_type_image"></span>
                                 <hr>
                             </a>
                         </div>
+
+
+
+                        <!--
 
                         <div class="gallery_item">
                             <a  href="img/getstanding/gb/solution-page/stool2.jpg" class="gallery-stand-link prettyPhoto">
@@ -471,6 +544,8 @@
                                 <hr>
                             </a>
                         </div>
+
+                        -->
                     </div>
 
                 </div><!-- .module_cont -->
