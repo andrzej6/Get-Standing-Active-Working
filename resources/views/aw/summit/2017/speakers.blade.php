@@ -264,7 +264,7 @@
         </div>
 
         <div class="speakers-title">
-            <strong>Dr Ben Gardner</strong><br/>
+            <strong>Dr Benjamin Gardner</strong><br/>
             <i> Senior Lecturer, Dept. of Psychology, </i><br/>
             King's College London
         </div>
@@ -276,14 +276,10 @@
         <div class="clear"></div>
         <div class="aw-bio" id="bio7-more">
 
-            Dr Gardner undertook his undergraduate, postgraduate and doctoral studies at University of Sussex,
-            and was awarded a DPhil (doctorate) in Social Psychology in 2008. His first post-doctoral position
-            was in the Centre for Outcomes Research and Effectiveness at University College London (2007-09),
-            where he worked on a series of projects that sought to use theory to develop understanding of
-            health behaviour change techniques and interventions. In 2009, he became Lecturer in Health
-            Psychology in the UCL Health Behaviour Research Centre, where he worked on a programme of
-            theoretical and applied studies to develop habit theory and habit-based public health interventions.
-            He joined KCL in 2014.
+            Dr Benjamin Gardner (Senior Lecturer, King’s College London, UK) is a social and health psychologist.
+            His current research focuses on understanding the real-world social and organisational contexts within
+            which workplace sitting and standing interventions are implemented, and developing strategies to
+            increasing standing at work that account for these contextual constraints.
 
 
         </div>
@@ -481,16 +477,17 @@
     <br/>
 
 
-<!--
+
 
     <div class="speakers-row">
         <div class="speakers-left">
-            <img src="{{ url('/') }}/img/aw/summit/2016/speakers/veerle.jpg" width="88" height="88" class="alignleft"/>
+            <img src="{{ url('/') }}/img/aw/summit/2017/speakers/brogan.jpg" width="88" height="88" class="alignleft"/>
         </div>
 
         <div class="speakers-title">
-            <strong>Dr Veerle Hermans</strong><br/>
-            <i>Head of Ergonomics (IDEWE), Prof. Ergonomics (Free University of Brussels)</i><br/>
+            <strong>Peter Brogan</strong><br/>
+            <i>Research and Information Manager</i><br/>
+            BIFM
 
         </div>
 
@@ -501,16 +498,20 @@
         <div class="clear"></div>
         <div class="aw-bio" id="bio21-more">
 
-            Veerle is responsible for ergonomics and occupational safety at IDEWE (Belgian External
-            Service for Health / Safety at Work ) & professor in ergonomics. She works on a variety
-            of national and international occupational health projects and is a pioneering thought
-            leader on active working.
+            An influential Research specialist with unique experience and a sustained record of success in both
+            the public and private sectors. Extensive background in diverse service organisations, managing complex research
+            projects from inception to completion. A Lean leader and effective team player with a strong academic background
+            accompanied with excellent analytical, problem solving and decision-making skills.<br/>
+            The BIFM Research and Information team is focused on developing the research, insight and information
+            that will position BIFM as the authoritative voice of the FM profession. I manage the delivery and development
+            of the Institute’s research and content activities.
+
 
         </div>
     </div>
     <br/>
 
-
+    <!--
 
     <div class="speakers-row">
         <div class="speakers-left">
