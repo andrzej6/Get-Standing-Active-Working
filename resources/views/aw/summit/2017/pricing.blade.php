@@ -27,10 +27,12 @@
 
     <div class="">
 
+        <!--
         <div style="font-weight: bold;color:red;">
             Book <span style="text-decoration: underline;font-weight: bold;">before 28th February 2017</span> and receive a
             <span style="text-decoration: underline;font-weight: bold;">10% discount </span> to Active Working Summit 2017.<br/><br/>
         </div>
+        -->
 
         <div class="">
             The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
@@ -58,19 +60,26 @@
             <td>£335</td>
             <td>£795 <sup>2</sup></td>
         </tr>
+        <!--
         <tr class="row2">
             <td style="text-align: left">EARLY BIRD Price [ex VAT]</td>
             <td>£301.5</td>
             <td>£715.5 <sup>2</sup></td>
         </tr>
+        -->
     </table>
 
 
 
+    <!--
     <div style="font-size: 16px;font-weight: bold">
         <br/>
         EARLY BIRD Price (10% discount) VALID UNTIL 28/02/2017
-    </div> <br/>
+    </div>
+    -->
+
+
+    <br/>
 
     <sup>1</sup> <span class="summit-smaller">Suppliers and marketing representatives of ergonomic solutions, office equipment, workplace
                                consultancy or wellness solutions.</span><br/>

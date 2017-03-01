@@ -69,9 +69,9 @@ $sandbox=0;
 
                                 @if ($supplier =='NO')
                                    @if ($member !='')
-                                        <option value="Standard-20% Discount">Early Bird 20% Discount - FULL DAY - £268.00 GBP</option>
+                                        <option value="Standard-20% Discount">20% Discount - FULL DAY - £268.00 GBP</option>
                                     @else
-                                        <option value="Standard-10% Discount">Early Bird 10% Discount - FULL DAY - £301.5 GBP</option>
+                                        <option value="Standard">Standard - FULL DAY - £335 GBP</option>
                                    @endif
 
                                 <!--
@@ -80,7 +80,7 @@ $sandbox=0;
                                  -->
 
                                 @elseif ($supplier =='YES')
-                                   <option value="Suppliers-10% Discount">Early Bird 10% Discount - FULL DAY - £715.5 GBP</option>
+                                   <option value="Suppliers">Suppliers - FULL DAY - £795 GBP</option>
 
                                     <!--
                                      <option value="Suppliers-15% Discount">Early Bird 15% Discount - FULL DAY - £675.75 GBP</option>
