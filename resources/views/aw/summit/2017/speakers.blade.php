@@ -124,6 +124,39 @@
     <br/>
 
 
+
+    <div class="speakers-row">
+        <div class="speakers-left">
+            <img src="{{ url('/') }}/img/aw/summit/2016/speakers/levine1.jpg" width="88" height="88" class="alignleft"/>
+        </div>
+
+        <div class="speakers-title">
+            <strong>Dr James A. Levine</strong><br/>
+            <i>Professor of Medicine, Director Obesity Solutions</i><br/>
+            Mayo Clinic and Arizona State University
+        </div>
+
+        <div  class="speakers-right">
+            <a href="#" class="shortcode_button btn_small btn_type6" id="bio19">More Info</a>
+        </div>
+
+        <div class="clear"></div>
+        <div class="aw-bio" id="bio19-more">
+
+            James is a world-renowned expert on sedentary behaviour and leader in obesity research
+            and child advocacy. James has consulted governments including the US President’s Panel
+            and State Department. James has published more than 200 scientific papers, worked on
+            dozens of corporate programs, is author of “Get Up” and invented the treadmill desk and a
+            variety of wearable technologies.
+
+
+        </div>
+    </div>
+    <br/>
+
+
+
+
     <div class="speakers-row">
         <div class="speakers-left">
             <img src="{{ url('/') }}/img/aw/summit/2016/speakers/bradley.jpg" width="88" height="88" class="alignleft"/>
@@ -513,30 +546,7 @@
 
     <!--
 
-    <div class="speakers-row">
-        <div class="speakers-left">
-            <img src="{{ url('/') }}/img/aw/summit/2016/speakers/blackman.jpg" width="88" height="88" class="alignleft"/>
-        </div>
 
-        <div class="speakers-title">
-            <strong>Stuart Blackman</strong><br/>
-            <i>Chief Executive</i><br/>
-            BackCare
-        </div>
-
-        <div  class="speakers-right">
-            <a href="#" class="shortcode_button btn_small btn_type6" id="bio19">More Info</a>
-        </div>
-
-        <div class="clear"></div>
-        <div class="aw-bio" id="bio19-more">
-
-            In 2015 BackCare became the first UK charity to go 100% Sit-Stand.
-            As advocates of “Active working” BackCare now live their mission to promote healthy backs.
-
-        </div>
-    </div>
-    <br/>
 
 
     <div class="speakers-row">
