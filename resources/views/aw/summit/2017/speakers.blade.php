@@ -156,6 +156,41 @@
 
 
 
+    <div class="speakers-row">
+        <div class="speakers-left">
+            <img src="{{ url('/') }}/img/aw/summit/2017/speakers/dunstan.jpg" width="88" height="88" class="alignleft"/>
+        </div>
+
+        <div class="speakers-title">
+            <strong>Proffesor David Dunstan</strong><br/>
+            <i>Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow,</i><br/>
+            Baker Heart and Diabetes Institute
+        </div>
+
+        <div  class="speakers-right">
+            <a href="#" class="shortcode_button btn_small btn_type6" id="bio10">More Info</a>
+        </div>
+
+        <div class="clear"></div>
+        <div class="aw-bio" id="bio10-more">
+
+            David is Head of the Physical Activity laboratory at the Baker IDI Heart and Diabetes Institute in
+            Melbourne and is an NHMRC Senior Research Fellow. He also holds the position of Professor within the
+            Mary MacKillop Institute for Health Research, Australian Catholic University. His research focuses
+            on the role of sedentary behaviour in the prevention and management of chronic diseases and the
+            development of interventions targeting reducing prolonged sitting in real-world
+            contexts (eg: workplaces, schools). He has published over 175 peer reviewed papers,
+            including publications in high impact journals such as Circulation, Diabetes Care and Diabetologia.
+            Over the past 15 years David has extensive media interest in his research including interviews
+            with <i>ABC Catalyst, 60 Minutes Australia, National Public Radio, Wall Street Journal, CNN, the
+            New York Times and the LA Times</i>.
+
+        </div>
+    </div>
+    <br/>
+
+
+
 
     <div class="speakers-row">
         <div class="speakers-left">
@@ -549,31 +584,7 @@
 
 
 
-    <div class="speakers-row">
-        <div class="speakers-left">
-            <img src="{{ url('/') }}/img/aw/summit/2016/speakers/matei.JPG" width="88" height="88" class="alignleft"/>
-        </div>
 
-        <div class="speakers-title">
-            <strong>Raluca Matei</strong><br/>
-            <i>Research Manager / Psychology PhD Candidate</i><br/>
-            Active Working / Manchester Metropolitan University
-        </div>
-
-        <div  class="speakers-right">
-            <a href="#" class="shortcode_button btn_small btn_type6" id="bio10">More Info</a>
-        </div>
-
-        <div class="clear"></div>
-        <div class="aw-bio" id="bio10-more">
-
-            Raluca is currently running a variety of interdisciplinary projects promoting health
-            psychology and behaviour change. She is also Research Manager Volunteer for
-            Active Working / Get Britain Standing.
-
-        </div>
-    </div>
-    <br/>
 
 
 
