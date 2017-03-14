@@ -427,6 +427,17 @@
 
     <script type="text/javascript">
 
+        $("#gbs-slideshow > div:gt(0)").hide();
+
+        setInterval(function() {
+            $('#gbs-slideshow > div:first')
+                    .fadeOut(2000)
+                    .next()
+                    .fadeIn(2000)
+                    .end()
+                    .appendTo('#gbs-slideshow');
+        },  7000);
+
         $(".go-to-nudge").click(function(event){
             window.open('http://activeworking.com/nudge_trial','_blank');
         });
