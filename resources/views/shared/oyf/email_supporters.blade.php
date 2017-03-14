@@ -1,6 +1,6 @@
 <div>
-    <span style="font-size:0.8em">On Your Feet World is proud to be associated with the following
-    <strong>"Official Supporters"</strong></span>: <br/>
+    <span style="font-size:0.8em">On Your Feet is proud to be associated with the following
+    <strong>"Official Sponsors"</strong></span>: <br/>
 
 
 
@@ -22,16 +22,16 @@
 
       @if (($country =='GB') || ($country =='NIRL') )
 
+              <a href="https://steppie.dk/en/" style="color:#009999;">
+                  <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
+              &nbsp;&nbsp;&nbsp;
+
               <a href="http://activeworking.com/littlenudge.php" style="color:#009999;">
                   <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
               <a href="http://bhwa.org.uk/" style="color:#009999;">
                   <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
-
-              <a href="http://www.ergotron.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
       @endif
@@ -76,13 +76,13 @@
     <br/><br/>
     Thank you from all the team <br/><br/>
 
-    <strong> Active Working C.I.C  <br/>
-        On Your Feet World</strong>
+    <strong> On Your Feet / Active Working C.I.C  <br/>
+        </strong>
 
     <br/><br/>
 
     <div style="font-size:0.8em;text-align:justify">
-        <strong>On Your Feet World</strong> is an event owned by <strong>Active Working CIC</strong>.
+        <strong>On Your Feet</strong> is an event owned by <strong>Active Working CIC</strong>.
         We are leading the global insight and evidence based research on
         sedentary behaviour. We commissioned the first
         <a href="https://getbritainstanding.org/expert_statement.php">global expert recommendations </a>
