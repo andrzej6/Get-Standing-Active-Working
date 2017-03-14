@@ -216,13 +216,57 @@
                     </a>
                 </div>
 
-                -->
 
-                <div>
+                 <div>
                     <a href="http://imprintmats.com/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/slider/thin/slider3.jpg">
                     </a>
                 </div>
+
+                -->
+
+
+
+                <div>
+                    <a href="https://steppie.dk/en/" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
+                    </a>
+                </div>
+
+                <div>
+                    <a href="https://sit-stand.com/freetrial" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider4.jpg">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a href="http://www.fellowes.com/" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1a.jpg">
+                    </a>
+                </div>
+
+                <div>
+                    <a href="http://bhwa.org.uk/" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider1.jpg">
+                    </a>
+                </div>
+
+
+                <div>
+                    <a href="http://sit-stand.com/comfort-mats/25-comfort-mat.html" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider5.jpg">
+                    </a>
+                </div>
+
+                <div>
+                    <a href="http://sit-stand.com/desk-risers/50-workfit-t.html" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider6.jpg">
+                    </a>
+                </div>
+
+
+
 
             </div>
             <br/>
