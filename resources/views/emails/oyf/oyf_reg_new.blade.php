@@ -5,10 +5,10 @@
 
     <a href="http://onyourfeetday.com/britain/downloads" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/banners/oyf-gb.jpg" /></a>
-    <br/><br/>
+    <br/><br/><br/>
 
     Thank you for registering for <strong>On Your Feet Day</strong> taking place on
-    <span  style="color:#57b8d9;font-weight: bold">April 28th 2017</span>,
+    <span  style="color:#57b8d9;font-weight: bold">Friday 28th April 2017</span>,
     in your office and all around the world.
     <br/><br/>
 
