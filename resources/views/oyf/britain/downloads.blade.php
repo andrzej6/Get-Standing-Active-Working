@@ -4,7 +4,8 @@ $downloads = array(
         '1'=>array('label'=>'Poster A1','title'=>'Workplace Guide','name'=>'a1'),
         '2'=>array('label'=>'Flyer A2','title'=>'Sign Up Today','name'=>'a2'),
         '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Alice','name'=>'a3-1'),
-        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2')
+        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2'),
+        '5'=>array('label'=>'Poster A5','title'=>'Poter','name'=>'a5')
         )),
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
@@ -120,7 +121,7 @@ $downloads = array(
                 <div class="oyf-downloads-row">
 
                     <div class="oyf-downloads-pic">
-                        <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.pdf" target="_blank">
+                        <a href="{{ url('/') }}/pdfs/oyf/gb/17/{{$value['name']}}.pdf" target="_blank">
                             <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
                         </a>
                     </div>
@@ -128,12 +129,12 @@ $downloads = array(
                     <div class="oyf-downloads-descrip">
                         <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.pdf" target="_blank">
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/gb/17/{{$value['name']}}.pdf" target="_blank">
                                                         {{$value['label']}}
                                                     </a>
                                  	 	  		</span>
 
-                            <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.pdf" target="_blank">
+                            <a href="{{ url('/') }}/pdfs/oyf/gb/17/{{$value['name']}}.pdf" target="_blank">
                                 {{$value['title']}}
                             </a>
                         </div>
