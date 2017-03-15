@@ -5,7 +5,7 @@ $downloads = array(
         '2'=>array('label'=>'Flyer A2','title'=>'Sign Up Today','name'=>'a2'),
         '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Alice','name'=>'a3-1'),
         '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2'),
-        '5'=>array('label'=>'Poster A5','title'=>'Poter','name'=>'a5')
+        '5'=>array('label'=>'Poster A5','title'=>'Poster','name'=>'a5')
         )),
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
