@@ -17,7 +17,7 @@
     <br/>
 
     <div class="aw-partners-gold">
-        
+
         <p>
             <a href="http://www.sit-stand.com" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/sitstand.png" width="120px" >
