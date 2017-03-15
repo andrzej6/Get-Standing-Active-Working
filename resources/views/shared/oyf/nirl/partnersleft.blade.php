@@ -28,6 +28,7 @@
 
     <div class="aw-partners-gold">
 
+        <br/>
         <p>
             <a href="http://activeworking.com/littlenudge.php" target="_blank">
                 <img src="{{ url('/') }}/img/oyf/partners/little_nudge.jpg" width="110px">

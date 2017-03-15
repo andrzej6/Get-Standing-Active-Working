@@ -14,6 +14,7 @@
 
     <div class="aw-partners-title">GOLD PARTNERS</div>
 
+    <br/>
 
     <div class="aw-partners-gold">
 

@@ -2,6 +2,7 @@
 
     <div class="aw-partners-title">PLATINUM PARTNERS</div>
 
+    <br/>
     <div class="aw-partners-platinum">
         <p>
             <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
