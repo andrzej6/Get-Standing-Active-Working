@@ -15,7 +15,7 @@
       @endif
 
       <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-          <img src="{{ url('/') }}/img/oyf/partners/yo-yo.jpg" width="150"/></a>
+          <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="150"/></a>
           &nbsp;&nbsp;&nbsp;
 
 
@@ -26,7 +26,7 @@
                   <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
-              <a href="http://activeworking.com/littlenudge.php" style="color:#009999;">
+              <a href="http://activeworking.com/littlenudge" style="color:#009999;">
                   <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
               &nbsp;&nbsp;&nbsp;
 
