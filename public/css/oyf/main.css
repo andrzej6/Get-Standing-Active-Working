@@ -141,7 +141,9 @@ header .header_wrapper {
     height:260px;
 }
 
-.aw-partners-silver img {margin-top:5px;height:52px;}
+.aw-partners-silver img {
+    margin-top:5px;
+    #height:52px;}
 
 
 /* main-content changes */

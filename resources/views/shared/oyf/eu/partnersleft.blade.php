@@ -43,7 +43,7 @@
                 <img src="{{ url('/') }}/img/oyf/partners/imprint.png" width="110">
             </a>
         </p>
-        
+
 
     </div>
 
