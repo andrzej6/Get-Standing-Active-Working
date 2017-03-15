@@ -15,7 +15,7 @@
       @endif
 
       <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-          <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="150"/></a>
+          <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
           &nbsp;&nbsp;&nbsp;
 
 
