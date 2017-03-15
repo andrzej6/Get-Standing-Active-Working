@@ -12,15 +12,34 @@
     </div>
 
 
+    <div class="aw-partners-title">GOLD PARTNERS</div>
+
+    <br/>
+
+    <div class="aw-partners-gold">
+        
+        <p>
+            <a href="http://www.sit-stand.com" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/sitstand.png" width="120px" >
+            </a>
+        </p>
+
+    </div>
+
+
     <div class="aw-partners-title">SILVER PARTNERS</div>
 
     <div class="aw-partners-silver">
-        <p><a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/got1minute.jpg">
+
+        <p>
+            <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg">
             </a>
         </p>
+
         <br/>
 
     </div>
+
 
 </div>
