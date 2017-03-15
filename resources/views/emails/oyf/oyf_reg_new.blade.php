@@ -8,7 +8,7 @@
     <br/><br/><br/>
 
 
-    <span style="font-size:14.0pt;">Thank you for registering for <strong>On Your Feet Day</strong> taking place:
+    <span style="font-size:13.0pt;">Thank you for registering for <strong>On Your Feet Day</strong> taking place:
     <span  style="color:#57b8d9;font-weight: bold">Friday 28th April 2017</span>,
     in your office and all around the world.
     <br/><br/>
