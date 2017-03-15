@@ -3,7 +3,7 @@
     <div class="aw-partners-title">PLATINUM PARTNERS</div>
 
     <div class="aw-partners-platinum">
-        <br/>
+
         <p>
             <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
                 <img src="{{ url('/') }}/img/oyf/partners/yo-yo1.jpg" width="150px">
