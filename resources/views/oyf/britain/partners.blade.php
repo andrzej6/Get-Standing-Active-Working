@@ -316,6 +316,33 @@
 
 
 
+
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="https://steppie.dk/en/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            Steppie is ”The Missing Link” for having the full benefit to any sit/stand solutions.
+            With a Steppie you stand longer, while <i>dynamic</i> posture suits the body best.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group18" href="{{ url('/') }}/img/aw/summit/partners/fancybox/steppi1.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/steppi2.jpg"/>
+            </a>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+
+
+
 @endsection
 
 

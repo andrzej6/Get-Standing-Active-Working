@@ -83,6 +83,12 @@
             </a>
         </p>
 
+        <p>
+            <a href="https://steppie.dk/en/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
+            </a>
+        </p>
+
 
     </div>
 
