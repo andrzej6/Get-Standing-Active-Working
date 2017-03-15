@@ -5,7 +5,7 @@
     <div class="aw-partners-platinum">
         <p>
             <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/yo-yo1.jpg" width="150px">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg">
                 <!--
                 <img src="{{ url('/') }}/img/oyf/partners/yo-yo.jpg" width="150px" height="70px">
                 -->
