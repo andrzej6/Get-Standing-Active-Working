@@ -6,90 +6,103 @@
 
     @if( ! empty($country))
 
-      @if (($country !='US') && ($country !='CAN') )
+        @if (($country =='US') || ($country =='AU') || ($country =='CA') )
+
+            <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
+                <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
+
+            @else
 
             <a href="https://sit-stand.com" style="color:#009999;">
                 <img src="{{ url('/') }}/img/general/emails/supporters/oyf/sitstand-new.jpg" width="200"/></a>
-            &nbsp;&nbsp;&nbsp;
-            <div style="clear:both"></div>
-      @endif
 
-      <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-          <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
-          &nbsp;&nbsp;&nbsp;
+        @endif
+        <div style="clear:both"></div>
 
 
+        @if (($country !='US') && ($country !='CAN') && ($country !='AU') )
+                <a href="http://activeworking.com/littlenudge" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
 
-      @if (($country =='GB') || ($country =='NIRL') )
-
-              <a href="https://steppie.dk/en/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
-
-              <a href="http://activeworking.com/littlenudge" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
-
-              <a href="http://bhwa.org.uk/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
-
-      @endif
+                <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
+                &nbsp;&nbsp;&nbsp;
+        @endif
 
 
-      @if (($country =='CAN') || ($country =='US'))
+        @if (($country =='US') || ($country =='AU') || ($country =='CA') )
+            @if (($country =='US'))
+                    <a href="http://imprintmats.com/" style="color:#009999;">
+                        <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="130"/></a>
+                    &nbsp;&nbsp;&nbsp;
+            @endif
 
-              <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/got1minute.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
+                <a href="https://sit-stand.com" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/general/emails/supporters/oyf/sitstand-new.jpg" width="130"/></a>
+                   &nbsp;&nbsp;&nbsp;
 
-      @endif
+
+        @endif
+        <div style="clear:both"></div>
 
 
 
-      @if ($country =='US')
+        @if (($country =='GB') || ($country =='NIRL') )
+                <a href="http://bhwa.org.uk/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
 
-              <a href="http://workriteergo.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/workrite.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
+                <a href="http://imprintmats.com/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
+
+                <a href="https://steppie.dk/en/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
+        @endif
+
+        @if (($country =='IE'))
+                <a href="http://imprintmats.com/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
+
+                <a href="https://steppie.dk/en/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
+        @endif
 
 
-              <a href="http://imprintmats.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
+        @if (($country =='US') || ($country =='CA') )
+                <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="110"/></a>
+                &nbsp;&nbsp;&nbsp;
+        @endif
 
+  <div style="clear:both"></div>
 
-              <a href="http://www.ergotron.com/" style="color:#009999;">
-                  <img src="{{ url('/') }}/img/general/emails/supporters/oyf/ergotron.jpg" width="110"/></a>
-              &nbsp;&nbsp;&nbsp;
-
-          @endif
-
-
-          <div style="clear:both"></div>
-
-    @endif
+@endif
 
 
 
 
-    <br/><br/>
-    Thank you from all the team <br/><br/>
+<br/><br/>
+Thank you from all the team <br/><br/>
 
-    <strong> On Your Feet / Active Working C.I.C  <br/>
-        </strong>
+<strong> On Your Feet / Active Working C.I.C  <br/>
+</strong>
 
-    <br/><br/>
+<br/><br/>
 
-    <div style="font-size:0.8em;text-align:justify">
-        <strong>On Your Feet</strong> is an event owned by <strong>Active Working CIC</strong>.
-        We are leading the global insight and evidence based research on
-        sedentary behaviour. We commissioned the first
-        <a href="https://getbritainstanding.org/expert_statement.php">global expert recommendations </a>
-        on standing time for office workers (with the support of <strong>Public Health England</strong>),
-        published by the <strong>British Journal for Sports Medicine</strong> in June 2015. We spearhead
-        international  <strong>Get Standing &trade;</strong> campaigns in UK, Australia, USA, Canada, Ireland and Europe.
-    </div>
+<div style="font-size:0.8em;text-align:justify">
+<strong>On Your Feet</strong> is an event owned by <strong>Active Working CIC</strong>.
+We are leading the global insight and evidence based research on
+sedentary behaviour. We commissioned the first
+<a href="https://getbritainstanding.org/expert_statement.php">global expert recommendations </a>
+on standing time for office workers (with the support of <strong>Public Health England</strong>),
+published by the <strong>British Journal for Sports Medicine</strong> in June 2015. We spearhead
+international  <strong>Get Standing &trade;</strong> campaigns in UK, Australia, USA, Canada, Ireland and Europe.
+</div>
 
 
 </div>
