@@ -2,10 +2,9 @@
 $downloads = array(
 '1'=>array('header'=>'Event Preparation', 'elem'=> array(
         '1'=>array('label'=>'Poster A1','title'=>'Workplace Guide','name'=>'a1'),
-        '2'=>array('label'=>'Flyer A2','title'=>'Download Poters Today','name'=>'a2'),
-        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Marco','name'=>'a3-1'),
-        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Trudi','name'=>'a3-2'),
-        '5'=>array('label'=>'Poster A5','title'=>'Date for your diary','name'=>'a4')
+        '2'=>array('label'=>'Flyer A2','title'=>'Sign Up Today','name'=>'a2'),
+        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Alice','name'=>'a3-1'),
+        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2')
         )),
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
@@ -20,12 +19,6 @@ $downloads = array(
         '10'=>array('label'=>'Poster B10','title'=>'Take Every Opportunity to Get Up and Move','name'=>'b10'),
         '11'=>array('label'=>'Poster B11','title'=>'Team Stretching','name'=>'b11'),
         '12'=>array('label'=>'Poster B12','title'=>' What will you do?','name'=>'b12')
-)),
-'3'=>array('header'=>'Desk Display', 'elem'=> array(
-        '1'=>array('label'=>'Display C1','title'=>'OYFB Triangle 1','name'=>'c1'),
-        '2'=>array('label'=>'Display C2','title'=>'OYFB Triangle 2','name'=>'c2'),
-        '3'=>array('label'=>'Display C3','title'=>'OYFB Triangle 3','name'=>'c3'),
-        '4'=>array('label'=>'Display C4','title'=>'OYFB Triangle 4','name'=>'c4'),
 )),
 
 '4'=>array('header'=>'Event Completion', 'elem'=> array(
@@ -87,7 +80,7 @@ $downloads = array(
 
                         <div class="oyf-downloads-pic">
                             <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
-                                <img src="{{ url('/') }}/img/oyf/gb/downloads/{{$value['name']}}.jpg"/>
+                                <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
                             </a>
                         </div>
 
@@ -128,7 +121,7 @@ $downloads = array(
 
                     <div class="oyf-downloads-pic">
                         <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.pdf" target="_blank">
-                            <img src="{{ url('/') }}/img/oyf/gb/downloads/{{$value['name']}}.jpg"/>
+                            <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
                         </a>
                     </div>
 
