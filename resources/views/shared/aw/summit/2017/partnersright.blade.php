@@ -56,7 +56,7 @@
         </p>
 
         <p>
-            <a href="http://www.steppie.dk/" target="_blank">
+            <a href="https://steppie.dk/en/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
             </a>
         </p>

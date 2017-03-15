@@ -226,7 +226,7 @@
     <div class="aw-partners-row-s">
 
         <div class="aw-partners-logo-s">
-            <a href="http://www.steppie.dk/" target="_blank">
+            <a href="https://steppie.dk/en/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
             </a>
         </div>
