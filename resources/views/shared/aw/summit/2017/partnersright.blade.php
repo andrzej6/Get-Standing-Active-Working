@@ -66,6 +66,7 @@
                 <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg">
             </a>
         </p>
+        <br/>
 
         <p>
             <a href="http://ergospace.se/" target="_blank">
