@@ -296,6 +296,33 @@
     </div>
 
 
+    <br/>
+
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://ergospace.se/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg"/>
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            Take a walk with Active Stand. <br/>
+            Soft as a mat and combined with natural movement.<br/>
+            Norwegian Active Stand Combi makes standing a pleasure.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group22" href="{{ url('/') }}/img/aw/summit/partners/fancybox/ergo-2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/ergo-1.jpg"/>
+            </a>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
 
 @endsection
 
