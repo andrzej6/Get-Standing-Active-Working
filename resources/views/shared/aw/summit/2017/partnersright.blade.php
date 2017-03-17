@@ -68,7 +68,7 @@
         </p>
 
 
-        <p style="margin-top:10px">
+        <p style="margin-top:15px">
             <a href="http://ergospace.se/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg">
             </a>
