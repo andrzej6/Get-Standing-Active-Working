@@ -315,7 +315,7 @@
         </div>
 
         <div class="aw-partners-pics-s">
-            <a class="fancybox" rel="group22" href="{{ url('/') }}/img/aw/summit/partners/fancybox/ergo-2.jpg">
+            <a class="fancybox" rel="group32" href="{{ url('/') }}/img/aw/summit/partners/fancybox/ergo-2.jpg">
                 <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/ergo-1.jpg"/>
             </a>
         </div>
