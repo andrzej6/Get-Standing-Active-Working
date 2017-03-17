@@ -67,6 +67,12 @@
             </a>
         </p>
 
+        <p>
+            <a href="http://ergospace.se/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg">
+            </a>
+        </p>
+
     </div>
 
 
