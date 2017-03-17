@@ -29,6 +29,9 @@
     <a href="https://steppie.dk/en/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+    <a href="http://ergospace.se/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
 
 
 
