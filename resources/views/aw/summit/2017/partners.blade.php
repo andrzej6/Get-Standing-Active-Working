@@ -323,6 +323,30 @@
     </div>
 
 
+    <br/>
+
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://fitroomexpress.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fitroom.jpg"/>
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            FitRoom Express is an original, innovative fitness program for busy professionals providing quick,
+            effective, no sweat workouts for a healthier, happier and more productive workforce.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
 
 @endsection
 
