@@ -32,6 +32,9 @@
     <a href="http://ergospace.se/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+    <a href="http://fitroomexpress.com/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/fitroom.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
 
 
 
