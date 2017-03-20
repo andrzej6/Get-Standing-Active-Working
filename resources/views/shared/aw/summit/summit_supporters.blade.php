@@ -32,6 +32,8 @@
     <a href="http://ergospace.se/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/ergo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+    <div style="clear:both"></div>
+
     <a href="http://fitroomexpress.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/fitroom.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
@@ -40,7 +42,7 @@
 
 
 
-    <br/>
+    <br/><br/>
 
     Thank you from all the team <br/><br/>
 
