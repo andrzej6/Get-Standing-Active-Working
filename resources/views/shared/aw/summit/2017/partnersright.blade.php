@@ -74,6 +74,12 @@
             </a>
         </p>
 
+        <p style="margin-top:15px">
+            <a href="http://fitroomexpress.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fitroom.jpg">
+            </a>
+        </p>
+
     </div>
 
 
