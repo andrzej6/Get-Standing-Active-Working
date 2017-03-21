@@ -584,7 +584,7 @@
 
     <div class="speakers-row">
         <div class="speakers-left">
-            &nbsp;
+            <img src="{{ url('/') }}/img/aw/summit/2017/speakers/toft.jpg" width="88" height="88" class="alignleft"/>
         </div>
 
         <div class="speakers-title">
