@@ -143,11 +143,10 @@
         <div class="clear"></div>
         <div class="aw-bio" id="bio19-more">
 
-            James is a world-renowned expert on sedentary behaviour and leader in obesity research
-            and child advocacy. James has consulted governments including the US President’s Panel
-            and State Department. James has published more than 200 scientific papers, worked on
-            dozens of corporate programs, is author of “Get Up” and invented the treadmill desk and a
-            variety of wearable technologies.
+            James is a world-renowned expert on sedentary behaviour and leader in obesity research and
+            child advocacy. James has consulted governments including the US President’s Panel and State Department.
+            James has published more than 200 scientific papers, worked on dozens of corporate programs,
+            is author of “Get Up” and invented the treadmill desk and a variety of wearable technologies.
 
 
         </div>
@@ -578,6 +577,37 @@
         </div>
     </div>
     <br/>
+
+
+
+
+
+    <div class="speakers-row">
+        <div class="speakers-left">
+            &nbsp;
+        </div>
+
+        <div class="speakers-title">
+            <strong>Gitte Toft</strong><br/>
+            <i> Director</i><br/>
+            Steppie
+        </div>
+
+        <div  class="speakers-right">
+            <a href="#" class="shortcode_button btn_small btn_type6" id="bio13">More Info</a>
+        </div>
+
+        <div class="clear"></div>
+        <div class="aw-bio" id="bio13-more">
+
+            Gitte trained as a physiotherapist, acupuncturist, reflexologist and physiological masseur,
+            running her own clinic for ten years.  Gitte then became the National Manager for a Norwegian
+            Furniture Company, before founding and inventing Steppie; the ‘missing link’ to any sit/stand solution.
+
+        </div>
+    </div>
+    <br/>
+
 
     <!--
 
