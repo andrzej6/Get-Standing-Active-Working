@@ -30,7 +30,7 @@ $downloads = array(
 );
 /* --}}
 
-@extends('layouts.oyf.gb')
+@extends('layouts.oyf.eu')
 
 @section('header-styles')
     @parent
