@@ -2,10 +2,10 @@
 $downloads = array(
 '1'=>array('header'=>'Event Preparation', 'elem'=> array(
         '1'=>array('label'=>'Poster A1','title'=>'Workplace Guide','name'=>'a1'),
-        '2'=>array('label'=>'Flyer A2','title'=>'Download Poters Today','name'=>'a2'),
-        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Marco','name'=>'a3-1'),
-        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Trudi','name'=>'a3-2'),
-        '5'=>array('label'=>'Poster A5','title'=>'Date for your diary','name'=>'a4')
+        '2'=>array('label'=>'Flyer A2','title'=>'Sign Up Today','name'=>'a2'),
+        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Alice','name'=>'a3-1'),
+        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2'),
+        '5'=>array('label'=>'Poster A5','title'=>'Poster','name'=>'a5')
         )),
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
@@ -21,24 +21,16 @@ $downloads = array(
         '11'=>array('label'=>'Poster B11','title'=>'Team Stretching','name'=>'b11'),
         '12'=>array('label'=>'Poster B12','title'=>' What will you do?','name'=>'b12')
 )),
-'3'=>array('header'=>'Desk Display', 'elem'=> array(
-        '1'=>array('label'=>'Display C1','title'=>'OYFB Triangle 1','name'=>'c1'),
-        '2'=>array('label'=>'Display C2','title'=>'OYFB Triangle 2','name'=>'c2'),
-        '3'=>array('label'=>'Display C3','title'=>'OYFB Triangle 3','name'=>'c3'),
-        '4'=>array('label'=>'Display C4','title'=>'OYFB Triangle 4','name'=>'c4'),
-)),
 
 '4'=>array('header'=>'Event Completion', 'elem'=> array(
         '1'=>array('label'=>'Certificate D1','title'=>' OYFB Certificate','name'=>'d1')
 )),
 
-'5'=>array('header'=>'Got 1 Minute', 'elem'=> array(
-        '1'=>array('label'=>'Toolkit E1','title'=>'1 minute exercises','name'=>'f1')
-))
+
 );
 /* --}}
 
-@extends('layouts.oyf.us')
+@extends('layouts.oyf.gb')
 
 @section('header-styles')
     @parent
@@ -77,44 +69,89 @@ $downloads = array(
             <div class="oyf-newblue fbigger fbold fmargb">{{$value1['header']}}</div>
             <br/>
 
-            @foreach ($value1['elem'] as $key=>$value)
-                <div class="oyf-downloads-row">
+            @if ($key1=='5')
 
-                    <div class="oyf-downloads-pic">
-                        <a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.pdf" target="_blank">
-                            <img src="{{ url('/') }}/img/oyf/us/downloads/{{$value['name']}}.jpg"/>
-                        </a>
-                    </div>
+                @foreach ($value1['elem'] as $key=>$value)
+                    <div class="oyf-downloads-row">
 
-                    <div class="oyf-downloads-descrip">
-                        <div class="oyf-downloads-desc1">
+                        <div class="oyf-downloads-pic">
+                            <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
+                                <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
+                            </a>
+                        </div>
+
+                        <div class="oyf-downloads-descrip">
+                            <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.pdf" target="_blank">
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
                                                         {{$value['label']}}
                                                     </a>
                                  	 	  		</span>
 
-                            <a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.pdf" target="_blank">
-                                {{$value['title']}}
+                                <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
+                                    {{$value['title']}}
+                                </a>
+                            </div>
+
+
+                            <div class="oyf-downloads-desc2">
+                                <span class="oyf-downloads-tabbed"> </span>
+                                <i></i>
+                            </div>
+
+                        </div>
+
+                        <div class="oyf-downloads-helper">
+                        </div>
+                        <div class="clear"></div>
+
+                    </div><!-- row -->
+
+                    <br/>
+                @endforeach
+
+            @else
+
+                @foreach ($value1['elem'] as $key=>$value)
+                    <div class="oyf-downloads-row">
+
+                        <div class="oyf-downloads-pic">
+                            <a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">
+                                <img src="{{ url('/') }}/img/oyf/pics/{{$value['name']}}.jpg"/>
                             </a>
                         </div>
 
+                        <div class="oyf-downloads-descrip">
+                            <div class="oyf-downloads-desc1">
+                                 	 	  		<span class="oyf-downloads-tabbed">
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">
+                                                        {{$value['label']}}
+                                                    </a>
+                                 	 	  		</span>
 
-                        <div class="oyf-downloads-desc2">
-                            <span class="oyf-downloads-tabbed"> </span>
-                            <i></i>
+                                <a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">
+                                    {{$value['title']}}
+                                </a>
+                            </div>
+
+
+                            <div class="oyf-downloads-desc2">
+                                <span class="oyf-downloads-tabbed"> </span>
+                                <i></i>
+                            </div>
+
                         </div>
 
-                    </div>
+                        <div class="oyf-downloads-helper">
+                        </div>
+                        <div class="clear"></div>
 
-                    <div class="oyf-downloads-helper">
-                    </div>
-                    <div class="clear"></div>
+                    </div><!-- row -->
 
-                </div><!-- row -->
+                    <br/>
+                @endforeach
 
-                <br/>
-            @endforeach
+            @endif
 
 
             <br/><br/>
