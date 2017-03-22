@@ -67,8 +67,7 @@
 
         <div class="speakers-title">
             <strong>Dame Carol Black</strong><br/>
-            <i>Principal of Newnham College Cambridge and Expert Adviser on Health and Work to NHS England and
-                Public Health England</i><br/>
+            <i>Expert Adviser on Health and Work to <strong>NHS England and Public Health England</strong>.</i><br/>
 
         </div>
 
