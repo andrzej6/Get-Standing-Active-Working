@@ -80,6 +80,12 @@
             </a>
         </p>
 
+        <p >
+            <a href="http://www.thefreedesk.com/start/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg">
+            </a>
+        </p>
+
     </div>
 
 
