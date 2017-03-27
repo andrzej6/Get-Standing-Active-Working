@@ -34,8 +34,14 @@
 
     <div style="clear:both"></div>
 
+    <a href="http://www.littlenudge.com/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
     <a href="http://fitroomexpress.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/fitroom.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
+    <a href="http://www.thefreedesk.com/start/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
 
