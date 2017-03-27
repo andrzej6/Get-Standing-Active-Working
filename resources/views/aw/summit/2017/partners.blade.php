@@ -350,6 +350,34 @@
 
 
 
+    <br/>
+
+
+    <div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://www.thefreedesk.com/start/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg"/>
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            Freedesk Desk Riser transforms your workspace from being stationary to height adjustable , in a few seconds.<br/>
+            Raises and lowers in nine different levels. Simple to lower down and move around when flat
+
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group33" href="{{ url('/') }}/img/aw/summit/partners/fancybox/freedesk2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/freedesk1.jpg"/>
+            </a>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
 
 @endsection
 
