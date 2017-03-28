@@ -226,6 +226,11 @@
                 -->
 
 
+                <div>
+                    <a href="http://www.thefreedesk.com/start/" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/freedesk.jpg">
+                    </a>
+                </div>
 
                 <div>
                     <a href="https://steppie.dk/en/" target="_blank">
