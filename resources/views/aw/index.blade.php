@@ -44,9 +44,7 @@
                     <div class="module_content slider_type1">
                         <div id="banner1" class="OneByOne_container">
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/2-awgbs.jpg" alt="" class="go-to go-to-summit">
-                            </div>
+
 
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
@@ -56,9 +54,7 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/wellbeeing.jpg" alt="" class="go-to go-to-wellbeeing">
                             </div>
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/1-aw.jpg" alt="" class="go-to go-to-summit">
-                            </div>
+
 
 
 
@@ -80,6 +76,17 @@
                             </div>
 
                             <!--
+                            BEFORE SUMMIT 2017
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/2-awgbs.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+
+                             <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/1-aw.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider4.jpg" alt="" class="go-to go-to-videos">
                             </div>
