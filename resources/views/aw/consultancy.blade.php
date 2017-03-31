@@ -72,10 +72,7 @@
     </a>
     -->
 
-
-    <a href="http://activeworking.com/summit/2017/introduction" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
-    </a>
+    
 
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating3.png" class="restofsmall-pic" alt=""/>
 
