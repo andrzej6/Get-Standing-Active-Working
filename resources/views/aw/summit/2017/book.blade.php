@@ -18,7 +18,7 @@
 @endsection
 
 @section('title')
-    Active Working Summit 2017. Book Now.
+    Active Working Summit 2018. Book Now.
 @endsection
 
 
@@ -70,7 +70,7 @@
     <ul>
 
         <br/><br/>
-        <h1>2017 Registration Form</h1>
+        <h1>2018 Registration Form</h1>
 
         <li>
             Please also send me details on the following:<br/>
