@@ -193,7 +193,7 @@
                     </a>
                     -->
 
-                    <a href="http://activeworking.com/summit/2017/introduction" target="_blank">
+                    <a href="http://onyourfeetday.com/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/onyourfeet-index.jpg">
                     </a>
 
