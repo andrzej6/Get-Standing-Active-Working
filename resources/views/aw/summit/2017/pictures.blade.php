@@ -29,14 +29,14 @@
         <a href="#" target="_blank">
 
         @for ($i = 1; $i < 48; $i++)
-            <div class="summitpic-h">
+            <div class="summitpic-h" style="display:inline-block">
               <img src="{{ url('/') }}/img/aw/summit/2017/pics/h/{{ $i }}.jpg" >
             </div>
         @endfor
         <br/><br/>
 
         @for ($i = 1; $i < 40; $i++)
-            <div class="summitpic-v">
+            <div class="summitpic-v" style="display:inline-block">
                 <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" >
             </div>
         @endfor
