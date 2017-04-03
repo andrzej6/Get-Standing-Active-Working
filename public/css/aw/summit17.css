@@ -213,20 +213,29 @@ form.summit-contact label {
 }
 
 /* summit pics page */
+.summitpic-h, .summitpic-v {
+    display:inline-block;
+    float:left;
+}
+
+
 .summitpic-h {
     max-width:120px;
-    margin-bottom:15px
+    margin-bottom:10px;
+    margin-right:10px;
+
 
 }
 .summitpic-h img {
     width:100px;
+
 }
 
 
 .summitpic-v {
     max-width:70px;
     margin-right:0px;
-    margin-left:0px;
+    margin-left:10px;
     margin-bottom:10px
 
 }
@@ -241,5 +250,6 @@ form.summit-contact label {
 .summitpic-h img:hover, .summitpic-v img:hover {
     transform: scale(1.1);
 }
+
 
 

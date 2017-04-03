@@ -33,7 +33,7 @@
                     <img src="{{ url('/') }}/img/aw/summit/2017/pics/h/{{ $i }}.jpg" >
                 </div>
             @endfor
-            <br/>
+            <div style="clear: both;"></div>
 
             @for ($i = 1; $i < 40; $i++)
                 <div class="summitpic-v">
