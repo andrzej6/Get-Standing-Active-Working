@@ -32,7 +32,10 @@ $linked_sum = urlencode ("Active Working Summit 2017");
     <!-- <div class="center-bottom bookline"><a href="/summit">Book early for AWS 2017 to avoid disappointment</a></div> -->
 
 
-    <div class="center-bottom">ACTIVE WORKING – How Reducing Sedentary Behaviour at Work<br/> Improves Wellness & Productivity</div>
+    <div class="center-bottom">Active Working Summit 2017<br/>
+        According to our survey, 90% of delegates were “Inspired”.
+        <a href="http://activeworking.com/summit/2017/photos" style="font-weight: bold;text-decoration: underline;color:#5ab7da">Photos here</a>
+       </div>
 
 </div>
 
