@@ -92,18 +92,11 @@
     </div>
 
 
-    <div class="aw-partners-platinum link-line">
-        <br/>
-        <p><center><a href="contact" class="aw-partners-linkr">Partnership Enquiries</a></center></p>
-        <br/>
-    </div>
-
-
-
 </div>
 
 
 @if($page=='photos')
+    <hr class="light">
 
     <div class="aw-partners-coloured">
 
@@ -197,16 +190,7 @@
             </p>
 
         </div>
-
-
-        <div class="aw-partners-platinum link-line">
-            <br/>
-            <p><center><a href="contact" class="aw-partners-linkr">Partnership Enquiries</a></center></p>
-            <br/>
-        </div>
-
-
-
+        
     </div>
 
 @endif
