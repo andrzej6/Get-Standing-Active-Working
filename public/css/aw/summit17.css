@@ -212,27 +212,6 @@ form.summit-contact label {
     height: 400px;
 }
 
-/* summit pics page */
-.summitpic-h {
-    max-width:120px;
-    margin-bottom:15px
-
-}
-.summitpic-h img {
-    width:100px;
-}
-
-
-.summitpic-v {
-    max-width:70px;
-    margin-right:0px;
-    margin-left:0px;
-    margin-bottom:10px
-
-}
-.summitpic-v img {
-    max-width:70px;
-}
 
 
 

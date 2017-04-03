@@ -36,9 +36,7 @@
         <br/>
 
         <div class="summitpic-v">
-        @for ($i = 1; $i < 40; $i++)
-                <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" >
-        @endfor
+        @for ($i = 1; $i < 40; $i++) <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" > @endfor
         </div>
 
         </a>
