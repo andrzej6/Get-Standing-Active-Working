@@ -96,7 +96,7 @@
 
 
 @if($page=='photos')
-    <hr class="light">
+    <hr class="light" style="height: 0px;margin-top: 25px">
 
     <div class="aw-partners-coloured">
 
@@ -190,7 +190,7 @@
             </p>
 
         </div>
-        
+
     </div>
 
 @endif
