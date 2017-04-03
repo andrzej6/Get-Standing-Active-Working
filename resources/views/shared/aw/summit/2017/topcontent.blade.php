@@ -33,7 +33,7 @@ $linked_sum = urlencode ("Active Working Summit 2017");
 
 
     <div class="center-bottom">Active Working Summit 2017.
-        According to our survey, <br/>90% of delegates were “Inspired”.
+        According to our survey, <br/>97% of delegates were “Inspired”.
         <a href="http://activeworking.com/summit/2017/photos" style="font-weight: bold;text-decoration: underline;color:#5ab7da">Photos here</a>
        </div>
 
