@@ -60,7 +60,7 @@
 
             </div>
 
-            <div class="aw-restofsmall" id="oyf-follow" style="right: 178px; position: fixed;">
+            <div class="aw-restofsmall" id="oyf-follow" >
                 @yield('partnersright')
             </div>
 
