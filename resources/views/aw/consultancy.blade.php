@@ -72,7 +72,7 @@
     </a>
     -->
 
-    
+
 
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating3.png" class="restofsmall-pic" alt=""/>
 
