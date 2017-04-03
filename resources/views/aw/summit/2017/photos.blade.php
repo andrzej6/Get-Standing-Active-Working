@@ -26,7 +26,7 @@
     <br/>
 
     <div id="summit-allpic">
-        <a href="https://www.dropbox.com/sh/ts3tlg1ht66pvjc/AABe3EluUL9Dg2yqwhUyjrgba?dl=0" target="_blank">
+        <a href="https://www.dropbox.com/sh/ts3tlg1ht66pvjc/AABe3EluUL9Dg2yqwhUyjrgba?dl=0" target="_blank" title="Active Working Summit 2017">
 
             @for ($i = 1; $i < 48; $i++)
                 <div class="summitpic-h">
