@@ -28,18 +28,18 @@
     <div id="summit-allpic">
         <a href="https://www.dropbox.com/sh/ts3tlg1ht66pvjc/AABe3EluUL9Dg2yqwhUyjrgba?dl=0" target="_blank">
 
+        <div class="summitpic-h">
         @for ($i = 1; $i < 48; $i++)
-            <div class="summitpic-h" style="display:inline-block">
               <img src="{{ url('/') }}/img/aw/summit/2017/pics/h/{{ $i }}.jpg" >
-            </div>
         @endfor
+        </div>
         <br/>
 
+        <div class="summitpic-v">
         @for ($i = 1; $i < 40; $i++)
-            <div class="summitpic-v" style="display:inline-block">
                 <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" >
-            </div>
         @endfor
+        </div>
 
         </a>
 
