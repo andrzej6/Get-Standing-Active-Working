@@ -29,14 +29,14 @@
         <a href="https://www.dropbox.com/sh/ts3tlg1ht66pvjc/AABe3EluUL9Dg2yqwhUyjrgba?dl=0" target="_blank">
 
             @for ($i = 1; $i < 48; $i++)
-                <div class="summitpic-h" style="display:inline-block">
+                <div class="summitpic-h">
                     <img src="{{ url('/') }}/img/aw/summit/2017/pics/h/{{ $i }}.jpg" >
                 </div>
             @endfor
             <br/>
 
             @for ($i = 1; $i < 40; $i++)
-                <div class="summitpic-v" style="display:inline-block">
+                <div class="summitpic-v">
                     <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" >
                 </div>
             @endfor

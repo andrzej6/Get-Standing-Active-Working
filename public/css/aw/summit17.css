@@ -238,4 +238,8 @@ form.summit-contact label {
     margin-top:20px;
 }
 
+.summitpic-h img:hover, .summitpic-v img:hover {
+    transform: scale(1.1);
+}
+
 
