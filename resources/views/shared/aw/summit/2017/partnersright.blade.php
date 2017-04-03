@@ -95,7 +95,7 @@
 </div>
 
 
-@if($page=='photos')
+@if($page=='photos' || $page=='programme' || $page=='speakers' || $page=='partners' )
     <hr class="light" style="height: 0px;margin-top: 25px">
 
     <div class="aw-partners-coloured">
