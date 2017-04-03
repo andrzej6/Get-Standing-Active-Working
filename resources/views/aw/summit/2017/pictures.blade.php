@@ -30,14 +30,14 @@
 
         @for ($i = 1; $i < 48; $i++)
             <div class="summitpic-h">
-              <img src="{{ url('/') }}/img/aw/summit/2017/h/{{ $i }}.jpg" >
+              <img src="{{ url('/') }}/img/aw/summit/2017/pics/h/{{ $i }}.jpg" >
             </div>
         @endfor
         <br/><br/>
 
         @for ($i = 1; $i < 40; $i++)
             <div class="summitpic-v">
-                <img src="{{ url('/') }}/img/aw/summit/2017/v/{{ $i }}.jpg" >
+                <img src="{{ url('/') }}/img/aw/summit/2017/pics/v/{{ $i }}.jpg" >
             </div>
         @endfor
 
