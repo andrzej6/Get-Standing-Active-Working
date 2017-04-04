@@ -44,7 +44,6 @@
         Book <span style="text-decoration: underline;font-weight: bold;">before 28th February 2017</span> and receive a
         <span style="text-decoration: underline;font-weight: bold;">10% discount </span> to Active Working Summit 2017.<br/><br/>
     </div>
-    -->
 
     <div class="">
         The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
@@ -53,11 +52,24 @@
     <span style="font-size: 16px;font-weight:bold">The programme is now available for
             <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="font-weight:bold;text-decoration: underline" target="_blank">DOWNLOAD HERE.</a></span>
 
+
+    -->
+
+        <div class="" style="font-weight: bold">
+            The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
+        </div>
+        <br/>
+        <span style="color:red;font-weight:bold">EARLY BIRD DISCOUNT 30% (valid until May 31st 2017)</span>
+
+        <br/><br/>
+        The 2018 programme will be published in November 2017.
+
     <br/><br/>
 
     <span style="font-size: 14px;font-weight: bold">
-        After completing our registration, please can confirm your booking by requesting an invoice
-        or making a card payment.
+        After completing our registration, please can confirm your booking by
+        <span style="text-decoration:underline; font-weight:bold">requesting an invoice</span>
+        or <span style="text-decoration:underline; font-weight:bold">making a card payment</span>.
     </span>
 
      <br/>
