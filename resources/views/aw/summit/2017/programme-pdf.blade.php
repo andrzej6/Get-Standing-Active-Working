@@ -25,53 +25,11 @@
 @section('aw-maincontent')
     <br/>
 
-    <div style="color:#3563ae">
-        <div style="font-size:22px;color:#3563ae;margin-bottom:5px"><strong>By Dame Carol Black</strong> (Event Ambassador)</div>
-        <span style="font-style: italic">
-            Expert Adviser on Health and Work to <strong>NHS England and Public Health England</strong>.
-        </span>
-    </div>
 
-    <br/>
-
-    <div style="font-style: italic">
-        "Consistent evidence has shown the health benefits of physical activity.  We also know about the harms resulting
-        from the lack of activity, from living a sedentary life.  Being active is good for us, not just
-        physically – that is obvious – but also for our state of mind, our mental health, and our overall sense of wellbeing.<br/><br/>
-
-        Being inactive increases the risk of dying early.  It is worse than smoking.  Fortunately it seems that
-        moderate physical activity of about an hour a day can remove the increased risk of death associated with
-        prolonged sitting time at work.  So there are grounds for adding physical activity to the sedentary life
-        in the workplace, where many people are occupied much of the day sitting at a desk.<br/><br/>
-
-        I am pleased that the Active Working Summit will bring this evidence to wider notice, encouraging changes
-        in working practice that will help promote and safeguard the health and wellbeing of many people."
-
-        <br/><br/>
-        <img src="{{ url('/') }}/img/summit/gb/2017/brochurepic3.jpg" >
-
-    </div>
-
-    <br/><br/>
 
     <div style="text-align: center">
 
         <div class="">
-
-            <div style="font-weight: bold;color:red;">
-                Book <span style="text-decoration: underline;font-weight: bold;">before 30th April 2016</span> and receive a
-                <span style="text-decoration: underline;font-weight: bold;">30% discount </span> to Active Working Summit 2017.<br/><br/>
-
-            </div>
-
-            <div class="aw-support-statement">
-                The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
-
-            </div>
-            <br/>
-            The programme for 2018 will be published in November 2017.
-
-            <br/><br/>
             Our last event included the following sessions and speakers:<br/><br/>
 
 
