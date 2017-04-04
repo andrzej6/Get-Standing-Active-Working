@@ -27,7 +27,7 @@
 
 
 
-    <div style="text-align: center">
+    <div style="/*text-align: center*/">
 
         <div class="">
             Our last event included the following sessions and speakers:<br/><br/>
@@ -46,7 +46,7 @@
             <div class="aw-redtext bigger"><strong>K E Y N O T E&nbsp;&nbsp;&nbsp;S  P E E C H</strong></div>
 
             <div class="aw-redtext">
-                <a href="pdf/slides/1.James_Levine.pdf" target="_blank"><img src="/images/icon/pdficon.png" width="20"></a>&nbsp;
+                <a href="pdf/slides/1.James_Levine.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                 <i><strong>James Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
 
             </div>
