@@ -102,7 +102,7 @@
                 <div class="aw-redtext bigger"><strong>K E Y N O T E&nbsp;&nbsp;&nbsp;S  P E E C H</strong></div>
 
                 <div class="aw-redtext">
-                    <strong>Ergonomic Office Workplace Design for Health, Wellness, and Productivity - where do we go from here?</strong>
+                    <strong>Ergonomic Office Workplace Design for Health, Wellness, and Productivity - where do we go from here?</strong><br/>
                     <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                     <i><strong>Professor Alan Hedge</strong> Director, Human Factors and Ergonomics Laboratory, Cornell University, USA</i>
 
