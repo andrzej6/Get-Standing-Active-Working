@@ -216,6 +216,7 @@ $( document ).ready(function() {
 
 
 
+    /*
 
     $( "#member" ).change(function() {
         if ($("#member").val() !='')
@@ -237,6 +238,7 @@ $( document ).ready(function() {
         }
 
     });
+    */
 
 
 

@@ -185,28 +185,6 @@
 
 
 
-
-        <li style="margin:10px 0;">
-            {!!   Form::label('member', 'Delegate qualifies for 20% discount as member of listed affiliate organisation:') !!}
-            {!!   Form::select('member',
-                                array('' => '- Select Organization -',
-                                      'BIFM' => 'BIFM',
-                                      'CIPD' => 'CIPD',
-                                      'Workplace Challenge' => 'Workplace Challenge'),
-                                array('id' => 'member')) !!}
-            <div style="clear: both;"></div>
-        </li>
-
-
-
-        <li id="member-li" style="display:none">
-            {!!   Form::label('memberfield', '(*) Your membership number:') !!}
-            {!!   Form::text('memberfield', old('memberfield'), array('id' => 'memberfield')) !!}
-            <div style="clear: both;"></div>
-        </li>
-
-
-
         <li>
             <label>Dietary Requirements:</label>
             <div style="clear:both"></div>
