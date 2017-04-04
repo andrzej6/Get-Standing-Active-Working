@@ -231,7 +231,7 @@
             <strong>How Best to Build our Active Working Future Together</strong>
 
             <div class="aw-redtext">
-                <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a><br/>
+                <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>
                 <i><strong>ProfessorJames Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
             </div>
 
