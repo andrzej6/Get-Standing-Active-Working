@@ -60,23 +60,23 @@
             <td>£335</td>
             <td>£795 <sup>2</sup></td>
         </tr>
-        <!--
+
         <tr class="row2">
             <td style="text-align: left">EARLY BIRD Price [ex VAT]</td>
-            <td>£301.5</td>
-            <td>£715.5 <sup>2</sup></td>
+            <td>£234.5</td>
+            <td>£556.5 <sup>2</sup></td>
         </tr>
-        -->
+
     </table>
 
 
 
-    <!--
+
     <div style="font-size: 16px;font-weight: bold">
         <br/>
-        EARLY BIRD Price (10% discount) VALID UNTIL 28/02/2017
+        EARLY BIRD Price (30% discount) VALID UNTIL 31/05/2017
     </div>
-    -->
+
 
 
     <br/>
