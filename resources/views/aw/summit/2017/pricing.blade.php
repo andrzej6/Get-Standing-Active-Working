@@ -34,12 +34,14 @@
         </div>
         -->
 
-        <div class="">
+        <div class="" style="font-weight: bold">
             The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
         </div>
         <br/>
-        <span style="font-size: 16px;font-weight:bold">The programme is now available for
-            <a href="{{ url('/') }}/pdfs/Summit-Brochure.pdf" style="font-weight:bold;text-decoration: underline" target="_blank">DOWNLOAD HERE.</a></span>
+        <span style="color:red;font-weight:bold">EARLY BIRD DISCOUNT 30% (valid until May 31st 2017)</span>
+
+        <br/><br/>
+        The 2018 programme will be published in November 2017.
 
         <br/><br/>
         This Summit is targeted at Senior Professionals / Opinion Leaders /  Decision Makers:  responsible for wellbeing,
