@@ -107,9 +107,10 @@
                     <i><strong>Professor Alan Hedge</strong> Director, Human Factors and Ergonomics Laboratory, Cornell University, USA</i>
 
                 </div>
+                <br/>
 
                 <ul>
-                    <li><strong>Insights from the Stand-Up Victoria Intervention: Lessons Learnt and Recommendations for Research and Practice</strong><br/>
+                    <li><strong>Insights from the Stand-Up Victoria Intervention</strong><br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Professor David Dunstan</strong>, Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow, Baker Heart and Diabetes Institute</i></span>
                     </li>
@@ -117,7 +118,7 @@
 
                     <li><strong>Effectiveness of Recent Strategies to Encourage Office Workers to Sit Less</strong><br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Charlotte Edwardson</strong>Associate Professor in Physical Activity, Sedentary Behaviour and Health, Diabetes Research Centre, University of Leicester</i></span>
+                        <span class="aw-redtext"><i><strong>Dr Charlotte Edwardson</strong>, Associate Professor in Physical Activity, Sedentary Behaviour and Health, Diabetes Research Centre, University of Leicester</i></span>
                         <br/>
                     </li>
 
@@ -230,6 +231,7 @@
             <strong>How Best to Build our Active Working Future Together</strong>
 
             <div class="aw-redtext">
+                <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a><br/>
                 <i><strong>ProfessorJames Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
             </div>
 

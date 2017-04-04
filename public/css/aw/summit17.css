@@ -253,6 +253,7 @@ form.summit-contact label {
 /* programme pdf page */
 .summit-section ul li {
     list-style-type:none;
+    margin-bottom:10px;
 }
 
 .summit-section .section-bold {
