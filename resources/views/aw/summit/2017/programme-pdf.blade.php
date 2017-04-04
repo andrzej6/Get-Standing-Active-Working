@@ -45,8 +45,6 @@
 
             <div class="aw-redtext bigger"><strong>O P E N I N G&nbsp;&nbsp;&nbsp;A D D R E S S</strong></div>
 
-            <strong>“Blueprint for an Active Britain. The Workplace”</strong>
-
             <div class="aw-redtext">
                 <i><strong>Dame Carol Black</strong>, Expert Adviser on Health and Work to NHS England and Public Health England</i>
             </div>
@@ -57,35 +55,35 @@
             <div class="summit-section">
 
                 <div class="section-bold"><span class="">S E S S I O N 1: </span>
-                    Sedentary Behaviour:  Health Research Evidence and Key Priorities</div>
+                    The Sitting Disease: Is It Now Official?</div>
 
                 <ul>
-                    <li><strong>A New Horizon - Impact of the Expert Statement</strong>
+                    <li><strong>Creating Active Workplaces to Improve Population Health and Economic Outcomes</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <!-- <a href="pdf/slides/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp; -->
-                        <span class="aw-redtext"><i><strong>Gavin Bradley</strong>, Founding Director, Active Working CIC</span></i>
+                        <span class="aw-redtext"><i><strong>Dr Michael Brannan</strong>, Deputy National Lead for Adult Health and Wellbeing, Public Health England</i></span>
                     </li>
 
 
-                    <li><strong>Sedentary Behaviour Public Health Research:  What We Now Know. What We Don’t Know Yet.</strong>
+                    <li><strong>How Far have We Come? A Progress Report. Recent Workplace Evidence – An Overview</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Jason Gill</strong>, BHF Glasgow Cardiovascular Research Centre, University of Glasgow </span></i>
+                        <span class="aw-redtext"><i><strong>Gavin Bradley</strong>, Founding Director, Active Working CIC</i> </span>
                     </li>
 
-
-
-                    <li><strong>How Much Sitting time is Acceptable?  And How Much is Too Much?</strong>
+                    <li><strong>Public Response to the 2015 Expert Statement and Guidance on Workplace Sedentary Behaviour
+                            Commissioned by Active Working CIC</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Stacy Clemes</strong>, Senior Lecturer in Human Biology	, Loughborough University</span></i>
+                        <span class="aw-redtext"><i><strong>Dr Benjamin Gardner</strong>, Senior Lecturer, Dept. of Psychology, King's College London</i></span>
                     </li>
 
-
-
-
-
+                    <li><strong>Stoddart Review – The Vital Contribution of the Workplace as a Performance Inhibitor and Facilitator
+                            – what impact would 1% uplift in productivity have on the economy?</strong>
+                        <br/>
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <span class="aw-redtext"><i><strong>Peter Brogan</strong>, Research and Information Manager, BIFM</i></span>
+                    </li>
 
 
                 </ul>
@@ -97,58 +95,37 @@
             <div class="summit-section">
 
                 <div class="section-bold"><span class="">S E S S I O N 2: </span>
-                    Sedentary Behaviour:  Workplace Research and Overcoming the Challenges
+                    Workplace Wellness & Productivity - The Benefits of Sitting Less
+                </div>
+
+
+                <div class="aw-redtext bigger"><strong>K E Y N O T E&nbsp;&nbsp;&nbsp;S  P E E C H</strong></div>
+
+                <div class="aw-redtext">
+                    <strong>Ergonomic Office Workplace Design for Health, Wellness, and Productivity - where do we go from here?</strong>
+                    <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                    <i><strong>Professor Alan Hedge</strong> Director, Human Factors and Ergonomics Laboratory, Cornell University, USA</i>
+
                 </div>
 
                 <ul>
-                    <li><strong>Workplace Evidence:  What We Now Know. What We Don’t Know Yet.</strong><br/>
+                    <li><strong>Insights from the Stand-Up Victoria Intervention: Lessons Learnt and Recommendations for Research and Practice</strong><br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Veerle Hermans</strong>, Head of Ergonomics (IDEWE), Prof. Ergonomics (Free University of Brussels)</span></i>
+                        <span class="aw-redtext"><i><strong>Professor David Dunstan</strong>, Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow, Baker Heart and Diabetes Institute</i></span>
                     </li>
 
 
-                    <li><strong>Behaviour Change Techniques in the Workplace</strong><br/>
+                    <li><strong>Effectiveness of Recent Strategies to Encourage Office Workers to Sit Less</strong><br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Raluca Matei</strong>, Research Manager (Active Working) / Psychology PhD Candidate, Manchester Metropolitan University</span></i>
+                        <span class="aw-redtext"><i><strong>Dr Charlotte Edwardson</strong>Associate Professor in Physical Activity, Sedentary Behaviour and Health, Diabetes Research Centre, University of Leicester</i></span>
                         <br/>
                     </li>
 
 
-                    <li><strong>Health at Work:  Growing Impact of Musculoskeletal Disorders on Productivity.</strong>
+                    <li><strong>Stand-Up to Work - Research Project Conclusions on Long Term Impacts of Sit-Stand Desks</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Prof. Stephen Bevan</strong>, Director, The Work Foundation</span></i>
-                    </li>
-
-
-                    <li><strong>UK Workplace Research and Impacts on Reduction in Sedentary Behaviour.</strong>
-                        <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Fehmidah Munir</strong>, Reader in Health Psychology, Loughborough University</span></i>
-                    </li>
-
-                    <li><strong>Workplace Team Sport – Systematic review of individual, Group and Organisational Benefits</strong>
-                        <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Hilary Mc Dermott</strong>, Senior Lecturer in Psychology, Loughborough University</span></i>
-                    </li>
-
-                    <li><strong>Key Stakeholders:  Dealing with the Challenges of Sedentary Working (Panel Discussion).</strong>
-                        <br/>
-                        <!--
-                        <span style="color:#da3b44;"><strong>2 minute introduction from each Stakeholder rep, which will
-                            also include a “brief opening statement”.</strong></span><br/>-->
-
-
-                        <span class="aw-redtext"><i><strong>Mike Knapton</strong>, Associate Medical Director, 	British Heart Foundation</span></i>
-                        <br/>
-                        <span class="aw-redtext"><i><strong>Jo Foster</strong>, Physical Activity Lead, Macmillan </span></i>
-                        <br/>
-                        <span class="aw-redtext"><i><strong>Stuart Blackman</strong>, Chief Executive, BackCare</span></i>
-                        <br/>
-                        <span class="aw-redtext"><i><strong>Ben Wilmott</strong>, Head of Strategy, CIPD</span></i>
-
-
+                        <span class="aw-redtext"><i><strong>Joanna Frank</strong>, Executive Director at Center for Active Design. New York, USA</i></span>
                     </li>
 
                 </ul>
@@ -161,61 +138,51 @@
             <div class="summit-section">
 
                 <div class="section-bold"><span class="">S E S S I O N 3: </span>
-                    Solutions Promoting Active Working
+                    Core Solutions and Best Practice
                 </div>
 
                 <ul>
 
-                    <li><strong>Ergonomics of Sit-Stand Solutions.</strong>
+                    <li><strong>Strategy to Increase Physical Activity and Daily Movement in the Built Environment</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr Veerle Hermans</strong>, Head of Ergonomics (IDEWE), Prof. Ergonomics (Free University of Brussels)</span></i>
+                        <span class="aw-redtext"><i><strong>Dr Nicola Eccles</strong>, Co-Founder of CPActive, Director of Research and Lecturer in Health, Wellbeing and Physical Activity</i></span>
                     </li>
 
 
-                    <li><strong>Tools to Identify, Diagnose and Remediate Health Risks of Sedentary Behaviour in the Office</strong>
+                    <li><strong>The Effectiveness of an Activity Tracker and Mobile App for Reducing Sitting Time in Office Workers</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Emily Tims</strong>, Managing Director, Little Nudge</span></i>
-                        <!--
-                        <br/>
-                        <span class="aw-redtext"><i><strong>Roy Cochran</strong>, Lead, Ergonomist & Health and Safety Lead, BUPA</span></i>
-                        -->
+                        <span class="aw-redtext"><i><strong>Professor David Dunstan</strong>, Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow, Baker Heart and Diabetes Institute</i></span>
                     </li>
 
 
-                    <li><strong>Creating an Open Culture to Promote Employee Wellbeing Awareness and Action</strong>
+                    <li><strong>Workplace Challenge – Activities to Reduce Sedentary Behaviour, Absenteeism and Presenteeism</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Amy Mc Keown</strong>, Health EY, People Advisory Services</span></i>
+                        <span class="aw-redtext"><i><strong>Lee Mason</strong>, Chief Executive, CSP Network</i></span>
 
                     </li>
 
 
-                    <li><strong>Education, Education, Education.</strong>
+                    <li><strong>Steppie, the ‘Missing Link’ in Any Workplace – The Benefits of a Stand Board</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Sue Jutley</strong>, Head of Engagement, Active Working Group</span></i>
+                        <span class="aw-redtext"><i><strong>Gitte Toft</strong>, Director, Steppie</i></span>
                     </li>
 
 
 
-                    <li><strong>Breaking Down the Barriers to Equipment and Education.</strong>
+                    <li><strong>Breaking Down the Barriers to Active Working – including Company Case Studies </strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Luke Armstrong</strong>, Head of Business Development, Sit-Stand.Com</span></i>
-                    </li>
+                        <span class="aw-redtext"><i><strong>Rik Mistry</strong>, Head of Business Development, Sit-Stand.Com</i></span>
 
-
-
-
-
-
-                    <li><strong>Corporate Gyms: Strategies to Increase Employee Usage and Engagement.</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>James Shillaker</strong>, CEO, Incorpore</span></i>
+                        <span class="aw-redtext"><i><strong>&nbsp;</strong>Power To Change, West Yorkshire Fire & Rescue Service</i></span>
                     </li>
+
 
                 </ul>
 
@@ -226,43 +193,31 @@
             <div class="summit-section">
 
                 <div class="section-bold"><span class="">S E S S I O N 4: </span>
-                    Company Case Studies & the Business Case for Active Working
+                    Workplace of the Future
                 </div>
 
                 <ul>
-                    <li><strong>Cost / Benefit Analysis for Active Working and Bringing about Behaviour Change.</strong>
+                    <li><strong>National Activities on 'Combatting' Sedentary Behaviour in the Workplace</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Dr William Bird</strong>, CEO, Intelligent Health </span></i>
+                        <span class="aw-redtext"><i><strong>Matleena Livson</strong>, Physically active lifestyle Senior Advisor at Finnish Olympic Committee</i></span>
                     </li>
 
 
-                    <li><strong>Breaking the Mould. The Challenge for Workplace Design.</strong>
+                    <li><strong>The Future of Work and the Workplace of the Future - Implications for Active Working</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Sam Sahni</strong>, Head of Workplace Consultancy, Morgan Lovell</span></i>
-                    </li>
-
-
-
-                    <li><strong>Our Journey to Active Working: Company Case Studies.</strong>
-                        <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Laura Johnstone</strong>, HR Director, Austin Fraser</span></i>
-                        <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>Jo Foster</strong>, Physical Activity Programme Lead, Macmillan Cancer Support</span></i>
-                        <br/>
-                        <span class="aw-redtext"><i><strong>Kevin Tesh</strong>, Principal Ergonomist, Johnson & Johnson Medical </span></i>
-
+                        <span class="aw-redtext"><i><strong>Rohit Talwar</strong>, CEO, Fast Future</i></span>
                     </li>
 
 
 
-                    <li><strong>Panel Discussion.</strong>
+                    <li><strong>FITWEL – The Healthy Building Certification System, developed by the US Government</strong>
                         <br/>
-                        <span class="aw-redtext"><i><strong></strong></span></i>
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <span class="aw-redtext"><i><strong>Joanna Frank</strong>, Executive Director at Center for Active Design. New York, USA</i></span>
                     </li>
+
 
                 </ul>
 
@@ -272,10 +227,10 @@
 
             <div class="aw-redtext bigger"><strong>C L O S I N G&nbsp;&nbsp;&nbsp;A D D R E S S</strong></div>
 
-            <strong>“Blueprint for an Active Britain. The Workplace”</strong>
+            <strong>How Best to Build our Active Working Future Together</strong>
 
             <div class="aw-redtext">
-                <i><strong>Baroness Tanni Grey-Thompson</strong>, Chair, ukactive</i>
+                <i><strong>ProfessorJames Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
             </div>
 
             <br/><br/>
