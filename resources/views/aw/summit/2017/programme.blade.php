@@ -214,7 +214,7 @@
                     <li><strong>FITWEL – The Healthy Building Certification System, developed by the US Government</strong>
                         <br/>
                         <a href="{{ url('/') }}/pdfs/aw/summit17/17.0.Fitwel Presentation - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/17.1.Stand Up to Work Presentation - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+
                         <span class="aw-redtext"><i><strong>Joanna Frank</strong>, Executive Director at Center for Active Design. New York, USA</i></span>
                     </li>
 
