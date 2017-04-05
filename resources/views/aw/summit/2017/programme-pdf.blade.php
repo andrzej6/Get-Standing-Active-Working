@@ -234,11 +234,6 @@
                 <i><strong>ProfessorJames Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
             </div>
 
-            <br/><br/>
-            <div class="aw-redtext bigger">N E T W O R K I N G &nbsp;&nbsp;&nbsp;  D R I N K S</div>
-
-
-
         </div>
 
 
