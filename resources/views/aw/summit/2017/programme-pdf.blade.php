@@ -61,28 +61,28 @@
                 <ul>
                     <li><strong>Creating Active Workplaces to Improve Population Health and Economic Outcomes</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/2.Michael Brannan - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Dr Michael Brannan</strong>, Deputy National Lead for Adult Health and Wellbeing, Public Health England</i></span>
                     </li>
 
 
                     <li><strong>How Far have We Come? A Progress Report. Recent Workplace Evidence – An Overview</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/3.Gavin Bradley - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Gavin Bradley</strong>, Founding Director, Active Working CIC</i> </span>
                     </li>
 
                     <li><strong>Public Response to the 2015 Expert Statement and Guidance on Workplace Sedentary Behaviour
                             Commissioned by Active Working CIC</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/4.Benjamin Gardner - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Dr Benjamin Gardner</strong>, Senior Lecturer, Dept. of Psychology, King's College London</i></span>
                     </li>
 
                     <li><strong>Stoddart Review – The Vital Contribution of the Workplace as a Performance Inhibitor and Facilitator
                             – what impact would 1% uplift in productivity have on the economy?</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/5.Peter Brogan - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Peter Brogan</strong>, Research and Information Manager, BIFM</i></span>
                     </li>
 
@@ -104,7 +104,6 @@
 
                 <div class="aw-redtext">
                     <strong>Ergonomic Office Workplace Design for Health, Wellness, and Productivity - where do we go from here?</strong><br/>
-                    <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                     <i><strong>Professor Alan Hedge</strong> Director, Human Factors and Ergonomics Laboratory, Cornell University, USA</i>
 
                 </div>
@@ -112,13 +111,13 @@
 
                 <ul>
                     <li><strong>Insights from the Stand-Up Victoria Intervention</strong><br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/7.David Dunstan - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Professor David Dunstan</strong>, Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow, Baker Heart and Diabetes Institute</i></span>
                     </li>
 
 
                     <li><strong>Effectiveness of Recent Strategies to Encourage Office Workers to Sit Less</strong><br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/8.Charlotte Edwardson - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Dr Charlotte Edwardson</strong>, Associate Professor in Physical Activity, Sedentary Behaviour and Health, Diabetes Research Centre, University of Leicester</i></span>
                         <br/>
                     </li>
@@ -126,7 +125,6 @@
 
                     <li><strong>Stand-Up to Work - Research Project Conclusions on Long Term Impacts of Sit-Stand Desks</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Joanna Frank</strong>, Executive Director at Center for Active Design. New York, USA</i></span>
                     </li>
 
@@ -147,21 +145,21 @@
 
                     <li><strong>Strategy to Increase Physical Activity and Daily Movement in the Built Environment</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/10.Nicola Eccles - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Dr Nicola Eccles</strong>, Co-Founder of CPActive, Director of Research and Lecturer in Health, Wellbeing and Physical Activity</i></span>
                     </li>
 
 
                     <li><strong>The Effectiveness of an Activity Tracker and Mobile App for Reducing Sitting Time in Office Workers</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/11.David Dunstan - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Professor David Dunstan</strong>, Head of Physical Activity, Baker Fellow, NHRMC Senior Research Fellow, Baker Heart and Diabetes Institute</i></span>
                     </li>
 
 
                     <li><strong>Workplace Challenge – Activities to Reduce Sedentary Behaviour, Absenteeism and Presenteeism</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/12.Lee Mason CSP - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Lee Mason</strong>, Chief Executive, CSP Network</i></span>
 
                     </li>
@@ -169,7 +167,7 @@
 
                     <li><strong>Steppie, the ‘Missing Link’ in Any Workplace – The Benefits of a Stand Board</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/13.Gitte Toft - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Gitte Toft</strong>, Director, Steppie</i></span>
                     </li>
 
@@ -177,12 +175,11 @@
 
                     <li><strong>Breaking Down the Barriers to Active Working – including Company Case Studies </strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/14.Rik Mistry - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Rik Mistry</strong>, Head of Business Development, Sit-Stand.Com</i></span>
 
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
-                        <span class="aw-redtext"><i><strong>&nbsp;</strong>Power To Change, West Yorkshire Fire & Rescue Service</i></span>
+                        <span class="aw-redtext"><i><strong></strong>Power To Change, West Yorkshire Fire & Rescue Service</i></span>
                     </li>
 
 
@@ -201,14 +198,14 @@
                 <ul>
                     <li><strong>National Activities on 'Combatting' Sedentary Behaviour in the Workplace</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/15.Matleena Livson - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Matleena Livson</strong>, Physically active lifestyle Senior Advisor at Finnish Olympic Committee</i></span>
                     </li>
 
 
                     <li><strong>The Future of Work and the Workplace of the Future - Implications for Active Working</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/16.Rohit Talwar - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Rohit Talwar</strong>, CEO, Fast Future</i></span>
                     </li>
 
@@ -216,7 +213,8 @@
 
                     <li><strong>FITWEL – The Healthy Building Certification System, developed by the US Government</strong>
                         <br/>
-                        <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/17.0.Fitwel Presentation - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
+                        <a href="{{ url('/') }}/pdfs/aw/summit17/17.1.Stand Up to Work Presentation - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                         <span class="aw-redtext"><i><strong>Joanna Frank</strong>, Executive Director at Center for Active Design. New York, USA</i></span>
                     </li>
 
@@ -232,7 +230,7 @@
             <strong>How Best to Build our Active Working Future Together</strong>
 
             <div class="aw-redtext">
-                <a href="{{ url('/') }}/pdfs/aw/summit17/.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>
+                <a href="{{ url('/') }}/pdfs/aw/summit17/18.James Levine - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>
                 <i><strong>ProfessorJames Levine</strong>, Professor of Medicine, Director Obesity Solutions, Mayo Clinic and Arizona State University</i>
             </div>
 
