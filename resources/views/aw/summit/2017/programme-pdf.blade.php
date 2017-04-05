@@ -46,6 +46,7 @@
             <div class="aw-redtext bigger"><strong>O P E N I N G&nbsp;&nbsp;&nbsp;A D D R E S S</strong></div>
 
             <div class="aw-redtext">
+                <a href="{{ url('/') }}/pdfs/aw/summit17/1.Dame Carol Black - AWS 2017.pdf" target="_blank"><img src="{{ url('/') }}/img/general/icons/pdficon.png" width="20"></a>&nbsp;
                 <i><strong>Dame Carol Black</strong>, Expert Adviser on Health and Work to NHS England and Public Health England</i>
             </div>
 
