@@ -160,7 +160,7 @@ class RegistrationsController extends Controller
 
     public function gusapopup()
     {
-        $customers = DB::connection('mysql')->table('gbs_popups')->where('country', 'us')->orderBy('created_at', 'desc')->paginate(100);
+        $customers = DB::connection('mysql')->table('gbs_popups')->where('country', 'usa')->orderBy('created_at', 'desc')->paginate(100);
         $country = 'Get America Standing';
         return view('registrations.gintpopup', compact('customers','country'));
     }
