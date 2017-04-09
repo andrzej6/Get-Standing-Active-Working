@@ -80,8 +80,8 @@ class RegistrationsController extends Controller
         $int_popups = collect(DB::connection('mysql')->table('gbs_popups')->select('*')->get());
         $oyf_regs = collect(DB::connection('mysql')->table('oyf_regs')->select('*')->get());
 
-        $dates = array('2016-12','2017-01','2017-02','2017-03','2017-04','2017-05','2017-06','2017-07',
-                       '2017-08','2017-09','2017-10','2017-11','2017-12');
+        $dates = array('2017-01','2017-02','2017-03','2017-04','2017-05','2017-06','2017-07',
+                       '2017-08','2017-09','2017-10','2017-11','2017-12','2018-01');
 
 
         for ($i = 0; $i < count($dates)-1; $i++) {
