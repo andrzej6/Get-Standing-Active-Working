@@ -50,17 +50,35 @@
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
                             </div>
 
+
+
+                            <!--
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/wellbeeing.jpg" alt="" class="go-to go-to-wellbeeing">
                             </div>
 
 
+                             <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/3-aw-gbs.jpg" alt="" class="go-to go-to-videos">
+                            </div>
 
+                            -->
 
 
                             <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/3-aw-gbs.jpg" alt="" class="go-to go-to-videos">
+                                <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
                             </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
+                            </div>
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
+                            </div>
+
+
 
 
                             <div class="oneByOne_item ls_bg1">
@@ -71,9 +89,13 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider2.jpg" alt="" class="go-to go-to-careers">
                             </div>
 
+
                             <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
                             </div>
+
+
+
 
                             <!--
                             BEFORE SUMMIT 2017
