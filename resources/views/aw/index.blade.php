@@ -85,9 +85,7 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider1.jpg" alt="" class="go-to go-to-nudge">
                             </div>
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider2.jpg" alt="" class="go-to go-to-careers">
-                            </div>
+
 
 
                             <div class="oneByOne_item ls_bg1">
@@ -98,6 +96,12 @@
 
 
                             <!--
+
+
+                             <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/slider2.jpg" alt="" class="go-to go-to-careers">
+                            </div>
+
                             BEFORE SUMMIT 2017
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/2-awgbs.jpg" alt="" class="go-to go-to-summit">
