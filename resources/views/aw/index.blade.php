@@ -50,6 +50,10 @@
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
                             </div>
 
+                            <div class="oneByOne_item ls_bg8">
+                                <img src="{{ url('/') }}/img/getstanding/gb/solution-page/slider/oyfoffer.jpg" alt="slide" class="go-to go-to-oyfoffer">
+                            </div>
+
 
 
                             <!--
@@ -512,6 +516,10 @@
 
         $(".go-to-onyourfeet").click(function(event){
             window.open('http://onyourfeetday.com','_blank');
+        });
+
+        $(".go-to-oyfoffer").click(function(event){
+            window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
         });
 
 
