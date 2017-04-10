@@ -33,6 +33,19 @@
     The <strong>Get Europe Standing</strong> campaign is organizing a new event called
     <strong>On Your Feet Europe</strong> taking place in <strong>April 2017</strong>. <br/><br/>
 
+
+    To celebrate <strong>On Your Feet Day</strong>,
+    <a href="https://sit-stand.com/" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Sit-Stand.Com</a>
+    are offering
+    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">20% OFF</a> a variety of standing desk solutions.
+    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Full details</a>.
+
+    <br/><br/>
+
+
     Take part in the first-ever national day when workers across Europe take on the challenge to
     sit less and move more whilst having a bit of fun
 
