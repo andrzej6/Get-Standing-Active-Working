@@ -65,10 +65,13 @@
 
 
     To celebrate <strong>On Your Feet Day</strong>,
-    <a href="https://sit-stand.com/" style="color:#ff3f72;font-weight:bold;text-decoration: underline">Sit-Stand.Com</a>
+    <a href="https://sit-stand.com/" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Sit-Stand.Com</a>
     are offering
-    <a href="https://sit-stand.com/on-your-feet-promotion" style="color:#ff3f72;font-weight:bold;text-decoration: underline">20% OFF</a> a variety of standing desk solutions.
-    <a href="https://sit-stand.com/on-your-feet-promotion" style="color:#ff3f72;font-weight:bold;text-decoration: underline">Full details</a>.
+    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">20% OFF</a> a variety of standing desk solutions.
+    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
+       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Full details</a>.
 
     <br/><br/>
 
