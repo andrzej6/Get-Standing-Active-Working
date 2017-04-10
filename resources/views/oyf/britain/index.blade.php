@@ -48,7 +48,8 @@
 
     Take part in our national day when workers across Britain unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
-    <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work.<br/><br/>
+    <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 28th April</span>.<br/><br/>
 
     <!--
     Already we have over <span class="oyf-newblue fbiggerhalf fbold">2,000 companies</span> signed up and expect
