@@ -31,8 +31,10 @@
     The <strong>Get Canada Standing</strong> campaign is partnering with the a major health charity to run
     a new event called <strong>On Your Feet Canada</strong> taking place in <strong>April 2017</strong>. <br/><br/>
 
-    Take part in the first-ever national day when workers across Canada take on the challenge to sit less
-    and move more whilst having a bit of fun and raising vital funds for charity.
+    Take part in our national day when workers across Canada unite together and participate in a
+    variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
+    <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 28th April</span>.
     <br/><br/><br/>
 
 
