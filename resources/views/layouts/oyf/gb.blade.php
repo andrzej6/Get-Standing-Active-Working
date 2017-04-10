@@ -25,15 +25,19 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
             <div id="banner1" class="OneByOne_container">
 
                 <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb1.jpg" alt="" class="go-to-onyourfeet-r">
+                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb1.jpg" alt="" class="go-to-onyourfeet-r go-to">
                 </div>
 
                 <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb2.jpg" alt="" class="go-to-onyourfeet-r">
+                    <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
                 </div>
 
                 <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb3.jpg" alt="" class="go-to-onyourfeet-r">
+                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb2.jpg" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
+
+                <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb3.jpg" alt="" class="go-to-onyourfeet-r go-to">
                 </div>
 
             </div>

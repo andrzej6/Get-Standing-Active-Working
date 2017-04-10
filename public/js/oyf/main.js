@@ -30,3 +30,7 @@ $(window).load(function(){
 $(".go-to-onyourfeet-r").click(function(event){
     window.open('http://onyourfeetday.com/signup','_blank');
 });
+
+$(".go-to-oyfoffer").click(function(event){
+    window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
+});
