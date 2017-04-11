@@ -37,7 +37,7 @@ class SummitSend2Emails extends Job implements ShouldQueue
         Mail::send('emails.aw.summit_reg', array(),function ($message) use ($tosend) {
             $message->from('registrations@activeworking.com', 'Active Working');
             $message->to($tosend->email);
-            $message->subject('Thank you for your ACTIVE WORKING SUMMIT registration');
+            $message->subject('ACTIVE WORKING SUMMIT 2018 - Thank you for your registration');
         });
 
 
