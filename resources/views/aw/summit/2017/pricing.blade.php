@@ -59,14 +59,14 @@
         </tr>
         <tr class="row1">
             <td style="text-align: left">Normal Price [ex VAT]</td>
-            <td>£335</td>
-            <td>£795 <sup>2</sup></td>
+            <td>£335.00</td>
+            <td>£795.00 <sup>2</sup></td>
         </tr>
 
         <tr class="row2">
             <td style="text-align: left">EARLY BIRD Price [ex VAT]</td>
-            <td>£234.5</td>
-            <td>£556.5 <sup>2</sup></td>
+            <td>£234.50</td>
+            <td>£556.50 <sup>2</sup></td>
         </tr>
 
     </table>
