@@ -32,7 +32,7 @@ $linked_sum = urlencode ("Active Working Summit 2018");
     <!-- <div class="center-bottom bookline"><a href="/summit">Book early for AWS 2017 to avoid disappointment</a></div> -->
 
 
-    <div class="center-bottom" style="width: 400px;">Active Working Summit 2018.
+    <div class="center-bottom" style="width: 400px;color:#ef4778">Active Working Summit 2018
     </div>
 
 </div>
