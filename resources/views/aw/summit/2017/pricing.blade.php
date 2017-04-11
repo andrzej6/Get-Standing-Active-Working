@@ -1,4 +1,4 @@
-@extends('layouts.aw.summit-2017')
+@extends('layouts.aw.summit-2018')
 
 @section('header-styles')
     @parent

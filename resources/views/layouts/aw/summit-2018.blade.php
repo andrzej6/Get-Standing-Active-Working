@@ -20,9 +20,7 @@ $sidemenu=array('photos'=>'Photos','introduction'=>'Introduction','programme'=>'
 @endsection
 
 @section('top-content')
-    <div class="center-sidemenu">
-        @yield('center-pics')
-    </div>
+    @include('shared.aw.summit.2018.topcontent')
 @endsection
 
 
