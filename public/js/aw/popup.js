@@ -162,7 +162,7 @@ $( document ).ready(function() {
         if ( valid )
           {
             //insert new email to database
-            $.post( url+"popup_reg", $( "#qreg-form" ).serialize()).done(function( data )
+            $.post( url+"/popup_reg", $( "#qreg-form" ).serialize()).done(function( data )
             {
                 if (data=="")
                   {
