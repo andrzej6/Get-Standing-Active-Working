@@ -27,6 +27,15 @@ $downloads = array(
 )),
 
 
+'5'=>array('header'=>'Emails for Workplace Champion', 'elem'=> array(
+        '1'=>array('label'=>'Email E1','title'=>' OYFB Introduction','name'=>'e1'),
+        '2'=>array('label'=>'Email E2','title'=>' OYFB Getting Ready','name'=>'e2'),
+        '3'=>array('label'=>'Email E3','title'=>' OYFB Event Launch Notification ','name'=>'e3'),
+       '4'=>array('label'=>'Email E4','title'=>' OYFB Thank you','name'=>'e4')
+)),
+
+
+
 );
 /* --}}
 
