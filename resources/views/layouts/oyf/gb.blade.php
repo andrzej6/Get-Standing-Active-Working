@@ -18,9 +18,9 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
     @include('shared.oyf.gb.partnersleft')
 
     @if($page == 'downloads')
-        <hr class="light">
+        <hr class="light" style="height:0;">
         @include('shared.oyf.gb.partnersleft')
-        <hr class="light">
+        <hr class="light" style="height:0;">
         @include('shared.oyf.gb.partnersleft')
     @endif
 
