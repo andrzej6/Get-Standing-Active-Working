@@ -16,6 +16,14 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
     @include('shared.oyf.gb.partnersleft')
     <hr class="light">
     @include('shared.oyf.gb.partnersleft')
+
+    @if($page == 'downloads')
+        <hr class="light">
+        @include('shared.oyf.gb.partnersleft')
+        <hr class="light">
+        @include('shared.oyf.gb.partnersleft')
+    @endif
+
 @endsection
 
 
