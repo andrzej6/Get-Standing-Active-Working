@@ -26,6 +26,13 @@ $downloads = array(
         '1'=>array('label'=>'Certificate D1','title'=>' OYFB Certificate','name'=>'d1')
 )),
 
+'5'=>array('header'=>'Emails for Workplace Champion', 'elem'=> array(
+        '1'=>array('label'=>'Email E1','title'=>' On Your Feet Introduction','name'=>'e1'),
+        '2'=>array('label'=>'Email E2','title'=>' On Your Feet Getting Ready','name'=>'e2'),
+        '3'=>array('label'=>'Email E3','title'=>' On Your Feet Event Launch Notification ','name'=>'e3'),
+       '4'=>array('label'=>'Email E4','title'=>' On Your Feet Thank you','name'=>'e4')
+)),
+
 
 );
 /* --}}
@@ -75,7 +82,7 @@ $downloads = array(
                     <div class="oyf-downloads-row">
 
                         <div class="oyf-downloads-pic">
-                            <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
+                            <a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.docx" target="_blank">
                                 <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
                             </a>
                         </div>
@@ -83,12 +90,12 @@ $downloads = array(
                         <div class="oyf-downloads-descrip">
                             <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.docx" target="_blank">
                                                         {{$value['label']}}
                                                     </a>
                                  	 	  		</span>
 
-                                <a href="{{ url('/') }}/pdfs/oyf/gb/{{$value['name']}}.docx" target="_blank">
+                                <a href="{{ url('/') }}/pdfs/oyf/us/{{$value['name']}}.docx" target="_blank">
                                     {{$value['title']}}
                                 </a>
                             </div>
