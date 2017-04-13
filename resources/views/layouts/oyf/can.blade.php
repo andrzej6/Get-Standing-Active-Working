@@ -26,8 +26,6 @@ $sidemenu=array('index'=>'Event','downloads'=>'Downloads');
         @include('shared.oyf.can.partnersleft')
         <hr class="light" style="height:0;">
         @include('shared.oyf.can.partnersleft')
-        <hr class="light" style="height:0;">
-        @include('shared.oyf.can.partnersleft')
     @endif
 @endsection
 
