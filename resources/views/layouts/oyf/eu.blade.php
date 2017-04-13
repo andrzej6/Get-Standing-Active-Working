@@ -35,7 +35,15 @@ $sidemenu=array('index'=>'Event','downloads'=>'Downloads');
                 </div>
 
                 <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
+                </div>
+
+                <div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/eu/slider/oyf-eu3.jpg" alt="" class="go-to-onyourfeet-r">
+                </div>
+
+                <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
                 </div>
 
             </div>
