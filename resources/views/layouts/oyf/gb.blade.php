@@ -45,7 +45,15 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
                 </div>
 
                 <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
+                </div>
+
+                <div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-gb3.jpg" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
+
+                <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
                 </div>
 
             </div>
