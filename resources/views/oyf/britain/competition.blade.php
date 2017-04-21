@@ -30,7 +30,7 @@
 
 
     To celebrate <strong>On Your Feet Day</strong>, our official sponsor
-    <a href="https://sit-stand.com/" style="color:#EA1E30;font-weight: bold" target="_blank">Sit-Stand.Com</a> is kindly
+    <a href="https://sit-stand.com/" style="color:#EA1E30;font-weight: bold;text-decoration:underline" target="_blank">Sit-Stand.Com</a> is kindly
     offering the 5 free Yo-YoDesks®  as prizes for the best "Get up offa that thing" PHOTOS of you and your co-workers!
     What will you do?<br/><br/>
 
@@ -38,7 +38,7 @@
     <span style="color:#EA1E30;font-weight: bold">Twitter</span> using the
     <span style="color:#57b8d9;font-weight: bold">#OYF17</span> or
     <span style="color:#57b8d9;font-weight: bold">#OnYourFeetBritain</span> and
-    <a href="https://twitter.com/getGBstanding?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="color:#1136d3;font-weight: bold" target="_blank">@getGBstanding</a>
+    <a href="https://twitter.com/getGBstanding?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">@getGBstanding</a>
 
 
     <br/><br/><br/>
@@ -47,28 +47,28 @@
     <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html"><img src="https://sit-stand.com/1382-atmn_small/yo-yo-desk-mini.jpg"></a>
     <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html"><img src="https://sit-stand.com/1384-atmn_small/yo-yo-desk-mini.jpg"></a>
     <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html"><img src="https://sit-stand.com/1394-atmn_small/yo-yo-desk-mini.jpg"></a>
-    <br/>
+    <br/><br/>
 
-    <div style="display: inline-block;width:200px">Best Group:</div>
-    <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold" target="_blank">
-    3 x Yo-YoDesk MINI </a>(BLACK)<br/>
+    <div style="display: inline-block;width:100px">Best Group:</div>
+    3 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">
+     Yo-YoDesk MINI </a>(BLACK)<br/>
 
-    <div style="display: inline-block;width:200px">Best Female:</div>
-    <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold" target="_blank">
-        1 x Yo-YoDesk MINI </a>(BLACK)<br/>
+    <div style="display: inline-block;width:100px">Best Female:</div>
+    1 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold; text-decoration:underline" target="_blank">
+         Yo-YoDesk MINI </a>(BLACK)<br/>
 
-    <div style="display: inline-block;width:200px">Best Male:</div>
-    <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold" target="_blank">
-        1 x Yo-YoDesk MINI </a>(BLACK)<br/><br/>
+    <div style="display: inline-block;width:100px">Best Male:</div>
+    1 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold; text-decoration:underline" target="_blank">
+         Yo-YoDesk MINI </a>(BLACK)<br/><br/>
 
 
     <strong>What will you do?</strong> We hope to see lots of variety of fun and simple activities to
-    <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 28th April.
+    <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 28th April.<br/><br/>
 
 
     <span style="color:#57b8d9;font-weight: bold">Terms and Conditions:</span>
 
-    <ul>
+    <ol>
     <li>Prizes will be awarded for the BEST images posted on Social Media with
         #OYF17 #OnYourFeetBritain @getGBstanding. There are three prize draw categories: 1) Best Group,
         2) Best Male and 3) Best Female</li>
@@ -87,7 +87,7 @@
     <li>Active Working and Get Britain Standing’s decision is final and binding and no
         correspondence shall be entered into.</li>
 
-    </ul>
+    </ol>
 
 
 
