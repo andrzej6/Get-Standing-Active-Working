@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads');
+$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','competition'=>'Competition');
 /* --}}
 
 @extends('layouts.oyf')
