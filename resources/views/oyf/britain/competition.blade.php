@@ -29,6 +29,7 @@
     <h1 class="oyf-newpink">Photo Competition | Win a free Yo-YoDesk®</h1>
 
 
+    <br/>
     To celebrate <strong>On Your Feet Day</strong>, our official sponsor
     <a href="https://sit-stand.com/" style="color:#EA1E30;font-weight: bold;text-decoration:underline" target="_blank">Sit-Stand.Com</a> is kindly
     offering the 5 free Yo-YoDesks®  as prizes for the best "Get up offa that thing" PHOTOS of you and your co-workers!
