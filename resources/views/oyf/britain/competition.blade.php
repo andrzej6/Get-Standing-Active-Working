@@ -63,12 +63,12 @@
 
 
     <strong>What will you do?</strong> We hope to see lots of variety of fun and simple activities to
-    <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 28th April.<br/><br/>
+    <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 28th April.<br/><br/><br/>
 
 
-    <span style="color:#57b8d9;font-weight: bold;font-size: 16px">Terms and Conditions:</span>
+    <span style="color:#57b8d9;font-weight: bold;font-size: 16px;">Terms and Conditions:</span>
 
-    <ol style="margin-top:20px">
+    <ol style="margin-top:20px!important">
     <li>Prizes will be awarded for the BEST images posted on Social Media with
         #OYF17 #OnYourFeetBritain @getGBstanding. There are three prize draw categories: 1) Best Group,
         2) Best Male and 3) Best Female</li>
