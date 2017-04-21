@@ -42,7 +42,7 @@
 
 
     <br/><br/><br/>
-    <span style="color:#57b8d9;font-weight: bold">Prizes for best photos:</span>
+    <span style="color:#57b8d9;font-weight: bold;font-size: 16px">Prizes for best photos:</span>
     <br/><br/>
     <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html"><img src="https://sit-stand.com/1382-atmn_small/yo-yo-desk-mini.jpg"></a>
     <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html"><img src="https://sit-stand.com/1384-atmn_small/yo-yo-desk-mini.jpg"></a>
@@ -66,9 +66,9 @@
     <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 28th April.<br/><br/>
 
 
-    <span style="color:#57b8d9;font-weight: bold">Terms and Conditions:</span>
+    <span style="color:#57b8d9;font-weight: bold;font-size: 16px">Terms and Conditions:</span>
 
-    <ol>
+    <ol style="margin-top:20px">
     <li>Prizes will be awarded for the BEST images posted on Social Media with
         #OYF17 #OnYourFeetBritain @getGBstanding. There are three prize draw categories: 1) Best Group,
         2) Best Male and 3) Best Female</li>
@@ -89,21 +89,5 @@
 
     </ol>
 
-
-
-
-
-
-@endsection
-
-
-
-@section('footer-scripts')
-    @parent
-    <script type="text/javascript">
-        var s="=b!isfg>#nbjmup;jogpAbdujwfxpsljoh/dpn#?jogpAbdujwfxpsljoh/dpn=0b?";
-        m=""; for (i=0; i<s.length; i++) m+=String.fromCharCode(s.charCodeAt(i)-1);
-        document.getElementById('email_hidden').innerHTML=m;
-    </script>
 @endsection
 
