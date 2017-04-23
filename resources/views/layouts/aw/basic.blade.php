@@ -17,7 +17,7 @@
 
 
 @section('mainlogo')
-    <a href="{{ url('/') }}" class="logo"><img src="{{ url('/') }}/img/aw/logos/main.png" alt=""  width="122" height="43" class="logo_def"></a>
+    <a href="{{ url('/') }}" class="logo"><img src="{{ url('/') }}/img/aw/logos/main.png" alt=""  class="logo_def"></a>
 @endsection
 
 
