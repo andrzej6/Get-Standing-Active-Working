@@ -47,7 +47,7 @@
 
 
                             <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-competition.jpg" alt="" class="go-to go-to-competition">
                             </div>
 
                             <div class="oneByOne_item ls_bg8">
@@ -520,6 +520,10 @@
 
         $(".go-to-oyfoffer").click(function(event){
             window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
+        });
+
+        $(".go-to-competition").click(function(event){
+            window.open('http://onyourfeetday.com/britain/competition','_blank');
         });
 
 
