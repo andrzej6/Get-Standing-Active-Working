@@ -14,6 +14,9 @@
     <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+    <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
     <div style="clear:both"></div>
 
 
