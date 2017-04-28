@@ -10,6 +10,10 @@
         <img src="{{ url('/') }}/img/general/emails/supporters/workrite.jpg" width="150"/></a>
     &nbsp;&nbsp;&nbsp;
 
+    <a href="http://www.fellowes.com/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>
+    &nbsp;&nbsp;&nbsp;
+
     <a href="http://imprintmats.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/imprint.jpg" width="150"/></a>
     &nbsp;&nbsp;&nbsp;
