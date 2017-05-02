@@ -394,6 +394,19 @@ a.darken:hover img {
 }
 
 
+
+@media only screen and (min-width: 760px) and (max-width: 959px) {
+    
+    #gbs-slideshow {
+        margin-bottom:100px;
+    }
+}
+
+
+
+
+
+
 @media only screen and (max-width: 959px) {
     #international {
         display:none;
