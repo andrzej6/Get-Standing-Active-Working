@@ -16,13 +16,13 @@
 @endsection
 
 @section('title')
-    Registration form. On Your Feet Event
+    Registration form. On Your Feet World
 @endsection
 
 
 @section('aw-maincontent')
 
-            <h1>2017 Registration Form</h1>
+            <h1>2018 Registration Form</h1>
             <br/>
 
             @if (count($errors) > 0)

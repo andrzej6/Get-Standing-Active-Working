@@ -164,7 +164,7 @@ $( document ).ready(function() {
             {
                 if (data=="")
                   {
-                    $(".qreg-cont").html('<div class="qreg-m"><br/>Thank you for signing up. <br/>You will receive an email shortly.</div>');
+                    $(".qreg-cont").html('<div class="qreg-m"><br/>Thank you for signing up. <br/>You will receive an email shortly!!</div>');
                     $.cookie('quick-register', 1, { expires: 90, path: '/'});
                     $('.blue-butt').remove();
                     $('.ui-dialog').css({ "height": "157px"});

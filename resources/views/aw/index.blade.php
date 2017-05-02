@@ -50,13 +50,21 @@
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-competition.jpg" alt="" class="go-to go-to-competition">
                             </div>
 
-                            <div class="oneByOne_item ls_bg8">
-                                <img src="{{ url('/') }}/img/getstanding/gb/solution-page/slider/oyfoffer.jpg" alt="slide" class="go-to go-to-oyfoffer">
-                            </div>
+
 
 
 
                             <!--
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg8">
+                                <img src="{{ url('/') }}/img/getstanding/gb/solution-page/slider/oyfoffer.jpg" alt="slide" class="go-to go-to-oyfoffer">
+                            </div>
+
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/wellbeeing.jpg" alt="" class="go-to go-to-wellbeeing">
                             </div>
@@ -78,9 +86,7 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
                             </div>
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
-                            </div>
+
 
 
 
@@ -92,9 +98,7 @@
 
 
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
-                            </div>
+
 
 
 
