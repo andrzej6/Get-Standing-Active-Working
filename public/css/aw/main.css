@@ -361,7 +361,7 @@ a.darken:hover img {
         margin-left:0;
     }
 
-    .restofsmall a {
+    .restofsmall a, .restofsmall-wheel a {
         display:none;
     }
 
