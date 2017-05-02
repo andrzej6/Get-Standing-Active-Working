@@ -286,7 +286,7 @@ button.submit#yellsub:hover {
 
 
 
-@media only screen and (min-width: 860px) {
+@media only screen and (min-width: 1200px) {
     #nudge-left, #nudge-right {
         width:25%;
         display:inline-block;
@@ -296,7 +296,7 @@ button.submit#yellsub:hover {
 
 }
 
-@media only screen and (max-width: 859px) {
+@media only screen and (max-width: 1199px) {
     #nudge-left, #nudge-right {
         display:none;
     }
