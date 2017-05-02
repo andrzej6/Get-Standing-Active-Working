@@ -65,6 +65,7 @@
      -->
 
 
+    <!--
     To celebrate <strong>On Your Feet Day</strong>,
     <a href="https://sit-stand.com/" target="_blank"
        style="color:#ff3f72;font-weight:bold;text-decoration: underline">Sit-Stand.Com</a>
@@ -75,6 +76,7 @@
        style="color:#ff3f72;font-weight:bold;text-decoration: underline">Full details</a>.
 
     <br/><br/>
+    -->
 
 
 
@@ -95,7 +97,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 28th April 2017</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 27th April 2018</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 
@@ -131,7 +133,7 @@
     <div class="oyf-newblue fbigger fbold">What can I do now?</div><br/>
     <ul>
         <li><a href="{{ url('/') }}/signup" class="link-line oyf-newblue">[Register now]</a> and enter your details</li>
-        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2017.</li>
+        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2018.</li>
 
 
         <li>If you any other questions about getting involved please contact:
