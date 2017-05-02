@@ -31,26 +31,16 @@
 
 
     The <strong>Get Ireland Standing</strong> campaign is organizing a new event called
-    <strong>On Your Feet Ireland</strong> taking place in <strong>April 2017</strong>. <br/><br/>
+    <strong>On Your Feet Ireland</strong> taking place in <strong>April 2018</strong>. <br/><br/>
 
 
 
-    To celebrate <strong>On Your Feet Day</strong>,
-    <a href="https://sit-stand.com/" target="_blank"
-       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Sit-Stand.Com</a>
-    are offering
-    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
-       style="color:#ff3f72;font-weight:bold;text-decoration: underline">20% OFF</a> a variety of standing desk solutions.
-    <a href="https://sit-stand.com/on-your-feet-promotion" target="_blank"
-       style="color:#ff3f72;font-weight:bold;text-decoration: underline">Full details</a>.
-
-    <br/><br/>
 
 
     Take part in our national day when workers across Ireland unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
     <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
-    <span class="oyf-newpink fbiggerhalf fbold">Friday 28th April</span>.
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 27th April</span>.
     <br/><br/><br/>
 
 
@@ -70,7 +60,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 28th April 2017</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 27th April 2018</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 
