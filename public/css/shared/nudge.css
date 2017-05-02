@@ -296,6 +296,12 @@ button.submit#yellsub:hover {
 
 }
 
+@media only screen and (max-width: 859px) {
+    #nudge-left, #nudge-right {
+        display:none;
+    }
+}
+
 
 
 
