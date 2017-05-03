@@ -331,6 +331,10 @@
         width: 20%;
     }
 
+
+
+
+
 }
 
 
@@ -390,10 +394,38 @@
     #over1-more {
         width:100%;
     }
+}
 
 
 
+/*latest summit smaller screen customs*/
+@media only screen and (min-width: 980px) and (max-width: 1189px) {
 
+    .aw-restofsmall {
+        width:140px;
+    }
 
+    .aw-smallwidth {
+        #width:82%;
+    }
+
+    .slider-sidemenu {
+        width:67%;
+    }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
