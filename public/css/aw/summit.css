@@ -423,6 +423,21 @@
     #aw-navig, .aw-partnersleft {
         display:none;
     }
+
+    .slider-sidemenu {
+        margin:0;
+        padding:0;
+    }
+
+    .aw-smallwidth {
+        width:70%;
+    }
+
+    .slider-sidemenu {
+        width:100%;
+    }
+
+
 }
 
 
