@@ -352,15 +352,7 @@
     }
 
 
-    /* button instead of sidemenu */
-    .aw-button-cont {
-        display:block;
-    }
 
-    .aw-button-cont a {
-        text-decoration:none;
-        color:#336699;
-    }
 
 
 
@@ -413,6 +405,24 @@
         width:67%;
     }
 
+}
+
+
+
+@media only screen and (max-width: 979px) {
+    /* button instead of sidemenu */
+    .aw-button-cont {
+        display:block;
+    }
+
+    .aw-button-cont a {
+        text-decoration:none;
+        color:#336699;
+    }
+
+    #aw-navig {
+        display:none;
+    }
 }
 
 
