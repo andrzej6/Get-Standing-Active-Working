@@ -340,56 +340,6 @@
 
 
 
-
-
-@media only screen and (max-width: 759px) {
-    .aw-restofsmall, .aw-partnersleft{
-        display:none;
-    }
-
-    .aw-smallwidth {
-        width:100%;
-    }
-
-
-
-
-
-
-    /* speakers page */
-    .speakers-left, .collab-left {
-        width:50%;
-    }
-
-    .speakers-title {
-        width:40%;
-        padding:0px;
-    }
-
-    .speakers-right, .collab-right{
-        width:100%;
-        padding:0px;
-    }
-
-
-    .speakers-right .shortcode_button.btn_type6, .collab-right .shortcode_button.btn_type6 {
-        width:87%;
-        text-align:center;
-        margin:5px 0px;
-    }
-
-    #bio1-more, #bio2-more, #bio3-more, #bio4-more,
-    #bio5-more, #bio6-more, #bio7-more, #bio8-more,
-    #bio9-more, #bio10-more, #bio11-more, #bio12-more,
-    #bio13-more, #bio14-more, #bio15-more, #bio16-more,
-    #bio17-more, #bio18-more, #bio19-more, #bio20-more, #bio23-more, #bio24-more, #bio25-more,
-    #over1-more {
-        width:100%;
-    }
-}
-
-
-
 /*latest summit smaller screen customs*/
 @media only screen and (min-width: 980px) and (max-width: 1199px) {
 
@@ -441,15 +391,51 @@
 }
 
 
+@media only screen and (max-width: 759px) {
+    .aw-restofsmall, .aw-partnersleft{
+        display:none;
+    }
+
+    .aw-smallwidth {
+        width:100%;
+    }
 
 
 
 
 
 
+    /* speakers page */
+    .speakers-left, .collab-left {
+        width:50%;
+    }
+
+    .speakers-title {
+        width:40%;
+        padding:0px;
+    }
+
+    .speakers-right, .collab-right{
+        width:100%;
+        padding:0px;
+    }
 
 
+    .speakers-right .shortcode_button.btn_type6, .collab-right .shortcode_button.btn_type6 {
+        width:87%;
+        text-align:center;
+        margin:5px 0px;
+    }
 
+    #bio1-more, #bio2-more, #bio3-more, #bio4-more,
+    #bio5-more, #bio6-more, #bio7-more, #bio8-more,
+    #bio9-more, #bio10-more, #bio11-more, #bio12-more,
+    #bio13-more, #bio14-more, #bio15-more, #bio16-more,
+    #bio17-more, #bio18-more, #bio19-more, #bio20-more, #bio23-more, #bio24-more, #bio25-more,
+    #over1-more {
+        width:100%;
+    }
+}
 
 
 
