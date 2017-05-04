@@ -79,7 +79,7 @@
                                             <img src="{{ url('/') }}/img/general/toggle-button.png"/> &nbsp; <strong>MENU</strong>
                                         </a>
                                     </div>
-                                    
+
 
 
                                     <div id="main-sidemenu">

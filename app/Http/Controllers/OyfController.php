@@ -21,7 +21,8 @@ class OyfController extends Controller
     {
 
         if ($country == 'signup') {
-            return view('oyf.signup', compact('country'));
+            View::share('country',$country);
+            return view('oyf.signup');
         } else
         {
             if (!view()->exists('oyf.' . $country . '.' . $page)) {
