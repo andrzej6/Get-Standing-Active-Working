@@ -131,7 +131,7 @@
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
 
-   
+
 
 
     <!--
