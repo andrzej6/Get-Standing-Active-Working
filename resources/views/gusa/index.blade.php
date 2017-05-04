@@ -44,9 +44,11 @@
                 <div class="module_content slider_type1">
                     <div id="banner1" class="OneByOne_container">
 
+                        <!--
                         <div class="oneByOne_item ls_bg1">
                             <img src="img/getstanding/usa/slider/big/slider1.jpg" alt="" class="go-to go-to-oyf">
                         </div>
+                        -->
 
                         <div class="oneByOne_item ls_bg1">
                             <img src="img/getstanding/usa/slider/big/slider2.jpg" alt="">
