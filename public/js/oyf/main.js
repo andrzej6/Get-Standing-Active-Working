@@ -4,6 +4,12 @@ $(window).bind('scroll', function() {
 
 $(window).load(function(){
 
+    $("#aw-menub").click(function(event){
+        event.preventDefault();
+        $( "#aw-navig" ).slideToggle( "slow" );
+        return false;
+    });
+
     $('#banner1').oneByOne({
         className: 'oneByOne1',
         easeType: 'random',
