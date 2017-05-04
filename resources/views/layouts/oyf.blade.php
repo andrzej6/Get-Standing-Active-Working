@@ -71,11 +71,15 @@
                                 <div class="row-fluid content_text">
 
 
+
+
+                                    @if ($country != 'signup')
                                     <div class="aw-button-cont">
                                         <a class="aw-menu-button" id="aw-menub" href="">
                                             <img src="{{ url('/') }}/img/general/toggle-button.png"/> &nbsp; <strong>MENU</strong>
                                         </a>
                                     </div>
+                                    @endif
 
 
                                     <div id="main-sidemenu">
