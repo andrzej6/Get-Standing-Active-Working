@@ -10,7 +10,7 @@ use Log;
 use App\Oyf_reg;
 
 use App\Jobs\OyfSend2Emails;
-use Illuminate\Support\Facades\View;
+use Illuminate\Contracts\View\View;
 
 
 class OyfController extends Controller
