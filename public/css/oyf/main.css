@@ -238,6 +238,7 @@ header .header_wrapper {
     .slider-sidemenu {
         width:100%;
         margin:0;
+        padding:0;
     }
 
     #main-sidemenu {
@@ -254,8 +255,10 @@ header .header_wrapper {
         height: 240px!important;
     }
 
-
-
+    .aw-smallwidth {
+        width:100%;
+    }
+    
 
 }
 
