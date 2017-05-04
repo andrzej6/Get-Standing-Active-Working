@@ -20,9 +20,9 @@ class OyfController extends Controller
 
     public function index($country='britain', $page='index')
     {
+        View::share('country',$country);
 
         if ($country == 'signup') {
-            View::share('country',$country);
             return view('oyf.signup');
         } else
         {
