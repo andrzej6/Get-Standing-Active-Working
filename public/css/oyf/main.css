@@ -184,6 +184,14 @@ header .header_wrapper {
 }
 
 
+@media only screen and (max-width: 1000px) {
+
+    .aw-restofsmall {
+        display:none;
+    }
+}
+
+
 
 @media only screen and (min-width: 770px) and (max-width: 979px) {
 

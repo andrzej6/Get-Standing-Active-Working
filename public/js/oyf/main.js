@@ -24,7 +24,7 @@ $(window).load(function(){
     $('#oyf-follow').css( "right",z);
 
    // if (w<1170)  $('#oyf-follow').css( "display","none");
-    if (w<1070)  $('#oyf-follow').css( "display","none");
+    if (w<1000)  $('#oyf-follow').css( "display","none");
 
 });
 
