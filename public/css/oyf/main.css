@@ -171,7 +171,7 @@ header .header_wrapper {
 
 
 /*latest summit smaller screen customs*/
-@media only screen and (min-width: 980px) and (max-width: 1199px) {
+@media only screen and (min-width: 980px) and (max-width: 1230px) {
 
     .aw-restofsmall {
         width:140px;
