@@ -231,7 +231,7 @@ header .header_wrapper {
     }
 
 
-    .left-sidemenu {
+    .left-sidemenu-list, .aw-partnersleft {
         display:none;
     }
 

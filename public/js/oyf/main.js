@@ -14,7 +14,7 @@ $( document ).ready(function() {
 
 
 $(window).load(function(){
-    
+
     $('#banner1').oneByOne({
         className: 'oneByOne1',
         easeType: 'random',
