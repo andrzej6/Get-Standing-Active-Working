@@ -23,7 +23,7 @@
 @section('aw-maincontent')
 
             <h1>2018 Registration Form</h1>
-            {{  $country }}
+
             <br/>
 
             @if (count($errors) > 0)
