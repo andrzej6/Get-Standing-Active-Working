@@ -2,14 +2,19 @@ $(window).bind('scroll', function() {
         $('#oyf-follow').css( "position","fixed");
 });
 
-$(window).load(function(){
+
+$( document ).ready(function() {
 
     $("#aw-menub").click(function(event){
         event.preventDefault();
         $( "#aw-navig" ).slideToggle( "slow" );
         return false;
     });
+});
 
+
+$(window).load(function(){
+    
     $('#banner1').oneByOne({
         className: 'oneByOne1',
         easeType: 'random',
