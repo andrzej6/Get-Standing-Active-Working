@@ -774,7 +774,7 @@
     </a>
 
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
-        <img src="img/getstanding/can/ads/oyf/oyf1.jpg" alt="oyf"/>
+        <img src="img/getstanding/can/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
 
 
