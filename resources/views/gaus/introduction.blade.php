@@ -95,7 +95,7 @@
     <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/>
 
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
-        <img src="img/getstanding/aus/ads/oyf/oyf4.jpg" alt="oyf"/>
+        <img src="img/getstanding/aus/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
 
 

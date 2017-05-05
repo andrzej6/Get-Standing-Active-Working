@@ -815,7 +815,7 @@
     <img src="img/getstanding/aus/ads/message/standing.png" class="restofsmall-pic" alt="standing at work"/>
 
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
-        <img src="img/getstanding/aus/ads/oyf/oyf3.jpg" alt="oyf"/>
+        <img src="img/getstanding/aus/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
 
     <a href="crowd-funding" class="darken">
