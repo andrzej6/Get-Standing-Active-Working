@@ -235,7 +235,7 @@
                     -->
 
                     <a href="http://onyourfeetday.com/" target="_blank">
-                        <img src="{{ url('/') }}/img/aw/onyourfeet-index1.jpg">
+                        <img src="{{ url('/') }}/img/aw/onyourfeet-index2.jpg">
                     </a>
 
 
