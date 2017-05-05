@@ -47,14 +47,70 @@
 
 
                             <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-competition.jpg" alt="" class="go-to go-to-competition">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-thankyou.jpg" alt="oyf" class="go-to go-to-onyourfeet">
+                            </div>
+
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/survey-home1.jpg" alt="oyf" class="go-to go-to-survey">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider4.png" alt="weight loss" class="go-to go-to-statement">
+                            </div>
+
+
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/survey-home2.jpg" alt="oyf" class="go-to go-to-survey">
+                            </div>
+
+
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/slider1.jpg" alt="" class="go-to go-to-nudge">
+                            </div>
+
+
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/slider6.jpg" alt="" class="go-to go-to-who">
                             </div>
 
 
 
 
 
+
+
+
+
+
                             <!--
+
+                              <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
+                            </div>
+
+
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-competition.jpg" alt="" class="go-to go-to-competition">
+                            </div>
 
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/slider2.jpg" alt="" class="go-to go-to-onyourfeet">
@@ -77,23 +133,10 @@
                             -->
 
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
-                            </div>
-
-
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider3.png" alt="" class="go-to go-to-statement">
-                            </div>
 
 
 
 
-
-
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider1.jpg" alt="" class="go-to go-to-nudge">
-                            </div>
 
 
 
@@ -133,9 +176,7 @@
 
 
 
-                            <div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/aw/slider/big/slider6.jpg" alt="" class="go-to go-to-who">
-                            </div>
+
 
 
                         </div>
@@ -542,6 +583,10 @@
 
         $(".go-to-competition").click(function(event){
             window.open('http://onyourfeetday.com/britain/competition','_blank');
+        });
+
+        $(".go-to-survey").click(function(event){
+            window.open('http://activeworking.com/pdfs/survey_results.pdf','_blank');
         });
 
 
