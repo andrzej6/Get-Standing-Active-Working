@@ -48,9 +48,11 @@
                     </div>
 
 
+                    <!--
                     <div class="oneByOne_item ls_bg1">
                         <img src="img/getstanding/usa/slider/big/slider1.jpg" alt="oyf" class="go-to go-to-onyourfeet">
                     </div>
+                    -->
 
                     <div class="oneByOne_item ls_bg8">
                         <img src="img/getstanding/usa/slider/big/ergotron.jpg" alt="slide" class="go-to go-to-ergotron">

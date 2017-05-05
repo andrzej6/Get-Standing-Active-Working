@@ -770,7 +770,7 @@
     <img src="img/getstanding/usa/ads/message/whenyousit.png" class="restofsmall-pic" alt="advert"/>
 
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
-        <img src="img/getstanding/usa/ads/oyf/oyf2.jpg" alt="oyf"/>
+        <img src="img/getstanding/usa/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
 
     <a href="http://www.fellowes.com/sitstands" target="_blank">
