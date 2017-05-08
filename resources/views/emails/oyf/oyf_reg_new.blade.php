@@ -16,6 +16,9 @@
     <br/><br/>
 
 
+
+        All posters and communication materials will be available for download early in 2018.</span>
+    <br/><br/>
     <!--
     All posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF17"</span>.</span>
