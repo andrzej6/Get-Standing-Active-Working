@@ -27,6 +27,19 @@
 
                 <div id="banner1" class="OneByOne_container">
 
+
+                    <div class="oneByOne_item ls_bg1">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/subpage/survey-sub1.jpg" alt="survey" class="go-to go-to-survey">
+                    </div>
+
+
+                    <div class="oneByOne_item ls_bg1">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/subpage/survey-sub2.jpg" alt="survey" class="go-to go-to-survey">
+                    </div>
+
+                    <!--
+
+
                     <div class="oneByOne_item ls_bg2">
                         <img src="{{ url('/') }}/img/aw/slider/subpage/accreditation1.jpg" alt="recommend" class="aw-wheel goto">
                     </div>
@@ -34,6 +47,7 @@
                     <div class="oneByOne_item ls_bg2">
                         <img src="{{ url('/') }}/img/aw/slider/subpage/accreditation2.jpg" alt="recommend" class="aw-wheel goto">
                     </div>
+                    -->
 
 
                 </div>
