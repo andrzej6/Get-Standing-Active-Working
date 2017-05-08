@@ -67,6 +67,10 @@
 
 
 
+    <a href="http://activeworking.com/pdfs/survey_results.pdf" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/message/survey-ad5.jpg" alt="oyf"/>
+    </a>
+
     <img src="{{ url('/') }}/img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>
 
     <!--
@@ -76,9 +80,10 @@
         <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
-    -->
+
 
     <img src="{{ url('/') }}/img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="who"/>
+    -->
 
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>

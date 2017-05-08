@@ -64,6 +64,11 @@
 
 
 @section('content-restofsmall')
+
+    <a href="http://activeworking.com/pdfs/survey_results.pdf" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/message/survey-ad6.jpg" alt="oyf"/>
+    </a>
+
     <img src="{{ url('/') }}/img/aw/ads/message/productivity.png" class="restofsmall-pic" alt=""/>
 
     <!--

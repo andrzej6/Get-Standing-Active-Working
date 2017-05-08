@@ -82,6 +82,11 @@
 
 
 @section('content-restofsmall')
+    <a href="http://activeworking.com/pdfs/survey_results.pdf" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/message/survey-ad4.jpg" alt="oyf"/>
+    </a>
+
+
     <img src="{{ url('/') }}/img/aw/ads/message/standing_great.jpg" class="restofsmall-pic" alt="feel after"/>
 
     <!--
@@ -94,11 +99,12 @@
         <img src="{{ url('/') }}/img/aw/ads/summit/awsummit17.jpg" alt="oyf"/>
     </a>
 
-    -->
+
 
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
+    -->
 
 
 

@@ -516,6 +516,10 @@
 
 @section('content-restofsmall')
 
+    <a href="http://activeworking.com/pdfs/survey_results.pdf" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/message/survey-ad3.jpg" alt="oyf"/>
+    </a>
+
     <a href="{{ url('/') }}/nudge_trial" class="darken" target="_blank">
         <img src="{{ url('/') }}/img/general/nudge/ads/nudge1.jpg"  alt="feel after"/>
     </a>
