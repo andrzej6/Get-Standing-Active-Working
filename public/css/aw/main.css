@@ -76,7 +76,9 @@ h1, h2, h3, h4, h5, h6, a:hover, .gbs-expert, .gbs-expert a,
 }
 
 
-
+.go-to {
+    cursor: pointer;
+}
 
 
 
