@@ -104,14 +104,7 @@
         </video>
         </div>
 
-        <div style="float:left;margin-left: 20px;">
-            <div style="text-align:center;padding:5px">Winner with Prize</div>
-            <video width="300" height="200" controls>
-                <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
-                <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
-                Your browser does not support the video tag.
-            </video>
-        </div>
+        
     </div>
 
     <div style="clear:both"></div>
