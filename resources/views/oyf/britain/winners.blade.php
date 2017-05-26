@@ -27,8 +27,8 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue" style="font-size: 1.8em">Active workers making sure #SitLess #MoveMore message goes beyond
-        On Your Feet Day.</span><br/><br/>
+    <span class="oyf-newblue" style="font-size: 1.8em">Active Workers Making Sure #SitLess #MoveMore Message Goes
+        Beyond On Your Feet Day.</span><br/><br/>
 
 
     <span class="oyf-newpink"><strong>On Your Feet Day (OYF)</strong> is now a standing fixture (sorry!) on the workplace
@@ -47,7 +47,7 @@
     <br/><br/><br/>
 
 
-    <div class="oyf-newblue fbigger fbold">BEST GROUPS:  Hitachi Europe | Paths for All | Firefighters Charity</div>
+    <div class="oyf-newblue fbigger fbold">BEST GROUPS:  Hitachi Europe | Firefighters Charity | Paths for All </div>
     <br/>
 
     <div style="min-height: 1px;">
@@ -61,6 +61,18 @@
     </video>
             </div>
 
+
+
+        <br/><br/>
+
+        <div style="float:left">
+            <video width="300" height="200" controls>
+                <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/mp4">
+                <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
         <div style="float:left;margin-left: 20px;">
     <video width="300" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/paths-for-all.MP4" type="video/mp4">
@@ -69,15 +81,7 @@
     </video>
             </div>
 
-        <br/><br/>
 
-        <div style="float:left">
-    <video width="300" height="200" controls>
-        <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/mp4">
-        <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/ogg">
-        Your browser does not support the video tag.
-    </video>
-        </div>
         </div>
     <div style="clear:both"></div>
 
