@@ -59,7 +59,7 @@
 
     <br/><br/>
     <div>
-
+        &nbsp;
         <div style="float:left">
         <div style="text-align:center">Winning Entry</div>
         <video width="400" height="300" controls>
@@ -109,6 +109,7 @@
 
 
     <div>
+        &nbsp;
 
         <div style="float:left">
             <div style="text-align:center">Winning Entry</div>
