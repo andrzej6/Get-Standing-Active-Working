@@ -61,7 +61,7 @@
     <div style="min-height: 1px;">
         &nbsp;
         <div style="float:left">
-        <div style="text-align:center">Winning Entry</div>
+        <div style="text-align:center;padding:5px">Winning Entry</div>
         <video width="300" height="200" controls>
             <source src="{{ url('/') }}/img/video/oyf/ITECskills.MP4" type="video/mp4">
             <source src="{{ url('/') }}/img/video/oyf/ITECskills.MP4" type="video/ogg">
@@ -69,8 +69,8 @@
         </video>
         </div>
 
-        <div style="float:left">
-            <div style="text-align:center">Winner with Prize</div>
+        <div style="float:left;margin-left: 20px;">
+            <div style="text-align:center;padding:5px">Winner with Prize</div>
             <video width="300" height="200" controls>
                 <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
                 <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
@@ -111,7 +111,7 @@
         &nbsp;
 
         <div style="float:left">
-            <div style="text-align:center">Winning Entry</div>
+            <div style="text-align:center;padding:5px">Winning Entry</div>
             <video width="300" height="200" controls>
                 <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
                 <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
@@ -119,9 +119,9 @@
             </video>
         </div>
 
-        <div style="float:left">
-            <div style="text-align:center">Winner with Prize</div>
-           <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="300">
+        <div style="float:left;margin-left:20px">
+            <div style="text-align:center;padding:5px">Winner with Prize</div>
+           <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="150">
         </div>
     </div>
 
