@@ -80,8 +80,8 @@
 
     <br/><br/>
     <video width="345" height="300" controls>
-        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
-        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
+        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.mp4" type="video/mp4">
+        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.mp4" type="video/ogg">
         Your browser does not support the video tag.
     </video>
 
