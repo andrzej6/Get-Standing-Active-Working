@@ -45,7 +45,7 @@
 
 
     <br/><br/>
-    <video width="400" height="300" controls>
+    <video width="345" height="300" controls>
         <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/ogg">
         Your browser does not support the video tag.
