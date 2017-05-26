@@ -79,6 +79,8 @@
         </div>
     </div>
 
+    <div style="clear:both"></div>
+
     <br/><br/>
 
     <div style="font-style: italic">
