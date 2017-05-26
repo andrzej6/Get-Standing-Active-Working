@@ -50,23 +50,33 @@
     <div class="oyf-newblue fbigger fbold">BEST GROUPS:  Hitachi Europe | Paths for All | Firefighters Charity</div>
     <br/><br/>
 
+    <div style="min-height: 1px;">
+        &nbsp;
+
+        <div style="float:left">
     <video width="300" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/hitachi.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/hitachi.MP4" type="video/ogg">
         Your browser does not support the video tag.
     </video>
+            </div>
 
+        <div style="float:left">
     <video width="300" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/paths-for-all.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/paths-for-all.MP4" type="video/ogg">
         Your browser does not support the video tag.
     </video>
+            </div>
 
+        <div style="float:left">
     <video width="300" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/ogg">
         Your browser does not support the video tag.
     </video>
+        </div>
+        </div>
 
 
 
