@@ -69,7 +69,7 @@
     </video>
             </div>
 
-        <br/><br/>
+        <br/>
 
         <div style="float:left">
     <video width="300" height="200" controls>
