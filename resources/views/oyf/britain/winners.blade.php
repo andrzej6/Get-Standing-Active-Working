@@ -48,7 +48,7 @@
 
 
     <div class="oyf-newblue fbigger fbold">BEST GROUPS:  Hitachi Europe | Paths for All | Firefighters Charity</div>
-    <br/><br/>
+    <br/>
 
     <div style="min-height: 1px;">
         &nbsp;
@@ -69,7 +69,7 @@
     </video>
             </div>
 
-        <br/>
+        <br/><br/>
 
         <div style="float:left">
     <video width="300" height="200" controls>
