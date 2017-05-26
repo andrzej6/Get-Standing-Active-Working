@@ -62,16 +62,16 @@
         &nbsp;
         <div style="float:left">
         <div style="text-align:center">Winning Entry</div>
-        <video width="400" height="300" controls>
-            <source src="{{ url('/') }}/img/video/oyf/ITECskills.mp4" type="video/mp4">
-            <source src="{{ url('/') }}/img/video/oyf/ITECskills.mp4" type="video/ogg">
+        <video width="300" height="200" controls>
+            <source src="{{ url('/') }}/img/video/oyf/ITECskills.MP4" type="video/mp4">
+            <source src="{{ url('/') }}/img/video/oyf/ITECskills.MP4" type="video/ogg">
             Your browser does not support the video tag.
         </video>
         </div>
 
         <div style="float:left">
             <div style="text-align:center">Winner with Prize</div>
-            <video width="400" height="300" controls>
+            <video width="300" height="200" controls>
                 <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
                 <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
                 Your browser does not support the video tag.
@@ -112,7 +112,7 @@
 
         <div style="float:left">
             <div style="text-align:center">Winning Entry</div>
-            <video width="400" height="300" controls>
+            <video width="300" height="200" controls>
                 <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
                 <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
                 Your browser does not support the video tag.
@@ -121,7 +121,7 @@
 
         <div style="float:left">
             <div style="text-align:center">Winner with Prize</div>
-           <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="400">
+           <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="300">
         </div>
     </div>
 
