@@ -130,19 +130,6 @@
 
 
 
-
-
-    <div>
-        <div style="float:left;text-align:center">Winning Entry</div>
-        <div style="float:left">
-        <video width="400" height="300" controls>
-            <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
-            <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
-            Your browser does not support the video tag.
-        </video>
-        </div>
-    </div>
-
     <br/><br/>
 
     <div style="font-style: italic">
