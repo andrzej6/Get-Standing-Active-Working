@@ -27,7 +27,7 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue">Active workers making sure #SitLess #MoveMore message goes beyond
+    <span class="oyf-newblue fbigger">Active workers making sure #SitLess #MoveMore message goes beyond
         On Your Feet Day.</span><br/><br/>
 
 
@@ -44,14 +44,14 @@
     for star participants in the event. Many thanks to all who entered: we LOVED seeing all your fun,
     imaginative and instructive images and videos.
 
-    <br/><br/>
+    <br/><br/><br/>
 
 
 
     <div class="oyf-newblue fbigger fbold">Winners Story | Best Male | ITEC Skills</div>
 
     <br/><br/>
-    <video width="345" height="300" controls>
+    <video width="250" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
         Your browser does not support the video tag.
@@ -74,12 +74,14 @@
         and he loves the fact he can stand up all day with his brand-new desk.”
     </div>
 
+    <br/><br/>
+
 
 
     <div class="oyf-newblue fbigger fbold">Winner Story | Best Female | Purple Sprout </div>
 
     <br/><br/>
-    <video width="345" height="300" controls>
+    <video width="250" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
         Your browser does not support the video tag.
@@ -107,23 +109,23 @@
 
 
     <br/><br/>
-    <span class="oyf-newpink">On Year Feet 2018</span> <br/><br/>
+    <span class="oyf-newpink fbigger fbold">On Year Feet 2018</span> <br/><br/>
 
     More than 2,500 businesses and 1.5 million office workers signed up for OYF 2017 –
     organised by <strong>Get Britain Standing</strong> to raise awareness of the dangers of sedentary
     behaviour in the workplace. And it’s not just UK workers taking part: since it started back
     in 2015, On Your Feet Day has now been adopted by countries as widespread as Spain, USA, Canada,
-    Ireland and Australia.
+    Ireland and Australia.<br/><br/>
 
     <a href="http://onyourfeetday.com/signup" target="_blank" style="text-decoration: underline;color:#57b8d9">Sign up here</a>
+    <br/><br/>
 
     Visit <a href="http://getbritainstanding.org/" target="_blank" style="text-decoration: underline;color:#57b8d9">Get Britain Standing</a> for information about the benefits of getting active during your working day.
+    <br/><br/>
 
     Visit <a href="https://sit-stand.com/freetrial" target="_blank" style="text-decoration: underline;color:#57b8d9">Sit-Stand.Com</a> to find out more about FREE TRIAL of their stylish, affordable range of standing
     desks and desk risers.
-
-
-
+    
 
 @endsection
 
