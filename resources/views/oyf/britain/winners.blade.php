@@ -63,9 +63,7 @@
 
 
 
-        <br/><br/>
-
-        <div style="float:left">
+        <div style="float:left;margin-left: 20px;">
             <video width="300" height="200" controls>
                 <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/mp4">
                 <source src="{{ url('/') }}/img/video/oyf/firefighters.MP4" type="video/ogg">
@@ -73,7 +71,8 @@
             </video>
         </div>
 
-        <div style="float:left;margin-left: 20px;">
+
+        <div style="float:left;">
     <video width="300" height="200" controls>
         <source src="{{ url('/') }}/img/video/oyf/paths-for-all.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/paths-for-all.MP4" type="video/ogg">
