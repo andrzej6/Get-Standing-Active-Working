@@ -27,7 +27,7 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue fbigger">Active workers making sure #SitLess #MoveMore message goes beyond
+    <span class="oyf-newblue" style="font-size: 1.5em">Active workers making sure #SitLess #MoveMore message goes beyond
         On Your Feet Day.</span><br/><br/>
 
 
