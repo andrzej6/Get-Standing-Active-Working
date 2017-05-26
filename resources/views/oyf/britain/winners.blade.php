@@ -51,7 +51,7 @@
     <div class="oyf-newblue fbigger fbold">Winners Story | Best Male | ITEC Skills</div>
 
     <br/><br/>
-    <video width="250" height="200" controls>
+    <video width="400" height="300" controls>
         <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
         Your browser does not support the video tag.
@@ -81,7 +81,7 @@
     <div class="oyf-newblue fbigger fbold">Winner Story | Best Female | Purple Sprout </div>
 
     <br/><br/>
-    <video width="250" height="200" controls>
+    <video width="400" height="300" controls>
         <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
         <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
         Your browser does not support the video tag.
@@ -125,7 +125,7 @@
 
     Visit <a href="https://sit-stand.com/freetrial" target="_blank" style="text-decoration: underline;color:#57b8d9">Sit-Stand.Com</a> to find out more about FREE TRIAL of their stylish, affordable range of standing
     desks and desk risers.
-    
+
 
 @endsection
 
