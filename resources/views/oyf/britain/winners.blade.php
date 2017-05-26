@@ -58,7 +58,7 @@
     <div class="oyf-newblue fbigger fbold">Winners Story | Best Male | ITEC Skills</div>
 
     <br/><br/>
-    <div>
+    <div style="min-height: 1px;">
         &nbsp;
         <div style="float:left">
         <div style="text-align:center">Winning Entry</div>
@@ -77,9 +77,6 @@
                 Your browser does not support the video tag.
             </video>
         </div>
-
-
-
     </div>
 
     <br/><br/>
@@ -108,7 +105,7 @@
     <br/><br/>
 
 
-    <div>
+    <div style="min-height: 1px;">
         &nbsp;
 
         <div style="float:left">
@@ -124,9 +121,6 @@
             <div style="text-align:center">Winner with Prize</div>
            <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="400">
         </div>
-
-
-
     </div>
 
 
