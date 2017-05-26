@@ -47,15 +47,40 @@
     <br/><br/><br/>
 
 
+    <div class="oyf-newblue fbigger fbold">BEST GROUPS:  Hitachi Europe | Paths for All | Firefighters Charity</div>
+    <br/><br/>
+
+
+
+
+
 
     <div class="oyf-newblue fbigger fbold">Winners Story | Best Male | ITEC Skills</div>
 
     <br/><br/>
-    <video width="400" height="300" controls>
-        <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
-        <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
-        Your browser does not support the video tag.
-    </video>
+    <div>
+
+        <div style="float:left">
+        <div style="text-align:center">Winning Entry</div>
+        <video width="400" height="300" controls>
+            <source src="{{ url('/') }}/img/video/oyf/ITECskills.mp4" type="video/mp4">
+            <source src="{{ url('/') }}/img/video/oyf/ITECskills.mp4" type="video/ogg">
+            Your browser does not support the video tag.
+        </video>
+        </div>
+
+        <div style="float:left">
+            <div style="text-align:center">Winner with Prize</div>
+            <video width="400" height="300" controls>
+                <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/mp4">
+                <source src="{{ url('/') }}/img/video/oyf/ITECskills-winner.mp4" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+
+
+    </div>
 
     <br/><br/>
 
@@ -81,11 +106,42 @@
     <div class="oyf-newblue fbigger fbold">Winner Story | Best Female | Purple Sprout </div>
 
     <br/><br/>
-    <video width="400" height="300" controls>
-        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
-        <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
-        Your browser does not support the video tag.
-    </video>
+
+
+    <div>
+
+        <div style="float:left">
+            <div style="text-align:center">Winning Entry</div>
+            <video width="400" height="300" controls>
+                <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
+                <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+
+        <div style="float:left">
+            <div style="text-align:center">Winner with Prize</div>
+           <img src="{{ url('/') }}/img/video/oyf/purple-sprout-winner.jpg" width="400">
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+    <div>
+        <div style="float:left;text-align:center">Winning Entry</div>
+        <div style="float:left">
+        <video width="400" height="300" controls>
+            <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/mp4">
+            <source src="{{ url('/') }}/img/video/oyf/purple-sprout.MP4" type="video/ogg">
+            Your browser does not support the video tag.
+        </video>
+        </div>
+    </div>
 
     <br/><br/>
 
