@@ -193,7 +193,7 @@
 
                     <div id="leftsitcalc">
 
-                        <h4>Office workers sit for 10 hours each day (on average).</h4>
+                        <h4>Office workers sit for 10 hours each days (on average).</h4>
 
                         Growing international scientific <a href="http://getbritainstanding.org/research.php">research evidence</a>
                         concludes that excessive and prolonged sitting (irrespective of your level of physical
