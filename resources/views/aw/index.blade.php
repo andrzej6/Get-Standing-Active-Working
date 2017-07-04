@@ -313,6 +313,18 @@
 
                 -->
 
+                    <div>
+                        <a href="https://sit-stand.com/wimbledon-offer" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyomat-gbshome1.jpg">
+                        </a>
+                    </div>
+
+                    <div>
+                        <a href="https://sit-stand.com/desk-risers/162-freedesk.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/freedesk.jpg">
+                        </a>
+                    </div>
+
 
                 <div>
                     <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">
@@ -320,12 +332,14 @@
                     </a>
                 </div>
 
+                    <div>
+                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
+                        </a>
+                    </div>
 
-                <div>
-                    <a href="https://sit-stand.com/desk-risers/162-freedesk.html" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/freedesk.jpg">
-                    </a>
-                </div>
+
+
 
                 <div>
                     <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
@@ -334,11 +348,7 @@
                 </div>
 
 
-                <div>
-                    <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
-                    </a>
-                </div>
+
 
                 <div>
                     <a href="https://sit-stand.com/freetrial" target="_blank">
