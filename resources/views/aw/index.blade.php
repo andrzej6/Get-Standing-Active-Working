@@ -311,13 +311,16 @@
                     </a>
                 </div>
 
-                -->
 
-                    <div>
+                <div>
                         <a href="https://sit-stand.com/wimbledon-offer" target="_blank">
                             <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyomat-gbshome1.jpg">
                         </a>
                     </div>
+
+                -->
+
+
 
                     <div>
                         <a href="https://sit-stand.com/desk-risers/162-freedesk.html" target="_blank">
