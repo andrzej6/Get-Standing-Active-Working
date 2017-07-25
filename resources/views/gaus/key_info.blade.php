@@ -48,8 +48,9 @@
 
 
         <div class="keyinfolblue activeworking">
-            Across, Norway, Sweden, Finland and Denmark over 90% of office workers using
-            computers are working at Sit-Stand desks.
+            In Denmark over 90% of office workers have a sit-stand desk.
+            If a job requires someone to sit 2 or more hours each day at a desk,
+            it must (in Denmark) be a sit-stand desk.
 
         </div>
 
