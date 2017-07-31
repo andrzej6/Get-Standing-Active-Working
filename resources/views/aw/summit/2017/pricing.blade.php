@@ -38,7 +38,7 @@
             The Active Working Summit is officially supported by Dame Sally Davies, Chief Medical Officer of England.
         </div>
         <br/>
-        <span style="color:red;font-weight:bold">EARLY BIRD DISCOUNT 30% (valid until May 31st 2017)</span>
+        <span style="color:red;font-weight:bold">EARLY BIRD DISCOUNT 30% (valid until August 31st 2017)</span>
 
         <br/><br/>
         The 2018 programme will be published in November 2017.
@@ -76,7 +76,7 @@
 
     <div style="font-size: 16px;font-weight: bold">
         <br/>
-        EARLY BIRD Price (30% discount) VALID UNTIL 31/05/2017
+        EARLY BIRD Price (30% discount) VALID UNTIL 31/08/2017
     </div>
 
 
