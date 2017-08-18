@@ -311,20 +311,18 @@
                     </a>
                 </div>
 
-
-
-
+                <div>
+                        <a href="https://sit-stand.com/sit-stand-summer" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/sssummer-thin.jpg">
+                        </a>
+                    </div>
 
 
 
 
                 -->
 
-                    <div>
-                        <a href="https://sit-stand.com/sit-stand-summer" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/sssummer-thin.jpg">
-                        </a>
-                    </div>
+
 
 
 
