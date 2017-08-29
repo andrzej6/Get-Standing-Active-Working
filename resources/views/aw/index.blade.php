@@ -325,6 +325,11 @@
 
 
 
+                    <div>
+                        <a href="https://sit-stand.com/back-to-school" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/go-to-school.jpg">
+                        </a>
+                    </div>
 
 
 
