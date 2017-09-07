@@ -56,7 +56,7 @@ class RegistrationsController extends Controller
         foreach ($columns as $key=>$value){
 
             fputcsv($output, array('',''));
-            fputcsv($output, array('--------------'.$value[0].' REGISTRATIONS',''));
+            fputcsv($output, array('--------------'.$value[0].' REGISTRATIONS--------------',''));
             fputcsv($output, array('',''));
             $gbspopup = DB::connection('mysql')->table('gbs_regs')
                 ->select('email', 'created_at')
@@ -71,7 +71,7 @@ class RegistrationsController extends Controller
             }
 
             fputcsv($output, array('',''));
-            fputcsv($output, array('--------------'.$value[0].'REGISTRATIONS',''));
+            fputcsv($output, array('--------------'.$value[0].'REGISTRATIONS--------------',''));
             fputcsv($output, array('',''));
             $gbspopup = DB::connection('mysql')->table('gbs_popups')
                 ->select('email', 'created_at')
