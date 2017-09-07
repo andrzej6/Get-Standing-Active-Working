@@ -46,7 +46,7 @@ class RegistrationsController extends Controller
             $message->from('andrzej@activeworking.com', 'Web@Sit-Stand');
             $message->to($email);
             $message->subject('registrations');
-            $message->attachData($content, 'registrations', array('mime' => 'text/csv'));
+            $message->attachData($content, 'registrations.csv', array('mime' => 'text/csv'));
         });
 
 
