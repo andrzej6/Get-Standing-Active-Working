@@ -17,7 +17,10 @@ class RegistrationsController extends Controller
         header('Content-Disposition: attachment; filename=data.csv');
         $output = fopen('php://output', 'w');
         fputcsv($output, array('column1','column2'));
-        $customers = DB::connection('mysql2')->table('customers')->select('email', 'date_created')->where('date_created', '>=', date(strtotime('today - 30 days')))->orderBy('date_created', 'desc');
+        $customers = DB::connection('mysql2')->table('customers')
+            ->select('email', 'date_created')
+            ->where('date_created', '>=', date('Y-m-d',strtotime('- 30 days')))
+            ->orderBy('date_created', 'desc');
 
         foreach($customers->get() as $customer)
         {
