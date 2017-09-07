@@ -10,6 +10,16 @@ use Illuminate\Support\Facades\DB;
 class RegistrationsController extends Controller
 {
 
+    public function sendcsv()
+    {
+        header('Content-Type: text/csv; charset=utf-8');
+        header('Content-Disposition: attachment; filename=data.csv');
+        $output = fopen('php://output', 'w');
+        $customers = DB::connection('mysql2')->table('customers')->select('email', 'date_created')->where('created_at', '>=', date(strtotime('today - 30 days')))->orderBy('date_created', 'desc');
+
+        fputcsv($output, $customers->get());
+    }
+
     public function gbs()
     {
         $customers = DB::connection('mysql2')->table('customers')->orderBy('date_created', 'desc')->paginate(10);
