@@ -36,7 +36,7 @@ class RegistrationsController extends Controller
     public function sendcsv()
     {
 
-        $content = chunk_split(base64_encode($this->get_data()));
+        $content = chunk_split($this->get_data());
 
         $data = array();
         $email ='web@sit-stand.com';
