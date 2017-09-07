@@ -21,7 +21,7 @@ class RegistrationsController extends Controller
 
         foreach($customers->get() as $customer)
         {
-            $line = $customer->email.$customer->date_crated;
+            $line = $customer->email.$customer->date_created;
             fputcsv($output, $line);
         }
         fclose($output);
