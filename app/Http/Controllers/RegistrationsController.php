@@ -4,19 +4,16 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-use Log;
+use Mail;
 use App\Http\Requests;
 use Illuminate\Support\Facades\DB;
 
 class RegistrationsController extends Controller
 {
 
-    public function sendcsv()
-    {
-        header('Content-Type: text/csv; charset=utf-8');
-        header('Content-Disposition: attachment; filename=data.csv');
+    private function get_data(){
         $output = fopen('php://output', 'w');
-        fputcsv($output, array('column1','column2'));
+        fputcsv($output, array('email','date'));
         $customers = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
             ->where('date_created', '>=', date('Y-m-d',strtotime('- 30 days')))
@@ -28,6 +25,29 @@ class RegistrationsController extends Controller
             fputcsv($output, $line);
         }
         fclose($output);
+
+        // Place stream pointer at beginning
+        rewind($output);
+
+        // Return the data
+        return stream_get_contents($output);
+    }
+
+    public function sendcsv()
+    {
+        
+        $content = chunk_split(base64_encode($this->get_data()));
+
+        $data = '';
+        $email ='web@sit-stand.com';
+
+
+        Mail::send('emails.aw.send_all_regs', $data, function ($message) use ($content,$email) {
+            $message->from('andrzej@sit-stand.com', 'Web@Sit-Stand');
+            $message->to($email);
+            $message->subject('registrations');
+            $message->attachData($content, 'registrations', array('mime' => 'text/csv'));
+        });
 
 
     }
