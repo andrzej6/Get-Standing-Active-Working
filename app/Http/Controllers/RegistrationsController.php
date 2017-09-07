@@ -12,7 +12,8 @@ class RegistrationsController extends Controller
 {
 
     private function get_data(){
-        $output = fopen('php://output', 'w');
+        if (!$output = fopen('php://temp', 'w+')) return FALSE;
+        
         fputcsv($output, array('email','date'));
         $customers = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
