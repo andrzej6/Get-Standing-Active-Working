@@ -19,9 +19,10 @@ class RegistrationsController extends Controller
         $customers = DB::connection('mysql2')->table('customers')->select('email', 'date_created')->where('date_created', '>=', date(strtotime('today - 30 days')))->orderBy('date_created', 'desc');
 
 
-        foreach ($customers as $user) {
-            fputcsv($output, $user);
-        }
+        $result = $customers->get();
+        $array = $result->toArray();
+        
+        fputcsv($output, $array);
     }
 
     public function gbs()
