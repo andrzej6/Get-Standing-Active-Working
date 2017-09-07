@@ -19,7 +19,7 @@ class RegistrationsController extends Controller
         fputcsv($output, array('EMAIL','DATE'));
 
         fputcsv($output, array('',''));
-        fputcsv($output, array('--------------GBS REGISTRATIONS--------------',''));
+        fputcsv($output, array('','--------------GBS REGISTRATIONS--------------'));
         fputcsv($output, array('',''));
         $gbs = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
@@ -33,7 +33,7 @@ class RegistrationsController extends Controller
         }
 
         fputcsv($output, array('',''));
-        fputcsv($output, array('--------------GBS POPUP REGISTRATIONS--------------',''));
+        fputcsv($output, array('','--------------GBS POPUP REGISTRATIONS--------------'));
         fputcsv($output, array('',''));
         $gbspopup = DB::connection('mysql2')->table('email_market')
             ->select('email', 'time')
@@ -56,7 +56,7 @@ class RegistrationsController extends Controller
         foreach ($columns as $key=>$value){
 
             fputcsv($output, array('',''));
-            fputcsv($output, array('--------------'.$value[0].' REGISTRATIONS--------------',''));
+            fputcsv($output, array('','--------------'.$value[0].' REGISTRATIONS--------------'));
             fputcsv($output, array('',''));
             $gbspopup = DB::connection('mysql')->table('gbs_regs')
                 ->select('email', 'created_at')
@@ -71,7 +71,7 @@ class RegistrationsController extends Controller
             }
 
             fputcsv($output, array('',''));
-            fputcsv($output, array('--------------'.$value[0].'POPUP REGISTRATIONS--------------',''));
+            fputcsv($output, array('','--------------'.$value[0].' POPUP REGISTRATIONS--------------'));
             fputcsv($output, array('',''));
             $gbspopup = DB::connection('mysql')->table('gbs_popups')
                 ->select('email', 'created_at')
