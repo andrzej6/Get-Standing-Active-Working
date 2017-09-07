@@ -24,7 +24,6 @@ class RegistrationsController extends Controller
             $line = array($customer->email,$customer->date_created);
             fputcsv($output, $line);
         }
-        fclose($output);
 
         // Place stream pointer at beginning
         rewind($output);
@@ -35,7 +34,7 @@ class RegistrationsController extends Controller
 
     public function sendcsv()
     {
-        
+
         $content = chunk_split(base64_encode($this->get_data()));
 
         $data = '';
