@@ -57,7 +57,7 @@ class RegistrationsController extends Controller
 
         foreach($gbspopup->get() as $customer)
         {
-            $line = array($customer->email,$customer->time);
+            $line = array($customer->email,$customer->created_at);
             fputcsv($output, $line);
         }
 
@@ -72,7 +72,7 @@ class RegistrationsController extends Controller
 
         foreach($gbspopup->get() as $customer)
         {
-            $line = array($customer->email,$customer->time);
+            $line = array($customer->email,$customer->created_at);
             fputcsv($output, $line);
         }
 
