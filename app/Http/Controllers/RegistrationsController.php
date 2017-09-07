@@ -18,7 +18,10 @@ class RegistrationsController extends Controller
         fputcsv($output, array('column1','column2'));
         $customers = DB::connection('mysql2')->table('customers')->select('email', 'date_created')->where('date_created', '>=', date(strtotime('today - 30 days')))->orderBy('date_created', 'desc');
 
-        while ($line = $customers->fetch_assoc()) fputcsv($output, $line);
+
+        foreach ($customers as $user) {
+            fputcsv($output, $user);
+        }
     }
 
     public function gbs()
