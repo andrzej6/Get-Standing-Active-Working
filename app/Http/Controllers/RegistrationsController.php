@@ -14,22 +14,39 @@ class RegistrationsController extends Controller
     private function get_data(){
         if (!$output = fopen('php://temp', 'w+')) return FALSE;
 
-        fputcsv($output, array('email','date'));
-        $customers = DB::connection('mysql2')->table('customers')
+
+        fputcsv($output, array('EMAIL','DATE'));
+
+        fputcsv($output, array('',''));
+        fputcsv($output, array('--------------GBS REGISTRATIONS----------------',''));
+        fputcsv($output, array('',''));
+        $gbs = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
             ->where('date_created', '>=', date('Y-m-d',strtotime('- 30 days')))
             ->orderBy('date_created', 'desc');
 
-        foreach($customers->get() as $customer)
+        foreach($gbs->get() as $customer)
         {
             $line = array($customer->email,$customer->date_created);
             fputcsv($output, $line);
         }
 
-        // Place stream pointer at beginning
-        rewind($output);
+        fputcsv($output, array('',''));
+        fputcsv($output, array('--------------GBS POPUP REGISTRATIONS----------------',''));
+        fputcsv($output, array('',''));
+        $gbspopup = DB::connection('mysql2')->table('email_market')
+            ->select('email', 'time')
+            ->where('time', '>=', date('Y-m-d',strtotime('- 30 days')))
+            ->orderBy('time', 'desc');
 
-        // Return the data
+        foreach($gbspopup->get() as $customer)
+        {
+            $line = array($customer->email,$customer->time);
+            fputcsv($output, $line);
+        }
+        
+
+        rewind($output);
         return stream_get_contents($output);
     }
 
@@ -41,15 +58,12 @@ class RegistrationsController extends Controller
         $data = array();
         $email ='web@sit-stand.com';
 
-
         Mail::send('emails.aw.send_all_regs', $data, function ($message) use ($content,$email) {
             $message->from('andrzej@activeworking.com', 'Web@Sit-Stand');
             $message->to($email);
             $message->subject('registrations');
             $message->attachData($content, 'registrations.csv', array('mime' => 'text/csv'));
         });
-
-
     }
 
     public function gbs()
