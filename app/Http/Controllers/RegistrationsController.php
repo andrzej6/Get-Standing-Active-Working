@@ -12,17 +12,18 @@ class RegistrationsController extends Controller
 {
 
     private function get_data(){
+        $datep = strtotime('- 30 days');
         if (!$output = fopen('php://temp', 'w+')) return FALSE;
 
 
         fputcsv($output, array('EMAIL','DATE'));
 
         fputcsv($output, array('',''));
-        fputcsv($output, array('--------------GBS REGISTRATIONS----------------',''));
+        fputcsv($output, array('--------------GBS REGISTRATIONS----------------------',''));
         fputcsv($output, array('',''));
         $gbs = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
-            ->where('date_created', '>=', date('Y-m-d',strtotime('- 30 days')))
+            ->where('date_created', '>=', date('Y-m-d',$datep))
             ->orderBy('date_created', 'desc');
 
         foreach($gbs->get() as $customer)
@@ -36,7 +37,7 @@ class RegistrationsController extends Controller
         fputcsv($output, array('',''));
         $gbspopup = DB::connection('mysql2')->table('email_market')
             ->select('email', 'time')
-            ->where('time', '>=', date('Y-m-d',strtotime('- 30 days')))
+            ->where('time', '>=', date('Y-m-d',$datep))
             ->orderBy('time', 'desc');
 
         foreach($gbspopup->get() as $customer)
@@ -44,7 +45,40 @@ class RegistrationsController extends Controller
             $line = array($customer->email,$customer->time);
             fputcsv($output, $line);
         }
-        
+
+        fputcsv($output, array('',''));
+        fputcsv($output, array('--------------AW REGISTRATIONS-----------------------',''));
+        fputcsv($output, array('',''));
+        $gbspopup = DB::connection('mysql')->table('gbs_regs')
+            ->select('email', 'created_at')
+            ->where('created_at', '>=', date('Y-m-d',$datep))
+            ->where('country', 'AW REG')
+            ->orderBy('created_at', 'desc');
+
+        foreach($gbspopup->get() as $customer)
+        {
+            $line = array($customer->email,$customer->time);
+            fputcsv($output, $line);
+        }
+
+        fputcsv($output, array('',''));
+        fputcsv($output, array('--------------AW POPUP REGISTRATIONS-----------------',''));
+        fputcsv($output, array('',''));
+        $gbspopup = DB::connection('mysql')->table('gbs_popups')
+            ->select('email', 'created_at')
+            ->where('created_at', '>=', date('Y-m-d',$datep))
+            ->where('country', 'AW REG')
+            ->orderBy('created_at', 'desc');
+
+        foreach($gbspopup->get() as $customer)
+        {
+            $line = array($customer->email,$customer->time);
+            fputcsv($output, $line);
+        }
+
+
+
+
 
         rewind($output);
         return stream_get_contents($output);
