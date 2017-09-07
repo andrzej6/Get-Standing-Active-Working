@@ -13,7 +13,7 @@ class RegistrationsController extends Controller
 
     private function get_data(){
         if (!$output = fopen('php://temp', 'w+')) return FALSE;
-        
+
         fputcsv($output, array('email','date'));
         $customers = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
@@ -38,7 +38,7 @@ class RegistrationsController extends Controller
 
         $content = chunk_split(base64_encode($this->get_data()));
 
-        $data = '';
+        $data = array();
         $email ='web@sit-stand.com';
 
 
