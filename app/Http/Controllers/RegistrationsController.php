@@ -19,7 +19,7 @@ class RegistrationsController extends Controller
         fputcsv($output, array('EMAIL','DATE'));
 
         fputcsv($output, array('',''));
-        fputcsv($output, array('--------------GBS REGISTRATIONS----------------------',''));
+        fputcsv($output, array('--------------GBS REGISTRATIONS',''));
         fputcsv($output, array('',''));
         $gbs = DB::connection('mysql2')->table('customers')
             ->select('email', 'date_created')
@@ -33,7 +33,7 @@ class RegistrationsController extends Controller
         }
 
         fputcsv($output, array('',''));
-        fputcsv($output, array('--------------GBS POPUP REGISTRATIONS----------------',''));
+        fputcsv($output, array('--------------GBS POPUP REGISTRATIONS',''));
         fputcsv($output, array('',''));
         $gbspopup = DB::connection('mysql2')->table('email_market')
             ->select('email', 'time')
@@ -46,43 +46,50 @@ class RegistrationsController extends Controller
             fputcsv($output, $line);
         }
 
-        fputcsv($output, array('',''));
-        fputcsv($output, array('--------------AW REGISTRATIONS-----------------------',''));
-        fputcsv($output, array('',''));
-        $gbspopup = DB::connection('mysql')->table('gbs_regs')
-            ->select('email', 'created_at')
-            ->where('created_at', '>=', date('Y-m-d',$datep))
-            ->where('country', 'AW REG')
-            ->orderBy('created_at', 'desc');
+        $columns = array ('1'=>array('ACTIVE WORKING','AW REG','AW REG'),
+                          '2'=>array('AMERICA','usa', 'usa'),
+                          '3'=>array('CANADA','can','can'),
+                          '4'=>array('AUSTRALIA','au','aus'));
 
-        foreach($gbspopup->get() as $customer)
-        {
-            $line = array($customer->email,$customer->created_at);
-            fputcsv($output, $line);
+
+
+        foreach ($columns as $key=>$value){
+
+            fputcsv($output, array('',''));
+            fputcsv($output, array('--------------'.$value[0].' REGISTRATIONS',''));
+            fputcsv($output, array('',''));
+            $gbspopup = DB::connection('mysql')->table('gbs_regs')
+                ->select('email', 'created_at')
+                ->where('created_at', '>=', date('Y-m-d',$datep))
+                ->where('country', $value[1])
+                ->orderBy('created_at', 'desc');
+
+            foreach($gbspopup->get() as $customer)
+            {
+                $line = array($customer->email,$customer->created_at);
+                fputcsv($output, $line);
+            }
+
+            fputcsv($output, array('',''));
+            fputcsv($output, array('--------------'.$value[0].'REGISTRATIONS',''));
+            fputcsv($output, array('',''));
+            $gbspopup = DB::connection('mysql')->table('gbs_popups')
+                ->select('email', 'created_at')
+                ->where('created_at', '>=', date('Y-m-d',$datep))
+                ->where('country', $value[2])
+                ->orderBy('created_at', 'desc');
+
+            foreach($gbspopup->get() as $customer)
+            {
+                $line = array($customer->email,$customer->created_at);
+                fputcsv($output, $line);
+            }
         }
-
-        fputcsv($output, array('',''));
-        fputcsv($output, array('--------------AW POPUP REGISTRATIONS-----------------',''));
-        fputcsv($output, array('',''));
-        $gbspopup = DB::connection('mysql')->table('gbs_popups')
-            ->select('email', 'created_at')
-            ->where('created_at', '>=', date('Y-m-d',$datep))
-            ->where('country', 'AW REG')
-            ->orderBy('created_at', 'desc');
-
-        foreach($gbspopup->get() as $customer)
-        {
-            $line = array($customer->email,$customer->created_at);
-            fputcsv($output, $line);
-        }
-
-
-
-
 
         rewind($output);
         return stream_get_contents($output);
     }
+
 
     public function sendcsv()
     {
@@ -93,9 +100,9 @@ class RegistrationsController extends Controller
         $email ='web@sit-stand.com';
 
         Mail::send('emails.aw.send_all_regs', $data, function ($message) use ($content,$email) {
-            $message->from('andrzej@activeworking.com', 'Web@Sit-Stand');
+            $message->from('andrzej@activeworking.com', 'Registrations');
             $message->to($email);
-            $message->subject('registrations');
+            $message->subject('Active Working Registrations');
             $message->attachData($content, 'registrations.csv', array('mime' => 'text/csv'));
         });
     }
