@@ -18,7 +18,12 @@ class GcanController extends Controller
 
 
 
+
     //was constructor with middleware for sitemap here below
+    public function __construct()
+    {
+        $this->middleware('sitemap');
+    }
 
 
     public function index($page='index'){

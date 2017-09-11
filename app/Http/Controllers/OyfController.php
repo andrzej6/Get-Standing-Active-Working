@@ -16,6 +16,10 @@ use Illuminate\Support\Facades\View;
 class OyfController extends Controller
 {
 
+    public function __construct()
+    {
+        $this->middleware('sitemap');
+    }
 
 
     public function index($country='britain', $page='index')

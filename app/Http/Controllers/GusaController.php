@@ -17,7 +17,7 @@ class GusaController extends Controller
 {
 
 
-    
+
 
 
 
