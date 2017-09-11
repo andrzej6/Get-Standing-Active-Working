@@ -22,10 +22,12 @@ use App\Jobs\SummitSend2Emails;
 class AwController extends Controller
 {
 
+    /*was constructor with middleware for sitemap here below
     public function __construct()
     {
         $this->middleware('sitemap');
     }
+    */
 
 
 

@@ -19,10 +19,12 @@ use App\Jobs\AuSend2Emails;
 class GausController extends Controller
 {
 
+    /*was constructor with middleware for sitemap here below
     public function __construct()
     {
         $this->middleware('sitemap');
     }
+    */
 
 
 
