@@ -158,7 +158,9 @@ return [
         Illuminate\Html\HtmlServiceProvider::class,
 
 
+        /*
         Roumen\Sitemap\SitemapServiceProvider::class
+        */
 
 
     ],
