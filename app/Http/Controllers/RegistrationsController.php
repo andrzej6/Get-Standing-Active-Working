@@ -100,10 +100,10 @@ class RegistrationsController extends Controller
         $email ='web@sit-stand.com';
 
         Mail::send('emails.aw.send_all_regs', $data, function ($message) use ($content,$email) {
-            $message->from('andrzej@activeworking.com', 'Registrations');
+            $message->from('andrzej@activeworking.com', 'Active Working');
             $message->to($email);
             $message->subject('Active Working Registrations');
-            $message->attachData($content, 'registrations.csv', array('mime' => 'text/csv'));
+            $message->attachData($content, 'active-working-registrations.csv', array('mime' => 'text/csv'));
         });
     }
 
