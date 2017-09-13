@@ -86,6 +86,39 @@ class RegistrationsController extends Controller
             }
         }
 
+
+        fputcsv($output, array('',''));
+        fputcsv($output, array('','--------------ON YOUR FEET BRITAIN REGISTRATIONS--------------'));
+        fputcsv($output, array('',''));
+        $gbspopup = DB::connection('mysql')->table('oyf_regs')
+            ->select('email', 'created_at')
+            ->where('created_at', '>=', date('Y-m-d',$datep))
+            ->where('country', 'GB')
+            ->orderBy('created_at', 'desc');
+
+        foreach($gbspopup->get() as $customer)
+        {
+            $line = array($customer->email,$customer->created_at);
+            fputcsv($output, $line);
+        }
+
+
+        fputcsv($output, array('',''));
+        fputcsv($output, array('','--------------ON YOUR FEET INTERNATIONAL REGISTRATIONS--------------'));
+        fputcsv($output, array('',''));
+        $gbspopup = DB::connection('mysql')->table('oyf_regs')
+            ->select('email', 'created_at')
+            ->where('created_at', '>=', date('Y-m-d',$datep))
+            ->where('country','<>', 'GB')
+            ->orderBy('created_at', 'desc');
+
+        foreach($gbspopup->get() as $customer)
+        {
+            $line = array($customer->email,$customer->created_at);
+            fputcsv($output, $line);
+        }
+
+
         rewind($output);
         return stream_get_contents($output);
     }
