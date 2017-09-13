@@ -1,5 +1,5 @@
 <html><body>
-<h3>Details from ACTIVE WORKING SUMMIT 2017 registration</h3>
+<h3>Details from ACTIVE WORKING SUMMIT 2018 registration</h3>
 
 <table rules="all" style="border-color:#666" cellpadding="10">
 
