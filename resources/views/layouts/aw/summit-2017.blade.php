@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('photos'=>'Photos','introduction'=>'Introduction','programme'=>'Event Programme','speakers'=>'Biographies','partners'=>'Partners','venue'=>'Venue','press'=>'Press Release','contact'=>'Contact');
+$sidemenu=array('introduction'=>'Introduction','programme'=>'Event Programme','speakers'=>'Biographies','partners'=>'Partners','venue'=>'Venue','press'=>'Press Release','contact'=>'Contact');
 /* --}}
 
 @extends('layouts.aw.summit')
