@@ -5,23 +5,29 @@
     <a href="http://sit-stand.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/sit-stand.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
-    <a href="http://www.ergotron.com/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/ergotron.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
+    <a href="https://www.ajproducts.co.uk/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/aj-logo.jpg" width="100"/></a>
+
 
     <a href="https://getbritainstanding.org/littlenudge.php" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+
     <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
-    <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
-        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
     <div style="clear:both"></div>
 
 
 
+    <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
+
+
+    <!--
     <a href="https://bhwa.org.uk/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
@@ -35,6 +41,7 @@
         <img src="{{ url('/') }}/img/general/emails/supporters/updown.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
+     -->
     <a href="https://steppie.dk/en/" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 

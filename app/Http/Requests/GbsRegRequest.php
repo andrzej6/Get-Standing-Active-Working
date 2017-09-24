@@ -36,7 +36,7 @@ class GbsRegRequest extends Request
             'postcode' => 'required|max:100',
             'city' => 'required|max:100',
             'county' => 'max:100',
-            'jpos' => 'max:10',
+            'jpos' => 'max:100',
             'dep' => 'max:100',
             'behalf' => 'required|max:100'
         ];
