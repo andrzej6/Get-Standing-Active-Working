@@ -329,6 +329,11 @@
                 -->
 
 
+                    <div>
+                        <a href="https://sit-stand.com/blog" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/bbc-thin.jpg">
+                        </a>
+                    </div>
 
 
 
