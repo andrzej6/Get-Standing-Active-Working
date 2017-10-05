@@ -345,6 +345,12 @@
                         </a>
                     </div>
 
+                    <div>
+                        <a href="http://www.fellowes.com/" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1a.jpg">
+                        </a>
+                    </div>
+
 
 
                     <div>
@@ -385,11 +391,7 @@
                 </div>
 
 
-                <div>
-                    <a href="http://www.fellowes.com/" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1a.jpg">
-                    </a>
-                </div>
+
 
                 <div>
                     <a href="http://bhwa.org.uk/" target="_blank">
@@ -404,11 +406,7 @@
                     </a>
                 </div>
 
-                <div>
-                    <a href="http://sit-stand.com/desk-risers/50-workfit-t.html" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider6.jpg">
-                    </a>
-                </div>
+
 
 
 
