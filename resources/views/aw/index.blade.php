@@ -44,6 +44,10 @@
                     <div class="module_content slider_type1">
                         <div id="banner1" class="OneByOne_container">
 
+                            <div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/our_vision.jpg" alt="oyf" class="go-to go-to-careers">
+                            </div>
+
 
 
                             <div class="oneByOne_item ls_bg1">
