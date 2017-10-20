@@ -130,7 +130,7 @@ class RegistrationsController extends Controller
         $content = $this->get_data();
 
         $data = array();
-        $email ='web@sit-stand.com';
+        $email ='digital@sit-stand.com';
 
         Mail::send('emails.aw.send_all_regs', $data, function ($message) use ($content,$email) {
             $message->from('andrzej@activeworking.com', 'Active Working');
