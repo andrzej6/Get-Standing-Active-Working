@@ -365,7 +365,7 @@
 
 
                 <div>
-                    <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">
+                    <a href="http://yo-yodesk.com/yoyo-go" target="_blank">
                         <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyo-go.jpg">
                     </a>
                 </div>
@@ -380,7 +380,7 @@
 
 
                 <div>
-                    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
+                    <a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
                         <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyo.jpg">
                     </a>
                 </div>

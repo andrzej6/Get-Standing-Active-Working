@@ -20,7 +20,7 @@
 
     <div class="aw-partners-gold">
         <p>
-            <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank">
+            <a href="http://yo-yodesk.com" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.jpg">
                 <!--
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg">
