@@ -277,3 +277,7 @@ Route::group(['domain' => '127.0.0.1'], function()
 
 });
 
+/*   
+
+some comments here from new hp to be removed
+*/
