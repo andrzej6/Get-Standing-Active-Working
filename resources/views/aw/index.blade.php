@@ -327,16 +327,21 @@
                         </a>
                     </div>
 
-<div>
+                  <div>
 					<a href="https://sit-stand.com/black-friday" target="_blank">
 						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/bf-homepage.jpg">
 					</a>
 				</div>
 
+				
+				<div>
+					<a href="https://sit-stand.com/january-sale" target="_blank">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/jan-thin.jpg">
+					</a>
+				</div>
 
 
                 -->
-				
 
 
 
