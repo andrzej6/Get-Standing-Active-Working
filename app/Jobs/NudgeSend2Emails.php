@@ -45,6 +45,7 @@ class NudgeSend2Emails extends Job implements ShouldQueue
         Mail::send('emails.aw.nudge_reg_notify', $array, function ($message) use ($tosend){
             $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('info@activeworking.com');
+			$message->to('ellie@activeworking.com');
             $message->cc('web@activeworking.com');
             $message->subject('LITTLE NUDGE ORDER NOTIFICATION');
         });
