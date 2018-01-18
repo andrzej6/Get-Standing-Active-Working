@@ -73,11 +73,13 @@
                             
 
 
-
-
-                            <div class="oneByOne_item ls_bg1">
+							<!--
+                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
                             </div>
+							-->
+
+                            
 
 
                             <div class="oneByOne_item ls_bg1">
