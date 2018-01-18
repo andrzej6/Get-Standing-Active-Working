@@ -11,7 +11,7 @@ $sidemenu=array('introduction'=>'Introduction','programme'=>'Event Programme','s
 
 @section('left-sidemenu')
     @foreach ($sidemenu as $key=>$value)
-        <a href="{{ url('/') }}/summit/2017/{{$key}}"><li class="@if($key==$page) active @elseif(($key=='pricing') or ($key=='book')) @endif">{{$value}}</li></a>
+        <a href="{{ url('/') }}/summit/2017/{{$key}}"><li class="@if($key==$page) active @elseif(($key=='pricing') or ($key=='book')) pink19 @endif">{{$value}}</li></a>
     @endforeach
 @endsection
 
