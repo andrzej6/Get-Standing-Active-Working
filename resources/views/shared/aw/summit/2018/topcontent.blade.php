@@ -1,10 +1,10 @@
 {{-- */
-$title=urlencode("Active Working Summit 2018");
+$title=urlencode("Active Working Summit 2019");
 $url=urlencode("http://activeworking.com/summit");
-$summary=urlencode("Active Working Summit 2018");
+$summary=urlencode("Active Working Summit 2019");
 $image=urlencode("http://getbritainstanding.org/img/toplogo-2018.jpg");
-$tw_share = urlencode ("Active Working Summit 2018");
-$linked_sum = urlencode ("Active Working Summit 2018");
+$tw_share = urlencode ("Active Working Summit 2019");
+$linked_sum = urlencode ("Active Working Summit 2019");
 /* --}}
 
 
@@ -32,7 +32,7 @@ $linked_sum = urlencode ("Active Working Summit 2018");
     <!-- <div class="center-bottom bookline"><a href="/summit">Book early for AWS 2017 to avoid disappointment</a></div> -->
 
 
-    <div class="center-bottom" style="width: 400px;color:#ef4778">Active Working Summit 2018
+    <div class="center-bottom" style="width: 400px;color:#ef4778">Active Working Summit 2019
     </div>
 
 </div>
