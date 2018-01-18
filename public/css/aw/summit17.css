@@ -7,6 +7,11 @@
     background-color:#5ab7da;
 }
 
+.left-sidemenu ul li.pink19 {
+    background-color:#ef4778;
+}
+
+
 .left-sidemenu ul  li:hover{
     background-color:#1f3b68;
 }
