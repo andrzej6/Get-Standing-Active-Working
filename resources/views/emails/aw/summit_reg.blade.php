@@ -5,7 +5,7 @@
     <a href="http://activeworking.com" style="color:#009999;">
         <img src="{{ url('/') }}/img/aw/summit/2018/toplogo.jpg" width="150"/></a> <br/>
 
-    Thank you for your registration for the <strong>Active Working Summit 2018.</strong>
+    Thank you for your registration for the <strong>Active Working Summit 2019.</strong>
     <br/><br/>
 
     <span style="color:red;"><strong>BOOKINGS</strong> can only be confirmed after we have received payment
