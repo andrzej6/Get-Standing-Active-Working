@@ -28,6 +28,11 @@
     background:url(../img/icons/aw/ico_footer_twitter.png) no-repeat center;
 }
 
+.footer_tools .ico_social-youtube {
+    background:url(../img/icons/aw/ico_footer_youtube.png) no-repeat center;
+}
+
+
 footer{
     background-color: var(--main-h1-color);
 }
