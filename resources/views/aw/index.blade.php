@@ -469,12 +469,12 @@
 
 
                                 <li style="height: 266px; width:266px;">
-                                    <a href="{{ url('/') }}/summit/2017/introduction">
+                                    <a href="{{ url('/') }}/summit/2017/book">
                                         <div class="item" style="height: 266px;">
                                             <div class="img_block">
-                                                <img src="{{ url('/') }}/img/aw/carousel/slider1.jpg" alt="summit 2016"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
+                                                <img src="{{ url('/') }}/img/aw/carousel/slider1-a.jpg" alt="summit 2016"/><div class="carousel_wrapper"></div><span class="post_type post_type_image"></span></div>
                                             <div class="carousel_title">
-                                                <h4 class="featured_ico_slider">Summit 2017</h4>
+                                                <h4 class="featured_ico_slider">Summit 2019</h4>
                                             </div>
                                             <div class="carousel_desc">
                                                 <div class="exc">Invitation to leaders & decision makers from FM, HR, Health & Wellness sectors.</div>
