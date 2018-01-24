@@ -46,7 +46,7 @@
 						
 						
 						<div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf-thankyou.jpg" alt="oyf" class="go-to go-to-onyourfeet">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf18-1.jpg" alt="oyf" class="go-to go-to-onyourfeet">
                             </div>
 						
 
@@ -78,6 +78,10 @@
                                 <img src="{{ url('/') }}/img/aw/slider/big/thank-you.jpg" alt="" class="go-to go-to-summit">
                             </div>
 							-->
+							
+							<div class="oneByOne_item ls_bg1">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf18-2.jpg" alt="oyf" class="go-to go-to-onyourfeet">
+                            </div>
 
                             
 
