@@ -85,8 +85,8 @@
     <img src="{{ url('/') }}/img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="who"/>
     -->
 
-    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
+     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18a.jpg" alt="oyf"/>
     </a>
 
 

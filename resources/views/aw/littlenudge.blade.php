@@ -228,8 +228,8 @@
         <img src="{{ url('/') }}/img/general/nudge/ads/nudge1.jpg"  alt="feel after"/>
     </a>
 
-    <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
+     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18a.jpg" alt="oyf"/>
     </a>
 
 
