@@ -97,7 +97,7 @@
     <img src="{{ url('/') }}/img/aw/ads/message/who.png" class="restofsmall-pic" alt=""/>
 
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18d.jpg" alt="oyf"/>
     </a>
 
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating1.png" class="restofsmall-pic" alt=""/>

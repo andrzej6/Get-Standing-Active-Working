@@ -101,7 +101,7 @@
 
 
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18.jpg" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18b.jpg" alt="oyf"/>
     </a>
 
     <!--
