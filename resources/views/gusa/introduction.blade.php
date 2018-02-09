@@ -92,6 +92,13 @@
 
 
 @section('content-restofsmall')
+
+
+     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
+        <img src="img/getstanding/usa/ads/oyf/oyf18d.jpg" alt="oyf"/>
+    </a>
+	
+	
     <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/>
 
     <img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>
