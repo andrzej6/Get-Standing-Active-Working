@@ -64,7 +64,12 @@
 
 
 @section('content-restofsmall')
-    <img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt=""/>
+    <!--
+	<img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt=""/>
+	-->
+	<a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
+        <img src="img/getstanding/aus/ads/oyf/oyf18g.jpg" alt="oyf"/>
+    </a>
 
     <img src="img/aw/ads/message/feel_alternating3.png" class="restofsmall-pic" alt=""/>
 

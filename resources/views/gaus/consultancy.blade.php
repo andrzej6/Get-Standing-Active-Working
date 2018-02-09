@@ -68,9 +68,14 @@
 @section('content-restofsmall')
     <img src="img/aw/ads/message/who.png" class="restofsmall-pic" alt=""/>
 
-    <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing"
+    <!--
+	<a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing"
        class="darken">
         <img src="img/getstanding/aus/ads/supporters/join-us.png" />
+    </a>
+	-->
+	<a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
+        <img src="img/getstanding/aus/ads/oyf/oyf18f.jpg" alt="oyf"/>
     </a>
 
     <img src="img/aw/ads/message/feel_alternating2.png" class="restofsmall-pic" alt=""/>

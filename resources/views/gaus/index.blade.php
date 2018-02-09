@@ -38,11 +38,11 @@
                 <div class="module_content slider_type1">
                     <div id="banner1" class="OneByOne_container">
 
-                        <!--
+                        
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/slider0.jpg" alt="" class="go-to go-to-oyf">
+                            <img src="img/getstanding/aus/slider/big/oyf18-2.jpg" alt="" class="go-to go-to-oyf">
                         </div>
-                        -->
+                       
 
                         <div class="oneByOne_item ls_bg1">
                             <img src="img/getstanding/aus/slider/big/slider1.jpg" alt="" class="go-to">
@@ -58,6 +58,11 @@
 
                         <div class="oneByOne_item ls_bg1">
                             <img src="img/getstanding/aus/slider/big/slider4.jpg" alt="" class="go-to">
+                        </div>
+						
+						
+						<div class="oneByOne_item ls_bg1">
+                            <img src="img/getstanding/aus/slider/big/oyf18-1.jpg" alt="" class="go-to go-to-oyf">
                         </div>
 
                         <div class="oneByOne_item ls_bg1">

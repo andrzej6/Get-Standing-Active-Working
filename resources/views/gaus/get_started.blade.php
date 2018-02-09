@@ -103,7 +103,7 @@
 @section('content-restofsmall')
 
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
-        <img src="img/getstanding/aus/ads/oyf/oyf18.jpg" alt="oyf"/>
+        <img src="img/getstanding/aus/ads/oyf/oyf18c.jpg" alt="oyf"/>
     </a>
 
 
