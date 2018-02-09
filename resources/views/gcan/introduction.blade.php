@@ -92,7 +92,13 @@
 
 
 @section('content-restofsmall')
-    <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/>
+
+    
+    <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
+        <img src="img/getstanding/can/ads/oyf/oyf18d.jpg" alt="oyf"/>
+    </a>
+	
+    <!-- <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/> -->
 
     <a href="http://www.fellowes.com/" target="_blank">
         <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
