@@ -7,7 +7,7 @@
         <br/>
         <p>
             <a href="http://yo-yodesk.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
 
                 <!--
                 <img src="{{ url('/') }}/img/oyf/partners/yo-yo1.jpg" width="150px">
@@ -35,7 +35,7 @@
 
         <p>
             <a href="http://www.sit-stand.com" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/sitstand.png" width="120px" >
+                <img src="{{ url('/') }}/img/oyf/partners/sitstand.png" width="120px" >
             </a>
         </p>
 
