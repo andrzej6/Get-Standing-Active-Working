@@ -49,13 +49,11 @@
 
 
         @if (($country =='GB') || ($country =='NIRL') )
-                <a href="http://bhwa.org.uk/" style="color:#009999;">
-                    <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="110"/></a>
+                <a href="http://www.thefreedesk.com/start/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg" width="110"/></a>
                 &nbsp;&nbsp;&nbsp;
 
-                <a href="http://imprintmats.com/" style="color:#009999;">
-                    <img src="{{ url('/') }}/img/general/emails/supporters/oyf/imprint.png" width="110"/></a>
-                &nbsp;&nbsp;&nbsp;
+            
 
                 <a href="https://steppie.dk/en/" style="color:#009999;">
                     <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="110"/></a>
