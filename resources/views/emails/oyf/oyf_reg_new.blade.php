@@ -17,7 +17,7 @@
 
 
 
-        All posters and communication materials will be available for download early in 2018.</span>
+    All posters and communication materials will be available for download from Feb. 28th 2018. </span>
     <br/><br/>
     <!--
     All posters and communication materials are available for download using the password
