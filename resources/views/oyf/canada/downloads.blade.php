@@ -66,7 +66,7 @@ $downloads = array(
 
 @section('aw-maincontent')
 
-    <h1 class="oyf-newpink">Downloads (register to get password)</h1>
+    <h1 class="oyf-newpink">Downloads (available from 28th February)</h1>
 
 
     <div class="oyf-downloads-container">
@@ -82,22 +82,22 @@ $downloads = array(
                     <div class="oyf-downloads-row">
 
                         <div class="oyf-downloads-pic">
-                            <a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">
+                            <!--<a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">-->
                                 <img src="{{ url('/') }}/img/oyf/gb/downloads/17/{{$value['name']}}.jpg"/>
-                            </a>
+                            <!--</a>-->
                         </div>
 
                         <div class="oyf-downloads-descrip">
                             <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">
+                                 	 	  			<!--<a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">-->
                                                         {{$value['label']}}
-                                                    </a>
+                                                    <!--</a>-->
                                  	 	  		</span>
 
-                                <a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">
+                                <!--<a href="{{ url('/') }}/pdfs/oyf/can/{{$value['name']}}.docx" target="_blank">-->
                                     {{$value['title']}}
-                                </a>
+                                <!--</a>-->
                             </div>
 
 
@@ -123,22 +123,22 @@ $downloads = array(
                     <div class="oyf-downloads-row">
 
                         <div class="oyf-downloads-pic">
-                            <a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">
+                            <!--<a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">-->
                                 <img src="{{ url('/') }}/img/oyf/pics/{{$value['name']}}.jpg"/>
-                            </a>
+                            <!--</a>-->
                         </div>
 
                         <div class="oyf-downloads-descrip">
                             <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">
+                                 	 	  			<!--<a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">-->
                                                         {{$value['label']}}
-                                                    </a>
+                                                    <!--</a>-->
                                  	 	  		</span>
 
-                                <a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">
+                                <!--<a href="{{ url('/') }}/pdfs/oyf/can/17/{{$value['name']}}.pdf" target="_blank">-->
                                     {{$value['title']}}
-                                </a>
+                                <!--</a>-->
                             </div>
 
 
