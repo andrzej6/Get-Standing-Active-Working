@@ -27,7 +27,7 @@
 
     <div class="aw-partners-gold">
 
-        <p>
+        <p style="margin-bottom: 0">
             <a href="https://www.workathlete.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png">
             </a>
@@ -37,7 +37,7 @@
 
 
     <div class="aw-partners-gold">
-        <p>
+        <p style="margin-bottom: 0">
             <a href="http://yo-yodesk.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
             </a>
@@ -49,7 +49,7 @@
 
     <div class="aw-partners-title">SILVER PARTNERS</div>
 
-    <div class="aw-partners-silver">
+    <div class="aw-partners-silver" style="margin-top: 15px;">
 
        <p>
 	       <a href="http://www.thefreedesk.com/start/" target="_blank">
