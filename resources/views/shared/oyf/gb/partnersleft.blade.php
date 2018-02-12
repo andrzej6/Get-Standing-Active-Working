@@ -29,7 +29,7 @@
 
         <p>
             <a href="https://www.workathlete.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png" width="110px">
+                <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png">
             </a>
         </p>
 
