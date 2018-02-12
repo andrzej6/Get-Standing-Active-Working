@@ -4,7 +4,7 @@
 
     <div class="aw-partners-platinum">
 
-        <br/>
+        <!--<br/>-->
         <p>
             <a href="http://yo-yodesk.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
