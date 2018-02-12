@@ -27,7 +27,7 @@
 
         <p>
             <a href="http://yo-yodesk.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
             </a>
         </p>
 
