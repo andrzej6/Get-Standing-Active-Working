@@ -47,7 +47,7 @@
 
 
 
-    <div class="aw-partners-title" style="margin-top: 15px;">SILVER PARTNERS</div>
+    <div class="aw-partners-title">SILVER PARTNERS</div>
 
     <div class="aw-partners-silver">
 
