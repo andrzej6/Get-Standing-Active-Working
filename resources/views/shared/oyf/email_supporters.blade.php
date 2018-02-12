@@ -8,25 +8,25 @@
 
         @if (($country =='US') || ($country =='AU') || ($country =='CA') )
 
-            <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-                <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
+            <a href="http://yo-yodesk.com/" style="color:#009999;">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png" width="170"/></a>
 
             @else
 
             <a href="https://sit-stand.com" style="color:#009999;">
-                <img src="{{ url('/') }}/img/general/emails/supporters/oyf/sitstand-new.jpg" width="200"/></a>
+                <img src="{{ url('/') }}/img/oyf/partners/sitstand.png" /></a>
 
         @endif
         <div style="clear:both"></div>
 
 
         @if (($country !='US') && ($country !='CAN') && ($country !='AU') )
-                <a href="http://activeworking.com/littlenudge" style="color:#009999;">
-                    <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="110"/></a>
+                <a href="https://www.workathlete.com/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png" width="110"/></a>
                 &nbsp;&nbsp;&nbsp;
 
-                <a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
-                    <img src="{{ url('/') }}/img/oyf/partners/yo-yo-mail.jpg" width="170"/></a>
+                <a href="http://yo-yodesk.com/" style="color:#009999;">
+                    <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png" width="170"/></a>
                 &nbsp;&nbsp;&nbsp;
         @endif
 
@@ -39,7 +39,7 @@
             @endif
 
                 <a href="https://sit-stand.com" style="color:#009999;">
-                    <img src="{{ url('/') }}/img/general/emails/supporters/oyf/sitstand-new.jpg" width="130"/></a>
+                    <img src="{{ url('/') }}/img/oyf/partners/sitstand.png"/></a>
                    &nbsp;&nbsp;&nbsp;
 
 
