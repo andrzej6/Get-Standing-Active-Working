@@ -47,9 +47,9 @@
 
 
 
-    <div class="aw-partners-title">SILVER PARTNERS</div>
+    <div class="aw-partners-title" style="margin-top: 15px;">SILVER PARTNERS</div>
 
-    <div class="aw-partners-silver" style="margin-top: 15px;">
+    <div class="aw-partners-silver">
 
        <p>
 	       <a href="http://www.thefreedesk.com/start/" target="_blank">
