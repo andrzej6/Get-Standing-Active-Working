@@ -13,6 +13,7 @@
 @section('header-styles')
     <link rel="stylesheet" type="text/css" href="{{ url('/') }}/css/aw/main.css">
     <link rel="stylesheet" type="text/css" href="{{ url('/') }}/css/aw/popup.css">
+	<script type="text/javascript" src="{{ url('/') }}/js/aw/track.js"></script>
 @endsection
 
 
@@ -28,7 +29,6 @@
 
 
 @section('footer-scripts')
-    <script type="text/javascript" src="{{ url('/') }}/js/aw/track.js"></script>
     <script type="text/javascript" src="{{ url('/') }}/js/aw/popup.js"></script>
     <script type="text/javascript" src="{{ url('/') }}/js/aw/main.js"></script>
 @endsection
