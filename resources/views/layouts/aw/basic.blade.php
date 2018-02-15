@@ -1,7 +1,15 @@
 @extends('layouts.aw')
 
 @section('a-tracking')
-    <script type="text/javascript" src="{{ url('/') }}/js/aw/track.js"></script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52391297-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-52391297-7');
+</script>
 @endsection
 
 @section('meta')
