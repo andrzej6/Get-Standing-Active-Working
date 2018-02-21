@@ -44,6 +44,10 @@
                     <div class="module_content slider_type1">
                         <div id="banner1" class="OneByOne_container">
 						
+						<div class="oneByOne_item ls_bg1">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/big/survey2.jpg" alt="oyf" class="go-to go-to-survey-do">
+						</div>
+						
 						
 						<div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf18-1.jpg" alt="oyf" class="go-to go-to-onyourfeet">
@@ -670,6 +674,10 @@
 		$(".go-to-book").click(function(event){
             window.open('http://activeworking.com/summit/2017/book','_blank');
         });
+		
+		$(".go-to-survey-do").click(function(event){
+        window.open('https://www.surveymonkey.co.uk/r/YD79W9M','_blank');
+    });
 
     </script>
 @endsection
