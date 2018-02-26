@@ -362,16 +362,19 @@
 						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/jan-thin.jpg">
 					</a>
 				</div>
+				
+				
+				 <div>
+					<a href="https://sit-stand.com/free-mat-offer" target="_blank">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyomat-thin.jpg">
+					</a>
+				</div>
 
 
                 -->
 				
 				
-				                     <div>
-                                        <a href="https://sit-stand.com/free-mat-offer" target="_blank">
-                                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyomat-thin.jpg">
-                                        </a>
-                                    </div>
+				                    
 
 
 
