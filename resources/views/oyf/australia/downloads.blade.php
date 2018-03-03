@@ -66,7 +66,7 @@ $downloads = array(
 
 @section('aw-maincontent')
 
-    <h1 class="oyf-newpink">Downloads (available from 28th February)</h1>
+    <h1 class="oyf-newpink">Downloads (available from 16th March)</h1>
 
 
     <div class="oyf-downloads-container">
