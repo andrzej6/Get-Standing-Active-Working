@@ -71,7 +71,7 @@ removed from above
 
 @section('aw-maincontent')
 
-    <h1 class="oyf-newpink">Downloads (available from 16th March)</h1>
+    <h1 class="oyf-newpink">Downloads</h1>
 
 
     <div class="oyf-downloads-container">
