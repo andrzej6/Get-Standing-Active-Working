@@ -3,7 +3,57 @@
     <strong>"Official Sponsors"</strong></span>: <br/>
 
 
-
+	@if( ! empty($country))
+		 @if (($country =='IE') || ($country =='GB') || ($country =='NIRL') )
+			 
+		     <a href="https://sit-stand.com/" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/sitstand.png" width="150px" height="70px">
+            </a>
+			
+			
+			<a href="https://www.workathlete.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png">
+            </a>
+			
+			 <a href="http://yo-yodesk.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
+            </a>
+			
+			
+			<a href="http://www.thefreedesk.com/start/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg">
+            </a>
+			
+			<a href="https://steppie.dk/en/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
+            </a>
+			
+			@elseif (($country =='US') || ($country =='AU') || ($country =='CA') )
+				
+				<a href="http://yo-yodesk.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png" width="150px" height="70px">
+                </a>
+				
+				<a href="https://www.workathlete.com/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/wathlete.png">
+                </a>
+			
+			
+				<a href="https://sit-stand.com/" target="_blank">
+					<img src="{{ url('/') }}/img/oyf/partners/sitstand.png" >
+				</a>
+				
+			@else
+				
+			
+			
+			 
+		 @endif
+	
+	
+	@endif
+	
+<!-- 2017 below
     @if( ! empty($country))
 
         @if (($country =='US') || ($country =='AU') || ($country =='CA') )
@@ -80,7 +130,7 @@
   <div style="clear:both"></div>
 
 @endif
-
+-->
 
 
 
