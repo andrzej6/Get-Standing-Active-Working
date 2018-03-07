@@ -3,9 +3,8 @@ $downloads = array(
 '1'=>array('header'=>'Event Preparation', 'elem'=> array(
         '1'=>array('label'=>'Poster A1','title'=>'Workplace Guide','name'=>'a1'),
         '2'=>array('label'=>'Flyer A2','title'=>'Sign Up Today','name'=>'a2'),
-        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Alice','name'=>'a3-1'),
-        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Jim','name'=>'a3-2'),
-        '5'=>array('label'=>'Poster A5','title'=>'Poster','name'=>'a5')
+        '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Andy','name'=>'a3-1'),
+        '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Sally','name'=>'a3-2')
         )),
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
@@ -24,14 +23,8 @@ $downloads = array(
 
 '4'=>array('header'=>'Event Completion', 'elem'=> array(
         '1'=>array('label'=>'Certificate D1','title'=>' OYFB Certificate','name'=>'d1')
-)),
+))
 
-'5'=>array('header'=>'Emails for Workplace Champion', 'elem'=> array(
-        '1'=>array('label'=>'Email E1','title'=>' On Your Feet America Introduction','name'=>'e1'),
-        '2'=>array('label'=>'Email E2','title'=>' On Your Feet America Getting Ready','name'=>'e2'),
-        '3'=>array('label'=>'Email E3','title'=>' On Your Feet America Event Launch Notification ','name'=>'e3'),
-       '4'=>array('label'=>'Email E4','title'=>' On Your Feet America Thank you','name'=>'e4')
-)),
 
 
 );
@@ -123,22 +116,22 @@ $downloads = array(
                     <div class="oyf-downloads-row">
 
                         <div class="oyf-downloads-pic">
-                            <!--<a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">-->
-                                <img src="{{ url('/') }}/img/oyf/pics/{{$value['name']}}.jpg"/>
-                            <!--</a>-->
+                            <a href="{{ url('/') }}/pdfs/oyf/us/18/{{$value['name']}}.pdf" target="_blank">
+                                <img src="{{ url('/') }}/img/oyf/us/{{$value['name']}}.jpg"/>
+                            </a>
                         </div>
 
                         <div class="oyf-downloads-descrip">
                             <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<!--<a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">-->
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/us/18/{{$value['name']}}.pdf" target="_blank">
                                                         {{$value['label']}}
-                                                    <!--</a>-->
+                                                   </a>
                                  	 	  		</span>
 
-                                <!--<a href="{{ url('/') }}/pdfs/oyf/us/17/{{$value['name']}}.pdf" target="_blank">-->
+                               <a href="{{ url('/') }}/pdfs/oyf/us/18/{{$value['name']}}.pdf" target="_blank">
                                     {{$value['title']}}
-                                <!--</a>-->
+                                </a>
                             </div>
 
 
