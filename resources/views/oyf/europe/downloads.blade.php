@@ -115,7 +115,7 @@ $downloads = array(
                     <div class="oyf-downloads-row">
 
                         <div class="oyf-downloads-pic">
-                            <a href="{{ url('/') }}/pdfs/oyf/eu/17/{{$value['name']}}.pdf" target="_blank">
+                            <a href="{{ url('/') }}/pdfs/oyf/eu/18/{{$value['name']}}.pdf" target="_blank">
                                 <img src="{{ url('/') }}/img/oyf/eu/{{$value['name']}}.jpg"/>
                             </a>
                         </div>
@@ -123,12 +123,12 @@ $downloads = array(
                         <div class="oyf-downloads-descrip">
                             <div class="oyf-downloads-desc1">
                                  	 	  		<span class="oyf-downloads-tabbed">
-                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/eu/17/{{$value['name']}}.pdf" target="_blank">
+                                 	 	  			<a href="{{ url('/') }}/pdfs/oyf/eu/18/{{$value['name']}}.pdf" target="_blank">
                                                         {{$value['label']}}
                                                     </a>
                                  	 	  		</span>
 
-                                <a href="{{ url('/') }}/pdfs/oyf/eu/17/{{$value['name']}}.pdf" target="_blank">
+                                <a href="{{ url('/') }}/pdfs/oyf/eu/18/{{$value['name']}}.pdf" target="_blank">
                                     {{$value['title']}}
                                 </a>
                             </div>
