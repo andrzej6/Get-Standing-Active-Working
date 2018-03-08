@@ -46,3 +46,45 @@ $(".go-to-onyourfeet-r").click(function(event){
 $(".go-to-oyfoffer").click(function(event){
     window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
 });
+
+
+$(".go-to-onyourfeet-download-uk").click(function(event){
+    window.open('http://onyourfeetday.com/britain/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-us").click(function(event){
+    window.open('http://onyourfeetday.com/america/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-can").click(function(event){
+    window.open('http://onyourfeetday.com/canada/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-aus").click(function(event){
+    window.open('http://onyourfeetday.com/australia/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-nirl").click(function(event){
+    window.open('http://onyourfeetday.com/northern_ireland/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-irl").click(function(event){
+    window.open('http://onyourfeetday.com/ireland/downloads','_blank');
+});
+
+$(".go-to-onyourfeet-download-eu").click(function(event){
+    window.open('http://onyourfeetday.com/europe/downloads','_blank');
+});
+
+
+
+
+
+
+
+
+
+
+
+
+

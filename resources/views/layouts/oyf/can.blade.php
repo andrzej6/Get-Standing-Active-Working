@@ -40,7 +40,7 @@ $sidemenu=array('index'=>'Event','downloads'=>'Downloads');
 			    
 
                 <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/can/slider/oyf18-andy.jpg" alt="" class="go-to-onyourfeet-r">
+                    <img src="{{ url('/') }}/img/oyf/can/slider/oyf18-andy.jpg" alt="" class="go-to-onyourfeet-download-can">
                 </div>
 				
 				<div class="oneByOne_item ls_bg1">
@@ -48,7 +48,7 @@ $sidemenu=array('index'=>'Event','downloads'=>'Downloads');
                 </div>
 				
 				<div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/can/slider/oyf18-sally.jpg" alt="" class="go-to-onyourfeet-r">
+                    <img src="{{ url('/') }}/img/oyf/can/slider/oyf18-sally.jpg" alt="" class="go-to-onyourfeet-download-can">
                 </div>
 				
 				<div class="oneByOne_item ls_bg1">
