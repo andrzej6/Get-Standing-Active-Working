@@ -140,6 +140,16 @@ class RegistrationsController extends Controller
         });
     }
 
+    public function optin(Request $request)
+    {
+
+        if (!empty($mailing_data))
+           $mailing_data = $request->all();
+        else $mailing_data = array();
+        return view('registrations.optin',compact('mailing_data'));
+    }
+
+
     public function gbs()
     {
         $customers = DB::connection('mysql2')->table('customers')->orderBy('date_created', 'desc')->paginate(10);
