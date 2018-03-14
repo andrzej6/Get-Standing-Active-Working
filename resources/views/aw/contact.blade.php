@@ -195,13 +195,15 @@
                         FREE TRIAL of Sit-Stand solutions
                     </div>
 
+                    <!--
                     <div class="checkbox-block">
                         {!!  Form::checkbox('offer[2]', 'nudge trial') !!}
                         FREE TRIAL of Little Nudge software
                     </div>
+                    -->
 
                     <div class="checkbox-block">
-                        {!!  Form::checkbox('offer[3]', 'active working seminar') !!}
+                        {!!  Form::checkbox('offer[2]', 'active working seminar') !!}
                         Book Active Working SEMINAR
                     </div>
                 </div>
