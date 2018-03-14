@@ -47,6 +47,16 @@ class AwController extends Controller
 
     }
 
+    public function optin(Request $request)
+    {
+        $page = 'optin';
+        $mainMenuOutput = Menu::getMenu($page);
+        if (!empty($mailing_data))
+            $mailing_data = $request->all();
+        else $mailing_data = array();
+        return view('registrations.optin',compact('mainMenuOutput','mailing_data','page'));
+    }
+
 
 
     public function summit($year='2017', $page='introduction')

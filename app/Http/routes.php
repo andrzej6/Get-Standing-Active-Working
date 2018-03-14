@@ -193,8 +193,7 @@ Route::group(['domain' => 'activeworking.com'], function()
     /*below sending csv files with registrations*/
     Route::get('sendcsv', 'RegistrationsController@sendcsv');
 
-    /*below sending csv files with registrations*/
-    Route::get('optin', 'RegistrationsController@optin');
+
 
     /* below displaying registrations routes */
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
@@ -217,6 +216,8 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::get('data_overview', 'RegistrationsController@overview');
 
 
+    /*below sending csv files with registrations*/
+    Route::get('optin', 'AwController@optin');
 
 
 
