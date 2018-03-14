@@ -51,10 +51,34 @@ class AwController extends Controller
     {
         $page = 'optin';
         $mainMenuOutput = Menu::getMenu($page);
-        if (!empty($request->all()))
-            $mailing_data = $request->all();
-        else $mailing_data = array();
-        return view('registrations.optin',compact('mainMenuOutput','mailing_data','page'));
+
+
+        if (!empty($request->all())) {
+            if (
+                filter_var($request->email, FILTER_VALIDATE_EMAIL) &&
+                (($request->list == 'DSE Assessors') || ($request->list == 'Allied Health')) &&
+                (($request->opt == 'yes') || ($request->opt == 'no'))
+               )
+            {
+
+                $user = DB::table('mailing_list')->where('email', $request->email)->where('list',$request->list)->first();
+                if (!empty($user))
+                {
+                    DB::table('mailing_list')->where('email', $request->email)->where('list',$request->list)->update(['opt' => $request->opt]);
+                }
+                else
+                {
+                    DB::table('mailing list')->insert(
+                        ['email' => $request->email, 'list' => $request->list, 'opt' => $request->opt]
+                    );
+                }
+                flash('Activation was successful. Thank you.','success');
+            }
+            else
+                flash('Activation was not successful. Empty or incorrect values','error');
+        }
+        else flash('Activation was not successful. Empty values','error');
+        return view('registrations.optin',compact('mainMenuOutput','page'));
     }
 
 

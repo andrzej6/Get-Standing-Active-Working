@@ -22,10 +22,24 @@
 @section('content-smallwidth')
 
     <div class="gbsintro link-line">
-           Thank you for confirmation.
+        @if (count($errors) > 0)
+            <div class="alert alert-danger">
+                <ul>
+                    <li>
+                        <strong>Correct following errors: </strong>
+                    </li>
+                    @foreach ($errors->all() as $error)
+                        <li>{{ $error }}</li>
+                    @endforeach
+                </ul>
+            </div>
+        @endif
 
-        {{$mailing_data['email']}}
-        {{$mailing_data['list']}}
+        @if (Session::has('status'))
+            <div class="alert alert-{{Session::get('level')}}">
+                <strong>{{Session::get('status')}}</strong>
+            </div>
+        @endif
     </div>
 
 @endsection
