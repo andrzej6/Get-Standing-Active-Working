@@ -24,8 +24,8 @@
     <div class="gbsintro link-line">
            Thank you for confirmation.
 
-        {{$mailing_data->email}}
-        {{$mailing_data->list}}
+        {{$mailing_data['email']}}
+        {{$mailing_data['list']}}
     </div>
 
 @endsection
