@@ -68,7 +68,7 @@ class AwController extends Controller
                 }
                 else
                 {
-                    DB::table('mailing list')->insert(
+                    DB::table('mailing_list')->insert(
                         ['email' => $request->email, 'list' => $request->list, 'opt' => $request->opt]
                     );
                 }
