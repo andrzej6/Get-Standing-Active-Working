@@ -15,6 +15,7 @@ class Menu {
             ], 'class' => ''
         ],
 
+        /*
         'Little Nudge' => ['link' => '#', 'sub' =>
             ['Introduction' => ['link' => 'littlenudge', 'class' => ''],
                 'Free Trial' => ['link' => 'nudge_trial', 'class' => ''],
@@ -22,6 +23,7 @@ class Menu {
                 'FAQ' => ['link' => 'nudge_faq', 'class' => '']
             ], 'class' => ''
         ],
+        */
 
         'Our Services' => ['link' => '#', 'sub' =>
             ['Introduction' => ['link' => 'introduction', 'class' => ''],

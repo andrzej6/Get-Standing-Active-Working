@@ -98,10 +98,11 @@
 
 
 
-
+                            <!--
                             <div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/aw/slider/big/slider1.jpg" alt="" class="go-to go-to-nudge">
                             </div>
+                            -->
 
 
 
@@ -499,6 +500,7 @@
                                 </li>
 
 
+                                <!--
 
                                 <li style="height: 266px; width:266px;">
                                     <a href="nudge_trial">
@@ -515,6 +517,7 @@
                                     </a>
 
                                 </li>
+                                -->
 
 
 
