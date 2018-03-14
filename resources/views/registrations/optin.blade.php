@@ -24,12 +24,7 @@
     <div class="gbsintro link-line">
            Thank you for confirmation.
 
-        @foreach ($mailing_data as $data)
-                {{$data->email}}
-                {{$data->list}}
-                {{$data->optin}}
-
-        @endforeach
+        {{$mailing_data}}
     </div>
 
 @endsection

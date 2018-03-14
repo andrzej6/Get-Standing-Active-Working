@@ -52,7 +52,7 @@ class AwController extends Controller
         $page = 'optin';
         $mainMenuOutput = Menu::getMenu($page);
         if (!empty($request->all()))
-            $mailing_data = $request->all();
+            $mailing_data = print_r($request->all());
         else $mailing_data = array();
         return view('registrations.optin',compact('mainMenuOutput','mailing_data','page'));
     }
