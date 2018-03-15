@@ -47,7 +47,7 @@ class AuSend2Emails extends Job implements ShouldQueue
             $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
             $message->cc('info@activeworking.com');
-            $message->subject('GetAustraliaStanding.Com. Details from enquiry form');
+            $message->subject('GetAustraliaStanding.Com | General Enquiry');
         });
     }
 }

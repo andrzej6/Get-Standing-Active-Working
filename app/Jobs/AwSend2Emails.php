@@ -49,7 +49,7 @@ class AwSend2Emails extends Job implements ShouldQueue
             $message->to('info@activeworking.com');
             $message->to('ellie@activeworking.com');
             $message->cc('web@activeworking.com');
-            $message->subject('ACTIVEWORKING.COM. Details from enquiry form');
+            $message->subject('ACTIVE WORKING | General Enquiry');
         });
     }
 }

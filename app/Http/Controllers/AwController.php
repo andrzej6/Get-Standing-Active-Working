@@ -145,7 +145,7 @@ class AwController extends Controller
             $message->to('web@activeworking.com');
             $message->cc('info@activeworking.com');
             $message->bcc('sarah.brain@activeworking.com');
-            $message->subject('Message from Summit Contact Form');
+            $message->subject('ACTIVE WORKING | Summit Enquiry');
         });
 
         flash('Thank you for your enquiry, we will be in touch shortly.', 'success');

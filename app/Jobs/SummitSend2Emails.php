@@ -51,7 +51,7 @@ class SummitSend2Emails extends Job implements ShouldQueue
 			$message->to('ellie@activeworking.com');
             $message->cc('info@activeworking.com');
             //$message->bcc('sarah.brain@activeworking.com');
-            $message->subject('ACTIVE WORKING SUMMIT REGITRATION. Details');
+            $message->subject('ACTIVE WORKING | Summit Registration');
         });
 
 

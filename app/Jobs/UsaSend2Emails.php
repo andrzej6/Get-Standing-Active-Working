@@ -47,7 +47,7 @@ class UsaSend2Emails extends Job implements ShouldQueue
             $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
             $message->cc('info@activeworking.com');
-            $message->subject('GetAmericaStanding.Com. Details from enquiry form');
+            $message->subject('GetAmericaStanding.Com | General Enquiry');
         });
     }
 }
