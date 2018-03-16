@@ -45,7 +45,7 @@
     <span style="color:#57b8d9;font-weight: bold">#OYF18</span> or
     <span style="color:#57b8d9;font-weight: bold">#OnYourFeetBritain</span> with
     <a href="https://twitter.com/getGBstanding?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">@getGBstanding</a>
-   before April 30th 2018. The winners will be selected from the most imaginative, funny and original captions posted. 
+   <strong>before April 30th 2018</strong>. The winners will be selected from the most imaginative, funny and original captions posted. 
    Think different to stand out for our judging panel to see you capture the spirit and objectives of 
    <span style="color:#57b8d9;font-weight: bold">On Your Feet Day</span>.
 	
@@ -98,7 +98,8 @@
 	
 	
 	
-	<a href="http://onyourfeetday.com/britain/winners" style="color:#ff3f72;font-weight: bold;font-size: 16px;font-style:underline">Win 20 Prizes from Yo-YoDesk®</a>
+	<a href="http://onyourfeetday.com/britain/winners" style="color:#ff3f72;font-weight: bold;font-size: 16px; text-decoration: underline">
+	Winners from Last Year – The bunch of the crop!</a><br/><br/>
 	
 <!--
     <div style="display: inline-block;width:100px">Best Group:</div>
