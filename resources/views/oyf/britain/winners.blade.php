@@ -27,22 +27,19 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue" style="font-size: 1.8em">Active Workers Making Sure #SitLess #MoveMore Message Goes
-        Beyond On Your Feet Day.</span><br/><br/>
+    <span class="oyf-newblue" style="font-size: 1.8em">On Your Feet 2017 – Last Year’s Winners Stories</span><br/><br/>
 
 
-    <span class="oyf-newpink"><strong>On Your Feet Day (OYF)</strong> is now a standing fixture (sorry!) on the workplace
-        wellbeing calendar, and this year’s event saw a record number of businesses and employees adopting
-        the ‘wiggle it waggle it’ message to boost health.</span><br/><br/>
+    Special thanks to  our sponsor <a href="http://sit-stand.com/" target="_blank" style="text-decoration: underline;color:#57b8d9">
+	Sit-Stand.Com</a> who kindly donated some 
+	<a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline;color:#57b8d9">
+	Yo-Yo Desks</a> as prizes for star participants in 2017. <br/><br/>
+
+   <a href="http://onyourfeetday.com/britain/competition" target="_blank" style="text-decoration: underline;color:#57b8d9">
+   To enter the competition in 2018 see details here</a>. It’s simple, we need all your fun, imaginative and instructive images and videos. 
 
 
-    To mark this year’s OYF Day, sponsor
-    <a href="http://sit-stand.com/" target="_blank" style="text-decoration: underline;color:#57b8d9">Sit-Stand.Com</a>
-    kindly donated some
-    <a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline;color:#57b8d9">Yo-Yo Desks</a>
-    as prizes
-    for star participants in the event. Many thanks to all who entered: we LOVED seeing all your fun,
-    imaginative and instructive images and videos.
+
 
     <br/><br/><br/>
 
@@ -176,23 +173,7 @@
 
 
 
-    <br/><br/>
-    <span class="oyf-newpink fbigger fbold">On Year Feet 2018</span> <br/><br/>
-
-    More than 2,500 businesses and 1.5 million office workers signed up for OYF 2017 –
-    organised by <strong>Get Britain Standing</strong> to raise awareness of the dangers of sedentary
-    behaviour in the workplace. And it’s not just UK workers taking part: since it started back
-    in 2015, On Your Feet Day has now been adopted by countries as widespread as Spain, USA, Canada,
-    Ireland and Australia.<br/><br/>
-
-    <a href="http://onyourfeetday.com/signup" target="_blank" style="text-decoration: underline;color:#57b8d9">Sign up here</a>
-    <br/><br/>
-
-    Visit <a href="http://getbritainstanding.org/" target="_blank" style="text-decoration: underline;color:#57b8d9">Get Britain Standing</a> for information about the benefits of getting active during your working day.
-    <br/><br/>
-
-    Visit <a href="https://sit-stand.com/freetrial" target="_blank" style="text-decoration: underline;color:#57b8d9">Sit-Stand.Com</a> to find out more about FREE TRIAL of their stylish, affordable range of standing
-    desks and desk risers.
+    
 
 
 @endsection
