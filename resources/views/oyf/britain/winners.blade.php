@@ -27,7 +27,7 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue" style="font-size: 1.8em;font-weight:bold">On Your Feet 2017 – Last Year’s Winners Stories</span><br/><br/>
+    <span class="oyf-newblue" style="font-size: 1.8em;font-weight:bold">On Your Feet 2017 – Last Year’s Winners Stories</span><br/><br/><br/>
 
 
     Special thanks to  our sponsor <a href="http://sit-stand.com/" target="_blank" style="text-decoration: underline;color:#57b8d9">
