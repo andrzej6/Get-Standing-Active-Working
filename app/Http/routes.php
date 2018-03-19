@@ -196,6 +196,7 @@ Route::group(['domain' => 'activeworking.com'], function()
 
 
     /* below displaying registrations routes */
+	/* below removed display server customer data on browser 
     Route::get('data_gbsreg', 'RegistrationsController@gbs');
     Route::get('data_gbspopup', 'RegistrationsController@gbspopup');
 
@@ -215,6 +216,7 @@ Route::group(['domain' => 'activeworking.com'], function()
     Route::get('data_oyfreg', 'RegistrationsController@oyf');
     Route::get('data_overview', 'RegistrationsController@overview');
 
+	*/
 
     /*below sending csv files with registrations*/
     Route::get('optin', 'AwController@optin');
