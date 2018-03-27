@@ -73,16 +73,16 @@
 	 <span style="color:#57b8d9;font-weight: bold;font-size: 16px;">Best Groups:</span><br/><br/>
 	 
 	2 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">
-	Yo-YoDesk MINI </a>(Black)<br/>
-	2 x <a href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-YoDesk 90</a> (Black)<br/>
-	2 x <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-YoDesk GO</a> (Black / White)<br/>
+	Yo-Yo Desk MINI </a>(Black)<br/>
+	2 x <a href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-Yo Desk 90</a> (Black)<br/>
+	2 x <a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-Yo Desk GO</a> (Black / White)<br/>
 	6 x <a href="https://sit-stand.com/standard-comfort-mats/164-yo-yo-mat.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-Yo Mat</a> (Standard / Large Size)<br/>
 	<br/>
 	
 	<span style="color:#57b8d9;font-weight: bold;font-size: 16px;">Best Females:</span><br/><br/>
 	 
 	1 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">
-	Yo-YoDesk MINI </a>(Black)<br/>
+	Yo-Yo Desk MINI </a>(Black)<br/>
 	3 x <a href="https://sit-stand.com/standard-comfort-mats/164-yo-yo-mat.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-Yo Mat</a> (Standard / Large Size)<br/>
 	<br/>
 	
@@ -91,7 +91,7 @@
 	<span style="color:#57b8d9;font-weight: bold;font-size: 16px;">Best Males:</span><br/><br/>
 	 
 	1 x <a href="https://sit-stand.com/desk-risers/120-yo-yo-desk-mini.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">
-	Yo-YoDesk MINI </a>(Black)<br/>
+	Yo-Yo Desk MINI </a>(Black)<br/>
 	3 x <a href="https://sit-stand.com/standard-comfort-mats/164-yo-yo-mat.html" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Yo-Yo Mat</a> (Standard / Large Size)<br/>
 	<br/><br/><br/>
 	
