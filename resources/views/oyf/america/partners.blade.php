@@ -1,4 +1,4 @@
-@extends('layouts.oyf.gb')
+@extends('layouts.oyf.us')
 
 @section('header-styles')
     @parent
