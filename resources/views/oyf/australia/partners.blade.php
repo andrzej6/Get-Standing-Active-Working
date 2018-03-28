@@ -1,4 +1,4 @@
-@extends('layouts.oyf.can')
+@extends('layouts.oyf.aus')
 
 @section('header-styles')
     @parent
@@ -19,7 +19,7 @@
 @endsection
 
 @section('title')
-    On Your Feet Canada
+    On Your Feet Australia
 @endsection
 
 
