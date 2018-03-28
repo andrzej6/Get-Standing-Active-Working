@@ -203,8 +203,8 @@
                 <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo1.jpg"/>
             </a>
 
-            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo2.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo2.jpg"/>
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/go2-large.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/go2-small.jpg"/>
             </a>
         </div>
         <div class="clear"></div>
