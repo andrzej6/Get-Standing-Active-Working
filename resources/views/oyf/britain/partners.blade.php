@@ -238,9 +238,7 @@
         </div>
 
         <div class="aw-partners-pics-s">
-            <a class="fancybox" rel="group18" href="{{ url('/') }}/img/aw/summit/partners/fancybox/steppi1.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/steppi2.jpg"/>
-            </a>
+            &nbsp;
         </div>
 
         <div class="clear"></div>
