@@ -353,7 +353,7 @@
         </div>
 
         <div class="aw-partners-text-s">
-            Steppie is ”The Missing Link” for having the full benefit to any sit/stand solutions.
+            <a href="https://steppie.dk/en/" target="_blank" style="text-decoration:underline;">Steppie</a> is ”The Missing Link” for having the full benefit to any sit/stand solutions.
             With a Steppie you stand longer, while <i>dynamic</i> posture suits the body best.
 
         </div>
