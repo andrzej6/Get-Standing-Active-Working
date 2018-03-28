@@ -199,8 +199,8 @@
         </div>
 
         <div class="aw-partners-pics-m">
-            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/yoyo1.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/yoyo1.jpg"/>
+            <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/90-large.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/90-small.jpg"/>
             </a>
 
             <a class="fancybox" rel="group1a" href="{{ url('/') }}/img/aw/summit/partners/fancybox/go2-large.jpg">
