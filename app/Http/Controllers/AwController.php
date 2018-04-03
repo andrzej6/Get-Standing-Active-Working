@@ -56,7 +56,7 @@ class AwController extends Controller
         if (!empty($request->all())) {
             if (
                 filter_var($request->email, FILTER_VALIDATE_EMAIL) &&
-                (($request->list == 'DSE Assessors') || ($request->list == 'Allied Health') || ($request->list == 'Gavin Contacts')) &&
+                (($request->list == 'DSE Assessors') || ($request->list == 'Allied Health') || ($request->list == 'Gavin contacts')) &&
                 (($request->opt == 'yes') || ($request->opt == 'no'))
                )
             {
