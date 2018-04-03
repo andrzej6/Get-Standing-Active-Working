@@ -44,11 +44,11 @@ $(".go-to-onyourfeet-r").click(function(event){
 });
 
 $(".go-to-oyfoffer").click(function(event){
-    window.open('https://sit-stand.com/on-your-feet-promotion');
+    window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
 });
 
 $(".go-to-competition").click(function(event){
-    window.open('http://onyourfeetday.com/britain/competition','_blank');
+    window.open('http://onyourfeetday.com/britain/competition');
 });
 
 
