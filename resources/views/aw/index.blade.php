@@ -304,7 +304,7 @@
                     -->
 					
 					
-					<a href="http://onyourfeetday.com/britain/competition" target="_blank">
+					<a href="http://onyourfeetday.com/britain/competition">
                         <img src="{{ url('/') }}/img/aw/oyf-com.jpg">
                     </a>
 
