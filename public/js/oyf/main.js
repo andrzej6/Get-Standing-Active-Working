@@ -47,6 +47,10 @@ $(".go-to-oyfoffer").click(function(event){
     window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
 });
 
+$(".go-to-competition").click(function(event){
+    window.open('http://onyourfeetday.com/britain/competition','_blank');
+});
+
 
 $(".go-to-onyourfeet-download-uk").click(function(event){
     window.open('http://onyourfeetday.com/britain/downloads','_blank');

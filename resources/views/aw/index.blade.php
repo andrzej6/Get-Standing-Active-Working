@@ -297,11 +297,18 @@
                     <a href="http://activeworking.com/summit/2017/introduction" target="_blank">
                         <img src="{{ url('/') }}/img/aw/aw-big.jpg">
                     </a>
-                    -->
-
-                    <a href="http://onyourfeetday.com/" target="_blank">
+					
+					<a href="http://onyourfeetday.com/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/onyourfeet-index2.jpg">
                     </a>
+                    -->
+					
+					
+					<a href="http://onyourfeetday.com/britain/competition" target="_blank">
+                        <img src="{{ url('/') }}/img/aw/oyf-com.jpg">
+                    </a>
+
+                    
 
 
                 </div>
