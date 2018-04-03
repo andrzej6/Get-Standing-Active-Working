@@ -44,7 +44,7 @@ $(".go-to-onyourfeet-r").click(function(event){
 });
 
 $(".go-to-oyfoffer").click(function(event){
-    window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
+    window.open('https://sit-stand.com/on-your-feet-promotion');
 });
 
 $(".go-to-competition").click(function(event){
