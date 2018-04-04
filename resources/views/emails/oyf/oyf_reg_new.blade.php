@@ -19,12 +19,13 @@
 
 	 UK posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF18"</span>.
-    Other communication materials will be available from March 16th 2018. </span>
+     </span>
     <br/><br/>
     <!--
     All posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF17"</span>.</span>
     <br/><br/>
+	Other communication materials will be available from March 16th 2018.
     -->
 
     @include('shared.oyf.email_supporters')
