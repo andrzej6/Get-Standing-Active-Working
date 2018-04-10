@@ -45,9 +45,22 @@
                         <div id="banner1" class="OneByOne_container">
 						
 						<!--
-						<div class="oneByOne_item ls_bg1">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/big/survey2.jpg" alt="oyf" class="go-to go-to-survey-do">
-						</div>
+						
+						BELOW 2 FOR OYF OFFERS
+									
+                                      <div>
+                                        <a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
+                                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-freedesk.jpg">
+                                        </a>
+                                    </div>
+									
+									<div>
+                                        <a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
+                                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-mat.jpg">
+                                        </a>
+                                    </div>
+						
+						
 						-->
 						
 						
@@ -675,7 +688,7 @@
         });
 
         $(".go-to-oyfoffer").click(function(event){
-            window.open('https://sit-stand.com/on-your-feet-promotion','_blank');
+            window.open('https://sit-stand.com/on-your-feet-offers','_blank');
         });
 
         $(".go-to-competition").click(function(event){
