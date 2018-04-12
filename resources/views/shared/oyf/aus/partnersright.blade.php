@@ -23,6 +23,7 @@
 
 
 
+	<!--
     <div class="aw-partners-platinum">
         <p>
             <a href="https://www.baker.edu.au/" target="_blank">
@@ -30,6 +31,7 @@
             </a>
         </p>
     </div>
+	-->
 
     <br/>
     <br/>

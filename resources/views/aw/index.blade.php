@@ -397,9 +397,24 @@
                 -->
 				
 				
-				                    
+				    <div>
+						<a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-mat.jpg">
+						</a>
+					</div>
+					
+					<div>
+						<a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-freedesk.jpg">
+						</a>
+					</div>           
 
 
+					<div>
+                        <a href="https://www.ajproducts.co.uk/office-conference/office-furniture/sit-stand-furniture/26554284.wf?utm_source=Get%20Britain%20Standing&utm_medium=Banner&utm_campaign=Sit-Stand%20Furniture" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/aj-thin.jpg">
+                        </a>
+                    </div>
 
                     <div>
                         <a href="https://sit-stand.com/blog" target="_blank">
@@ -411,11 +426,7 @@
 
 
 
-                    <div>
-                        <a href="https://www.ajproducts.co.uk/office-conference/office-furniture/sit-stand-furniture/26554284.wf?utm_source=Get%20Britain%20Standing&utm_medium=Banner&utm_campaign=Sit-Stand%20Furniture" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/aj-thin.jpg">
-                        </a>
-                    </div>
+                    
 
                     <div>
                         <a href="http://www.fellowes.com/" target="_blank">
