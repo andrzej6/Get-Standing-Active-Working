@@ -143,7 +143,7 @@
     <img src="{{ url('/') }}/img/aw/ads/message/feel_alternating1.png" class="restofsmall-pic"  alt=""/>
 
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18g.jpg" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf19-gb.png" alt="oyf"/>
     </a>
 
 
