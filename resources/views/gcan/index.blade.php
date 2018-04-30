@@ -40,7 +40,7 @@
 
                         
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/can/slider/big/oyf18-1.jpg" alt="" class="go-to go-to-oyf">
+                            <img src="img/getstanding/can/slider/big/oyf19-can.jpg" alt="" class="go-to go-to-oyf">
                         </div>
                         
 

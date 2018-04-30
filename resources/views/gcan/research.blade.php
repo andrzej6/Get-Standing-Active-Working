@@ -815,7 +815,7 @@
     <img src="img/getstanding/can/ads/message/standing.png" class="restofsmall-pic" alt="standing at work"/>
 
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
-        <img src="img/getstanding/can/ads/oyf/oyf18g.jpg" alt="oyf"/>
+        <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
 
     <a href="http://www.fellowes.com/" target="_blank">

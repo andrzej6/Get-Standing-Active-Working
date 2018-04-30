@@ -135,7 +135,7 @@
 @section('content-restofsmall')
 
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
-        <img src="img/getstanding/can/ads/oyf/oyf18f.jpg" alt="oyf"/>
+        <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
 	
     <img src="img/getstanding/can/ads/message/avoid.png" class="restofsmall-pic" alt="avoid"/>
