@@ -229,7 +229,7 @@
     </a>
 
      <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf18a.jpg" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf19-gb.png" alt="oyf"/>
     </a>
 
 
