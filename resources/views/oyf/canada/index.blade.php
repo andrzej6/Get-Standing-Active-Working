@@ -29,12 +29,12 @@
     <h1 class="oyf-newpink">On Your Feet Canada</h1>
 
     The <strong>Get Canada Standing</strong> campaign is partnering with the a major health charity to run
-    a new event called <strong>On Your Feet Canada</strong> taking place in <strong>April 2018</strong>. <br/><br/>
+    a new event called <strong>On Your Feet Canada</strong> taking place in <strong>April 2019</strong>. <br/><br/>
 
     Take part in our national day when workers across Canada unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
     <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
-    <span class="oyf-newpink fbiggerhalf fbold">Friday 27th April</span>.
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 26th April</span>.
     <br/><br/><br/>
 
 

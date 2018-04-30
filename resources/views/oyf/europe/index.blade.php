@@ -31,7 +31,7 @@
 
 
     The <strong>Get Europe Standing</strong> campaign is organizing a new event called
-    <strong>On Your Feet Europe</strong> taking place in <strong>April 2018</strong>. <br/><br/>
+    <strong>On Your Feet Europe</strong> taking place in <strong>April 2019</strong>. <br/><br/>
 
 
 
@@ -39,7 +39,7 @@
     Take part in our national day when workers across Europe unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
     <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
-    <span class="oyf-newpink fbiggerhalf fbold">Friday 28th April</span>.
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 26th April</span>.
 
 
 
@@ -60,7 +60,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 27th April 2018</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 26th April 2019</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 

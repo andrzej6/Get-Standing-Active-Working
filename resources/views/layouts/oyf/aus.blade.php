@@ -41,8 +41,16 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
     <div class="span12 module_cont module_layer_slider">
         <div class="module_content slider_type1">
             <div id="banner1" class="OneByOne_container">
+			
+			     <div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/thankyou-aus.jpg" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
 
-                <div class="oneByOne_item ls_bg1">
+                
+
+
+                <!--
+				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/aus/slider/oyf18-josh.jpg" alt="" class="go-to-onyourfeet-r">
                 </div>
 				
@@ -59,9 +67,8 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
 				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/aus/slider/oyf18-andy.jpg" alt="" class="go-to-onyourfeet-download-aus">
                 </div>
-
-
-                <!--
+				
+				
                 <div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/aus/slider/oyf-aus2.jpg" alt="" class="go-to-onyourfeet-r">
                 </div>
