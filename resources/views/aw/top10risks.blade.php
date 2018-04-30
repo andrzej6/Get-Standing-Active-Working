@@ -770,7 +770,7 @@
     <img src="img/getstanding/can/ads/message/whenyousit.png" class="restofsmall-pic" alt="advert"/>
 
     <a href="http://onyourfeetday.com" target="_blank" class="sup-nobg">
-        <img src="img/getstanding/can/ads/oyf.jpg" alt="advert" /> <br/>
+        <img src="img/getstanding/gb/ads/oyf/oyf19-gb.png" alt="advert" /> <br/>
     </a>
 
 
