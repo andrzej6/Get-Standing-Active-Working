@@ -64,7 +64,7 @@
 @section('content-restofsmall')
 
  <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
-        <img src="img/getstanding/usa/ads/oyf/oyf18f.jpg" alt="oyf"/>
+        <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
 
     <a href="http://standupkids.org/" target="_blank" class="sup-nobg">

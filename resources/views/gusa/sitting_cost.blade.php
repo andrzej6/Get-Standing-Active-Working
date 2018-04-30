@@ -149,7 +149,7 @@
 
 
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
-        <img src="img/getstanding/usa/ads/oyf/oyf18e.jpg" alt="oyf"/>
+        <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
 
     <a href="http://www.fellowes.com/sitstands" target="_blank">

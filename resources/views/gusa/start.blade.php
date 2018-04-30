@@ -111,7 +111,7 @@
     </a>
 
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
-        <img src="img/getstanding/usa/ads/oyf/oyf18.jpg" alt="oyf"/>
+        <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
 
 
