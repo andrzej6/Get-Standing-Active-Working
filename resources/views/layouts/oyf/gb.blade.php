@@ -36,6 +36,10 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
                     <img src="{{ url('/') }}/img/oyf/gb/slider/oyf-competition.jpg" alt="" class="go-to-competition go-to">
                 </div>
 				
+				
+
+                <!--
+				
 				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/gb/slider/oyf18-amy.jpg" alt="" class="go-to-onyourfeet-r go-to">
                 </div>
@@ -52,8 +56,18 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
 				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/gb/slider/oyf18-sally.jpg" alt="" class="go-to-onyourfeet-download-uk go-to">
                 </div>
-
-                <!--
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
                 <div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/oyf-promo.jpg" alt="" class="go-to-oyfoffer go-to">
                 </div>

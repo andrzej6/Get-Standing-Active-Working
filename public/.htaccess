@@ -19,6 +19,11 @@
 
     RewriteCond %{HTTP_HOST} ^www.getcanadastanding.org$ [NC]
     RewriteRule ^(.*)$ http://getcanadastanding.org/$1 [R=301,L]
+	
+	
+	
+	RewriteCond %{HTTP_HOST} ^www.onyourfeetday.com$ [NC]
+    RewriteRule ^(.*)$ http://onyourfeetday.com/$1 [R=301,L]
 
 
 

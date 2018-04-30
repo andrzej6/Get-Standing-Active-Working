@@ -11,16 +11,23 @@
 
 
     <span style="font-size:12.0pt;">Thank you for registering for <strong>On Your Feet Day</strong> taking place:
-    <span  style="color:#57b8d9;font-weight: bold">Friday 27th April 2018</span>,
+    <span  style="color:#57b8d9;font-weight: bold">Friday 26th April 2019</span>,
     in your office and all around the world.
     <br/><br/>
+	
+	
+	All posters and communication materials will be available from March 2019.
+    
+	
 
 
-
+     <!--
 	 UK posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF18"</span>.
      </span>
     <br/><br/>
+	
+	-->
     <!--
     All posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF17"</span>.</span>
