@@ -37,7 +37,7 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
 
 
 @section('oyf-slider')
-<!--
+
     <div class="span12 module_cont module_layer_slider">
         <div class="module_content slider_type1">
             <div id="banner1" class="OneByOne_container">
@@ -67,7 +67,7 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
         </div>
 
     </div>
-	-->
+	
 @endsection
 
 
