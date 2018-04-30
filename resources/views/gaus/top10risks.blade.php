@@ -774,7 +774,7 @@
     </a>
 
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
-        <img src="img/getstanding/aus/ads/oyf/oyf18e.jpg" alt="oyf"/>
+        <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
 
     <img src="img/getstanding/aus/ads/message/effects.png" class="restofsmall-pic" alt="advert"/>

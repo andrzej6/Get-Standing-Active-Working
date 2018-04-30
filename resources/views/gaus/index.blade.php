@@ -40,7 +40,7 @@
 
                         
                         <div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/oyf18-2.jpg" alt="" class="go-to go-to-oyf">
+                            <img src="img/getstanding/aus/slider/big/oyf19-aus.jpg" alt="" class="go-to go-to-oyf">
                         </div>
                        
 
@@ -61,9 +61,7 @@
                         </div>
 						
 						
-						<div class="oneByOne_item ls_bg1">
-                            <img src="img/getstanding/aus/slider/big/oyf18-1.jpg" alt="" class="go-to go-to-oyf">
-                        </div>
+						
 
                         <div class="oneByOne_item ls_bg1">
                             <img src="img/getstanding/aus/slider/big/slider5.jpg" alt="" class="go-to">

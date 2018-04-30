@@ -75,7 +75,7 @@
     </a>
 	-->
 	<a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
-        <img src="img/getstanding/aus/ads/oyf/oyf18f.jpg" alt="oyf"/>
+        <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
 
     <img src="img/aw/ads/message/feel_alternating2.png" class="restofsmall-pic" alt=""/>
