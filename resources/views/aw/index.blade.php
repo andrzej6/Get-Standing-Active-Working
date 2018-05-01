@@ -396,12 +396,9 @@
 						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyomat-thin.jpg">
 					</a>
 				</div>
-
-
-                -->
 				
 				
-				    <div>
+				 <div>
 						<a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-mat.jpg">
 						</a>
@@ -411,7 +408,13 @@
 						<a href="https://sit-stand.com/on-your-feet-offers" target="_blank">
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-freedesk.jpg">
 						</a>
-					</div>           
+					</div>   
+
+
+                -->
+				
+				
+				           
 
 
 					<div>
