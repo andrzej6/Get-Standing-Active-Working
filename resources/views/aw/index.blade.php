@@ -414,7 +414,12 @@
                 -->
 				
 				
-				           
+				        
+					  <div>
+						<a href="https://sit-stand.com/electric-desks/176-yo-yo-desk-pro-2-plus.html" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-pro25percent.png">
+						</a>
+					</div>						
 
 
 					<div>
@@ -422,6 +427,18 @@
                             <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/aj-thin.jpg">
                         </a>
                     </div>
+					
+					
+					
+					<div>
+						<a href="https://sit-stand.com/electric-desks/176-yo-yo-desk-pro-2-plus.html" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-gomat.png">
+						</a>
+					</div>
+					
+					
+					
+					
 
                     <div>
                         <a href="https://sit-stand.com/blog" target="_blank">
@@ -430,16 +447,30 @@
                     </div>
 
 
+					<div>
+                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
+                        </a>
+                    </div>
 
 
 
-                    
+                    <!--
 
                     <div>
                         <a href="http://www.fellowes.com/" target="_blank">
                             <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1a.jpg">
                         </a>
                     </div>
+					
+					
+					
+					<div>
+                    <a href="http://sit-stand.com/comfort-mats/25-comfort-mat.html" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider5.jpg">
+                    </a>
+                </div>
+					-->
 
 
 
@@ -451,25 +482,17 @@
 
 
                 <div>
-                    <a href="http://yo-yodesk.com/yoyo-go" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyo-go.jpg">
-                    </a>
-                </div>
+					<a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-yoyo.png">
+					</a>
+				</div>
 
-                    <div>
-                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
-                        </a>
-                    </div>
+                    
 
 
 
 
-                <div>
-                    <a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/yoyo.jpg">
-                    </a>
-                </div>
+                
 
 
 
@@ -490,11 +513,7 @@
                 </div>
 
 
-                <div>
-                    <a href="http://sit-stand.com/comfort-mats/25-comfort-mat.html" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider5.jpg">
-                    </a>
-                </div>
+                
 
 
 
