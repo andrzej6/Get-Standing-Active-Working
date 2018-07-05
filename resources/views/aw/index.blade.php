@@ -431,7 +431,7 @@
 					
 					
 					<div>
-						<a href="https://sit-stand.com/electric-desks/176-yo-yo-desk-pro-2-plus.html" target="_blank">
+						<a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-gomat.png">
 						</a>
 					</div>
@@ -471,6 +471,12 @@
                     </a>
                 </div>
 					-->
+					
+					 <div>
+					<a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-yoyo.png">
+					</a>
+				</div>
 
 
 
@@ -481,11 +487,7 @@
                     </div>
 
 
-                <div>
-					<a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
-						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-yoyo.png">
-					</a>
-				</div>
+               
 
                     
 
