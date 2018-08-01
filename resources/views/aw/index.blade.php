@@ -409,6 +409,13 @@
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-freedesk.jpg">
 						</a>
 					</div>   
+					
+					
+					<div>
+						<a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-gomat.png">
+						</a>
+					</div>
 
 
                 -->
@@ -430,11 +437,7 @@
 					
 					
 					
-					<div>
-						<a href="https://sit-stand.com/desk-risers/156-yo-yo-desk-go1.html" target="_blank">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-gomat.png">
-						</a>
-					</div>
+					
 					
 					
 					
