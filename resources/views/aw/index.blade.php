@@ -480,6 +480,14 @@
                         <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider5.jpg">
                     </a>
                 </div>
+				deskpro below
+				
+				<div>
+                    <a href="https://sit-stand.com/freetrial" target="_blank">
+                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider4.jpg">
+                    </a>
+                </div>
+				
 					-->
 					
 					 <div>
@@ -509,11 +517,7 @@
 
 
 
-                <div>
-                    <a href="https://sit-stand.com/freetrial" target="_blank">
-                        <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider4.jpg">
-                    </a>
-                </div>
+                
 
 
 
