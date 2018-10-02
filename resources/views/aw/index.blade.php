@@ -416,6 +416,12 @@
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-gomat.png">
 						</a>
 					</div>
+					
+					<div>
+						<a href="https://sit-stand.com/back-to-school" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/back-to-school-home.png">
+						</a>
+					</div>
 
 
                 -->
@@ -437,13 +443,13 @@
 					
 					
 					
-					<div>
-						<a href="https://sit-stand.com/back-to-school" target="_blank">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/back-to-school-home.png">
-						</a>
-					</div>
 					
 					
+					 <div>
+                        <a href="https://sit-stand.com/blog" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/bbc-thin.jpg">
+                        </a>
+                    </div>
 					
 					
 
@@ -457,11 +463,7 @@
                     </div>
 					
 					
-					 <div>
-                        <a href="https://sit-stand.com/blog" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/bbc-thin.jpg">
-                        </a>
-                    </div>
+					
 
 
 
