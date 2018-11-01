@@ -423,16 +423,18 @@
 						</a>
 					</div>
 
+					
+					 <div>
+						<a href="https://sit-stand.com/electric-desks/176-yo-yo-desk-pro-2-plus.html" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-pro25percent.png">
+						</a>
+					</div>	
 
                 -->
 				
 				
 				        
-					  <div>
-						<a href="https://sit-stand.com/electric-desks/176-yo-yo-desk-pro-2-plus.html" target="_blank">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-pro25percent.png">
-						</a>
-					</div>						
+					 					
 
 
 					<div>
