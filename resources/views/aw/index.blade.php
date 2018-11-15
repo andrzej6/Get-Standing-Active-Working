@@ -438,13 +438,17 @@
 
 
 					<div>
-                        <a href="https://www.ajproducts.co.uk/office-conference/office-furniture/sit-stand-furniture/26554284.wf?utm_source=Get%20Britain%20Standing&utm_medium=Banner&utm_campaign=Sit-Stand%20Furniture" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/aj-thin.jpg">
+						<a href="https://sit-stand.com/125-yo-yo-desk-slim" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-slim.png">
+						</a>
+					</div>
+					
+					
+					<div>
+                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
                         </a>
                     </div>
-					
-					
-					
 					
 					
 					 <div>
@@ -456,13 +460,13 @@
 					
 
                    
-
-
-					<div>
-                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
+                    <div>
+                        <a href="https://sit-stand.com/desk-risers/162-freedesk.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/freedesk.jpg">
                         </a>
                     </div>
+
+					
 					
 					
 					
@@ -502,11 +506,7 @@
 
 
 
-                    <div>
-                        <a href="https://sit-stand.com/desk-risers/162-freedesk.html" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/freedesk.jpg">
-                        </a>
-                    </div>
+                   
 
 
                
