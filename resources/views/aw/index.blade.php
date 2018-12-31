@@ -431,8 +431,13 @@
 					</div>	
 
                 -->
-				
-				
+					
+					
+					<div>
+						<a href="https://sit-stand.com/january-sale-offers" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/january-thin.png">
+						</a>
+					</div>
 				        
 					 					
 
