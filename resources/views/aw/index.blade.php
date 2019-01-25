@@ -439,23 +439,28 @@
                 -->
 					
 					
-					
+					<div>
+						<a href="https://sit-stand.com/manual-lift/181-yo-yo-desk-learn.html" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-learn.png">
+						</a>
+					</div>
 				        
-					 					
+					 		
+                    <div>
+                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
+                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
+                        </a>
+                    </div>							
 
 
 					<div>
 						<a href="https://sit-stand.com/125-yo-yo-desk-slim" target="_blank">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-slim.png">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-slim-new.png">
 						</a>
 					</div>
 					
 					
-					<div>
-                        <a href="https://sit-stand.com/wobble-boards/160-steppie.html" target="_blank">
-                            <img src="{{ url('/') }}/img/getstanding/gb/slider/thin/slider-1b.jpg">
-                        </a>
-                    </div>
+					
 					
 					
 					 <div>
@@ -507,7 +512,7 @@
 					
 					 <div>
 					<a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
-						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-yoyo.png">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-yyd-new.png">
 					</a>
 				</div>
 
@@ -540,7 +545,11 @@
                 </div>
 
 
-                
+                <div>
+					<a href="https://sit-stand.com" target="_blank">
+						<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-sst-new.png">
+					</a>
+				</div>
 
 
 
