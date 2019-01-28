@@ -291,6 +291,34 @@
 
         <div id="gbs-slideshow">
 
+		
+		<div>
+                <a href="https://yo-yodesk.com/collections/yoyo-slim" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/yyd-slim.png">
+                </a>
+            </div>
+			
+			<div>
+                <a href="https://yo-yodesk.com/pages/special-offers" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/yyd-freemat.png">
+                </a>
+            </div>
+			
+			<div>
+				<a href="https://sit-stand.com/126-flytta" target="_blank">
+					<img src="img/getstanding/gb/slider/thin/flytta-new.png">
+				</a>
+			</div>
+		
+		   
+		   <div>
+                <a href="https://sit-stand.com/" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/sst.png">
+                </a>
+            </div>
+			
+			
+			<!--
             <div>
                 <a href="http://www.fellowes.com/" target="_blank">
                     <img src="img/getstanding/can/slider/thin/slider-1a.jpg">
@@ -306,6 +334,23 @@
             <div>
                 <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Canada%20Standing" target="_top">
                     <img src="img/getstanding/can/slider/thin/slider2.jpg">
+                </a>
+            </div>
+			-->
+			
+			
+			<div>
+                <a href="https://sit-stand.com/blog/36_how-to-stay-young" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/bbc.png">
+                </a>
+            </div>
+
+            
+
+
+            <div>
+                <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing" target="_top">
+                    <img src="img/getstanding/usa/slider/thin/slider5.jpg">
                 </a>
             </div>
 
