@@ -303,11 +303,12 @@
             </div>
 		
 		   
-            <div>
-                <a href="http://www.fellowes.com/sitstands" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/slider-1b.jpg">
+		   <div>
+                <a href="https://sit-stand.com/" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/sst.png">
                 </a>
             </div>
+           
 			
 			
 			<div>
@@ -316,31 +317,43 @@
                 </a>
             </div>
 
-            <div>
-                <a href="http://www.workriteergo.com/" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/slider1.jpg">
-                </a>
-            </div>
+            
 
 			<!--
+			 <div>
+                <a href="http://www.fellowes.com/sitstands" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/slider-1b.jpg">
+                </a>
+            </div>
+			
             <div>
                 <a href="pdfs/usa/fitness-usa.pdf" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider2.jpg">
                 </a>
             </div>
-			-->
 			
 			<div>
-                <a href="https://sit-stand.com/" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/sst.png">
+                <a href="http://www.workriteergo.com/" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/slider1.jpg">
                 </a>
             </div>
-
-            <div>
+			
+			<div>
                 <a href="http://www.ergotron.com/" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider3.jpg">
                 </a>
             </div>
+			
+			<div>
+                <a href="http://imprintmats.com/" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/slider4.jpg">
+                </a>
+            </div>
+			-->
+			
+			
+
+            
 			
 			<div>
                 <a href="https://sit-stand.com/blog/36_how-to-stay-young" target="_blank">
@@ -348,11 +361,7 @@
                 </a>
             </div>
 
-            <div>
-                <a href="http://imprintmats.com/" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/slider4.jpg">
-                </a>
-            </div>
+            
 
 
             <div>
