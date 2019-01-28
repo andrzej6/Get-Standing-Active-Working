@@ -501,7 +501,7 @@
             </a>
 			
 			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
-                <img src="img/getstanding/usa/ads/offers/yyd-25off.png" alt="advert" /> <br/>
+                <img src="img/getstanding/usa/ads/offers/yyd-25off.png" alt="advert" /> 
             </a>
 			
 			<!--
@@ -757,7 +757,7 @@
 		 
 			
 			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
-                <img src="img/getstanding/usa/ads/offers/yyd-freemat.png" alt="advert" /> <br/>
+                <img src="img/getstanding/usa/ads/offers/yyd-freemat.png" alt="advert" /> 
             </a>
 		     
 			 
