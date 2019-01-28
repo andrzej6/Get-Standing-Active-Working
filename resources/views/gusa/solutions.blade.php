@@ -228,19 +228,16 @@
 
         <div class="sitstandsol2">
 
+		
+		    <a href="https://sit-stand.com/126-flytta" target="_blank">
+			   <img src="img/getstanding/usa/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
+		   </a>
+			
 		    <a href="https://sit-stand.com/126-flytta" class="darken" target="_blank">
 			   <img src="img/getstanding/gb/solution-page/flytta-family.png" alt="Standing Desks - Flytta"/>
 		   </a>
 
 
-
-		   <a href="https://sit-stand.com/126-flytta" target="_blank">
-			   <img src="img/getstanding/usa/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
-		   </a>
-
-			
-			
-			
 			
 		    <!--
             <a href="http://imprintmats.com/" target="_blank" class="darken">
