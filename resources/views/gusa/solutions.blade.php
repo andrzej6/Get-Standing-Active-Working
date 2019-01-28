@@ -440,7 +440,7 @@
                         </div>
 
                         <div class="gallery_item">
-                            <a  href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" target="_blank">
+                            <a  href="https://yo-yodesk.com/products/yo-yo-desk-36" target="_blank">
                                 <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-bp.jpg" alt="mounts and risers">
                                 <div class="gallery-wrapper"></div>
                                 <span class="post_type post_type_image"></span>
@@ -450,7 +450,7 @@
 
 
                         <div class="gallery_item">
-                            <a  href="https://sit-stand.com/desk-risers/123-yo-yo-desk-90.html" target="_blank">
+                            <a  href="https://yo-yodesk.com/products/yo-yo-desk-36" target="_blank">
                                 <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-wp.jpg" alt="mounts and risers">
                                 <div class="gallery-wrapper"></div>
                                 <span class="post_type post_type_image"></span>
@@ -682,6 +682,7 @@
                         </a>
                     </div>
 
+					<!--
                     <div class="gallery_item">
                         <a  href="http://imprintmats.com/" target="_blank">
                             <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/mat3.jpg" alt="mounts and risers">
@@ -690,6 +691,7 @@
                             <hr>
                         </a>
                     </div>
+					-->
                 </div>
 
             </div><!-- .module_cont -->
