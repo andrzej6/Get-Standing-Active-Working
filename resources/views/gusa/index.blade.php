@@ -296,9 +296,23 @@
 
         <div id="gbs-slideshow">
 
+		    <div>
+                <a href="https://yo-yodesk.com/collections/yoyo-slim" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/yyd-slim.png">
+                </a>
+            </div>
+		
+		   
             <div>
                 <a href="http://www.fellowes.com/sitstands" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider-1b.jpg">
+                </a>
+            </div>
+			
+			
+			<div>
+                <a href="https://yo-yodesk.com/pages/special-offers" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/yyd-freemat.png">
                 </a>
             </div>
 
@@ -308,15 +322,29 @@
                 </a>
             </div>
 
+			<!--
             <div>
                 <a href="pdfs/usa/fitness-usa.pdf" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider2.jpg">
+                </a>
+            </div>
+			-->
+			
+			<div>
+                <a href="https://sit-stand.com/" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/sst.png">
                 </a>
             </div>
 
             <div>
                 <a href="http://www.ergotron.com/" target="_blank">
                     <img src="img/getstanding/usa/slider/thin/slider3.jpg">
+                </a>
+            </div>
+			
+			<div>
+                <a href="https://sit-stand.com/blog/36_how-to-stay-young" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/bbc.png">
                 </a>
             </div>
 
