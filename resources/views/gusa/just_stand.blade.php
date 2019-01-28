@@ -111,9 +111,11 @@
                 </a>
                 <br/><br/>
 
+				<!--
                 <a href="http://www.ergotron.com/" target="_blank" class="darken">
                     <img src="img/getstanding/usa/ads/supporters/ergotron.jpg" alt="advert" />
                 </a>
+				-->
 
             </div>
 

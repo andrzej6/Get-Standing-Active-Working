@@ -123,7 +123,18 @@
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
         <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
+	
+	<a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>
+     </a>
+	
+<a href="https://sit-stand.com/126-flytta" target="_blank">
+			   <img src="img/getstanding/usa/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
+  </a>	
+			
+	
 
+	<!--
     <a href="http://www.fellowes.com/sitstands" target="_blank">
         <img src="img/getstanding/usa/ads/supporters/fellowes-us.jpg" alt="sit-stand advert" /> <br/>
     </a>
@@ -132,7 +143,7 @@
         <img src="img/getstanding/usa/ads/supporters/imprint.jpg" alt="advert" /> <br/>
     </a>
 
-    <!--
+    
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/usa/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>

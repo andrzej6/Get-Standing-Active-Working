@@ -106,9 +106,15 @@
     <img src="img/getstanding/usa/ads/message/feelaftergreen.png" class="restofsmall-pic" alt=""/>
 
 
+	<a href="https://sit-stand.com/" target="_blank">
+		<img src="img/getstanding/usa/ads/supporters/sst.png" alt="advert" /> <br/>
+	</a>
+	
+	<!--
     <a href="http://workriteergo.com/" target="_blank">
         <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
     </a>
+	-->
 
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
         <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
