@@ -38,6 +38,28 @@
             <div class="module_content slider_type1">
                 <div id="banner1" class="OneByOne_container">
 
+				
+				<div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/usa/slider/big/slim.png" alt="slider" class="go-to go-to-slim">
+                    </div>
+					
+					<div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/usa/slider/big/freemat.png" alt="slider" class="go-to go-to-freemat">
+                    </div>
+					
+					<div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/gb/solution-page/sol-flytta.png" alt="slider" class="go-to go-to-flytta">
+                    </div>
+					
+					<div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/usa/slider/big/sst.png" alt="slider" class="go-to go-to-sst">
+                    </div>
+				     
+					 
+					 <div class="oneByOne_item ls_bg1">
+                        <img src="img/getstanding/usa/slider/big/bbc.png" alt="slider" class="go-to go-to-bbc">
+                    </div>
+				<!--
                     <div class="oneByOne_item ls_bg1">
                         <img src="img/getstanding/can/slider/big/fellowes-1a.jpg" alt="oyf" class="go-to go-to-fellowes">
                     </div>
@@ -47,6 +69,7 @@
                         <img src="img/getstanding/can/slider/big/oyf-jana-can.jpg" alt="oyf" class="go-to go-to-jana">
                     </div>
 
+					-->
                 </div>
             </div>
 
@@ -84,6 +107,10 @@
 
         <div class="sitstandsol2">
 
+		<a href="https://sit-stand.com/" target="_blank">
+                <img src="img/getstanding/can/ads/supporters/sst.png" alt="advert" /> <br/>
+            </a>
+		<!--
             <a href="http://imprintmats.com/" target="_blank">
                 <img src="img/getstanding/can/ads/supporters/imprint.jpg" alt="advert" /> <br/>
             </a>
@@ -92,6 +119,7 @@
                 <img src="img/getstanding/can/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
             </a>
 
+			-->
         </div>
 
         <div class="clear"></div>
@@ -180,6 +208,15 @@
 
         <div class="sitstandsol2">
 
+		
+		 <a href="https://sit-stand.com/126-flytta" target="_blank">
+			   <img src="img/getstanding/can/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
+		   </a>
+			
+		    <a href="https://sit-stand.com/126-flytta" class="darken" target="_blank">
+			   <img src="img/getstanding/gb/solution-page/flytta-family.png" alt="Standing Desks - Flytta"/>
+		   </a>
+		<!--
             <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
                 <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
             </a>
@@ -188,6 +225,7 @@
             <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="darken">
                 <img src="img/getstanding/can/ads/supporters/got-a-minute.jpg" alt="advert" />
             </a>
+			-->
 
         </div><!--.module_cont -->
 
@@ -348,7 +386,27 @@
                                 <hr>
                             </a>
                         </div>
+						
+						<div class="gallery_item">
+                            <a  href="https://yo-yodesk.com/products/yo-yo-desk-36" target="_blank">
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-bp.jpg" alt="mounts and risers">
+                                <div class="gallery-wrapper"></div>
+                                <span class="post_type post_type_image"></span>
+                                <hr>
+                            </a>
+                        </div>
 
+
+                        <div class="gallery_item">
+                            <a  href="https://yo-yodesk.com/products/yo-yo-desk-36" target="_blank">
+                                <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/yoyo-wp.jpg" alt="mounts and risers">
+                                <div class="gallery-wrapper"></div>
+                                <span class="post_type post_type_image"></span>
+                                <hr>
+                            </a>
+                        </div>
+
+						<!--
                         <div class="gallery_item">
                             <a  href="http://sit-stand.com/desk-risers/50-workfit-t.html" target="_blank">
                                 <img class="gallery-stand-img" src="img/getstanding/gb/solution-page/260x206/mount2.jpg" alt="mounts and risers">
@@ -367,6 +425,7 @@
                                 <hr>
                             </a>
                         </div>
+						-->
 
                     </div>
 
@@ -403,11 +462,21 @@
 
         <div class="sitstandsol2">
 
+		
+		<a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>
+            </a>
+			
+			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
+                <img src="img/getstanding/usa/ads/offers/yyd-25off.png" alt="advert" /> 
+            </a>
+		   <!--
             <a href="http://www.fellowes.com/" target="_blank">
                 <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
             </a>
 
             <img src="img/getstanding/can/ads/message/calorie.png" class="restofsmall-pic" alt=""/>
+			-->
 
         </div>
 
@@ -567,10 +636,16 @@
 
         <div class="sitstandsol2">
 
+		
+		<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
+                <img src="img/getstanding/usa/ads/offers/yyd-freemat.png" alt="advert" /> 
+            </a>
+		<!--
             <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Canada%20Standing"
                class="darken">
                 <img src="img/getstanding/can/ads/supporters/join-us.png" />
             </a>
+			-->
 
         </div>
 
@@ -679,9 +754,32 @@
     @parent
     <script type="text/javascript" src="js/shared/sliderscript-main.js"></script>
     <script type="text/javascript">
+	   $(".go-to-slim").click(function(event){
+            window.open('https://yo-yodesk.com/collections/yoyo-slim','_blank');
+        });
+		
+		$(".go-to-flytta").click(function(event){
+            window.open('https://sit-stand.com/126-flytta','_blank');
+        });
+		
+		$(".go-to-sst").click(function(event){
+            window.open('https://sit-stand.com/','_blank');
+        });
+		
+		$(".go-to-bbc").click(function(event){
+            window.open('https://sit-stand.com/blog/36_how-to-stay-young','_blank');
+        });
+		
+		$(".go-to-freemat").click(function(event){
+            window.open('https://yo-yodesk.com/pages/special-offers','_blank');
+        });
+	
+	
         $(".go-to-jana").click(function(event){
             window.open('https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/','_blank');
         });
+		
+		
     </script>
 
 @endsection
