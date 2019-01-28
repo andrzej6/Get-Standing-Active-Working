@@ -301,6 +301,18 @@
                     <img src="img/getstanding/usa/slider/thin/yyd-slim.png">
                 </a>
             </div>
+			
+			<div>
+                <a href="https://yo-yodesk.com/pages/special-offers" target="_blank">
+                    <img src="img/getstanding/usa/slider/thin/yyd-freemat.png">
+                </a>
+            </div>
+			
+			<div>
+				<a href="https://sit-stand.com/126-flytta" target="_blank">
+					<img src="img/getstanding/gb/slider/thin/flytta-new.png">
+				</a>
+			</div>
 		
 		   
 		   <div>
@@ -311,11 +323,7 @@
            
 			
 			
-			<div>
-                <a href="https://yo-yodesk.com/pages/special-offers" target="_blank">
-                    <img src="img/getstanding/usa/slider/thin/yyd-freemat.png">
-                </a>
-            </div>
+			
 
             
 
