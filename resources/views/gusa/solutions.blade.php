@@ -122,15 +122,12 @@
                 <img src="img/getstanding/usa/ads/supporters/sst.png" alt="advert" /> <br/>
             </a>
 			
-			
-		
-		
-		    <!--
-			
 			<a href="https://sit-stand.com/126-flytta" target="_blank">
                 <img src="img/getstanding/usa/ads/supporters/flytta.png" alt="advert" /> <br/>
             </a>
-			
+		
+		
+		    <!--
             <a href="http://workriteergo.com/" target="_blank">
                 <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
             </a>
@@ -228,18 +225,14 @@
 
         <div class="sitstandsol2">
 
-		    <a href="https://sit-stand.com/126-flytta" class="darken" target="_blank">
-			   <img src="<?php print $publicroot; ?>/img/getstanding/gb/solution-page/flytta-family.png" alt="Standing Desks - Flytta"/>
-		   </a>
-
-
-
-		   <a href="https://sit-stand.com/126-flytta" target="_blank">
-			   <img src="<?php print $publicroot; ?>/img/getstanding/usa/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
-		   </a>
-
+		
+		    <a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>
+            </a>
 			
-			
+			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
+                <img src="img/getstanding/usa/ads/offers/yyd-25off.png" alt="advert" /> <br/>
+            </a>
 			
 			
 		    <!--
@@ -316,23 +309,11 @@
 
         </div><!--sitstandsol3-->
 
-		
-		
-		
         <div class="sitstandsol2">
             <br/>
-			
-			 <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"
-               class="darken">
-                <img src="img/getstanding/usa/ads/supporters/join-us.png" />
-            </a>
-			
-			<!--
-			
             <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="darken">
                 <img src="img/getstanding/usa/ads/supporters/got-a-minute.jpg" alt="advert" />
             </a>
-			-->
         </div>
 
         <div class="clear"></div>
@@ -399,19 +380,13 @@
 
         <div class="sitstandsol2">
 
-           
-		   <img src="img/getstanding/usa/ads/message/calorie.png" class="restofsmall-pic" alt=""/>
-		   
-            
+
+            <a href="http://www.ergotron.com/" target="_blank" class="darken">
+                <img src="img/getstanding/usa/ads/supporters/ergotron.jpg" alt="advert" />
+            </a>
             <br/>
 
             <!--
-			
-			<a href="http://www.ergotron.com/" target="_blank" class="darken">
-                <img src="img/getstanding/usa/ads/supporters/ergotron.jpg" alt="advert" />
-            </a>
-			
-			
             <a href="aw_summit" class="darken">
                 <img src="img/getstanding/usa/ads/summit2016-aw.jpg" alt="summit 2016"/>
             </a>
@@ -510,7 +485,7 @@
             </a>
 
             <img src="img/getstanding/usa/ads/message/calorie.png" class="restofsmall-pic" alt=""/>
-			-->
+			
 
         </div>
 
@@ -754,19 +729,10 @@
 
         <div class="sitstandsol2">
 
-		 
-			
-			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">
-                <img src="img/getstanding/usa/ads/offers/yyd-freemat.png" alt="advert" /> <br/>
-            </a>
-		     
-			 
-			 <!--
             <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"
                class="darken">
                 <img src="img/getstanding/usa/ads/supporters/join-us.png" />
             </a>
-			-->
 
         </div>
 
