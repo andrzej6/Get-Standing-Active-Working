@@ -118,6 +118,16 @@
 
         <div class="sitstandsol2">
 
+		    <a href="https://sit-stand.com/" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/sst.png" alt="advert" /> <br/>
+            </a>
+			
+			<a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/flytta.png" alt="advert" /> <br/>
+            </a>
+		
+		
+		    <!--
             <a href="http://workriteergo.com/" target="_blank">
                 <img src="img/getstanding/usa/ads/supporters/workrite.jpg" alt="advert" /> <br/>
             </a>
@@ -125,6 +135,7 @@
             <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank">
                 <img src="img/getstanding/usa/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
             </a>
+			-->
 
         </div>
 
@@ -214,6 +225,17 @@
 
         <div class="sitstandsol2">
 
+		
+		    <a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>
+            </a>
+			
+			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank">
+                <img src="img/getstanding/usa/ads/offers/yyd-25off.png" alt="advert" /> <br/>
+            </a>
+			
+			
+		    <!--
             <a href="http://imprintmats.com/" target="_blank" class="darken">
                 <img src="img/getstanding/usa/ads/supporters/imprint.jpg" alt="advert" />
             </a><br/><br/>
@@ -221,6 +243,7 @@
             <a href="http://workriteergo.com/" target="_blank" class="darken">
                 <img src="img/getstanding/usa/ads/supporters/workrite1.jpg" alt="advert" />
             </a>
+			-->
 
         </div><!--.module_cont -->
 
