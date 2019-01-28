@@ -464,7 +464,7 @@
 
 		
 		<a href="https://yo-yodesk.com" target="_blank">
-                <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>
+                <img src="img/getstanding/can/ads/supporters/yyd.png" alt="advert" /> <br/>
             </a>
 			
 			<a href="https://yo-yodesk.com/pages/special-offers" target="_blank" class="darken">

@@ -818,11 +818,22 @@
         <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
 
-    <a href="http://www.fellowes.com/" target="_blank">
-        <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
-    </a>
+    <a href="https://yo-yodesk.com" target="_blank">
+		<img src="img/getstanding/can/ads/supporters/yyd.png" alt="advert" /> <br/>
+	</a>
+	
+	<a href="https://sit-stand.com/" target="_blank">
+		<img src="img/getstanding/can/ads/supporters/sst.png" alt="advert" /> <br/>
+	</a>
+			
+			
 
     <!--
+	
+	<a href="http://www.fellowes.com/" target="_blank">
+        <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
+    </a>
+	
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/can/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>

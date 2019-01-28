@@ -769,18 +769,31 @@
 @section('content-restofsmall')
     <img src="img/getstanding/can/ads/message/whenyousit.png" class="restofsmall-pic" alt="advert"/>
 
+	<!--
     <a href="http://www.fellowes.com/" target="_blank">
         <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
     </a>
+	
+	<a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="sup-nobg">
+        <img src="img/getstanding/can/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
+    </a>
+	
+	-->
+	
+	<a href="https://sit-stand.com/" target="_blank">
+                <img src="img/getstanding/can/ads/supporters/sst.png" alt="advert" /> <br/>
+            </a>
+			
+	<a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/can/ads/supporters/yyd.png" alt="advert" /> <br/>
+            </a>
 
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
         <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
 
 
-    <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="sup-nobg">
-        <img src="img/getstanding/can/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
-    </a>
+    
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Canada%20Standing"
        class="darken">

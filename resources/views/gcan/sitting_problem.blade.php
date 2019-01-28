@@ -140,17 +140,27 @@
 	
     <img src="img/getstanding/can/ads/message/avoid.png" class="restofsmall-pic" alt="avoid"/>
 
+    <a href="https://yo-yodesk.com" target="_blank">
+                <img src="img/getstanding/can/ads/supporters/yyd.png" alt="advert" /> <br/>
+            </a>
+			
+	<a href="https://sit-stand.com/126-flytta" target="_blank">
+			   <img src="img/getstanding/can/ads/supporters/flytta.png" alt="sit-stand advert" /> <br/>
+		   </a>
+   
 
-    <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="sup-nobg">
+
+    <!--
+	
+	 <a href="https://itunes.apple.com/us/app/got-a-minute-for-your-health/id904412914?ls=1&mt=8/" target="_blank" class="sup-nobg">
         <img src="img/getstanding/can/ads/supporters/got-1-minute.jpg" alt="advert" /> <br/>
     </a>
 
     <a href="http://www.fellowes.com/" target="_blank">
         <img src="img/getstanding/can/ads/supporters/fellowes-can.jpg" alt="sit-stand advert" /> <br/>
     </a>
-
-
-    <!--
+	
+	
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/can/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
