@@ -44,7 +44,7 @@
                     <br/><br/>
 
                     <img src="{{ url('/') }}/img/aw/icon/phone.jpg"> &nbsp;&nbsp;
-                    <span class="wheel-contact">020 7060 1920
+                    <span class="wheel-contact">020 8255 6091
                     </span><br/>
 
                     <a href="mailto:activeworking.com">
