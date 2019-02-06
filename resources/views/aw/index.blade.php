@@ -438,6 +438,11 @@
 
                 -->
 					
+					<div>
+						<a href="https://sit-stand.com/blog/55_best-buy-flytta" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/thin-flytta2.png">
+						</a>
+					</div>
 					
 					<div>
 						<a href="https://sit-stand.com/manual-lift/181-yo-yo-desk-learn.html" target="_blank">
@@ -509,6 +514,8 @@
                 </div>
 				
 					-->
+					
+					
 					
 					 <div>
 					<a href="http://yo-yodesk.com/yoyo-classic" target="_blank">
