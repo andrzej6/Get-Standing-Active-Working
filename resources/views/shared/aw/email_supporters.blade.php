@@ -4,15 +4,12 @@
 
     <a href="http://sit-stand.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/sit-stand.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
-
-
-    <a href="https://www.ajproducts.co.uk/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/aw/summit/partners/aj-logo.jpg" width="100"/></a>
-
-
-    <a href="https://getbritainstanding.org/littlenudge.php" style="color:#009999;">
-        <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
-
+		
+		
+		<a href="https://sit-stand.com/126-flytta" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/flytta.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+		
+		
 
     <a href="http://yo-yodesk.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
@@ -22,12 +19,31 @@
 
 
 
-    <a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
-        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+	<a href="https://bhwa.org.uk/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+    
 
+	 <a href="https://steppie.dk/en/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+
+
+    <a href="http://www.thefreedesk.com/start/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
     <!--
+	
+	<a href="http://www.fellowes.com/gb/en/Pages/default.aspx" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/fellowes.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+	
+	<a href="https://www.ajproducts.co.uk/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/aw/summit/partners/aj-logo.jpg" width="100"/></a>
+
+
+    <a href="https://getbritainstanding.org/littlenudge.php" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/little_nudge.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+		
+		
     <a href="https://bhwa.org.uk/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/bhwa1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
@@ -42,12 +58,7 @@
 
 
      -->
-    <a href="https://steppie.dk/en/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
-
-
-    <a href="http://www.thefreedesk.com/start/" style="color:#009999;">
-        <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+   
 
 
     <div style="clear:both"></div>

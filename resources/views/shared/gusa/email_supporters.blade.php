@@ -2,6 +2,18 @@
     Get America Standing is proud to be associated with the following
     <strong>"Official Supporters"</strong>: <br/>
 
+	<a href="http://sit-stand.com/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/sit-stand.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+		
+		<a href="https://sit-stand.com/126-flytta" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/flytta.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+	
+	
+	 <a href="http://yo-yodesk.com/" style="color:#009999;">
+        <img src="{{ url('/') }}/img/general/emails/supporters/yo-yo.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
+		
+		<!--
+	
     <a href="http://corefitnessbyjana.com/wordpress/corporate/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/gam.png" width="100"/></a>
     &nbsp;&nbsp;&nbsp;
@@ -20,6 +32,8 @@
 
     <a href="http://www.ergotron.com/" style="color:#009999;">
         <img src="{{ url('/') }}/img/general/emails/supporters/ergotron.jpg" width="150"/></a>
+		
+		-->
 
     <br/><br/>
     Thank you from all the team <br/><br/>
