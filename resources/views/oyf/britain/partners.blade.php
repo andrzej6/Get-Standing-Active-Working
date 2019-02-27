@@ -57,28 +57,27 @@
 
         <div class="aw-partners-text-l">
             <a href="https://sit-stand.com" target="_blank" style="text-decoration:underline">Sit-Stand.Com</a><sup>®</sup> - the Standing Desk Megastore. 
-			Europe’s # 1 exclusive supplier of quality office wellness and productivity solutions including:  
-			sit-stand desks, desk risers, active seating and accessories. Our Up/Down DeskPro® electric desk series 
-			starts from only £399 (ex VAT) and the Yo-YoDesk® range from only £183 (ex VAT). We offer FREE Trial, 
-			Special  Offers, Free Posters, Corporate Discounts, Educational and Training Support to embed best practice. 
-			More Choices. Best Prices. Work Smart. Work Healthier.
+			Britain’s # 1 exclusive supplier of quality office wellness and productivity solutions including: sit-stand desks, desk risers, 
+			active seating and accessories. Our executive electric desk series starts from only £349 (ex VAT) and the Yo-Yo DESK® range 
+			from only £150 (ex VAT). We offer FREE Trial, Special Offers, Free Posters, Corporate Discounts, Educational and Training 
+			Support to embed best practice. More Choices. Best Prices. Work Smart. Work Healthier.
         </div>
 
         <div class="aw-partners-pics-l">
-            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/sit-stand1.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand1.jpg"/>
+            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/pro2plus.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/pro2plus.jpg"/>
             </a>
 
             <a class="fancybox" rel="group10" href="https://sit-stand.com/freetrial" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand2.jpg"/>
             </a>
 
-            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/imprint2.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/imprint2.jpg"/>
+            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/mat.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/mat.jpg"/>
             </a>
 
-            <a class="fancybox" rel="group11" href="https://sit-stand.com/electric-desks/95-desk-pro2x.html" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/sit-stand3.jpg"/>
+            <a class="fancybox" rel="group3" href="{{ url('/') }}/img/aw/summit/partners/fancybox/80-s.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/80-s.jpg"/>
             </a>
         </div>
 
