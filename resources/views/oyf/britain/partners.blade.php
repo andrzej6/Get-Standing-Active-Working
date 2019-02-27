@@ -180,7 +180,7 @@
 
         <div class="aw-partners-text-m">
             <a href="http://yo-yodesk.com/" target="_blank" style="text-decoration:underline">Yo-Yo Desk</a><sup>®</sup> – 
-			the best-selling range of sit-stand workstations from £199 (inc VAT / Shipping). Transition simply between sitting / standing at your existing desk with:
+			the best-selling range of sit-stand workstations from £199 (inc VAT/Shipping). Transition simply between sitting / standing at your existing desk with:
             <ul>
                 <li>
                     <strong>Yo-Yo DESK® CLASSIC: </strong><a href="https://sit-stand.com/123-yo-yo-desk-classic" target="_blank" style="text-decoration: underline">Available in 4 sizes</a>
