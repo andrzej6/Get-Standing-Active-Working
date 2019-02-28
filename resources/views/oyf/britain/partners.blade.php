@@ -255,7 +255,7 @@
 
         <div class="aw-partners-logo-s">
             <a href="https://sit-stand.com/126-flytta" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/flytta-logo.jpg">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg">
             </a>
         </div>
 
