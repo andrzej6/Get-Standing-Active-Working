@@ -25,7 +25,7 @@
 
 @section('aw-maincontent')
 
-    <h1 class="oyf-newpink" style="font-size: 26px;">£25,000 Giveaway | Photo Competition | Sit-Stand.Com®</h1>
+    <h1 class="oyf-newpink" style="font-size: 26px;">Sit-Stand.Com® | £25,000 Giveaway | Photo Competition</h1>
 	
     <br/>
 
