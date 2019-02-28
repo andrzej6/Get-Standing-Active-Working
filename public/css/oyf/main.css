@@ -32,11 +32,11 @@
 
 
 /* headers, link hovers */
-.aw-maincontent h1.oyf-newpink, .link-line a:hover,.aw-maincontent a:hover, .oyf-newpink, #email_hidden a:hover {
+.aw-maincontent h1.oyf-newpink, .link-line a:hover,.aw-maincontent a:hover, .oyf-newpink, #email_hidden a:hover, button.submit.oyf-newpink {
     color:var(--new-oyf-pink);
 }
 
-a.oyf-newpink:hover {
+a.oyf-newpink:hover, button.submit.oyf-newpink {
 	color:var(--new-oyf-blue);
 }
 

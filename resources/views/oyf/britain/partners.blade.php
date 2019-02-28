@@ -191,7 +191,7 @@
                 </li>
 				
 				<li>
-                    <strong>Yo-Yo DESK® GO: </strong> affix a <a href="https://sit-stand.com/freestanding/155-yo-yo-desk-go1.html" target="_blank" style="text-decoration: underline">Single</a> or 
+                    <strong>Yo-Yo DESK® GO: </strong><a href="https://sit-stand.com/freestanding/155-yo-yo-desk-go1.html" target="_blank" style="text-decoration: underline">Single</a> or 
 					<a href="https://sit-stand.com/freestanding/156-yo-yo-desk-go2.html" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for optimal ergonomic positioning
                 </li>
 				
