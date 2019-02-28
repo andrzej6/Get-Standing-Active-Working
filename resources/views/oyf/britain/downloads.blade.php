@@ -129,7 +129,7 @@ removed from above
 
                     <div class="oyf-downloads-pic">
                         <a href="{{ url('/') }}/pdfs/oyf/gb/19/{{$value['name']}}.pdf" target="_blank">
-                            <img src="{{ url('/') }}/img/oyf/gb/downloads/18/{{$value['name']}}.jpg"/>
+                            <img src="{{ url('/') }}/img/oyf/gb/downloads/19/{{$value['name']}}.jpg"/>
                         </a>
                     </div>
 
