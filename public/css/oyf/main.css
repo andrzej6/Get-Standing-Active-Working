@@ -4,6 +4,21 @@
 }
 
 
+/*oyf pages */
+.oyf-fwidth
+{
+	min-width:200px;
+}
+
+.inblock {
+	display:inline-block;
+}
+
+
+
+
+
+
 
 .go-to {
     cursor: pointer;
