@@ -226,32 +226,6 @@
     <div class="aw-partners-title">SILVER PARTNERS</div>
     <hr class="light">
 
-
-	<div class="aw-partners-row-s">
-
-        <div class="aw-partners-logo-s">
-            <a href="http://www.thefreedesk.com/start/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg">
-            </a>
-        </div>
-
-        <div class="aw-partners-text-s">
-            <a href="http://www.thefreedesk.com/start/" target="_blank" style="text-decoration:underline;">Freedesk</a> desk riser, is the simplest sit-stand desk ever created. 
-			Simple, portable, beautiful and affordable. Unique Swedish design, 
-			<strong>Freedesk</strong> transforms any surface from being passive to being flexible and dynamic. Only 2kg, so portable and child friendly.
-
-        </div>
-
-        <div class="aw-partners-pics-s">
-             <a class="fancybox" rel="group23" href="{{ url('/') }}/img/aw/summit/partners/fancybox/freedesk.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/freedesk.jpg"/>
-            </a>
-        </div>
-
-        <div class="clear"></div>
-    </div>
-	
-	<br/><br/>
 	
 	<div class="aw-partners-row-s">
 
@@ -277,6 +251,36 @@
 
         <div class="clear"></div>
     </div>
+	
+	<br/><br/>
+
+	<div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="http://www.thefreedesk.com/start/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg">
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            <a href="http://www.thefreedesk.com/start/" target="_blank" style="text-decoration:underline;">Freedesk</a> desk riser, is the simplest sit-stand desk ever created. 
+			Simple, portable, beautiful and affordable. Unique Swedish design, 
+			<strong>Freedesk</strong> transforms any surface from being passive to being flexible and dynamic. Only 2kg, so portable and child friendly.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+             <a class="fancybox" rel="group23" href="{{ url('/') }}/img/aw/summit/partners/fancybox/freedesk.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/freedesk.jpg"/>
+            </a>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+	
+	
+	
+	
 	
 	<!--
     <div class="aw-partners-row-s">
