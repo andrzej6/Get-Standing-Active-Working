@@ -73,7 +73,7 @@
 		
 
 		<br/><br/><br/>
-		NB&nbsp;&nbsp;&nbsp;	All winner vouchers expire Dec 31st 2019
+		NB&nbsp;&nbsp;&nbsp;	All winner vouchers expire Dec 31st 2019<br/><br/><br/>
    
    
    <a href="http://onyourfeetday.com/britain/winners" style="color:#ff3f72;font-weight: bold;font-size: 16px; text-decoration: underline">
