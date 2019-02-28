@@ -35,9 +35,6 @@
 
     And the best "<strong>Get up offa that thing</strong>" PHOTOS posted on social media will be awarded vouchers of £500 for the winner and £250 x 3 runner up prizes! <br/><br/>
 
-    To enter simply post your photos n Facebook, LinkedIn, Instagram or Twitter using #OYF19 or #OnYourFeetBritain with @getGBstanding before April 30th 2019. 
-	The winners will be selected from the most imaginative, funny and original captions posted. Think different to stand out for our judging panel to see 
-	you capture the spirit and objectives of On Your Feet Day. 
 	
 	To enter simply post your photos on
     <a href="https://www.facebook.com/onyourfeet.britain/" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Facebook</a>,
