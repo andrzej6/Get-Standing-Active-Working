@@ -50,6 +50,7 @@ button.submit.oyf-newpink {color:white}
 
 button.submit.oyf-newpink {
 	background:var(--new-oyf-pink);
+	box-shadow: none;
 }
 
 button.submit.oyf-newpink:hover {
