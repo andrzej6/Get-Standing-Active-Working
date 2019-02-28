@@ -27,16 +27,16 @@
 @section('aw-maincontent')
 
 
-    <span class="oyf-newblue" style="font-size: 1.8em;font-weight:bold">On Your Feet 2017 – Last Year’s Winners Stories</span><br/><br/><br/>
+    <span class="oyf-newblue" style="font-size: 1.8em;font-weight:bold">On Your Feet  – Winners Stories</span><br/><br/><br/>
 
 
     Special thanks to  our sponsor <a href="http://sit-stand.com/" target="_blank" style="text-decoration: underline;color:#57b8d9">
 	Sit-Stand.Com</a> who kindly donated some 
 	<a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline;color:#57b8d9">
-	Yo-Yo Desks</a> as prizes for star participants in 2017. <br/><br/>
+	Yo-Yo DESKS</a> as prizes for star participants over the years. <br/><br/>
 
    <a href="http://onyourfeetday.com/britain/competition" target="_blank" style="text-decoration: underline;color:#57b8d9">
-   To enter the competition in 2018 see details here</a>. It’s simple, we need all your fun, imaginative and instructive images and videos. 
+   To enter the competition in 2019 see details here</a>. It’s simple, we need all your fun, imaginative and instructive images and videos. 
 
 
 
