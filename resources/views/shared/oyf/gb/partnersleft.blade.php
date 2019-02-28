@@ -54,17 +54,19 @@
 
     <div class="aw-partners-silver">
 
+	    <p>
+            <a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg">
+            </a>
+        </p>
+	
        <p>
 	       <a href="http://www.thefreedesk.com/start/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg">
             </a>
 	   </p> 
 	   
-	    <p>
-            <a href="https://sit-stand.com/126-flytta" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg">
-            </a>
-        </p>
+	    
 
 
 
