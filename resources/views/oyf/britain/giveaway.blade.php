@@ -49,7 +49,7 @@
    Think different to stand out for our judging panel to see you capture the spirit and objectives of
    <span style="color:#57b8d9;font-weight: bold">On Your Feet Day</span>.
 	
-	<br/><br/>
+	<br/><br/><br/>
 
 	<span style="font-weight: bold;font-size: 16px" class="oyf-newpink">Sit-Stand.Com® £25,000 Giveaway </span><br/><br/>
     
@@ -57,22 +57,60 @@
         <div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div>
 		<br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
-		<br/><br/>
+		<br/><br/><br/>
 		 		
 
 		<span style="font-weight: bold;font-size: 16px" class="oyf-newblue">Best Female:</span><br/><br/>
 
 		<div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div><br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
-        <br/><br/>
+        <br/><br/><br/>
 
 		<span style="font-weight: bold;font-size: 16px" class="oyf-newblue">Best Male:</span><br/><br/>
 
-		<div class="oyf-fwidth inblock"></div><div class="inblock"></div><br/><br/>
+		<div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div><br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
 		
 
+		<br/><br/><br/>
+		NB&nbsp;&nbsp;&nbsp;	All winner vouchers expire Dec 31st 2019
    
+   
+   <a href="http://onyourfeetday.com/britain/winners" style="color:#ff3f72;font-weight: bold;font-size: 16px; text-decoration: underline">
+	Winners from Last Year – The bunch of the crop!</a><br/><br/>
+	
+
+	
+
+    <strong>What will you do?</strong> We hope to see lots of variety of fun and simple activities to
+    <strong>#SitLess</strong> and <strong>#MoveMore</strong> at work on Friday 26th April.<br/><br/><br/>
+
+
+    <span style="color:#ff3f72;font-weight: bold;font-size: 16px;">Terms and Conditions:</span>
+
+    <ol style="margin-top:20px!important">
+    <li>Prizes will be awarded for the BEST images posted on Social Media with
+        #OYF17 #OnYourFeetBritain @getGBstanding 
+		( <a href="https://www.facebook.com/onyourfeet.britain/" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Facebook</a>,
+   <a href="https://uk.linkedin.com/" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">LinkedIn</a>,
+   <a href="https://www.instagram.com/?hl=en" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Instagram</a> or 	
+    <a href="https://twitter.com/getGBstanding" style="color:#1136d3;font-weight: bold;text-decoration:underline" target="_blank">Twitter</a>). There are three prize draw categories: 1) Best Group,
+        2) Best Male and 3) Best Females</li>
+
+    <li>The best images in all three categories will be awarded a prize or prize combination.</li>
+
+    <li>You can enter as many times as you like in as each of the categories.</li>
+
+    <li>The winning individuals will be announced via email and we may have to contact you via
+        your Twitter or Facebook profile to provide us your contact details by
+        Wednesday 4th May 2018. Winners will need to respond within 10 days to claim their prize.</li>
+
+    <li>The prize winners may be required to participate in publicity and promotional activities.</li>
+
+    <li>Active Working and Get Britain Standing’s decision is final and binding and no
+        correspondence shall be entered into.</li>
+
+    </ol>
 
 
 @endsection
