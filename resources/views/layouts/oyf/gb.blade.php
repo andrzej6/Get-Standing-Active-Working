@@ -1,5 +1,5 @@
 {{-- */
-$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','competition'=>'Competition','winners'=>'Winners Photos 2017',);
+$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','giveaway'=>'£25,000 Giveaway','winners'=>'Previous Winners',);
 /* --}}
 
 @extends('layouts.oyf')
@@ -33,7 +33,19 @@ $sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners'
             <div id="banner1" class="OneByOne_container">
 
                <div class="oneByOne_item ls_bg1">
-                    <img src="{{ url('/') }}/img/oyf/thankyou-gb.jpg" alt="" class="go-to-onyourfeet-r go-to">
+                    <img src="{{ url('/') }}/img/oyf/oyf1.png" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
+				
+				<div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf2.png" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
+				
+				<div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf3.png" alt="" class="go-to-onyourfeet-r go-to">
+                </div>
+				
+				<div class="oneByOne_item ls_bg1">
+                    <img src="{{ url('/') }}/img/oyf/oyf4.png" alt="" class="go-to-onyourfeet-r go-to">
                 </div>
 				
 				
