@@ -29,7 +29,7 @@
 	
     <br/>
 
-	To celebrate <strong>On Your Feet Day</strong>, our official sponsor <a href="https://sit-stand.com/" class="oyf-newpink" target="_blank">Sit-Stand.Com®</a> is running an 
+	To celebrate <strong>On Your Feet Day</strong>, our official sponsor <a href="https://sit-stand.com/" class="oyf-newpink link-line" target="_blank">Sit-Stand.Com®</a> is running an 
 	amazing <strong>£25,000 Giveaway</strong> of active office solutions.<br/><br/>
 
     To qualify all you need to do is register for On Your Feet 2019 and you will receive a £50 voucher code from Sit-Stand.Com, to be used before 26th April 2019.<br/><br/>
