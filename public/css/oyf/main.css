@@ -21,6 +21,11 @@
     color:var(--new-oyf-pink);
 }
 
+a.oyf-newpink:hover {
+	color:var(--new-oyf-blue);
+}
+
+
 /* sidemenu */
 .left-sidemenu ul li.active {
     background-color:var(--new-oyf-pink);
