@@ -22,7 +22,7 @@
 
 @section('aw-maincontent')
 
-            <h1>2019 Registration Form</h1>
+            <h1 class="oyf-newpink">2019 Registration Form</h1>
 
             <br/>
 
@@ -520,7 +520,7 @@
 
                 <li>
                     <label></label>
-                    <button class="submit" type="submit" id="yellsub">Submit</button>
+                    <button class="submit oyf-newpink" type="submit" id="yellsub">Submit</button>
                 </li>
 
 
