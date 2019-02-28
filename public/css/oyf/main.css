@@ -44,9 +44,18 @@ button.submit.oyf-newpink {color:white}
 
 
 /* sidemenu */
-.left-sidemenu ul li.active, button.submit.oyf-newpink {
+.left-sidemenu ul li.active {
     background-color:var(--new-oyf-pink);
 }
+
+button.submit.oyf-newpink {
+	background:var(--new-oyf-pink);
+}
+
+button.submit.oyf-newpink:hover {
+	background:var(--new-oyf-blue);
+}
+
 
 /* links color */
 .oyf-newblue, #email_hidden a, .aw-partners-title {
