@@ -251,6 +251,31 @@
 	
 	<br/><br/>
 	
+	<div class="aw-partners-row-s">
+
+        <div class="aw-partners-logo-s">
+            <a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/flytta-logo.jpg">
+            </a>
+        </div>
+
+        <div class="aw-partners-text-s">
+            <a href="https://sit-stand.com/126-flytta" target="_blank" style="text-decoration:underline;">FLYTTA</a>  (nordic word for "move") is a high-performance 
+			sit-stand range from Sweden, the home of standing desks. Stylish, excellent value and built to last (<strong>7-year warranty</strong>). 
+			<a href="https://www.independent.co.uk/extras/indybest/house-garden/furniture/best-standing-desks-a8762206.html" target="_blank" style="text-decoration:underline;">FLYTTA 
+			wins Independent Newspaper award for best standing desk</a>.
+
+        </div>
+
+        <div class="aw-partners-pics-s">
+            <a class="fancybox" rel="group18" href="{{ url('/') }}/img/aw/summit/partners/fancybox/flytta2.jpg">
+                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/flytta2.jpg"/>
+            </a>
+        </div>
+
+        <div class="clear"></div>
+    </div>
+	
 	<!--
     <div class="aw-partners-row-s">
         <div class="aw-partners-logo-s">
@@ -349,28 +374,7 @@
     
 
 
-    <div class="aw-partners-row-s">
-
-        <div class="aw-partners-logo-s">
-            <a href="https://steppie.dk/en/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
-            </a>
-        </div>
-
-        <div class="aw-partners-text-s">
-            <a href="https://steppie.dk/en/" target="_blank" style="text-decoration:underline;">Steppie</a> is ”The Missing Link” for having the full benefit to any sit/stand solutions.
-            With a Steppie you stand longer, while <i>dynamic</i> posture suits the body best.
-
-        </div>
-
-        <div class="aw-partners-pics-s">
-            <a class="fancybox" rel="group18" href="{{ url('/') }}/img/aw/summit/partners/fancybox/steppi1.jpg">
-                <img src="{{ url('/') }}/img/aw/summit/partners/fancybox/small/steppi2.jpg"/>
-            </a>
-        </div>
-
-        <div class="clear"></div>
-    </div>
+    
 
 
 
