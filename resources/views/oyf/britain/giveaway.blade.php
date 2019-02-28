@@ -25,8 +25,8 @@
 
 @section('aw-maincontent')
 
-    <h1 class="oyf-newpink">£25,000 Giveaway | Photo Competition</h1>
-	<span style="font-size: 28px;">Sit-Stand.Com®</span>
+    <h1 class="oyf-newpink" style="font-size: 26px;">£25,000 Giveaway | Photo Competition | Sit-Stand.Com®</h1>
+	
     <br/>
 
 	To celebrate <strong>On Your Feet Day</strong>, our official sponsor <a href="https://sit-stand.com/" class="oyf-newpink" target="_blank">Sit-Stand.Com®</a> is running an 
