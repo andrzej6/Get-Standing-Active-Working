@@ -141,7 +141,7 @@ removed from above
                                                     </a>
                                  	 	  		</span>
 
-                            <a href="{{ url('/') }}/pdfs/oyf/gb/18/{{$value['name']}}.pdf" target="_blank">
+                            <a href="{{ url('/') }}/pdfs/oyf/gb/19/{{$value['name']}}.pdf" target="_blank">
                                 {{$value['title']}}
                             </a>
                         </div>
