@@ -104,7 +104,7 @@
 
     <li>The winning individuals will be announced via email and we may have to contact you via
         your Twitter or Facebook profile to provide us your contact details by
-        Wednesday 4th May 2018. Winners will need to respond within 10 days to claim their prize.</li>
+        Wednesday 9th May 2019. Winners will need to respond within 10 days to claim their prize.</li>
 
     <li>The prize winners may be required to participate in publicity and promotional activities.</li>
 
