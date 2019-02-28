@@ -55,19 +55,20 @@
     
 	<span style="font-weight: bold;font-size: 16px" class="oyf-newblue">Best Group:</span><br/><br/>
         <div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div>
+		<br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
 		<br/><br/>
 		 		
 
 		<span style="font-weight: bold;font-size: 16px" class="oyf-newblue">Best Female:</span><br/><br/>
 
-		<div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div>
+		<div class="oyf-fwidth inblock">Winner</div><div class="inblock">£500</div><br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
         <br/><br/>
 
 		<span style="font-weight: bold;font-size: 16px" class="oyf-newblue">Best Male:</span><br/><br/>
 
-		<div class="oyf-fwidth inblock"></div><div class="inblock"></div>
+		<div class="oyf-fwidth inblock"></div><div class="inblock"></div><br/><br/>
 		<div class="oyf-fwidth inblock">Runner-up x 3</div><div class="inblock">£250 each </div>
 		
 
