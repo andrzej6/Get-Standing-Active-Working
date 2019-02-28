@@ -35,7 +35,7 @@
 	<a href="https://sit-stand.com/23_yo-yo-desk" target="_blank" style="text-decoration: underline;color:#57b8d9">
 	Yo-Yo DESKS</a> as prizes for star participants over the years. <br/><br/>
 
-   <a href="http://onyourfeetday.com/britain/competition" target="_blank" style="text-decoration: underline;color:#57b8d9">
+   <a href="http://onyourfeetday.com/britain/giveaway" target="_blank" style="text-decoration: underline;color:#57b8d9">
    To enter the competition in 2019 see details here</a>. It’s simple, we need all your fun, imaginative and instructive images and videos. 
 
 
