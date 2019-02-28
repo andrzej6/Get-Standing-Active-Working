@@ -21,11 +21,8 @@
                 <img src="{{ url('/') }}/img/oyf/partners/gymflex.jpg" width="130px">
             </a>
         </p>
-        -->
-
-    </div>
-
-    <div class="aw-partners-gold">
+		
+		<div class="aw-partners-gold">
 
         <p style="margin-bottom: 0">
             <a href="https://www.workathlete.com/" target="_blank">
@@ -34,6 +31,12 @@
         </p>
 
     </div>
+		
+        -->
+
+    </div>
+
+    
 
 
     <div class="aw-partners-gold">
@@ -58,8 +61,8 @@
 	   </p> 
 	   
 	    <p>
-            <a href="https://steppie.dk/en/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/steppie.jpg">
+            <a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg">
             </a>
         </p>
 
