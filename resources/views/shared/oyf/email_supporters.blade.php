@@ -9,20 +9,23 @@
 		     <a href="https://sit-stand.com/" target="_blank">
                 <img src="{{ url('/') }}/img/oyf/partners/sitstand.png" width="150px" height="70px"></a>
 			
+			<div style="clear:both"></div>
 			
+			<a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg" width="130px" >
+            </a>&nbsp;&nbsp;&nbsp;
+			<a href="http://www.thefreedesk.com/start/" target="_blank">
+                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg" width="130px"></a>&nbsp;&nbsp;&nbsp;
 			<a href="http://yo-yodesk.com/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png"></a>
 			<div style="clear:both"></div>
 			
-			<div style="clear:both"></div>
-			
-			<a href="https://sit-stand.com/126-flytta" target="_blank">
-                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg">
-            </a>
 			
 			
-			<a href="http://www.thefreedesk.com/start/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/freedesk.jpg"></a>
+			
+			
+			
+			
 			
 			
 			
