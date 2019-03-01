@@ -6,6 +6,22 @@ $downloads = array(
         '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Carl','name'=>'a3-1'),
         '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Marcus','name'=>'a3-2')
         )),
+'2'=>array('header'=>'Event Execution (password required - available w/c March 4th)', 'elem'=> array(
+        
+)),
+
+'4'=>array('header'=>'Event Completion (available w/c March 4th)', 'elem'=> array(
+       
+))
+
+
+
+);
+/* --}}
+
+
+<!--
+
 '2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
         '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
         '2'=>array('label'=>'Poster B2','title'=>'Sitting Increases Health Risks','name'=>'b2'),
@@ -25,13 +41,6 @@ $downloads = array(
         '1'=>array('label'=>'Certificate D1','title'=>' OYFB Certificate','name'=>'d1')
 ))
 
-
-
-);
-/* --}}
-
-
-<!--
 removed from above
 '5'=>array('header'=>'Emails for Workplace Champion', 'elem'=> array(
         '1'=>array('label'=>'Email E1','title'=>' OYFB Introduction','name'=>'e1'),
