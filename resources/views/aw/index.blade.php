@@ -71,7 +71,7 @@
 						
 						
 						<div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf19.jpg" alt="oyf" class="go-to go-to-onyourfeet">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf19.png" alt="oyf" class="go-to go-to-onyourfeet">
                             </div>
 						
 
