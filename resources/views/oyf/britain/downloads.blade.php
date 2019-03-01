@@ -10,11 +10,6 @@ $downloads = array(
         
 )),
 
-'4'=>array('header'=>'Event Completion (available w/c March 4th)', 'elem'=> array(
-       
-))
-
-
 
 );
 /* --}}
