@@ -16,8 +16,7 @@
     <br/><br/>
 
 
-    All posters and communication materials will be available for download early March 2019, we will send you
-    and email update immediately they are ready.
+    All posters and communication materials will be available from <span style="text-decoration:underline">March 11th 2019</span>. 
     <br/><br/>
 
     @include('shared.oyf.email_supporters')

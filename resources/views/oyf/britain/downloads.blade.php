@@ -6,7 +6,7 @@ $downloads = array(
         '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Carl','name'=>'a3-1'),
         '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Marcus','name'=>'a3-2')
         )),
-'2'=>array('header'=>'Event Execution (password required - available w/c March 4th)', 'elem'=> array(
+'2'=>array('header'=>'Event Execution (password required - available from March 11th 2019)', 'elem'=> array(
         
 )),
 

@@ -16,7 +16,7 @@
     <br/><br/>
 	
 	
-	All posters and communication materials will be available from March 2019.
+	All posters and communication materials will be available from <span style="text-decoration:underline">March 11th 2019</span>.
     
 	
 
