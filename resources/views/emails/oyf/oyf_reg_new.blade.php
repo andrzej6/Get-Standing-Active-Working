@@ -1,6 +1,6 @@
 <html>
 <style>body {font-family:Arial;font-size:10pt}</style>
-<body>
+<body style="font-family:Arial">
 <div style="color:black;">
 
     <!--
