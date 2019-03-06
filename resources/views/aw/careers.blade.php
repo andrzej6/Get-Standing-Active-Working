@@ -70,7 +70,7 @@
 
 @section('content-restofsmall')
     <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf19-gb.png" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf1.png" alt="oyf"/>
     </a>
 
     <img src="{{ url('/') }}/img/aw/ads/message/who.png" class="restofsmall-pic"  alt=""/>
