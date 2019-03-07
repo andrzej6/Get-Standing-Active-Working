@@ -6,8 +6,19 @@ $downloads = array(
         '3'=>array('label'=>'Poster A3','title'=>' Workplace Champion Carl','name'=>'a3-1'),
         '4'=>array('label'=>'Poster A4','title'=>'Workplace Champion Marcus','name'=>'a3-2')
         )),
-'2'=>array('header'=>'Event Execution (password required - available from March 11th 2019)', 'elem'=> array(
-        
+'2'=>array('header'=>'Event Execution (password required)', 'elem'=> array(
+        '1'=>array('label'=>'Poster B1','title'=>'10 Ways to Sit Less at Work','name'=>'b1'),
+        '2'=>array('label'=>'Poster B2','title'=>'Sitting Increases Health Risks','name'=>'b2'),
+        '3'=>array('label'=>'Poster B3','title'=>'Sitting Calculator','name'=>'b3'),
+        '4'=>array('label'=>'Poster B4','title'=>'Benefits of Sitting Less','name'=>'b4'),
+        '5'=>array('label'=>'Poster B5','title'=>'Stand and Deliver','name'=>'b5'),
+        '6'=>array('label'=>'Poster B6','title'=>'Get up Every 30 Minutes','name'=>'b6'),
+        '7'=>array('label'=>'Poster B7','title'=>'Walk and Talk - Ban Emails Today','name'=>'b7'),
+        '8'=>array('label'=>'Poster B8','title'=>'Try Walking Meeting','name'=>'b8'),
+        '9'=>array('label'=>'Poster B9','title'=>'Take Stairs Rather Than Lift','name'=>'b9'),
+        '10'=>array('label'=>'Poster B10','title'=>'Take Every Opportunity to Get Up and Move','name'=>'b10'),
+        '11'=>array('label'=>'Poster B11','title'=>'Team Stretching','name'=>'b11'),
+        '12'=>array('label'=>'Poster B12','title'=>' What will you do?','name'=>'b12')
 )),
 
 
