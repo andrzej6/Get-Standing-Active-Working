@@ -16,7 +16,8 @@
     <br/><br/>
 	
 	
-	All posters and communication materials will be available from <span style="text-decoration:underline">March 11th 2019</span>.
+	
+	<span style="color:#da3b44">Password to access the posters: "<strong>OYF19</strong>"</span>
     
 	
 
