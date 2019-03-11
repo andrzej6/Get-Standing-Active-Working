@@ -13,12 +13,9 @@
 
     Thank you for registering for <strong>On Your Feet Day</strong> taking place on <u>April 26th 2019</u>,
     in your office and all around the world.
+    
     <br/><br/>
-
-
-    All posters and communication materials will be available from <span style="text-decoration:underline">March 11th 2019</span>. 
-    <br/><br/>
-	<span style="color:#da3b44">Password: "OYF19"</span>
+	<span style="color:#da3b44">Password to access the posters: "<strong>OYF19</strong>"</span>
 
     @include('shared.oyf.email_supporters')
 
