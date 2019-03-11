@@ -13,13 +13,13 @@
     <span style="font-size:12.0pt;">Thank you for registering for <strong>On Your Feet Day</strong> taking place:
     <span  style="color:#57b8d9;font-weight: bold">Friday 26th April 2019</span>,
     in your office and all around the world.
-    <br/><br/>
+    <br/>
 	
 	
 	
 	<span style="color:#da3b44">Password to access the posters: "<strong>OYF19</strong>"</span>
     
-	
+	<br/>
 
 
      <!--
