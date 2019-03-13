@@ -127,7 +127,7 @@ $downloads = array(
                                                    </a>
                                  	 	  		</span>
 
-                               <a href="{{ url('/') }}/pdfs/oyf/us/18/{{$value['name']}}.pdf" target="_blank">
+                               <a href="{{ url('/') }}/pdfs/oyf/us/19/{{$value['name']}}.pdf" target="_blank">
                                     {{$value['title']}}
                                 </a>
                             </div>
