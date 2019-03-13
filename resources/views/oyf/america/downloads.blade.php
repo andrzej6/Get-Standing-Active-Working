@@ -21,9 +21,7 @@ $downloads = array(
         '12'=>array('label'=>'Poster B12','title'=>' What will you do?','name'=>'b12')
 )),
 
-'4'=>array('header'=>'Event Completion', 'elem'=> array(
-        '1'=>array('label'=>'Certificate D1','title'=>' OYFB Certificate','name'=>'d1')
-))
+
 
 
 
