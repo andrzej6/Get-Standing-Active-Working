@@ -37,6 +37,14 @@
             </a>
         </p>
     </div>
+	
+	<div class="aw-partners-platinum">
+         <p>
+            <a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg" width="135">
+            </a>
+        </p>
+    </div>
 
 
 <!-- 2017 BELOW

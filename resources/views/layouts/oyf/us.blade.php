@@ -24,10 +24,7 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
         @include('shared.oyf.us.partnersleft')
         <hr class="light" style="height:0;">
         @include('shared.oyf.us.partnersleft')
-		<hr class="light" style="height:0;">
-        @include('shared.oyf.us.partnersleft')
-		<hr class="light" style="height:0;">
-        @include('shared.oyf.us.partnersleft')
+		
     @endif
 
 
