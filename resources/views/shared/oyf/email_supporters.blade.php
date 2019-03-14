@@ -28,15 +28,17 @@
 			
 			
 			
-			@elseif (($country =='US') || ($country =='AU') || ($country =='CA') )
+			@elseif (($country =='US') || ($country =='CA') )
 				
 				<a href="http://yo-yodesk.com/" target="_blank">
-                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png" width="150px" height="70px"></a>
+                <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png" width="150px" height="70px"></a>&nbsp;&nbsp;&nbsp;
 			
 			
 				<a href="https://sit-stand.com/" target="_blank">
-					<img src="{{ url('/') }}/img/oyf/partners/sitstand.png" ></a>
+					<img src="{{ url('/') }}/img/oyf/partners/sitstand.png" ></a>&nbsp;&nbsp;&nbsp;
 				
+				<a href="https://sit-stand.com/126-flytta" target="_blank">
+                <img src="{{ url('/') }}/img/oyf/partners/flytta-logo.jpg" width="120px" ></a>&nbsp;&nbsp;&nbsp;
 			@else
 				
 			
