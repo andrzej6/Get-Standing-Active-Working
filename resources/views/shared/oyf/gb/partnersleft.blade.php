@@ -41,7 +41,7 @@
 
     <div class="aw-partners-gold">
         <p style="margin-bottom: 0">
-            <a href="http://yo-yodesk.com/" target="_blank">
+            <a href="http://yo-yodesk.co.uk/" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo-new-logo.png">
             </a>
         </p>
