@@ -52,7 +52,8 @@
 	
 	<br/><br/><br/>
 	
-	
+	<a href="http://onyourfeetday.com/signup"><img src="{{ url('/') }}/img/oyf/25-giveaway.png" ></a>
+	<br/><br/>
 
 	<span style="font-weight: bold;font-size: 16px" class="oyf-newpink">Sit-Stand.Com® £25,000 Giveaway </span><br/><br/>
     
