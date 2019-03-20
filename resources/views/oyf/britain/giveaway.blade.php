@@ -51,6 +51,9 @@
    <span style="color:#57b8d9;font-weight: bold">On Your Feet Day</span>.
 	
 	<br/><br/><br/>
+	
+	<img src="{{ url('/') }}/img/oyf/25-giveaway.png" >
+	<br/>
 
 	<span style="font-weight: bold;font-size: 16px" class="oyf-newpink">Sit-Stand.Com® £25,000 Giveaway </span><br/><br/>
     
