@@ -20,8 +20,7 @@
 
     
 	To celebrate, <a style="color:#57b8d9;text-decoration:underline" href="https://sit-stand.com/">Sit-Stand.Com®</a> our official sponsor have a generous <span style="color:#57b8d9;font-weight:bold">£25,000 
-    Giveaway offer</span> for active office solutions. The first 500 users receive <span style="color:#57b8d9;font-weight:bold">£50 OFF</span> any purchase*.<br/><br/>
-
+    Giveaway offer</span> for active office solutions. The first 500 users receive <span style="color:#57b8d9;font-weight:bold">£50 OFF</span> any purchase*.
     Below is your <span style="color:#ff3f72;font-weight:bold">£50 OFF* voucher code</span> from <a style="color:#57b8d9;text-decoration:underline" href="https://sit-stand.com/">Sit-Stand.Com®</a>. 
 	Please remember that this code <span style="text-decoration:underline">expires on 26th April 2019</span><br/><br/>
 
