@@ -47,8 +47,8 @@ class OyfSend2Emails extends Job implements ShouldQueue
             $message->from('registrations@activeworking.com', 'On Your Feet Day');
             $message->to('web@activeworking.com');
 			/*$message->to('ellie@activeworking.com');*/
-            $message->cc('info@activeworking.com');
-			$message->bcc('kuldeep@sit-stand.com');
+            //$message->cc('info@activeworking.com');
+			//$message->bcc('kuldeep@sit-stand.com');
             $message->subject('On Your Feet | Registration 2019');
         });
 
