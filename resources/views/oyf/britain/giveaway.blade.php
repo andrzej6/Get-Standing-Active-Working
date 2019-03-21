@@ -32,8 +32,11 @@
 	To celebrate <strong>On Your Feet Day</strong>, our official sponsor <a href="https://sit-stand.com/" class="oyf-newpink link-line" target="_blank">Sit-Stand.Com®</a> is running an 
 	amazing <strong>£25,000 Giveaway</strong> of active office solutions.<br/><br/>
 
-    <span class="oyf-newpink">To qualify for <strong>£50 OFF</strong> any standing desk all you need to do is register for On Your Feet 2019 and you will receive a <strong>£50</strong> voucher code from 
-	Sit-Stand.Com, to be used before 26th April 2019.</span><br/><br/>
+    <span class="oyf-newpink">
+	To qualify for <strong>£50 OFF</strong> any standing desk all you need to do is register for <strong>On Your Feet 2019</strong> and we 
+	will send you a <strong>£50 voucher code</strong> to spend with <a href="https://sit-stand.com" style="font-weight:bold;text-dcoration:underline" class="oyf-newpink">Sit-Stand.Com</a>, to be used 
+	<span style="font-weight:bold;text-dcoration:underline">before 26th April 2019</span>.
+	</span><br/><br/>
 
     And the best "<strong>Get up offa that thing</strong>" PHOTOS posted on social media will be awarded vouchers of £500 for the winner and £250 x 3 runner up prizes! <br/><br/>
 
