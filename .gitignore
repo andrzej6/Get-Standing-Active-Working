@@ -6,3 +6,7 @@
 Homestead.yaml
 Homestead.json
 .env
+.idea/
+/app/Http/Controllers/NameController.php
+/public/p1.php
+/tests/UserTest.php
