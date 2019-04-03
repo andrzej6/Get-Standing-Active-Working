@@ -392,7 +392,6 @@
                                         'AE' => 'United Arab Emirates',
                                         'GB' => 'United Kingdom',
                                         'US' => 'United States',
-                                        'ZZ' => 'Unknown or Invalid Region',
                                         'UY' => 'Uruguay',
                                         'UZ' => 'Uzbekistan',
                                         'VU' => 'Vanuatu',
@@ -404,8 +403,7 @@
                                         'EH' => 'Western Sahara',
                                         'YE' => 'Yemen',
                                         'ZM' => 'Zambia',
-                                        'ZW' => 'Zimbabwe',
-                                        'AX' => 'Åland Islands'),
+                                        'ZW' => 'Zimbabwe'),
                                        array('id' => 'country')) !!}
                     <div style="clear: both;"></div>
                 </li>
