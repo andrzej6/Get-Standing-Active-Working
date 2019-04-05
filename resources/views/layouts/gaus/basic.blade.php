@@ -21,12 +21,13 @@
 @endsection
 
 
+{{--  
 @section('oyfshortcut')
     <div id="oyf-shortcut">
         <a href="http://onyourfeetday.com/australia" target="_blank"><img src="img/getstanding/aus/oyf-shortcut.png"></a>
     </div>
 @endsection
-
+--}}
 
 @section('before-scripts')
     @include('shared.gaus.prefooter')
