@@ -22,7 +22,7 @@
 
 @section('aw-maincontent')
 
-            <h1 class="oyf-newpink">2019 Registration Form</h1>
+            <h1 class="oyf-newpink">2020 Registration Form</h1>
 
             <br/>
 

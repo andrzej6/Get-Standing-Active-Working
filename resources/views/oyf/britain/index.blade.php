@@ -49,7 +49,7 @@
     Take part in our national day when workers across Britain unite together and participate in a
     variety of fun and simple activities to <span class="oyf-newpink fbiggerhalf fbold">#SitLess</span> and
     <span class="oyf-newpink fbiggerhalf fbold">#MoveMore</span> at work on
-    <span class="oyf-newpink fbiggerhalf fbold">Friday 26th April 2019</span>.<br/><br/>
+    <span class="oyf-newpink fbiggerhalf fbold">Friday 24th April 2020</span>.<br/><br/>
 
     <!--
     Already we have over <span class="oyf-newblue fbiggerhalf fbold">2,000 companies</span> signed up and expect
@@ -97,7 +97,7 @@
         <li>Stand at the back of the room during presentations</li>
     </ul>
 
-    So <strong>Friday 26th April 2019</strong> is your chance to get the ball rolling and encourage your employees to
+    So <strong>Friday 24th April 2020</strong> is your chance to get the ball rolling and encourage your employees to
     take a stand. Team up with colleagues and see how much "sitting time" you can reduce on the day.
 
 
@@ -133,7 +133,7 @@
     <div class="oyf-newblue fbigger fbold">What can I do now?</div><br/>
     <ul>
         <li><a href="{{ url('/') }}/signup" class="link-line oyf-newblue">[Register now]</a> and enter your details</li>
-        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2019.</li>
+        <li>You will receive a PASSCODE to download information including: posters, guidelines from March 2020.</li>
 
 
         <li>If you any other questions about getting involved please contact:

@@ -1,6 +1,11 @@
 {{-- */
-$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','giveaway'=>'£25,000 Giveaway','winners'=>'Previous Winners',);
+$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','winners'=>'Previous Winners',);
 /* --}}
+
+<!--
+older:
+$sidemenu=array('index'=>'Event','challenge'=>'Challenge','partners'=>'Partners','downloads'=>'Downloads','giveaway'=>'£25,000 Giveaway','winners'=>'Previous Winners',);
+-->
 
 @extends('layouts.oyf')
 

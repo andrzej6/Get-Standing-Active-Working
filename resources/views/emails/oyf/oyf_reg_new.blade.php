@@ -11,10 +11,23 @@
 
 
     <span style="font-size:12.0pt;">Thank you for registering for <strong>On Your Feet Day</strong> taking place:
-    <span  style="color:#57b8d9;font-weight: bold">Friday 26th April 2019</span>,
+    <span  style="color:#57b8d9;font-weight: bold">Friday 24th April 2020</span>,
     in your office and all around the world.
     <br/><br/>
 	
+	<br/><br/>
+	
+	All posters and communication materials will be available for download early March 2020, we will send you
+    and email update immediately they are ready.
+	
+
+<br/><br/>
+	
+
+     <!--
+	 
+	 
+	 
 	<div style="font-weight:bold;font-size:19px;text-align:center;color:#ff3f72">Password to access the posters: "<strong>OYF19</strong>"</div>
 	<br/>
 
@@ -27,11 +40,11 @@
     <div style="font-weight:bold;font-size:19px;text-align:center"><span style="color:#57b8d9">Voucher Code:</span>  <span style="color:#ff3f72">OYF50</span></div>
   <br/>
     * Minimum order value of £200. Varidesk & Ergotron products excluded from this offer. One voucher code per order
-
-<br/><br/>
-	
-
-     <!--
+	 
+	 
+	 
+	 
+	 
 	 UK posters and communication materials are available for download using the password
         <span  style="color:#57b8d9;font-weight: bold">"OYF18"</span>.
      </span>

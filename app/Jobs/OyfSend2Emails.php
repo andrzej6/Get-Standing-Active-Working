@@ -38,7 +38,7 @@ class OyfSend2Emails extends Job implements ShouldQueue
         Mail::send('emails.oyf.oyf_reg_new', $array,function ($message) use ($tosend) {
             $message->from('registrations@activeworking.com', 'On Your Feet Day');
             $message->to($tosend->email);
-            $message->subject('ON YOUR FEET 2019 | Registration Confirmed | Get ready for #BIGWIGGLE April 26th');
+            $message->subject('ON YOUR FEET 2020 | Registration Confirmed | Get ready for #BIGWIGGLE April 24th');
         });
 
 
@@ -49,7 +49,7 @@ class OyfSend2Emails extends Job implements ShouldQueue
 			/*$message->to('ellie@activeworking.com');*/
             $message->cc('info@activeworking.com');
 			$message->bcc('kuldeep@sit-stand.com');
-            $message->subject('On Your Feet | Registration 2019');
+            $message->subject('On Your Feet | Registration 2020');
         });
 
 
