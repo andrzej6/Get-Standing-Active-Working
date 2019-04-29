@@ -28,7 +28,7 @@
 
     <h1 class="oyf-newpink">The Challenge</h1>
 
-    On 26th April 2019, <strong>Get Britain Standing</strong> in association with <strong>Active Working</strong> are asking the nation to unite
+    On 24th April 2020, <strong>Get Britain Standing</strong> in association with <strong>Active Working</strong> are asking the nation to unite
     against prolonged office sitting by taking on the challenge to get on their feet. <br/><br/>
 
     We want workplaces and individuals across Britain to sit less and move more during their working day.
