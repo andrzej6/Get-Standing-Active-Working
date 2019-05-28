@@ -50,7 +50,7 @@
         <div class="aw-partners-pics-s">
             <a class="fancybox" rel="group1" href="img/getstanding/can/supporters/fancybox/imprint1.jpg"><img src="img/getstanding/can/supporters/fancybox/100x100/imprint1.jpg"/></a>
             <a class="fancybox" rel="group1" href="img/getstanding/can/supporters/fancybox/imprint2.jpg"><img src="img/getstanding/can/supporters/fancybox/100x100/imprint2.jpg"/></a>
-            <a href="http://imprintmats.com/" class="supporters-findout" target="_blank">Find out more</a>
+            <a href="http://standing-desk.uk" class="supporters-findout" target="_blank">Find out more</a>
         </div>
 
         <div class="clear"></div>
