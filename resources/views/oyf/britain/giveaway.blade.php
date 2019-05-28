@@ -116,7 +116,7 @@
     <li>The prize winners may be required to participate in publicity and promotional activities.</li>
 
     <li>Active Working and Get Britain Standing’s decision is final and binding and no
-        correspondence shall be entered into.</li>
+        correspondence shall be entered <a href="http://standing-desk.uk" style="text-decoration:none">into</a>.</li>
 
     </ol>
 
