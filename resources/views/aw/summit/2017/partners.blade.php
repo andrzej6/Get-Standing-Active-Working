@@ -128,7 +128,7 @@
     <div class="aw-partners-row-m">
 
         <div class="aw-partners-logo">
-            <a href="http://yo-yodesk.com/" target="_blank">
+            <a href="https://yo-yodesk.co.uk" target="_blank">
                 <img src="{{ url('/') }}/img/aw/summit/partners/yoyo-long.jpg" width="250px"/>
             </a>
         </div>
@@ -136,16 +136,16 @@
 
 
         <div class="aw-partners-text-m">
-            <strong>Yo-Yo Desk™</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
+            <strong>Yo-Yo DESK®</strong> – the best-selling range of quality sit-stand workstations from £183 (ex VAT).
             Transition simply between sitting / standing at your existing desk with:
             <ul>
                 <li>
-                    <strong>Yo-Yo Desk™</strong> simply smooth height adjustment.
-                    <a href="http://yo-yodesk.com/yoyo-classic" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
+                    <strong>Yo-Yo DESK®</strong> simply smooth height adjustment.
+                    <a href="https://yo-yodesk.co.uk/collections/yoyo-classic" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
                 </li>
 
-                <li><strong>Yo-Yo Desk GO™</strong>  affix a <a href="http://yo-yodesk.com/yoyo-go1" style="text-decoration: underline" target="_blank">Single</a> or
-                    <a href="http://yo-yodesk.com/yoyo-go2" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for unrivalled
+                <li><strong>Yo-Yo DESK®</strong>  affix a <a href="https://yo-yodesk.co.uk/products/yo-yo-desk-go1" style="text-decoration: underline" target="_blank">Single</a> or
+                    <a href="https://yo-yodesk.co.uk/products/yo-yo-desk-go2" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for unrivalled
                     ergonomic positioning and comfort.
 
                 </li>

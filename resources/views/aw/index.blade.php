@@ -465,7 +465,7 @@
 
 
 					<div>
-						<a href="https://sit-stand.com/125-yo-yo-desk-slim" target="_blank">
+						<a href="https://yo-yodesk.co.uk/collections/yoyo-slim" target="_blank">
 							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/homepage-slim-new.png">
 						</a>
 					</div>

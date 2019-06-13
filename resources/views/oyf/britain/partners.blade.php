@@ -179,24 +179,24 @@
 
 
         <div class="aw-partners-text-m">
-            <a href="http://yo-yodesk.com/" target="_blank" style="text-decoration:underline">Yo-Yo DESK</a><sup>®</sup> – 
+            <a href="https://yo-yodesk.co.uk/" target="_blank" style="text-decoration:underline">Yo-Yo DESK</a><sup>®</sup> – 
 			the best-selling range of sit-stand workstations from £199 (inc VAT/Shipping). Transition simply between sitting / standing at your existing desk with:
             <ul>
                 <li>
-                    <strong>Yo-Yo DESK® CLASSIC: </strong><a href="https://sit-stand.com/123-yo-yo-desk-classic" target="_blank" style="text-decoration: underline">Available in 4 sizes</a>
+                    <strong>Yo-Yo DESK® CLASSIC: </strong><a href="https://yo-yodesk.co.uk/collections/yoyo-classic" target="_blank" style="text-decoration: underline">Available in 4 sizes</a>
                 </li>
 
                 <li>
-                    <strong>Yo-Yo DESK® SLIM: </strong><a href="https://sit-stand.com/125-yo-yo-desk-slim" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
+                    <strong>Yo-Yo DESK® SLIM: </strong><a href="https://yo-yodesk.co.uk/collections/yoyo-slim" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
                 </li>
 				
 				<li>
-                    <strong>Yo-Yo DESK® GO: </strong><a href="https://sit-stand.com/freestanding/155-yo-yo-desk-go1.html" target="_blank" style="text-decoration: underline">Single</a> or 
-					<a href="https://sit-stand.com/freestanding/156-yo-yo-desk-go2.html" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for optimal ergonomic positioning
+                    <strong>Yo-Yo DESK® GO: </strong><a href="https://yo-yodesk.co.uk/products/yo-yo-desk-go1" target="_blank" style="text-decoration: underline">Single</a> or 
+					<a href="https://yo-yodesk.co.uk/products/yo-yo-desk-go2" target="_blank" style="text-decoration: underline">Double Monitor Screen</a> for optimal ergonomic positioning
                 </li>
 				
 				<li>
-                    <strong>Yo-Yo DESK® PRO: </strong>Executive Sit-Stand desk. <a href="https://sit-stand.com/119-yo-yo-desk-pro" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
+                    <strong>Yo-Yo DESK® PRO: </strong>Executive Sit-Stand desk. <a href="https://yo-yodesk.co.uk/collections/yoyo-pro" target="_blank" style="text-decoration: underline">Available in 3 sizes</a>
                 </li>
             </ul>
 

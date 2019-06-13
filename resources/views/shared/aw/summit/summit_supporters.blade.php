@@ -20,7 +20,7 @@ Active Working Summit is proud to be associated with the following
 
 <div style="clear:both"></div>
 
-<a href="https://sit-stand.com/23_yo-yo-desk" style="color:#009999;">
+<a href="https://yo-yodesk.co.uk" style="color:#009999;">
     <img src="{{ url('/') }}/img/aw/summit/partners/yo-yo1.jpg" width="150"/></a>&nbsp;&nbsp;&nbsp;
 
 
