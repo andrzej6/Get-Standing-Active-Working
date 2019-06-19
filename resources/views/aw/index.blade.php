@@ -69,13 +69,18 @@
 							<div class="oneByOne_item ls_bg1">
                                 <img src="{{ url('/') }}/img/getstanding/gb/slider/big/summit19.jpg" alt="oyf" class="go-to go-to-book">
                             </div>
+							
+							
+							<div class="oneByOne_item ls_bg1">
+														<img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf19-1.png" alt="oyf" class="go-to go-to-onyourfeet">
+													</div>
 						
 						
 						-->
 						
 						
 						<div class="oneByOne_item ls_bg1">
-                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf19.png" alt="oyf" class="go-to go-to-onyourfeet">
+                                <img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf20.jpg" alt="oyf" class="go-to go-to-onyourfeet">
                             </div>
 						
 
@@ -91,9 +96,7 @@
                             </div>
 
                                   
-                          <div class="oneByOne_item ls_bg1">
-														<img src="{{ url('/') }}/img/getstanding/gb/slider/big/oyf19-1.png" alt="oyf" class="go-to go-to-onyourfeet">
-													</div>
+                          
 								  
 
                             <div class="oneByOne_item ls_bg1">
@@ -328,7 +331,7 @@
 					
 					
 					<a href="http://onyourfeetday.com/signup" target="_blank">
-                        <img src="{{ url('/') }}/img/aw/oyf2019.png">
+                        <img src="{{ url('/') }}/img/aw/aw-oyf20.jpg">
                     </a>
 
                     

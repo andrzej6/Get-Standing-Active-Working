@@ -86,7 +86,7 @@
     -->
 
      <a href="http://onyourfeetday.com/britain" class="darken" target="_blank">
-        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/oyf1.png" alt="oyf"/>
+        <img src="{{ url('/') }}/img/getstanding/gb/ads/oyf/ad-oyf20.png" alt="oyf"/>
     </a>
 
 
