@@ -61,6 +61,7 @@
                     <br/><br/><br/>
 
 
+                  <!--
 
                     <div class="bluetitle redt">International Advisory Panel</div>
 
@@ -72,7 +73,7 @@
                     are not responsible for the messages in this campaign but
                     do lend their general support. The panel consists of:
 
-                    <!-- here was finished div -->
+                    
 
 
                     <br/><br/>
@@ -194,6 +195,9 @@
                         <br/>
 
                     </div>
+					
+					-->
+					
 
                     <div class="clear"></div>
 

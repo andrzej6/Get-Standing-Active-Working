@@ -61,7 +61,7 @@
                     <br/><br/><br/>
 
 
-
+<!--
                     <div class="bluetitle">International Advisory Panel</div>
 
                     Get Australia Standing is proudly connected to Active Working CIC’s International Scientific
@@ -72,7 +72,7 @@
                     are not responsible for the messages in this campaign but
                     do lend their general support. The panel consists of:
 
-                    <!-- here was finished div -->
+                    
 
 
                     <br/><br/>
@@ -194,6 +194,8 @@
                         <br/>
 
                     </div>
+					
+					-->
 
                     <div class="clear"></div>
 
