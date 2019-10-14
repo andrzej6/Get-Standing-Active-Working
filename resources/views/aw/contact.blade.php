@@ -17,7 +17,7 @@
 @endsection
 
 @section('title')
-    Enquiry form.
+    Enquiry form
 @endsection
 
 
