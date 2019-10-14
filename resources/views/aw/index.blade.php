@@ -252,7 +252,7 @@
                         <div class="home-list">
 
                             <div class="left-list">
-                                1. Heart disease<br/>
+                                1. Heart disease.<br/>
                                 2. Diabetes(T2)<br/>
                                 3. Mental Health<br/>
                                 4. Cancers
