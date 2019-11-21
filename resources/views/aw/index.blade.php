@@ -346,6 +346,13 @@
 
 
             <div id="gbs-slideshow">
+			
+			<div>
+				<a href="https://sit-stand.com/black-friday-offers" target="_blank">
+					<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/black-friday.png">
+				</a>
+			</div>
+			
 
                 <!--
                 <div>
@@ -449,11 +456,7 @@
 				
 				
 				
-				   <div>
-						<a href="https://sit-stand.com/black-friday-offers" target="_blank">
-							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/black-friday.png">
-						</a>
-					</div>
+				   
 									
 					
 					<div>
