@@ -347,14 +347,19 @@
 
             <div id="gbs-slideshow">
 			
-			<div>
+			
+			
+
+                <!--
+				<div>
 				<a href="https://sit-stand.com/black-friday-offers" target="_blank">
 					<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/black-friday.png">
 				</a>
 			</div>
-			
-
-                <!--
+				
+				
+				
+				
                 <div>
                     <a href="https://www.gymflex.co.uk/" target="_blank">
                         <img src="{{ url('/') }}/img/aw/slider/thin/slider1.jpg">
