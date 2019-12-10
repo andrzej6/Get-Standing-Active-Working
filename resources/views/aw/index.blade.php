@@ -469,7 +469,11 @@
                 -->
 				
 				
-				
+				  <div>
+				 <a href="https://sit-stand.com/january-sale-offers" target="_blank">
+							<img src="{{ url('/') }}/img/getstanding/gb/slider/thin/jan-sale-index.png">
+						</a>
+					</div>
 				   
 									
 					
