@@ -4,7 +4,7 @@
 
         <div class="signature"><a href="introduction">#SitLess &nbsp;&nbsp;&nbsp; #MoveMore</a></div>
 
-        <div class="copyright">&copy; Active Working C.I.C. 2019. All rights reserved. </div>
+        <div class="copyright">&copy; Active Working C.I.C. 2020. All rights reserved. </div>
 
         <nav>
             <ul class="menu">

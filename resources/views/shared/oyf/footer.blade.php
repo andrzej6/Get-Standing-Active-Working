@@ -1,7 +1,7 @@
 <footer>
     <div class="footer_wrapper container">
         <div class="signature"><a href="http://activeworking.com/">#Sit less &nbsp;&nbsp; #Move more</a></div>
-        <div class="copyright">&copy; Active Working™ Group. 2019. All rights reserved. </div>
+        <div class="copyright">&copy; Active Working™ Group. 2020. All rights reserved. </div>
         <nav>
             <ul class="menu">
                 <li><a href="http://activeworking.com/careers.php" target="_top">Careers</a></li>
