@@ -116,10 +116,11 @@
     </a>
 	-->
 
+	<!--
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
         <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
-
+-->
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20America%20Standing"
        class="darken">

@@ -773,10 +773,12 @@
         <img src="img/getstanding/aus/ads/supporters/working_commercials.jpg" alt="advert" /> <br/>
     </a>
 
+	<!--
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
-
+-->
+	
     <img src="img/getstanding/aus/ads/message/effects.png" class="restofsmall-pic" alt="advert"/>
 
     <a href="crowd_funding" class="darken">

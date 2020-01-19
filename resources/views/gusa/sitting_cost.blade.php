@@ -147,11 +147,11 @@
 
 @section('content-restofsmall')
 
-
+<!--
     <a href="http://onyourfeetday.com/america" class="darken" target="_blank">
         <img src="img/getstanding/usa/ads/oyf/oyf19-us.png" alt="oyf"/>
     </a>
-
+-->
 	
 	<a href="https://yo-yodesk.com" target="_blank">
                 <img src="img/getstanding/usa/ads/supporters/yyd.png" alt="advert" /> <br/>

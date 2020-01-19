@@ -46,11 +46,11 @@
 
 
     
-	
+	<!--
 	<a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
-
+-->
 	
 	<a href="crowd_funding" class="darken">
         <img src="img/getstanding/aus/ads/crowd-fund.png" alt="summit 2016"/>

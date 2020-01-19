@@ -94,10 +94,11 @@
 @section('content-restofsmall')
     <img src="img/aw/ads/message/productivity.png" class="restofsmall-pic" alt="feel after"/>
 
+	<!--
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
-
+-->
 
 
     <img src="img/aw/ads/message/calorie_burn.png" class="restofsmall-pic" alt="who"/>

@@ -814,9 +814,11 @@
 
     <img src="img/getstanding/can/ads/message/standing.png" class="restofsmall-pic" alt="standing at work"/>
 
+	<!--
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
         <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
+	-->
 
     <a href="https://yo-yodesk.com" target="_blank">
 		<img src="img/getstanding/can/ads/supporters/yyd.png" alt="advert" /> <br/>

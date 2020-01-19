@@ -70,14 +70,15 @@
 
 @section('content-restofsmall')
 
-    <!--
+    
     <img src="img/aw/ads/message/who.png" alt="who" class="restofsmall-pic"/>
-    -->
+    
 	
-	
+	<!--
 	<a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
+	-->
 	
     <img src="img/aw/ads/message/productivity.png" alt="productivity" class="restofsmall-pic"/>
 

@@ -102,9 +102,11 @@
         <img src="img/getstanding/aus/ads/crowd-fund.png" alt="summit 2016"/>
     </a>
 
+	<!--
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf18.jpg" alt="oyf"/>
     </a>
+	-->
 
 
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing"

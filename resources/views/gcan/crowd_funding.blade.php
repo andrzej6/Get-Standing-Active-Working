@@ -115,9 +115,11 @@
         <img src="img/getstanding/aus/ads/supporters/join-us.png" />
     </a>
 
+	<!--
     <a href="aw_summit" class="darken">
         <img src="img/getstanding/aus/ads/summit2016-aw.jpg" alt="summit 2016"/>
     </a>
+	-->
 
 @endsection
 

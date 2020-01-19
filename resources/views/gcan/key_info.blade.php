@@ -97,10 +97,11 @@
 
 @section('content-restofsmall')
 
-
+<!--
     <a href="http://onyourfeetday.com/canada" class="darken" target="_blank">
         <img src="img/getstanding/can/ads/oyf/oyf19-can.png" alt="oyf"/>
     </a>
+	-->
 
     <!--
     <a href="aw_summit" class="darken">

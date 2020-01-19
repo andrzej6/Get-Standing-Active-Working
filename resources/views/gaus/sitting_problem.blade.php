@@ -144,11 +144,12 @@
         <img src="img/getstanding/aus/ads/supporters/working_commercials.jpg" alt="advert" /> <br/>
     </a>
 
-
+<!--
     <a href="http://onyourfeetday.com/australia" class="darken" target="_blank">
         <img src="img/getstanding/aus/ads/oyf/oyf19-aus.png" alt="oyf"/>
     </a>
-
+-->
+	
     <a href="mailto:partnerships@activeworking.com?Subject=Official%20Supporters%20%2D%20Get%20Australia%20Standing"
        class="darken">
         <img src="img/getstanding/aus/ads/supporters/join-us.png" />
