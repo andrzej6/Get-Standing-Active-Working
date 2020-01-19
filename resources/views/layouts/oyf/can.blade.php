@@ -30,13 +30,14 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
 
 
 @section('oyf-slider')
+<!--
     <div class="span12 module_cont module_layer_slider">
         <div class="module_content slider_type1">
             <div id="banner1" class="OneByOne_container">
 			
 			     
 				
-				<!--
+				
 				
 				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/thankyou-can.jpg" alt="" class="go-to-onyourfeet-r go-to">
@@ -59,7 +60,7 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
 				<div class="oneByOne_item ls_bg1">
                     <img src="{{ url('/') }}/img/oyf/can/slider/oyf18-amy.jpg" alt="" class="go-to-onyourfeet-r">
                 </div>
-				-->
+				
 				
 
 
@@ -67,6 +68,7 @@ $sidemenu=array('index'=>'Event','partners'=>'Partners','downloads'=>'Downloads'
         </div>
 
     </div>
+	-->
 @endsection
 
 
