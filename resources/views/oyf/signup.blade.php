@@ -4,6 +4,30 @@
 @section('header-styles')
     @parent
     <link rel="stylesheet" type="text/css" href="{{ url('/') }}/css/oyf/contact.css">
+	<script type="text/javascript">
+			var allowSubmit = false;
+			function capcha_filled () {
+				allowSubmit = true;
+			}
+			function capcha_expired () {
+				allowSubmit = false;
+			}
+			var onloadCallback = function() {
+				grecaptcha.render('html_element', {
+					'sitekey':'6LenhkcUAAAAAPJPkm-N_Z2e7Jh_R0RayRjHPtDX',
+					'callback': capcha_filled,
+					'expired-callback': capcha_expired
+				});
+			};
+			function check_if_capcha_is_filled () {
+				if(allowSubmit) return true;
+				alert('Please check the capcha!');
+				return false;
+			}
+			</script>
+	 <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+	
+	
 @endsection
 
 @section('description')
@@ -46,7 +70,7 @@
             @endif
 
 
-            {!!  Form::open(array('url' => 'oyf_reg','class' => 'register_form')) !!}
+            {!!  Form::open(array('url' => 'oyf_reg','class' => 'register_form','onsubmit' => 'return check_if_capcha_is_filled();')) !!}
 
             {!!  Form::token() !!}
 
@@ -515,6 +539,14 @@
                 --}}
                 </li>
                 -->
+				
+				<li style="margin-top: 10px;">
+                <label for="fquest"></label>
+                <div id="html_element" style="display:inline-block"></div>			
+                <div style="clear: both;"></div>
+            </li>
+				
+				
 
                 <li>
                     <label></label>
