@@ -26,6 +26,11 @@
         @include('shared.trail')
         <br/>
 
+        @if(Route::current()->getName() == 'contact')
+			Hello This is contact page
+		@endif
+
+
         <h1>Please fill in our enquiry form</h1>
         <br/>
 
