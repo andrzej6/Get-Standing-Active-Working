@@ -26,7 +26,7 @@
         @include('shared.trail')
         <br/>
 
-        {{ page }}
+        {{ $page }}
 
 
         <h1>Please fill in our enquiry form</h1>
