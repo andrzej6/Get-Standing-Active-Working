@@ -46,7 +46,7 @@ class AuSend2Emails extends Job implements ShouldQueue
         Mail::send('emails.gaus.gaus_reg_notify', $array, function ($message) use ($tosend){
             $message->from('registrations@activeworking.com', 'Active Working');
             $message->to('web@activeworking.com');
-            $message->cc('info@activeworking.com');
+            //$message->cc('info@activeworking.com');
             $message->subject('GetAustraliaStanding.Com | General Enquiry');
         });
     }
