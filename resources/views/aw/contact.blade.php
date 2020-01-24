@@ -76,7 +76,7 @@
         @endif
 
 
-        {!!  Form::open(array('url' => 'aw_reg','class' => 'register_form')) !!}
+        {!!  Form::open(array('url' => 'aw_reg','class' => 'register_form','onsubmit' => 'return check_if_capcha_is_filled();')) !!}
 
         {!!  Form::token() !!}
 
